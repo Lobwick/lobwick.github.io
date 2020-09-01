@@ -5,14 +5,16 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
   label: title
 - type: text
   name: author
   label: author
-- type: list
-  name: categories
+- name: categories
+  type: tag_list
+  default: []
   label: categories
 - type: file
   name: image
