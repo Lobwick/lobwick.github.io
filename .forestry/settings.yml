@@ -15,7 +15,6 @@ sections:
 - type: document
   path: _config.yml
   label: Configuration
-  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
@@ -30,4 +29,4 @@ build:
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
-    -d _site
+    --port 8080 --host 0.0.0.0 -d _site
