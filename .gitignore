@@ -1,5 +1,11 @@
+# Jekyll
 _site
 .sass-cache
 .jekyll-metadata
-node_modules
-Gemfile.lock
+.jekyll-cache
+
+# Bundler
+vendor/bundle
+
+# macOS
+.DS_Store
