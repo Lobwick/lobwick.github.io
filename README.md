@@ -32,6 +32,10 @@ bundle exec jekyll serve --livereload --drafts
 
 ## Deployment and hosting
 
+### GitHub Pages
+
+Go to your repository settings and activate GitHub Pages in the root folder.
+
 ### Vercel
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/git)
