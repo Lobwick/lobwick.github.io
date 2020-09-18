@@ -8,7 +8,7 @@ Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mund
 
 ## Requirements
 
-- GitHub account
+- Ruby > 2.5
 - Jekyll ~> 3.8
 
 ## Content Management
@@ -19,13 +19,15 @@ Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mund
 
 This project is pre-configured for [Forestry](https://forestry.io) a Git-based CMS, [import it](https://app.forestry.io/quick-start?repo=forestryio/jekyll-mundana-forestry&engine=jekyll) to edit and preview your site ✨.
 
-Any changes you make in Forestry is commited back to the repository and automatically deployed, either with [Vercel](#vercel) or [Netlify](#netlify).
+Any changes you make in Forestry is commited back to the repository and automatically deployed.
 
 ## Local development
 
 ```bash
 # clone your imported repository
 # cd in the project directory
+# install dependencies
+bundle
 # Start local dev server
 bundle exec jekyll serve --livereload --drafts
 ```
