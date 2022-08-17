@@ -5,7 +5,7 @@ author: Philippe
 categories:
 - Jekyll
 - tutorial
-image: assets/images/assets/images/nwc_2020/nwc_2020_nwc_2020_12918.jpg
+image: assets/images/nwc_2020/nwc_2020_nwc_2020_12918.jpg
 
 ---
 À défaut de participer au tour de France cette année, les Two Moulins participeront au [Nicolas Werner Challenge](https://www.thenwc.org) qui est un évènement européen pour lutter contre le cancer et favoriser sa recherche !
