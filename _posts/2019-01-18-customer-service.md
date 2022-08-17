@@ -16,9 +16,19 @@ Cet évènement étant gratuit, les organisateurs poussent l'ensemble des partic
 
 > Notre cagnotte ci-dessous sera entièrement reversée à la lutte contre le cancer !
 
-\[gallery type="rectangular" link="file" size="large" ids="12833,12917,12898,12801,12914,12918,12907,12802,12899,12916,12803,12915,12900"\]
-
-[nwc_12801-1](/assets/images/nwc_12801-1 "nwc_12801-1")
+![nwc](/assets/images/nwc_12802 "Pour Raymonde")
+![nwc](/assets/images/nwc_12803)
+![nwc](/assets/images/nwc_12833)
+![nwc](/assets/images/nwc_12898 "KMo")
+![nwc](/assets/images/nwc_12899)
+![nwc](/assets/images/nwc_12900 "C'est parti !")
+![nwc](/assets/images/nwc_12907)
+![nwc](/assets/images/nwc_12914)
+![nwc](/assets/images/nwc_12915)
+![nwc](/assets/images/nwc_12916)
+![nwc](/assets/images/nwc_12917 "Champs-Elysées et Arc-de-Triomphe")
+![nwc](/assets/images/nwc_12918)
+![nwc](/assets/images/nwc_12918)
 
 Le samedi 12 septembre, tous les participants ont rendez-vous devant le magasin de cycles le KM0, à proximité de l’Arc de Triomphe.
 
