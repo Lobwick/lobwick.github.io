@@ -33,7 +33,7 @@ Le début de l’itinéraire est assez monotone car dépourvu de pavés, jusqu�
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_4090.jpg" title="" alt="IMG_0247" >
+<img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14090.jpg" title="" alt="IMG_0247" >
 <img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14074.jpg" title="" alt="6EB34AFC-8B61-4750-B337-F7DB8DE1B8E4" >
 <img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14075.jpg" title="" alt="8E995410-ECAC-4C1B-8D98-028FF7DB1D7F" >
 <img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14078.jpg" title="" alt="41C93AC6-48E9-4319-802F-4D72CC5E7FDA" >
@@ -89,7 +89,7 @@ Le vent de sud permet d’accélérer encore et d’enfin retrouver Roubaix.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_4077.jpg" title="" alt="IMG_0179" >
+<img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14077.jpg" title="" alt="IMG_0179" >
 <img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14071.jpg" title="Sur le vélodrome " alt="3A2887D4-04C0-4452-B09C-16B77EC4E7C9" >
 <img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14073.jpg" title="Vive …" alt="4F38DDC6-716B-4A97-A0AA-165265F4911F" >
 <img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14084.jpg" title="Lille on Wheels" alt="6114F3EF-D7AA-44FE-9965-30BE5DB6ED84" >
