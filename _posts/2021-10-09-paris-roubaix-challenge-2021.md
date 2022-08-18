@@ -42,7 +42,7 @@ Le début de l’itinéraire est assez monotone car dépourvu de pavés, jusqu�
 
 Le vent est plutôt défavorable mais un premier ravitaillement nous motive en ce début de matinée.
 
->         Enfin, le grand jeu commence et les pulsations cardiaques augmentent !
+> Enfin, le grand jeu commence et les pulsations cardiaques augmentent !
 
 Juste le temps d’éterniser le moment avec la classique photo de groupe.
 Heureusement, elle est plus praticable par rapport aux précédentes éditions.
