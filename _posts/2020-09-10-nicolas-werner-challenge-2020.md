@@ -6,7 +6,7 @@ categories:
 - NWC
 - Gravel
 - Events
-image: assets/images/nwc_2020/nwc_2020_nwc_2020_12918.jpg
+image: /assets/images/nwc_2020/nwc_2020_nwc_2020_12918
 
 ---
 À défaut de participer au tour de France cette année, les Two Moulins participeront au [Nicolas Werner Challenge](https://www.thenwc.org) qui est un évènement européen pour lutter contre le cancer et favoriser sa recherche !
@@ -16,6 +16,25 @@ Challenge que nous avions manqué l'an dernier, mais que nous ferons cette anné
 Cet évènement étant gratuit, les organisateurs poussent l'ensemble des participants à récolter de l'argent pour lutter au mieux et faire avancer la recherche contre le cancer.
 
 > Notre cagnotte ci-dessous sera entièrement reversée à la lutte contre le cancer !
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/assets/images/nwc_2020/nwc_2020_12802" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12803" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12833" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12898" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12899" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12900" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12907" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12914" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12915" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12916" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12917" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12918" title="test" alt="alt" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12918" title="test" alt="alt" >
+  </div>
+  <!--<em>My best moments / <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>-->
+</div>
 
 ![nwc](/assets/images/nwc_2020/nwc_2020_12802 "Pour Raymonde")
 ![nwc](/assets/images/nwc_2020/nwc_2020_12803)
