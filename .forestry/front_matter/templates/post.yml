@@ -20,5 +20,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- _posts/2019-01-18-customer-service.md
