@@ -3,30 +3,30 @@ layout: post
 title:  "Direction La Tranche / Mer"
 date:   2015-08-23 16:27:44 +0100
 ---
-<p style="text-align: justify;">Pour rejoindre la famille installée en camping.</p>
+Pour rejoindre la famille installée en camping.
 > Quatre jours sont prévus avec des étapes de plus ou moins 200 km.
 
 <h2 style="text-align: justify;">Jour 1
-<p style="text-align: justify;">Le beau temps est au rendez-vous.
-Nous prenons la route le samedi1° août.</p>
+Le beau temps est au rendez-vous.
+Nous prenons la route le samedi1° août.
 [gallery type="rectangular" link="file" ids="541,542,543,544,545"]
-<p style="text-align: justify;">Les premiers kilomètres sont plutôt monotones, car nous connaissons le paysage.
-La température se réchauffe vite et c’est loin d’être fini...</p>
+Les premiers kilomètres sont plutôt monotones, car nous connaissons le paysage.
+La température se réchauffe vite et c’est loin d’être fini...
 [gallery type="rectangular" link="file" ids="503,504,520,505"]
-<p style="text-align: justify;">Nous traversons la Picardie au plus direct.
-Un MacDo se présente sur notre route à l’heure du déjeuner.</p>
+Nous traversons la Picardie au plus direct.
+Un MacDo se présente sur notre route à l’heure du déjeuner.
 [gallery type="rectangular" link="file" ids="546,531" orderby="rand"]
-<p style="text-align: justify;">Fin de première journée éprouvante pour les organismes et premier campement.</p>
+Fin de première journée éprouvante pour les organismes et premier campement.
 [gallery type="rectangular" link="file" ids="547,550,548,552,528,551"]
 <h2 style="text-align: justify;">Jour 2
-<p style="text-align: justify;">Nous passons par Évreux le deuxième jour.</p>
+Nous passons par Évreux le deuxième jour.
 [gallery type="rectangular" link="file" ids="553,554,557,564,559,558,563,508,509,524,523"]
-<p style="text-align: justify;">La traversée de la Beauce s’effectue sous une chaleur accablante proche des 40°C.</p>
+La traversée de la Beauce s’effectue sous une chaleur accablante proche des 40°C.
 [gallery type="rectangular" link="file" ids="506,521,525" orderby="rand"]
 <h2 style="text-align: justify;">Jour 3
-<p style="text-align: justify;">Heureusement, les collines du Perche vont nous apporter un peu de fraîcheur relative.</p>
+Heureusement, les collines du Perche vont nous apporter un peu de fraîcheur relative.
 > Mais avec plus de dénivelés forcément.
-<p style="text-align: justify;">Nous croisons d’ailleurs l’itinéraire du Paris-Brest.</p>
+Nous croisons d’ailleurs l’itinéraire du Paris-Brest.
 [gallery type="rectangular" link="file" ids="526,529" orderby="rand"]
 <h2 style="text-align: justify;">
 527

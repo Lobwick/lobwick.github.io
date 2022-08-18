@@ -4,9 +4,9 @@ title:  "Powerscourt Waterfall"
 date:   2016-10-08 22:22:36 +0100
 ---
 <h3 style="text-align: justify;">Kite Surf à Dublin</h3>
-<p style="text-align: justify;">Arrivé depuis environ un mois maintenant à Dublin et toujours pas de vélo !
-Pas de vélo si on oublie une sortie rapide un matin qui fut écourtée par deux crevaisons. Pas de temps à cause de quelques sessions de kite surf sur la plage de Dollymount.</p>
-<p style="text-align: justify;"></p>
+Arrivé depuis environ un mois maintenant à Dublin et toujours pas de vélo !
+Pas de vélo si on oublie une sortie rapide un matin qui fut écourtée par deux crevaisons. Pas de temps à cause de quelques sessions de kite surf sur la plage de Dollymount.
+
 2910
 
 
@@ -34,17 +34,17 @@ Après le contrôle du ticket acheté la veille sur le site web de Powerscourt W
 
 2882
 <h3 style="text-align: justify;">Kite Surf à Dublin</h3>
-<p style="text-align: justify;">Arrivé depuis environ un mois maintenant à Dublin et toujours pas de vélo !
-Pas de vélo si on oublie une sortie rapide un matin qui fut écourtée par deux crevaisons. Pas de temps à cause de quelques sessions de kite surf sur la plage de Dollymount.</p>
-<p style="text-align: justify;">L'arrivée devant la cascade est tout autant bluffante ! Une petite pause permet de faire quelques photos malgré le monde présent, dimanche oblige. Il me faudra donc y retourner en semaine !</p>
+Arrivé depuis environ un mois maintenant à Dublin et toujours pas de vélo !
+Pas de vélo si on oublie une sortie rapide un matin qui fut écourtée par deux crevaisons. Pas de temps à cause de quelques sessions de kite surf sur la plage de Dollymount.
+L'arrivée devant la cascade est tout autant bluffante ! Une petite pause permet de faire quelques photos malgré le monde présent, dimanche oblige. Il me faudra donc y retourner en semaine !
 [gallery link="none" columns="2" size="l" type="rectangular" ids="2901,2903,2899,2888,2893" orderby="rand"]
-<p style="text-align: justify;">Je décide de prendre de la hauteur et de tester les nouveaux pneus en longeant le cours d'eau. J'annule l'idée de suivre l'itinéraire, trop long, et des crampes de ma sortie running matinale sont toujours présentes.
-En créant l'itinéraire, j'ai oublié qu'on n'est pas à Lille car le dénivelé est bien présent.</p>
+Je décide de prendre de la hauteur et de tester les nouveaux pneus en longeant le cours d'eau. J'annule l'idée de suivre l'itinéraire, trop long, et des crampes de ma sortie running matinale sont toujours présentes.
+En créant l'itinéraire, j'ai oublié qu'on n'est pas à Lille car le dénivelé est bien présent.
 
 <h3 style="text-align: justify;">Un retour difficile</h3>
-<p style="text-align: justify;">Après avoir traversé la forêt, je rejoins la nationale pour un retour au plus court vers Dublin. Itinéraire calculé à l'aide de Garmin ... Au plus court, mais pas avec le moins de dénivelé. Le retour aura raison de moi. J'aurais dû suivre l'itinéraire plus long longeant la côte, il y aurait eu moins de dénivelé !</p>
+Après avoir traversé la forêt, je rejoins la nationale pour un retour au plus court vers Dublin. Itinéraire calculé à l'aide de Garmin ... Au plus court, mais pas avec le moins de dénivelé. Le retour aura raison de moi. J'aurais dû suivre l'itinéraire plus long longeant la côte, il y aurait eu moins de dénivelé !
 [gallery link="none" columns="1" size="l" type="rectangular" ids="2876,2887"]
-<p style="text-align: justify;"></p>
+
 3540
 A refaire à la Toussaint en compagnie de Philippe. La réputation de la cascade "Powerscourt Waterfall" est bien méritée !
 

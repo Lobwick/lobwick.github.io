@@ -42,7 +42,7 @@ Le départ étant prévu vers 8h, nous partons de Lille de bonne heure avec nos 
 
 Félix a son gravel et moi je suis en vtt, car on a privilégié l’option chemins.
 
-Nous sommes accueillis chaleureusement par Moritz et des bénévoles, afin de récupérer le tracé de l’itinéraire et notre plaque de cadre.</p>
+Nous sommes accueillis chaleureusement par Moritz et des bénévoles, afin de récupérer le tracé de l’itinéraire et notre plaque de cadre.
 
 > Celle-ci est personnalisée puisqu’elle indique le prénom d’un proche qui lutte contre un cancer.
 
@@ -83,7 +83,7 @@ S’extirper à vélo d’une mégapole comme Paris relève du parcours du comba
 
 Il ne faut pas non plus négliger le relief autour de la capitale qui est dans une cuvette.
 
-La forêt suivante en direction du sud-est est celle de Versailles.</p>
+La forêt suivante en direction du sud-est est celle de Versailles.
 
 ![nwc_2020_12817](/assets/images/nwc_2020/nwc_2020_12817 """")
 ![nwc_2020_12818](/assets/images/nwc_2020/nwc_2020_12818 ""Ancienne voie ferrée"")

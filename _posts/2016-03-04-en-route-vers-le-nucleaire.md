@@ -3,28 +3,28 @@ layout: post
 title:  "En route vers le nucléaire !"
 date:   2016-03-04 20:16:54 +0100
 ---
-<p style="text-align: justify;">Quelle direction prendre avec un important vent de Nord-Est ?</p>
+Quelle direction prendre avec un important vent de Nord-Est ?
 > Mieux vaut l’avoir de travers à l’aller comme au retour.
-<p style="text-align: justify;">Je privilégie donc la direction de la Manche.</p>
+Je privilégie donc la direction de la Manche.
 
 <center><iframe src="https://www.strava.com/activities/504877775/embed/734ae923519f19fe71ec6aa9fc975fabe6382e4b" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 <h2 style="text-align: justify;">En route vers le nucléaire
-<p style="text-align: justify;">Ce sera une bonne préparation pour le<a href="http://twomoulins.fr/semi-marathon-de-paris-2016/"> semi-marathon de Paris</a> du week-end suivant.
+Ce sera une bonne préparation pour le<a href="http://twomoulins.fr/semi-marathon-de-paris-2016/"> semi-marathon de Paris</a> du week-end suivant.
 Occasion également pour moi de rendre hommage à mon dernier oncle, Josué de Nantes, décédé fin février.
 Ce dernier roulait encore quelques semaines auparavant sur son bon vieux vélo à l’âge de 93 ans.
-Tenue d’hiver adéquate pour affronter ce vent glacial, j’enfourche le Fixie auquel je prends goût.</p>
+Tenue d’hiver adéquate pour affronter ce vent glacial, j’enfourche le Fixie auquel je prends goût.
 > Surtout que le parcours est relativement plat dans la plaine du Nord, à condition d’éviter les Monts.
-<p style="text-align: justify;">Je vais quand même frôler le Mont Cassel et sa terrible montée en pavés.
-Après ce léger vallonnement à peine perceptible avec le monovitesse, je me laisse descendre vers la côte.</p>
+Je vais quand même frôler le Mont Cassel et sa terrible montée en pavés.
+Après ce léger vallonnement à peine perceptible avec le monovitesse, je me laisse descendre vers la côte.
 [gallery type="rectangular" size="medium" link="file" ids="1627"]
-<p style="text-align: justify;">La célèbre ville de Bergues est indiquée sur ma droite, mais il faudrait affronter le vent.
-Dunkerque approche rapidement avec les fumées de ses aciéries.</p>
+La célèbre ville de Bergues est indiquée sur ma droite, mais il faudrait affronter le vent.
+Dunkerque approche rapidement avec les fumées de ses aciéries.
 
 <h2 style="text-align: justify;">Gravelines
-<p style="text-align: justify;">Me voilà déjà à Gravelines dont la centrale nucléaire est bien indiquée.
-Je file d’abord jusqu’à l’extrémité de l’imposante digue qui protège le terminal pétrolier et méthanier.</p>
+Me voilà déjà à Gravelines dont la centrale nucléaire est bien indiquée.
+Je file d’abord jusqu’à l’extrémité de l’imposante digue qui protège le terminal pétrolier et méthanier.
 [gallery type="rectangular" size="large" link="file" ids="1628,1629,1631,1632" orderby="rand"]
-<p style="text-align: justify;"></p>
+
 3574
 En raison du vent, il n’y a même pas un pêcheur.
 Par contre, le trafic des navires est important.

@@ -6,10 +6,10 @@ date:   2017-03-21 15:22:54 +0100
 L’Irlande et le beau temps ne font pas bon ménage, même si ces derniers jours le temps semblait s’améliorer.
 Je vais m’apercevoir lors de la Saint Patrick que cela peut changer à tout moment.
 <h2 style="text-align: justify;">Le retour du running
-<p style="text-align: justify;">Le beau temps de début Mars donna envie à mon colocataire, Adrien, et à nos amies étudiant également à Griffith de reprendre ou persévérer dans la course à pied.</p>
-<p style="text-align: justify;">Depuis mon <a href="http://twomoulins.fr/voyages/marathon-de-dublin-2016">Marathon de Dublin</a> l’année passée, je n’avais que peu couru. Certes, j’avais quand même fait des sorties à vélo, mais la motivation n’était pas au rendez-vous.</p>
-<p style="text-align: justify;">Quelques sorties en semaine, et une sympathique un dimanche en début du mois, sur mon parcours long que je n’avais pas encore essayé.</p>
-<p style="text-align: justify;">Ce dernier me permet de varier les plaisirs en attendant mes camarades de course. Je patiente en faisant des photos et en profitant du paysage.</p>
+Le beau temps de début Mars donna envie à mon colocataire, Adrien, et à nos amies étudiant également à Griffith de reprendre ou persévérer dans la course à pied.
+Depuis mon <a href="http://twomoulins.fr/voyages/marathon-de-dublin-2016">Marathon de Dublin</a> l’année passée, je n’avais que peu couru. Certes, j’avais quand même fait des sorties à vélo, mais la motivation n’était pas au rendez-vous.
+Quelques sorties en semaine, et une sympathique un dimanche en début du mois, sur mon parcours long que je n’avais pas encore essayé.
+Ce dernier me permet de varier les plaisirs en attendant mes camarades de course. Je patiente en faisant des photos et en profitant du paysage.
 [gallery type="rectangular" link="file" ids="4360,4361,4362,4374,4363,4364,4365,4367,4369,4368,4370,4373,4371,4372"]
 
 <center><iframe src="https://www.strava.com/activities/888650565/embed/9bdf16e21dbd17eedc1e8148ecc9894ec73a0feb" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
@@ -67,13 +67,13 @@ Je ne souhaitais pas me blesser davantage pour les courses à venir, car la frac
 Malgré cela, cette course marque pour moi un nouveau PR sur le 5 K, discipline assez brutale à laquelle je ne m’étais jamais essayé en course.
 4375
 <h2 style="text-align: justify;">10K d’Arklow Bay
-<p style="text-align: justify;">Nous nous rendons donc tous ensemble le 11 mars à Arklow Bay pour son 10K qui devait permettre à tout le monde de faire le point sur son temps pour un dix kilomètres.</p>
-<p style="text-align: justify;">Après un trajet effectué en bus, nous récupérons nos dossards dans un centre sportif. Après un rapide ravitaillement au Starbuck, nous prenons le départ de cette course sous la pluie.</p>
-<p style="text-align: justify;">Je pars assez rapidement avec Nolwenn, mais le souffle n’est pas au rendez-vous à cause des 98% d’humidité. Ma périostite tibiale, que je croyais passée, vient de nouveau titiller mes jambes.</p>
+Nous nous rendons donc tous ensemble le 11 mars à Arklow Bay pour son 10K qui devait permettre à tout le monde de faire le point sur son temps pour un dix kilomètres.
+Après un trajet effectué en bus, nous récupérons nos dossards dans un centre sportif. Après un rapide ravitaillement au Starbuck, nous prenons le départ de cette course sous la pluie.
+Je pars assez rapidement avec Nolwenn, mais le souffle n’est pas au rendez-vous à cause des 98% d’humidité. Ma périostite tibiale, que je croyais passée, vient de nouveau titiller mes jambes.
 [gallery type="rectangular" link="file" ids="4378,4379,4380" orderby="rand"]
-<p style="text-align: justify;">Nous attendons donc Lucie et Adrien afin d’effectuer ensemble la fin de cette course. Cela me permet de prendre quelques photos en les attendant.</p>
+Nous attendons donc Lucie et Adrien afin d’effectuer ensemble la fin de cette course. Cela me permet de prendre quelques photos en les attendant.
 [gallery type="rectangular" link="file" ids="4381,4382,4383,4384" orderby="rand"]
-<p style="text-align: justify;">Le début de cette course me permit d’envisager un bon temps lors du 5K organisé pour la Saint Patrick, malgré un temps de 1h20 sur ce 10K.</p>
+Le début de cette course me permit d’envisager un bon temps lors du 5K organisé pour la Saint Patrick, malgré un temps de 1h20 sur ce 10K.
 [gallery type="rectangular" link="file" ids="4385,4386,4387,4388"]
 
 <center><iframe src="https://www.strava.com/activities/895874768/embed/8d223387ce529fcd18704bb3643af73e3485aefb" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>

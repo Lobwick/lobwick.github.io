@@ -7,7 +7,7 @@ Nous nous retrouvons début juin à Lille, en raison des élections européennes
 Cela tombe bien car le week-end est estival.
 Je m'en suis rendu compte la veille en revenant à vélo d'Hardelot, après y avoir laissé la voiture pour le retour du lendemain.
 Rendez-vous au Grand Palais en ce dimanche 2 juin de très bonne heure.
-<p style="padding-left: 30px;"><strong><i>D'ailleurs nous ne sommes pas les seuls à vouloir éviter la grosse chaleur annoncée !</i></strong></p>
+> <i>D'ailleurs nous ne sommes pas les seuls à vouloir éviter la grosse chaleur annoncée !</i></strong>
 Xavier, du club Rapha parisien, va rouler avec nous.
 
 [gallery type="rectangular" link="file" size="large" ids="10355,10352,10354"]
@@ -15,7 +15,7 @@ Xavier, du club Rapha parisien, va rouler avec nous.
 En raison de nombreuses brocantes, le parcours a été modifié.
 Mais ses grandes lignes sont inchangées, avec une première moitié plutôt rectiligne et plate, suivie des collines de l'Artois pour finir en beauté.
 Comme d'habitude, la sortie de Lille jusqu'à Aire-sur-la-Lys est très roulante, surtout avec un vent favorable.
-<p style="padding-left: 30px;"><strong><i>Par conséquent, notre peloton à trois décide de se passer du premier ravitaillement, justement organisé dans cette commune du Pas-de-Calais.</i></strong></p>
+> <i>Par conséquent, notre peloton à trois décide de se passer du premier ravitaillement, justement organisé dans cette commune du Pas-de-Calais.</i></strong>
 Hélas, avant d'aborder les collines, on constate que la roue arrière du vélo de Xavier est étrangement voilée !
 Mieux vaut s'arrêter et constater qu'un de ses rayons est cassé et qu'il va falloir le retirer complètement.
 
@@ -24,7 +24,7 @@ Mieux vaut s'arrêter et constater qu'un de ses rayons est cassé et qu'il va fa
 Le relief ne va pas tarder à se faire sentir, ainsi que la chaleur, même si nous ne sommes qu'en milieu de matinée.
 Pas étonnant que les cyclistes soient très nombreux à ce moment de la journée, certains étant partis aux aurores !
 Nous nous dirigeons vers Lumbres, en passant au sud de Saint-Omer, traversée lors d'autres éditions.
-<p style="padding-left: 30px;"><strong><i>Le deuxième ravitaillement devient nécessaire, surtout pour se réhydrater !</i></strong></p>
+> <i>Le deuxième ravitaillement devient nécessaire, surtout pour se réhydrater !</i></strong>
 Il est organisé par Leclerc sur son parking, où rien ne manque en qualité et en quantité, à part peut-être du salé.
 Le paysage devient vallonné sur des routes plus étroites avec de courtes montées suivies de descentes techniques.
 Pas évident pour Xavier avec sa roue arrière le freinant irrémédiablement !
@@ -40,7 +40,7 @@ Toujours cet itinéraire varié et moins monotone que les années précédentes.
 
 Dernier ravitaillement à Samer, connue pour ses fraises, qui hélas ne sont pas prévues au menu.
 10343
-<p style="padding-left: 30px;"><b><i>Un Lille-Hardelot ne peut pas se terminer sans l'ascension du Haut Pichot à 177 m.</i></b></p>
+<p style="padding-left: 30px;"><b><i>Un Lille-Hardelot ne peut pas se terminer sans l'ascension du Haut Pichot à 177 m.</i></b>
 Ce kilomètre à 11 % est fatidique pour certains en cette fin de parcours !
 Ils doivent se résigner à mettre pied à terre comme en montagne.
 
@@ -50,7 +50,7 @@ Enfin, il n'y a plus qu'à se laisser rouler jusqu'à la côte.
 L'abord de Neufchâtel-Hardelot se fait par sa forêt, au milieu de somptueuses villas.
 
 [gallery type="rectangular" link="file" size="large" ids="10331,10346,10347"]
-<p style="padding-left: 30px;"><b><i>C'est l'occasion de sprinter grâce au peu de forces restantes, avec le passage de la ligne par Félix en première position ! </i></b></p>
+<p style="padding-left: 30px;"><b><i>C'est l'occasion de sprinter grâce au peu de forces restantes, avec le passage de la ligne par Félix en première position ! </i></b>
 A l'arrivée, un petit pain nous attend, accompagné d'une bouteille d'eau ou d'une bière bien fraîche.
 Il y a même une glace offerte cette année !
 

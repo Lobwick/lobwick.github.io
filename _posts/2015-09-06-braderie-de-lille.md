@@ -3,7 +3,7 @@ layout: post
 title:  "Braderie de Lille"
 date:   2015-09-06 16:50:57 +0100
 ---
-<p style="padding-left: 30px;"><strong><em>Comment profiter de la braderie de Lille ?</em></strong></p>
+> Comment profiter de la braderie de Lille ?
 Je me rends à Lille en début de journée.
 Le départ du semi-marathon est prévu pour 8h30.
 > Je retrouve l’équipe du RunCrew59 devant le stand de Keycoopt.

@@ -4,13 +4,13 @@ title:  "Amsterdam"
 date:   2017-05-14 21:16:48 +0100
 ---
 > Quand un week-end de trois jours se présente, c’est l’occasion de s’évader.
-<p style="text-align: justify;">Pour commémorer la fin de la Deuxième Guerre mondiale, je vais m’aventurer au Benelux.
+Pour commémorer la fin de la Deuxième Guerre mondiale, je vais m’aventurer au Benelux.
 C’est la destination idéale, car un flux de nord repousse une zone perturbée sur notre pays.
 Certes, il faudra affronter ce vent de face, mais il me poussera pour revenir.
 Le début de ce parcours a déjà été testé avec Félix, lors d’une <a href="http://twomoulins.fr/velo/week-end-aux-pays-bas">sortie Lille on Wheels hors-série</a>.
 C’est la traversée de la Belgique jusqu’à Breskens au sud des Pays-Bas.
 Il était prévu de continuer vers le nord avec lui, mais le temps n’a jamais été propice.
-Mon objectif est donc d’atteindre Amsterdam, pour ensuite revenir par Anvers et Gand.</p>
+Mon objectif est donc d’atteindre Amsterdam, pour ensuite revenir par Anvers et Gand.
 <span style="color: #101111; font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 32px;">Belgique</span>
 
 Pour profiter pleinement de ce week-end prolongé, je saisis l’opportunité de le commencer vendredi soir.
@@ -48,92 +48,92 @@ Il faut surtout songer à se protéger du vent qui va se renforcer au cours de l
 
 5094
 <center><iframe src="https://www.strava.com/activities/977133711/embed/21e98de77fdf45df8e4ad7f777defe024dd2542b" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<p style="text-align: justify;">Avec quelques jours supplémentaires, il aurait été agréable de poursuivre jusqu’au Danemark afin d’y retrouver Cédric un petit cousin.
-Ce sera peut-être avec Félix...</p>
-<p style="text-align: justify; padding-left: 30px;">> L’Europe n’a réellement plus de frontières !
+Avec quelques jours supplémentaires, il aurait été agréable de poursuivre jusqu’au Danemark afin d’y retrouver Cédric un petit cousin.
+Ce sera peut-être avec Félix...
+> L’Europe n’a réellement plus de frontières !
 5086
 <h1>Anvers et Gand</h1>
-<p style="text-align: justify;">Ces deux magnifiques villes belges sont incontournables au pays de la frite !
-Anvers est la première rencontrée après la frontière.</p>
+Ces deux magnifiques villes belges sont incontournables au pays de la frite !
+Anvers est la première rencontrée après la frontière.
 [gallery type="rectangular" size="large" link="file" ids="5025,5024,5026,5027"]
-<p style="text-align: justify;">Les innombrables travaux sont source de déviation, heureusement étudiée pour les cyclistes comme la Belgique sait le faire.
-C’est alors que le GPS me réserve une surprise, en m’indiquant de franchir la Schelde (l’Escaut) qui traverse Anvers.</p>
-<p style="text-align: justify; padding-left: 30px;">> Mystère, car il n’y a apparemment aucun moyen de franchir cette rivière !
-<p style="text-align: justify;">C’est en essayant de traduire les explications d’une guide anglo-saxonne que je réalise la situation.
-Il n’y a jamais eu de pont, car l’ancien ferry a fini par être remplacé par un tunnel.</p>
+Les innombrables travaux sont source de déviation, heureusement étudiée pour les cyclistes comme la Belgique sait le faire.
+C’est alors que le GPS me réserve une surprise, en m’indiquant de franchir la Schelde (l’Escaut) qui traverse Anvers.
+> Mystère, car il n’y a apparemment aucun moyen de franchir cette rivière !
+C’est en essayant de traduire les explications d’une guide anglo-saxonne que je réalise la situation.
+Il n’y a jamais eu de pont, car l’ancien ferry a fini par être remplacé par un tunnel.
 [gallery type="rectangular" size="large" link="file" ids="5089,5090,5091,5092,5093"]
-<p style="text-align: justify;">Je n’ai simplement pas remarqué son entrée, car on y accède par des escalators ou un ascenseur.
+Je n’ai simplement pas remarqué son entrée, car on y accède par des escalators ou un ascenseur.
 C’est un univers très vintage, parcouru par de nombreux habitants, que l’on rencontre rarement.
 Soulagé, je peux poursuivre vers Gand.
-Ces villes étant relativement voisines à bicyclette, elle est atteinte en milieu d’après-midi.</p>
+Ces villes étant relativement voisines à bicyclette, elle est atteinte en milieu d’après-midi.
 [gallery type="rectangular" size="large" link="file" ids="5022,5023,5029,5030,5099,5100"]
-<p style="text-align: justify; padding-left: 30px;">> Si bien que je ne résiste pas à quelques Léonidas bien mérités !
+> Si bien que je ne résiste pas à quelques Léonidas bien mérités !
 <p class="aligncenter" style="text-align: justify;">La fin est plus monotone en longeant le canal de la Deûle, qui passe par Courtrai puis Lille.
-Mais je sais que la maison sera retrouvée dans les délais, même rattrapé par la grisaille.</p>
+Mais je sais que la maison sera retrouvée dans les délais, même rattrapé par la grisaille.
 <h1>Amsterdam</h1>
-<p style="text-align: justify;">Il n’est que dimanche et comme prévu, je m’approche de la capitale.
-Matinée fraîche et couverte comme la veille, en espérant retrouver notre astre dans Amsterdam.</p>
-<p style="text-align: justify; padding-left: 30px;">> Peine perdue, car, paraît-il, il ne s’y montre pas souvent.
-<p style="text-align: justify;">Je vais essayer de l’attendre dans un Burger King.
+Il n’est que dimanche et comme prévu, je m’approche de la capitale.
+Matinée fraîche et couverte comme la veille, en espérant retrouver notre astre dans Amsterdam.
+> Peine perdue, car, paraît-il, il ne s’y montre pas souvent.
+Je vais essayer de l’attendre dans un Burger King.
 Cela me changera des céréales, en m’offrant la possibilité de me refaire une beauté dans leurs toilettes impeccables.
-Me voilà tout beau pour parcourir le labyrinthe de canaux qui quadrillent Amsterdam.</p>
+Me voilà tout beau pour parcourir le labyrinthe de canaux qui quadrillent Amsterdam.
 [gallery type="rectangular" size="large" link="file" ids="5075,5074,5077"]
-<p style="text-align: justify; padding-left: 30px;">> Heureusement que le GPS n’est pas défaillant, sous peine de finir à l’eau !
-<p style="text-align: justify;">Hélas, toujours pas de soleil pour me réchauffer et éclaircir les photographies que je tente quand même, car je ne suis pas prêt d’y revenir.</p>
+> Heureusement que le GPS n’est pas défaillant, sous peine de finir à l’eau !
+Hélas, toujours pas de soleil pour me réchauffer et éclaircir les photographies que je tente quand même, car je ne suis pas prêt d’y revenir.
 [gallery type="rectangular" size="large" link="file" ids="5073,5070,5071"]
-<p style="text-align: justify;">Je patiente dans une petite boutique de souvenirs, où je me laisse tenter avec modération par quelques pastilles Vichy à la hollandaise, pour reprendre des forces ; sans oublier quelques porte-clés qui ne sont pas encombrants dans les sacoches.</p>
+Je patiente dans une petite boutique de souvenirs, où je me laisse tenter avec modération par quelques pastilles Vichy à la hollandaise, pour reprendre des forces ; sans oublier quelques porte-clés qui ne sont pas encombrants dans les sacoches.
 [gallery type="rectangular" size="large" link="file" ids="5072,5078,5076"]
-<p style="text-align: justify; padding-left: 30px;">> Il va quand même falloir songer à reprendre la direction du sud, car ce dimanche est bien avancé.
-<p style="text-align: justify;">Celle-ci se devine aisément en se laissant pousser par le vent alors qu’il a fallu l’affronter depuis presque 48 h</p>
+> Il va quand même falloir songer à reprendre la direction du sud, car ce dimanche est bien avancé.
+Celle-ci se devine aisément en se laissant pousser par le vent alors qu’il a fallu l’affronter depuis presque 48 h
 
 <h1>Retour</h1>
-<p style="text-align: justify;">D’ailleurs ce changement radical de cap s’accompagne d’une bouffée de chaleur.</p>
-<p style="text-align: justify; padding-left: 30px;">> Le plus agréable reste les quelques kilomètres/heure supplémentaire par rapport à l’aller.
-<p style="text-align: justify;">C’est ce que j’avais prévu, tout en me rassurant sur l’horaire de retour à la maison.</p>
+D’ailleurs ce changement radical de cap s’accompagne d’une bouffée de chaleur.
+> Le plus agréable reste les quelques kilomètres/heure supplémentaire par rapport à l’aller.
+C’est ce que j’avais prévu, tout en me rassurant sur l’horaire de retour à la maison.
 [gallery type="rectangular" size="large" link="file" ids="5079,5083,5080"]
-<p style="text-align: justify;">Itinéraire différent, mais passage obligé par Rotterdam, pour refranchir à nouveau les presqu’îles.</p>
+Itinéraire différent, mais passage obligé par Rotterdam, pour refranchir à nouveau les presqu’îles.
 [gallery type="rectangular" size="large" link="file" ids="5081,5082,5084,5085"]
-<p style="text-align: justify;">La frontière avec la Belgique se traverse sans la deviner, tout en se rapprochant d’Anvers.</p>
-<p style="text-align: justify;">> C’est à son niveau qu’une forêt très accueillante va m’héberger pour la dernière et ma plus confortable nuitée.
-<p style="text-align: justify;">Toujours pas une goutte de pluie à l’horizon, comme prévu par la météo !</p>
+La frontière avec la Belgique se traverse sans la deviner, tout en se rapprochant d’Anvers.
+> C’est à son niveau qu’une forêt très accueillante va m’héberger pour la dernière et ma plus confortable nuitée.
+Toujours pas une goutte de pluie à l’horizon, comme prévu par la météo !
 [gallery type="rectangular" size="large" link="file" ids="5086,5087,5088"]
-<p style="text-align: justify;">Quelle joie de ronfler de concert avec les hululements, à la lueur de la lune.
-Étant donnée la courte distance restante, je pensais faire la grasse matinée ce lundi matin, mais je suis en pleine forme.</p>
-<p style="text-align: justify; padding-left: 30px;">> Et puis il faut quand même retrouver les élèves le lendemain !
+Quelle joie de ronfler de concert avec les hululements, à la lueur de la lune.
+Étant donnée la courte distance restante, je pensais faire la grasse matinée ce lundi matin, mais je suis en pleine forme.
+> Et puis il faut quand même retrouver les élèves le lendemain !
 
 <h1></h1>
 5064
 5033
 <h1>Pays-Bas</h1>
-<p style="text-align: justify;">Ambiance brumeuse et glaciale aux premières heures de ce samedi.
-Il n’y a plu qu’à attendre 8 h 15 ce bateau réservé aux cyclistes et aux piétons, car le flux routier passe par un tunnel sous-marin interdit à ceux-ci.</p>
+Ambiance brumeuse et glaciale aux premières heures de ce samedi.
+Il n’y a plu qu’à attendre 8 h 15 ce bateau réservé aux cyclistes et aux piétons, car le flux routier passe par un tunnel sous-marin interdit à ceux-ci.
 [gallery type="rectangular" size="large" link="file" ids="5037,5036,5038"]
-<p style="text-align: justify;">C’est en effet le début d’une série de presqu’îles néerlandaises qu’il faut franchir.
-Contre la modique somme de quatre euros, je débarque à Flessingue pour continuer vers Middelbourg en terres hollandaises.</p>
+C’est en effet le début d’une série de presqu’îles néerlandaises qu’il faut franchir.
+Contre la modique somme de quatre euros, je débarque à Flessingue pour continuer vers Middelbourg en terres hollandaises.
 [gallery type="rectangular" size="large" link="file" ids="5039,5040,5041,5042"]
-<p style="text-align: justify;">Moins d’inquiétude pour la circulation, car c’est le début du réseau de pistes cyclables du plat pays.</p>
-<p style="text-align: justify; padding-left: 30px;">> Ce sont de véritables « autoroutes » pour deux roues avec un revêtement irréprochable, contrairement aux pénibles plaques bétonnées belges.
-<p style="text-align: justify;">Mais vous avez intérêt de les emprunter, car c’est une réelle religion chez eux.</p>
-<p style="text-align: justify;">Comme souvent avec le vent du nord, le soleil apparaît en fin de matinée ; c’est le moment de retirer jambières et brassières.</p>
+Moins d’inquiétude pour la circulation, car c’est le début du réseau de pistes cyclables du plat pays.
+> Ce sont de véritables « autoroutes » pour deux roues avec un revêtement irréprochable, contrairement aux pénibles plaques bétonnées belges.
+Mais vous avez intérêt de les emprunter, car c’est une réelle religion chez eux.
+Comme souvent avec le vent du nord, le soleil apparaît en fin de matinée ; c’est le moment de retirer jambières et brassières.
 [gallery type="rectangular" size="large" link="file" ids="5043,5044,5047,5046"]
-<p style="text-align: justify; padding-left: 30px;">> Heureusement, car le paysage est à couper le souffle avec ces longues plages interminables des côtes de la Mer du Nord.
-<p style="text-align: justify;">Plus de ferries, mais une succession d’usines marémotrices servant de ponts pour bondir de presqu’île en presqu’île.</p>
+> Heureusement, car le paysage est à couper le souffle avec ces longues plages interminables des côtes de la Mer du Nord.
+Plus de ferries, mais une succession d’usines marémotrices servant de ponts pour bondir de presqu’île en presqu’île.
 [gallery type="rectangular" size="large" link="file" ids="5048,5051,5050,5049"]
-<p style="text-align: justify;">Tout ceci rythmé par de gigantesques éoliennes, complétant l’énergie renouvelable.</p>
+Tout ceci rythmé par de gigantesques éoliennes, complétant l’énergie renouvelable.
 
 <h1>Rotterdam</h1>
-<p style="text-align: justify;">Rotterdam se rapproche dans l’après-midi de cette journée printanière.</p>
-<p style="text-align: justify; padding-left: 30px;">> On a l’impression d’être submergé par l’eau et ses nombreux canaux.
-<p style="text-align: justify;">Par contre, à part quelques arbres, aucun obstacle pour s’opposer au vent qui remplace l’absence de dénivelé.</p>
+Rotterdam se rapproche dans l’après-midi de cette journée printanière.
+> On a l’impression d’être submergé par l’eau et ses nombreux canaux.
+Par contre, à part quelques arbres, aucun obstacle pour s’opposer au vent qui remplace l’absence de dénivelé.
 [gallery type="rectangular" size="large" link="file" ids="5052,5053,5054,5055"]
-<p style="text-align: justify;">Même si les deux importantes villes des Pays-Bas sont relativement proches, il vaut mieux visiter la capitale le lendemain.</p>
-<p style="text-align: justify; padding-left: 30px;">> J’ai encore deux jours avant le retour, en étant parti vendredi.
-<p style="text-align: justify;">De plus, la ville moderne de Rotterdam est mise en valeur au soleil couchant et il y règne une atmosphère festive.</p>
+Même si les deux importantes villes des Pays-Bas sont relativement proches, il vaut mieux visiter la capitale le lendemain.
+> J’ai encore deux jours avant le retour, en étant parti vendredi.
+De plus, la ville moderne de Rotterdam est mise en valeur au soleil couchant et il y règne une atmosphère festive.
 [gallery type="rectangular" size="large" link="file" ids="5056,5057,5058,5060,5096"]
-<p style="text-align: justify;">La brioche ayant été engloutie lors des premières vingt-quatre heures, je savoure des céréales enrichies en vitamines pour refaire le plein de calories.</p>
+La brioche ayant été engloutie lors des premières vingt-quatre heures, je savoure des céréales enrichies en vitamines pour refaire le plein de calories.
 [gallery type="rectangular" size="large" link="file" ids="5063,5061,5059,5062"]
-<p style="text-align: justify;">Mais hors de question de passer la nuit dans cette ville, pas assez paisible pour un sommeil récupérateur.</p>
+Mais hors de question de passer la nuit dans cette ville, pas assez paisible pour un sommeil récupérateur.
 [gallery type="rectangular" size="large" link="file" ids="5064,5065,5066,5067,5068"]
-<p style="text-align: justify;">Je vais passer la nuit à proximité du siège de l’équipe cycliste néerlandaise de la Rabobank, à proximité d’Amsterdam.</p>
+Je vais passer la nuit à proximité du siège de l’équipe cycliste néerlandaise de la Rabobank, à proximité d’Amsterdam.
 
 <h1></h1>

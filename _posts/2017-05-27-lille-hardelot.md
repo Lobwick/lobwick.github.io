@@ -3,47 +3,47 @@ layout: post
 title:  "Lille - Hardelot"
 date:   2017-05-27 21:52:57 +0100
 ---
-<p style="text-align: justify;">C’est au dernier moment que nous avons décidé de participer à cette édition.</p>
-<p style="text-align: justify; padding-left: 30px;">> En effet, elle coïncide avec la fin des cours de Félix en Irlande.
-<p style="text-align: justify;">Je viens juste d’aller le chercher à l’aéroport de Beauvais, en provenance de Dublin.
+C’est au dernier moment que nous avons décidé de participer à cette édition.
+> En effet, elle coïncide avec la fin des cours de Félix en Irlande.
+Je viens juste d’aller le chercher à l’aéroport de Beauvais, en provenance de Dublin.
 Il faut surtout récupérer son vélo pour prendre le départ de ce Lille-Hardelot.
-Même en nous inscrivant au dernier moment, il reste toujours de la place pour cette cyclosportive.</p>
+Même en nous inscrivant au dernier moment, il reste toujours de la place pour cette cyclosportive.
 [gallery type="rectangular" link="file" size="large" ids="5165,5164,5197"]
 <h2 style="text-align: justify;">Lille
-<p style="text-align: justify;">Rendez-vous au Grand-Palais de Lille en ce dimanche 21 mai 2017.</p>
+Rendez-vous au Grand-Palais de Lille en ce dimanche 21 mai 2017.
 [gallery type="rectangular" size="large" link="file" ids="5166,5167,5168"]
-<p style="text-align: justify;">Difficile de rejoindre la ligne de départ, car il faut se faufiler parmi les 6500 participants.</p>
-<p style="text-align: justify; padding-left: 30px;">> Heureusement tous les cyclotouristes ne partent pas en même temps !
-<p style="text-align: justify;">Mieux vaut quand même ne pas tarder pour ne pas être gênés.
-C’est donc vers 7 h que nous retrouvons Philippe, Kevin et Simon pour former un petit peloton de cinq.</p>
+Difficile de rejoindre la ligne de départ, car il faut se faufiler parmi les 6500 participants.
+> Heureusement tous les cyclotouristes ne partent pas en même temps !
+Mieux vaut quand même ne pas tarder pour ne pas être gênés.
+C’est donc vers 7 h que nous retrouvons Philippe, Kevin et Simon pour former un petit peloton de cinq.
 [gallery type="rectangular" size="large" link="file" ids="5127,5126"]
-<p style="text-align: justify;">Les conditions s’annoncent idéales en comparaison de l’édition 2016.
-Quel plaisir de parcourir les grands boulevards de Lille, même s’il faut surveiller sa trajectoire au sein de ces centaines de cyclistes !</p>
+Les conditions s’annoncent idéales en comparaison de l’édition 2016.
+Quel plaisir de parcourir les grands boulevards de Lille, même s’il faut surveiller sa trajectoire au sein de ces centaines de cyclistes !
 [gallery type="rectangular" size="large" link="file" ids="5130,5129,5128"]
-<p style="text-align: justify;">Une certaine fraîcheur nous accompagne jusqu’à Merville.</p>
+Une certaine fraîcheur nous accompagne jusqu’à Merville.
 
 <h2 style="text-align: justify;">Merville
-<p style="text-align: justify; padding-left: 30px;">> Premier ravitaillement au niveau de l’île flamande.
-<p style="text-align: justify;">Merville, ancienne cité drapière flamande, se dénommait Meerghem, ou hameau de la mer, au XVe siècle.
-Elle est entourée de 25 km de cours d’eau, dont la Lys.</p>
+> Premier ravitaillement au niveau de l’île flamande.
+Merville, ancienne cité drapière flamande, se dénommait Meerghem, ou hameau de la mer, au XVe siècle.
+Elle est entourée de 25 km de cours d’eau, dont la Lys.
 [gallery type="rectangular" size="large" link="file" ids="5131,5132,5133"]
-<p style="text-align: justify;">Mais n’ayant parcouru que 40 km depuis la capitale flamande, nous nous attarderons plus longuement à la prochaine pause.</p>
+Mais n’ayant parcouru que 40 km depuis la capitale flamande, nous nous attarderons plus longuement à la prochaine pause.
 [gallery type="rectangular" size="large" link="file" ids="5135,5138,5139"]
-<p style="text-align: justify;">À la sortie de Merville, la traversée de la forêt de Nieppe est l’occasion de satisfaire des besoins naturels.</p>
+À la sortie de Merville, la traversée de la forêt de Nieppe est l’occasion de satisfaire des besoins naturels.
 [gallery type="columns" size="large" link="file" ids="5136,5143,5142"]
-<p style="text-align: justify;">Puis nous contournons Hazebrouck pour arriver à Saint-Omer.</p>
+Puis nous contournons Hazebrouck pour arriver à Saint-Omer.
 
 <h2 style="text-align: justify;">Saint-Omer
-<p style="text-align: justify;">Déjà la moitié de la distance accomplie, mais sans dénivelé !
-Avant les premiers faux plats montants, il est préférable de se ravitailler.</p>
-<p style="text-align: justify; padding-left: 30px;">> Il faut vraiment en avoir besoin, car il y a du bouchon de cyclistes qui ont eu la même idée.
-<p style="text-align: justify;">Tout le monde se retrouve à proximité de l’Abbaye de Saint-Bertin.</p>
+Déjà la moitié de la distance accomplie, mais sans dénivelé !
+Avant les premiers faux plats montants, il est préférable de se ravitailler.
+> Il faut vraiment en avoir besoin, car il y a du bouchon de cyclistes qui ont eu la même idée.
+Tout le monde se retrouve à proximité de l’Abbaye de Saint-Bertin.
 [gallery type="rectangular" size="large" link="file" ids="5170,5171,5169"]
-<p style="text-align: justify;">Ce vaisseau fantôme de pierre est un site quasi wagnérien, idéal pour faire une pause.</p>
+Ce vaisseau fantôme de pierre est un site quasi wagnérien, idéal pour faire une pause.
 [gallery type="columns" size="large" link="file" ids="5186,5145,5144"]
-<p style="text-align: justify;">Nous y retrouvons Émilien, de Lille on Wheels, qui hélas cassera son dérailleur en sortant de Saint-Omer.</p>
+Nous y retrouvons Émilien, de Lille on Wheels, qui hélas cassera son dérailleur en sortant de Saint-Omer.
 [gallery type="rectangular" size="large" link="file" ids="5150,5146,5151"]
-<p style="text-align: justify;">Les bidons sont remplis. Jambières et brassières retirées, car la chaleur s’annonce en direction de Licques.</p>
+Les bidons sont remplis. Jambières et brassières retirées, car la chaleur s’annonce en direction de Licques.
 
 
 5146

@@ -10,19 +10,19 @@ C'est sa quatrième année d'études à Epitech en partenariat avec le Griffith 
 
 Le ferry à partir de Cherbourg est réservé depuis début juillet.
 Le loge<span style="font-size: 12pt;">men</span>t est aussi loué car Félix et son colocataire Adrien l'ont trouvé lors d'un aller-retour en avion fin <span style="font-size: 12pt;">juillet.</span>
-<p style="padding-left: 30px;"><strong><em>Reste à transporter ses quelques affaires sans oublier ses inséparables vélos.</em></strong></p>
+> Reste à transporter ses quelques affaires sans oublier ses inséparables vélos.
 Le mieux est de chargé le C8 au maximum avec les vélos sur un porte-vélos d'attelage.
 Je commence donc en allant le chercher à Comines où son propriétaire me le remet après quelques soucis de réglage.
 Zilok est un site remarquable de location entre particuliers.
 Heureusement Félix a fait le tri de ce qu'il compte déménager et tout est prêt dans sa chambre.
-<p style="padding-left: 30px;"><strong><em>Le chargement est accompli en une journée ainsi que la fixation des vélos.</em></strong></p>
+> Le chargement est accompli en une journée ainsi que la fixation des vélos.
 Je ne me rappelle pas avoir vu le C8 autant chargé !
 
 [gallery type="rectangular" size="medium" link="file" ids="2431,2427,2429"]
 
 Il faut être à Cherbourg le mardi 23 août pour 17h30 car le départ est prévu à 18h30.
 Au passage par Amiens, la place libre sur le porte-vélos est complétée par le vélo d'Adrien.
-<p style="padding-left: 30px;"><strong><em>Nous roulons vers la fraîcheur car quelques jours de canicule sont prévus sur la France.</em></strong></p>
+> Nous roulons vers la fraîcheur car quelques jours de canicule sont prévus sur la France.
 Le passage sur le pont de Normandie est une première familiale et sans aucun souffle de vent qui est toujours à redouter.
 
 [gallery type="rectangular" size="medium" link="file" ids="2432,2438,2442,2446,2444"]
@@ -42,9 +42,9 @@ Avec l'exactitude de la sncf nous quittons le port sur une Manche d'huile.
 Il faut se repérer sur cet immeuble flottant mais nous ne tardons pas à retrouver les salles communes avec sièges inclinables.
 
 [gallery type="rectangular" size="medium" link="file" ids="2492,2494,2502,2491"]
-<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span>
 3527
-<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span>
 [gallery type="rectangular" size="medium" ids="2506,2484,2482,2481,2518,2483"]
 
 Le dernier " Independance Day ", en version sous-titrée heureusement, nous permet de trouver le sommeil.
@@ -60,19 +60,19 @@ C'est sa quatrième année d'études à Epitech en partenariat avec le Griffith 
 
 Le ferry à partir de Cherbourg est réservé depuis début juillet.
 Le loge<span style="font-size: 12pt;">men</span>t est aussi loué car Félix et son colocataire Adrien l'ont trouvé lors d'un aller-retour en avion fin <span style="font-size: 12pt;">juillet.</span>
-<p style="padding-left: 30px;"><strong><em>Reste à transporter ses quelques affaires sans oublier ses inséparables vélos.</em></strong></p>
+> Reste à transporter ses quelques affaires sans oublier ses inséparables vélos.
 Le mieux est de chargé le C8 au maximum avec les vélos sur un porte-vélos d'attelage.
 Je commence donc en allant le chercher à Comines où son propriétaire me le remet après quelques soucis de réglage.
 Zilok est un site remarquable de location entre particuliers.
 Heureusement Félix a fait le tri de ce qu'il compte déménager et tout est prêt dans sa chambre.
-<p style="padding-left: 30px;"><strong><em>Le chargement est accompli en une journée ainsi que la fixation des vélos.</em></strong></p>
+> Le chargement est accompli en une journée ainsi que la fixation des vélos.
 Je ne me rappelle pas avoir vu le C8 autant chargé !
 
 [gallery type="rectangular" size="medium" link="file" ids="2431,2427,2429"]
 
 Il faut être à Cherbourg le mardi 23 août pour 17h30 car le départ est prévu à 18h30.
 Au passage par Amiens, la place libre sur le porte-vélos est complétée par le vélo d'Adrien.
-<p style="padding-left: 30px;"><strong><em>Nous roulons vers la fraîcheur car quelques jours de canicule sont prévus sur la France.</em></strong></p>
+> Nous roulons vers la fraîcheur car quelques jours de canicule sont prévus sur la France.
 Le passage sur le pont de Normandie est une première familiale et sans aucun souffle de vent qui est toujours à redouter.
 
 [gallery type="rectangular" size="medium" link="file" ids="2432,2438,2442,2446,2444"]
@@ -92,9 +92,9 @@ Avec l'exactitude de la sncf nous quittons le port sur une Manche d'huile.
 Il faut se repérer sur cet immeuble flottant mais nous ne tardons pas à retrouver les salles communes avec sièges inclinables.
 
 [gallery type="rectangular" size="medium" link="file" ids="2492,2494,2502,2491"]
-<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span>
 3527
-<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span>
 [gallery type="rectangular" size="medium" link="file" ids="2506,2484,2482,2481,2518,2483"]
 
 Le dernier " Independance Day ", en version sous-titrée heureusement, nous permet de trouver le sommeil.
@@ -153,7 +153,7 @@ Conditions de navigation identiques alors que j'aurais aimé un peu plus de houl
 
 3531
 La présence des routiers irlandais ne passe pas inaperçue car ils s'installent au seul bar du bateau pour ne le quitter qu'à sa fermeture vers minuit.
-<p style="padding-left: 30px;"><strong><em>Pas évident d'alterner la Guinness, le whisky irlandais et le passage aux toilettes.</em></strong></p>
+> Pas évident d'alterner la Guinness, le whisky irlandais et le passage aux toilettes.
 Mais au moins cela anime la traversée plutôt monotone.
 
 [gallery type="rectangular" size="medium" link="file" ids="2616,2619,2622,2632,2628"]

@@ -17,7 +17,7 @@ En ce qui concerne les Two Moulins, ils ont failli ne pas y participer.
 Etant hors du calendrier du Etixx Classics Tour, nous nous sommes inscrits au dernier moment.
 Il ne restait plus que des participations en hors-catégorie !
 Heureusement, Félix a pu l'obtenir par l'intermédiaire de la Team Novo Nordisk.
-<p style="padding-left: 30px;"><strong><em>C'est donc une première pour nous.</em></strong></p>
+> C'est donc une première pour nous.
 Mais en cette veille de 1 er avril, ils ont bien cru à un poisson.
 Impossible de trouver l'accueil VIP de ces participations hors-catégories !
 Il se trouvait tout naturellement juste au niveau de la ligne d'arrivée officielle à Oudenaarde.
@@ -28,73 +28,73 @@ Après avoir retiré notre plaque de cadre et quelques gadgets, nous profitons q
 C'est un petit-déjeuner copieux, peut-être un peu trop avant une cyclo, qui nous attend.
 > Il va falloir l'éliminer en prenant le départ du circuit 174 km, plus tardivement que prévu.
 7371
-<p style="text-align: justify;">C'est le plus long, comme à notre habitude, après celui des pros commençant à Anvers, mais présentant moins d'intérêt.
+C'est le plus long, comme à notre habitude, après celui des pros commençant à Anvers, mais présentant moins d'intérêt.
 Comme pour Gand-Wevelgem, les conditions sont idéales, même s'il a encore plus au cours de la nuit.
-Ce parcours débute à Oudenaarde et finit dans cette belle petite ville des Flandres orientales.</p>
+Ce parcours débute à Oudenaarde et finit dans cette belle petite ville des Flandres orientales.
 [gallery type="rectangular" size="large" link="file" ids="7355,7350,7344,7342,7341,7340"]
-<p style="text-align: justify;">C'est une véritable marée de 16 000 cyclistes qui s'élance le long de l'Escaut.
+C'est une véritable marée de 16 000 cyclistes qui s'élance le long de l'Escaut.
 Nous sommes des milliers à nous élancer sur les trois parcours qui ont ce même départ commun.
 Embouteillages inévitables qui vont se dissiper progressivement en fonction des circuits.
 Le nôtre débute avec la côte très abrupte du Wolvenberg, asphaltée mais dont le pourcentage maximal atteint 17%, alors que les muscles sont tout juste chauds.
-Puis les secteurs pavés du Ruitersstraat et du Paddestraat, avec le Molenberg intercalé, nous amènent jusqu'au premier ravitaillement, proche de Zottegem au nord-est de notre départ.</p>
+Puis les secteurs pavés du Ruitersstraat et du Paddestraat, avec le Molenberg intercalé, nous amènent jusqu'au premier ravitaillement, proche de Zottegem au nord-est de notre départ.
 <p style="padding-left: 30px; text-align: justify;">> Dans le Molenberg, certains mettent pied à terre au passage des 15%, en raison de la bousculade et de l'humidité boueuse de ces pavés exigeants.
-<p style="text-align: justify;">Avant d'atteindre les routes étroites et escarpées du Leberg en direction du sud, ce sont les pavés ondoyants du Haaghoek qui nous font souffrir.
-Au niveau de Brakel, il faut monter la Tenbossestraat.</p>
+Avant d'atteindre les routes étroites et escarpées du Leberg en direction du sud, ce sont les pavés ondoyants du Haaghoek qui nous font souffrir.
+Au niveau de Brakel, il faut monter la Tenbossestraat.
 [gallery type="rectangular" size="large" link="file" ids="7332,7331,7330,7329,7423"]
-<p style="text-align: justify;">Nous voilà à l'extrémité sud-est de notre parcours, pour affronter le premier gros morceau de celui-ci !
+Nous voilà à l'extrémité sud-est de notre parcours, pour affronter le premier gros morceau de celui-ci !
 Il se situe à Grammont, avec son fameux mur, déjà au menu de la Nieuwsblad.
 L'ascension de 700 m commence progressivement en pleine ville, avec une dizaine de pourcents sur des pavés encore réguliers ...
 Puis, en pénétrant dans le bois, on se demande comment le traverser !
 Pourtant il faut le franchir pour rejoindre son sommet.
 Le chemin, car on ne peut plus parler de route, se met à sinuer à presque 20% sur des pavés déformés ...
-Miraculeusement, il est sec, même sous les arbres.</p>
+Miraculeusement, il est sec, même sous les arbres.
 <p style="padding-left: 30px; text-align: justify;">> La vue de la petite chapelle est une véritable délivrance !
-<p style="text-align: justify;">Tout le monde reprend sa respiration, avant un ravito mérité juste en contre-bas.</p>
+Tout le monde reprend sa respiration, avant un ravito mérité juste en contre-bas.
 [gallery type="rectangular" size="large" link="file" ids="7425,7293,7290,7289,7288"]
-<p style="text-align: justify;">Il faut maintenant repartir vers Oudenaarde en longeant les collines.
+Il faut maintenant repartir vers Oudenaarde en longeant les collines.
 Sauf qu'il va falloir les franchir à un moment ou un autre, avec le kilomètre du Valkenberg à presque 10%.
-Puis, après une longue route plus large, c'est au tour de l'Eikenberg, un peu moins rigoureux.</p>
+Puis, après une longue route plus large, c'est au tour de l'Eikenberg, un peu moins rigoureux.
 <p style="padding-left: 30px; text-align: justify;">> Nous revoilà à Oudenaarde, mais uniquement pour un ravitaillement !
-<p style="text-align: justify;">Le tracé reprend la direction du sud-est, avec cinq côtes au programme, sans oublier le secteur pavé de Mariaborrestraat à parcourir sur 2 km.</p>
+Le tracé reprend la direction du sud-est, avec cinq côtes au programme, sans oublier le secteur pavé de Mariaborrestraat à parcourir sur 2 km.
 [gallery type="rectangular" size="large" link="file" ids="7283,7285,7284,7282,7280"]
-<p style="text-align: justify;">La première ascension est le deuxième temps fort de ce Ronde Van Vlaanderen.
+La première ascension est le deuxième temps fort de ce Ronde Van Vlaanderen.
 Avant de pouvoir vaincre les 500 m du Koppenberg, il faut faire la queue !
 Les organisateurs sont obligés de nous laisser le monter que par vagues de quelques dizaines de cyclistes.
-Comme sur l'autoroute au moment des vacances scolaires ...</p>
+Comme sur l'autoroute au moment des vacances scolaires ...
 <p style="padding-left: 30px; text-align: justify;">> Sinon, ce serait l'hécatombe au moment du passage à 22% sur ses pavés boueux !
-<p style="text-align: justify;">Même ainsi, beaucoup perdent de l'adhérence, condamnant les suivants à arrêter de pédaler.
+Même ainsi, beaucoup perdent de l'adhérence, condamnant les suivants à arrêter de pédaler.
 Pourtant, il est bien indiqué que les "tortues" doivent rester à droite, pour laisser filer les "lièvres" à gauche.
 Idem pour la file de véhicules lents sur autoroute ...
 Après le mur de Grammont, on retrouve la même ferveur du public venu nous encourager comme des pros.
-Cette sensation ne prend une telle ampleur qu'au Tour des Flandres !</p>
+Cette sensation ne prend une telle ampleur qu'au Tour des Flandres !
 [gallery type="rectangular" size="large" link="file" ids="7319,7303,7328,7336,7295,7294"]
-<p style="text-align: justify;">Tout juste le temp de récupérer, avant de se faire secouer par les 2 km de mauvais pavés de Mariaborrestraat.
-S'enchaînent ensuite presque comme les cinq doigts de la main, le Steenbeekdries, le Taaienberg, le Kaperij et le kanarieberg.</p>
+Tout juste le temp de récupérer, avant de se faire secouer par les 2 km de mauvais pavés de Mariaborrestraat.
+S'enchaînent ensuite presque comme les cinq doigts de la main, le Steenbeekdries, le Taaienberg, le Kaperij et le kanarieberg.
 <p style="padding-left: 30px; text-align: justify;">> Redescente vers Ronse ou Renaix, pour le dernier ravito.
-<p style="text-align: justify;">Nous ne nous éternisons pas car des averses menacent sur le relief, après une journée qui s'est considérablement réchauffée.
-Surtout qu'un trio de monts nous attend avec le Kruisberg, le Hotond et le Karnemelkbeek.</p>
+Nous ne nous éternisons pas car des averses menacent sur le relief, après une journée qui s'est considérablement réchauffée.
+Surtout qu'un trio de monts nous attend avec le Kruisberg, le Hotond et le Karnemelkbeek.
 [gallery type="rectangular" link="file" ids="7373,7378,7377,7388,7387,7395"]
-<p style="text-align: justify;">Reste le bouquet final de cette mythique classique !</p>
+Reste le bouquet final de cette mythique classique !
 <p style="padding-left: 30px; text-align: justify;">> Il s'agit de l'enchaînement du Vieux Kwaremont avec le Paterberg.
-<p style="text-align: justify;">Le premier est vraiment pénible en raison de ses 2 km de pavés irréguliers avec un passage à plus de 10%.
-Ce n'est pas pour rien que sa bière se mérite ...</p>
+Le premier est vraiment pénible en raison de ses 2 km de pavés irréguliers avec un passage à plus de 10%.
+Ce n'est pas pour rien que sa bière se mérite ...
 7370
 [gallery type="rectangular" size="large" link="file" ids="7370,7307,7310,7318,7300"]
-<p style="text-align: justify;">Quant au suivant, c'est un Koppenberg bis, mais en moins boueux !
+Quant au suivant, c'est un Koppenberg bis, mais en moins boueux !
 Le public est de plus en plus nombreux pour nous acclamer ...
 Après une belle descente jusqu'à l'Escaut, il n'y a plus qu'à la longer.
 Bizarre de rouler à plat, après toutes ces rudes bosses flamandes ...
-Quelques kilomètres pour le sprint final, à presque 40km/h, afin de franchir la ligne d'arrivée à Oudenaarde.</p>
+Quelques kilomètres pour le sprint final, à presque 40km/h, afin de franchir la ligne d'arrivée à Oudenaarde.
 [gallery type="rectangular" size="large" link="file" ids="7256,7263,7260"]
-<p style="text-align: justify;">Le moment le plus appréciable de la journée est de retrouver la zone VIP en bordure de cette ligne.
-Après avoir récupéré notre médaille, place à la Pasta Party ...</p>
+Le moment le plus appréciable de la journée est de retrouver la zone VIP en bordure de cette ligne.
+Après avoir récupéré notre médaille, place à la Pasta Party ...
 <p style="padding-left: 30px; text-align: justify;">> Elle est à l'image du petit-déjeuner !
-<p style="text-align: justify;">Différentes sortes de pâtes, accompagnées de sauces variées et des meilleurs fromages italiens, sans oublier les salades.
-Même le Saint-Emilion est prévu, à consommer avec modération car il y a le retour.</p>
+Différentes sortes de pâtes, accompagnées de sauces variées et des meilleurs fromages italiens, sans oublier les salades.
+Même le Saint-Emilion est prévu, à consommer avec modération car il y a le retour.
 [gallery type="rectangular" size="large" link="file" ids="7258,7261,7257,7251"]
-<p style="text-align: justify;">A la fin de cette journée, nous avons le sentiment d'avoir vécu l'équivalent de l'étape du tour de France, de juillet 2017 entre Briançon et le Col d'Izoard.</p>
+A la fin de cette journée, nous avons le sentiment d'avoir vécu l'équivalent de l'étape du tour de France, de juillet 2017 entre Briançon et le Col d'Izoard.
 <p style="padding-left: 30px; text-align: justify;">> Il y a de la souffrance, qu'il faut combattre au moral, et une ambiance particulière ...
-<p style="text-align: justify;">La semaine prochaine, encore des pavés !
-Mais ceux du <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> ...</p>
+La semaine prochaine, encore des pavés !
+Mais ceux du <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> ...
 
 <center><iframe src="https://www.youtube.com/embed/-4U3QjTUWps" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><center><iframe src="https://www.strava.com/activities/1482192285/embed/eeda9783126c954f10de8349c6cce1b5910181de" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>

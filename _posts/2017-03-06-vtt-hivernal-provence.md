@@ -3,37 +3,37 @@ layout: post
 title:  "Vtt hivernal en Provence"
 date:   2017-03-06 12:50:42 +0100
 ---
-<p style="text-align: justify;">Après avoir été convaincu l’année dernière de l’intérêt de rouler avec mon VTT, je le transporte à nouveau en TGV.
-À l’occasion de ces congés, de nouveaux itinéraires sont prévus autour d’Aix-en-Provence.</p>
+Après avoir été convaincu l’année dernière de l’intérêt de rouler avec mon VTT, je le transporte à nouveau en TGV.
+À l’occasion de ces congés, de nouveaux itinéraires sont prévus autour d’Aix-en-Provence.
 <p style="padding-left: 30px; text-align: justify;">> Seule la technique change, puisque je les trace maintenant par satellite.
-<p style="text-align: justify;">De cette façon je repère plus facilement les chemins DFCI permettant aux pompiers d’intervenir rapidement en cas d’incendie à travers les différents massifs montagneux.
+De cette façon je repère plus facilement les chemins DFCI permettant aux pompiers d’intervenir rapidement en cas d’incendie à travers les différents massifs montagneux.
 Bien entendu, il y aura quand même les classiques contournements de domaines privés ou secteurs militaires non repérables vu du ciel ni sur Garmin.
 Je compte aussi toujours sur le Scenic des parents qui permet d’atteindre les points de départ des parcours éloignés d’Aix.
-Nous sommes mi-février, mais c’est essentiellement la tenue d’été qui est de circonstance, à part les chaussures.</p>
+Nous sommes mi-février, mais c’est essentiellement la tenue d’été qui est de circonstance, à part les chaussures.
 
 <h2 style="text-align: justify;">Lac d’Esparron
-<p style="text-align: justify;">C’est un secteur que je connais un peu pour m’être déjà rendu jusqu’au lac de Sainte-Croix, mais en vélo de route.
+C’est un secteur que je connais un peu pour m’être déjà rendu jusqu’au lac de Sainte-Croix, mais en vélo de route.
 J’avais donc repéré des DFCI parcourant les différentes forêts de chênes.
-Celles-ci sont intéressantes à partir de Rians.</p>
+Celles-ci sont intéressantes à partir de Rians.
 
 <center><iframe src="https://www.strava.com/activities/865516701/embed/894e19022dd87b2d884143e99580ef8df9a5b250" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<p style="text-align: justify;">Il va falloir un moment pour retrouver les sensations du VTT.
+Il va falloir un moment pour retrouver les sensations du VTT.
 Il y a aussi les pentes sur des chemins caillouteux qui coupent vite le souffle.
-Les premiers kilomètres sont agréables, mais voilà la première propriété privée à contourner.</p>
+Les premiers kilomètres sont agréables, mais voilà la première propriété privée à contourner.
 > Ce n’est pas un souci grâce au GPS, mais il me fait traverser une bergerie.
-<p style="text-align: justify;">Heureusement les chiens sont attachés, ce qui n’est pas le cas du berger qui me rattrape en 4x4.
-Après une mise au point, tout s’arrange !</p>
+Heureusement les chiens sont attachés, ce qui n’est pas le cas du berger qui me rattrape en 4x4.
+Après une mise au point, tout s’arrange !
 [gallery type="rectangular" size="medium" link="file" ids="3989,3990,3996"]
-<p style="text-align: justify;">La voie est libre, mais mon itinéraire se perd dans les sous-bois qu’il me faut franchir en marchant.
-Après avoir traversé le village de Varages, perché sur une colline, le lac d’Esparron se rapproche.</p>
+La voie est libre, mais mon itinéraire se perd dans les sous-bois qu’il me faut franchir en marchant.
+Après avoir traversé le village de Varages, perché sur une colline, le lac d’Esparron se rapproche.
 > Je le savais inaccessible, mais à ce point là !
-<p style="text-align: justify;">C’est finalement au bout d’un sentier de plus en plus étroit que j’entrevois cette forme bleutée.
-Impossible de distinguer son barrage.</p>
+C’est finalement au bout d’un sentier de plus en plus étroit que j’entrevois cette forme bleutée.
+Impossible de distinguer son barrage.
 [gallery type="rectangular" size="large" link="file" ids="3995,3994,3993"]
-<p style="text-align: justify;">Je vais donc tenter ma chance en descendant plus bas dans la forêt.
+Je vais donc tenter ma chance en descendant plus bas dans la forêt.
 Peine perdue et il faut tout remonter !
 Le retour se révèle incertain en raison des contournements de l’aller.
-Mais je parviens quand même à retrouver Rians à la nuit tombée.</p>
+Mais je parviens quand même à retrouver Rians à la nuit tombée.
 
 <h2 style="text-align: justify;">
 4259

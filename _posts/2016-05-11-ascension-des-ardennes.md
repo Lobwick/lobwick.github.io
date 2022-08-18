@@ -4,30 +4,30 @@ title:  "Ascension des Ardennes"
 date:   2016-05-11 11:27:04 +0100
 ---
 <h2 style="text-align: justify;">Pont de l'Ascension des Ardennes
-<p style="text-align: justify;">Voilà le retour des beaux jours et l'Education Nationale qui nous permet de faire le pont de l'Ascension des Ardennes.</p>
+Voilà le retour des beaux jours et l'Education Nationale qui nous permet de faire le pont de l'Ascension des Ardennes.
 > Avec ces quelques jours de magnifique temps estival annoncé, tout est réuni pour partir à l'aventure de l'Ascension des Ardennes
-<p style="text-align: justify;">En cette veille d'Ascension, un petit vent d'Est souffle en provenance de la fraîcheur des Ardennes.
+En cette veille d'Ascension, un petit vent d'Est souffle en provenance de la fraîcheur des Ardennes.
 Idéal pour partir dans cette direction, juste après la matinée d'école.
-De plus je retrouve un parcours, prévu l'année dernière à la même époque, mais que le mauvais temps avait annulé.</p>
+De plus je retrouve un parcours, prévu l'année dernière à la même époque, mais que le mauvais temps avait annulé.
 
 <center><iframe src="https://www.strava.com/activities/566807959/embed/c8a0a9c75d781f4eaddbc8fbcfe4281a986de325" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<p style="text-align: justify;">Prenant toujours de plus en plus de plaisir à rouler avec l'ancien Gitane Victoire, je l'équipe en bikepacking.
+Prenant toujours de plus en plus de plaisir à rouler avec l'ancien Gitane Victoire, je l'équipe en bikepacking.
 Il s'agit d'un ensemble de sacoches qui s'adapte au vélo en divers emplacements de celui-ci.
-Cela permet de remplacer les traditionnelles sacoches moins performantes sur le plan sportif.</p>
+Cela permet de remplacer les traditionnelles sacoches moins performantes sur le plan sportif.
 > De toutes les façons, il n'est prévu qu'une nuit, même si le tracé avait été calculé pour trois jours.
-<p style="text-align: justify;">L'itinéraire longe de l'Ascension des Ardennes la frontière franco-belge avec pour but d'atteindre différents lacs de ces Ardennes belges et françaises.</p>
+L'itinéraire longe de l'Ascension des Ardennes la frontière franco-belge avec pour but d'atteindre différents lacs de ces Ardennes belges et françaises.
 [gallery size="large" type="rectangular" link="file" ids="2071,2072,2075,2186,2073"]
 <h2 style="text-align: justify;">Lac de la Plate Taille
-<p style="text-align: justify;">C'est sur l'un de ceux-ci que j'avais testé et acheté une planche à voile à un coureur semi-pro.
-Jamais je n'aurais pensé y repasser à vélo et encore moins y bivouaquer.</p>
+C'est sur l'un de ceux-ci que j'avais testé et acheté une planche à voile à un coureur semi-pro.
+Jamais je n'aurais pensé y repasser à vélo et encore moins y bivouaquer.
 
 
 [gallery type="rectangular" size="large" link="file" ids="2076,2077,2078,2079,2142"]
-<p style="text-align: justify;">La tenue d'été est de circonstance car la température grimpe vite, même avec ce petit vent continental qui s'affronte facilement.</p>
+La tenue d'été est de circonstance car la température grimpe vite, même avec ce petit vent continental qui s'affronte facilement.
 > Alors que le soleil baisse, le lac de la Plate Taille est atteint pour y passer la nuit.
-<p style="text-align: justify;">Je ne suis pas à mi-parcours mais il est inutile de poursuivre de nuit, sans admirer ce paysage de plus en plus beau.</p>
+Je ne suis pas à mi-parcours mais il est inutile de poursuivre de nuit, sans admirer ce paysage de plus en plus beau.
 [gallery type="rectangular" size="large" link="file" ids="2080,2082,2081,2084,2083,2085"]
-<p style="text-align: justify;"></p>
+
 2082
 Séance photos au soleil couchant avant de repérer un abri.
 
@@ -76,7 +76,7 @@ Je découvre le petit camping initialement prévu pour la deuxième nuit dont je
 [gallery type="rectangular" size="large" ids="2120,2119,2121,2122"]
 
 De toutes les façons je préfère le camping sauvage, comme vous avez déjà pu deviner.
-<p style="padding-left: 30px;"><strong><em>Il vaut mieux contempler la plage de sable fin où on aimerait revenir en été.</em></strong></p>
+> Il vaut mieux contempler la plage de sable fin où on aimerait revenir en été.
 Je ne suis pas prêt de partir car un groupe de cyclistes d'Arras vient discuter bicyclette.
 On se retrouvera peut-être sur Lille-Hardelot prévu fin mai.
 Il serait temps pourtant car il est presque midi.

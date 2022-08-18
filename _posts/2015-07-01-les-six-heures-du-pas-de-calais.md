@@ -15,4 +15,4 @@ Une soirée camping passé durant la course avec <a href="http://runinlille.fr">
 112
 Retrouvez <a href="http://adobe.ly/1JxRlxR">ici</a> l'ensemble des photos de la sortie réalisés avec Lille On Wheels.
 
-<center><iframe src="https://www.strava.com/activities/300645758/embed/d1a51cea1ce86be2b91a741998d953ed2318eb12" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center><center></center>
+<center><iframe src="https://www.strava.com/activities/300645758/embed/d1a51cea1ce86be2b91a741998d953ed2318eb12" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>

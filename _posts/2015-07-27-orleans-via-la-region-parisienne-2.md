@@ -3,13 +3,13 @@ layout: post
 title:  "Orléans via la région parisienne"
 date:   2015-07-27 12:18:42 +0100
 ---
-<p style="text-align: justify; padding-left: 30px;">> Ce que j’apprécie avant tout avec le vélo, c’est d’avoir un but en fonction de la destination.
-<p style="text-align: justify;">Cette fois-ci, rendre visite à la famille maternelle jusqu’à Orléans et plus particulièrement à Olivet au bord du Loiret.</p>
+> Ce que j’apprécie avant tout avec le vélo, c’est d’avoir un but en fonction de la destination.
+Cette fois-ci, rendre visite à la famille maternelle jusqu’à Orléans et plus particulièrement à Olivet au bord du Loiret.
 
 <h2 style="text-align: justify;">Problème de gps
-<p style="text-align: justify;">Mon GPS Garmin 800 ne fonctionnant plus, il ne me reste plus qu’à tenter l’aventure avec le 500, mais sans cartographie.
+Mon GPS Garmin 800 ne fonctionnant plus, il ne me reste plus qu’à tenter l’aventure avec le 500, mais sans cartographie.
 Direction plein Sud en visant Paris à travers la Somme et l’Oise. On verra ensuite.
-Départ au petit matin du mardi 21/7 sans se presser et en retrouvant la chaleur plus je descendais.</p>
+Départ au petit matin du mardi 21/7 sans se presser et en retrouvant la chaleur plus je descendais.
 
 
 [caption id="attachment_452" align="aligncenter" width="900"]<a href="http://twomoulins.fr/wp-content/uploads/2015/07/2015_07_21-orléansPa_011.jpg"><img class="wp-image-452 size-large" src="http://twomoulins.fr/wp-content/uploads/2015/07/2015_07_21-orléansPa_011-1024x768.jpg" alt="2015_07_21 orléansPa_01" width="900" height="675" /></a> Pratique une béquille[/caption]
@@ -17,17 +17,17 @@ Départ au petit matin du mardi 21/7 sans se presser et en retrouvant la chaleur
 > La région parisienne est atteinte pour le coucher de soleil après une journée propice à la bicyclette.
 
 <blockquote>[gallery type="rectangular" link="file" size="medium" ids="428,426,427,424,430,429,439"]</blockquote>
-<p style="text-align: justify;">Chaude ambiance dans la capitale remplie de touristes surtout japonais qui semblent ne pas vouloir se coucher.
+Chaude ambiance dans la capitale remplie de touristes surtout japonais qui semblent ne pas vouloir se coucher.
 Un peu comme moi qui profite de cette atmosphère en prenant des photos.
-Après un dernier sandwich sous la Tour Eiffel, il faut reprendre la route, car il me reste une bonne centaine de kilomètres.</p>
+Après un dernier sandwich sous la Tour Eiffel, il faut reprendre la route, car il me reste une bonne centaine de kilomètres.
 [gallery type="rectangular" link="file" size="medium" ids="445,446,444,459,460,458,461"]
-<p style="text-align: justify;">Le temps menace et quelques averses viennent me rafraîchir après la lourdeur parisienne.
-Pas évident de quitter Paris et je me perds dans sa lointaine banlieue sud en pleine nuit.</p>
+Le temps menace et quelques averses viennent me rafraîchir après la lourdeur parisienne.
+Pas évident de quitter Paris et je me perds dans sa lointaine banlieue sud en pleine nuit.
 
 <h2 style="text-align: justify;">
 446
 ## Orléans
-<p style="padding-left: 30px;"><strong><em>Après avoir mis le double de temps depuis la capitale, j’arrive enfin à Orléans en milieu de mercredi.</em></strong></p>
+> Après avoir mis le double de temps depuis la capitale, j’arrive enfin à Orléans en milieu de mercredi.
 
 <blockquote>[gallery type="rectangular" size="medium" ids="462,466,467"]</blockquote>
 Ma marraine Laurence, très étonnée de me voir, forcement n’ayant pas prévenu, me propose son hospitalité qui est la bienvenue.

@@ -39,11 +39,11 @@ Les sports nautiques sur le plan d'eau de Peyrolles font également partie d'un 
 Il s'agit aussi d'anciennes carrières remplies par la Durance qui coule dans la vallée.
 Au mois de juillet, mon beau-frère Emmanuel et son fils Aurélien ont essayé avec succès le ski nautique tracté par un téléski.
 Cette activité étant de plus en plus répandue, je rêvais de m'y mettre pour retrouver les sensations de glisse du kitesurf.
-<p style="padding-left: 30px;"><strong><em>Pas si simple, mais après deux tentatives, le troisième essai me permet de tourner sans interruption en boucle.</em></strong></p>
+> Pas si simple, mais après deux tentatives, le troisième essai me permet de tourner sans interruption en boucle.
 La vitesse correspond à celle d'un bateau à moteur et il vaut mieux anticiper les virages.
 La grosse différence avec le kite est l'absence de harnais que les bras doivent remplacer.
 Même s'ils sont tétanisés, on évite de tomber car il faut revenir en marchant et refaire la queue au téléski.
-<p style="padding-left: 30px;"><strong><em>Au bout d'un moment la tentation de faire des sauts sur les tremplins se fait sentir.</em></strong></p>
+> Au bout d'un moment la tentation de faire des sauts sur les tremplins se fait sentir.
 Mais après avoir demandé conseils, on me recommande une planche de wakeboard et non de kitesurf.
 En effet les pieds sont ainsi maintenus dans de véritables chaussons à lacets pour éviter les entorses en retombant.
 Je me réserve donc pour l'année prochaine car les bras ont déjà une heure de traction et quelques kilomètres.

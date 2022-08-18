@@ -4,31 +4,31 @@ title:  "Herlies-Aix-Herlies"
 date:   2016-09-11 19:14:36 +0100
 ---
 <h2 style="text-align: justify;"><b>Aller</b>
-<p style="text-align: justify;">Deux ans après ma première traversée de la France, je suis à nouveau tenté par cette aventure.</p>
+Deux ans après ma première traversée de la France, je suis à nouveau tenté par cette aventure.
 > Mais cette fois-ci avec un itinéraire plus direct en évitant un maximum de dénivelé.
-<p style="text-align: justify;">Je veux surtout profiter d'un maximum de jours de vacances à Aix.
+Je veux surtout profiter d'un maximum de jours de vacances à Aix.
 Le vélo aussi n'est plus le même car je délaisse mon vtt de compétition pour le bon vieux Gitane Victoire de papa.
-Plus d'imposantes sacoches sur porte-bagage arrière mais uniquement des sacoches en version bikepacking.</p>
+Plus d'imposantes sacoches sur porte-bagage arrière mais uniquement des sacoches en version bikepacking.
 [gallery link="file" type="rectangular" ids="2833"]
 > Je privilégie la légèreté pour être plus rapidement rendu dans le midi.
 Ce début août s'annonçant sec mais chaud, je décide de prendre la route le lundi 1 er août aux aurores.
 > Je pourrai ainsi profiter de journées plus longues pour accumuler les kilomètres.
-<p style="text-align: justify;">Le parcours jusqu'à Paris est celui emprunté pour participer à Paris-Versailles à l'automne 2015 ( voir article )
+Le parcours jusqu'à Paris est celui emprunté pour participer à Paris-Versailles à l'automne 2015 ( voir article )
 Il s'agit de longer l'autoroute du nord où toute la circulation est concentrée.
 Avant de traverser Paris par l'est, j'équipe la sacoche de selle d'un gilet fluo par précaution.
 La chaleur de la capitale est pesante.
-Pour rejoindre la Bourgogne je passe par Sens afin de compléter ma collection de cathédrales.</p>
+Pour rejoindre la Bourgogne je passe par Sens afin de compléter ma collection de cathédrales.
 [gallery type="rectangular" size="medium" link="file" ids="2834,2836,2837"]
-<p style="text-align: justify;">Cette première journée se termine à Migennes car un petit jardin public va me servir de camping.
+Cette première journée se termine à Migennes car un petit jardin public va me servir de camping.
 Mon emplacement idéal est une table de pique-nique en guise de sommier.
-Après une petite toilette au gant et au bidon d'eau, il n'y a plus qu'à s'enfiler dans le sac de couchage déroulé sur la table.</p>
+Après une petite toilette au gant et au bidon d'eau, il n'y a plus qu'à s'enfiler dans le sac de couchage déroulé sur la table.
 
 <h2 style="text-align: justify;">Deuxième jour
 > Réveil avant le lever du soleil pour pouvoir rouler aux premières lueurs.
-<p style="text-align: justify;">Deuxième jour qui doit me conduire jusqu'à Lyon en passant par Beaune.
+Deuxième jour qui doit me conduire jusqu'à Lyon en passant par Beaune.
 L'itinéraire est assez proche de l'autoroute mais sur des départementales très roulantes.
-Je me rends compte que la Bourgogne est vallonnée avant d'atteindre le point culminant de cette traversée.</p>
-<p style="text-align: justify;"></p>
+Je me rends compte que la Bourgogne est vallonnée avant d'atteindre le point culminant de cette traversée.
+
 2292
 Le passage par le col de Bessey-en-Chaume à 576 m d'altitude permet d'atteindre Beaune après une descente régulière de plusieurs kilomètres très plaisante.
 Occasion de retrouver une foule considérable de cyclistes émerveillés par les Hospices de Beaune.

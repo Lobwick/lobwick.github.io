@@ -3,29 +3,29 @@ layout: post
 title:  "Cyclo-cross à Namur"
 date:   2017-12-25 19:30:56 +0100
 ---
-<p style="text-align: justify;">Félix se passionne de plus en plus pour cette discipline qui se rapproche du VTT.
-Nous avons déjà assisté à une manche de cette coupe du monde sur la côte Belge, à Coxyde fin octobre.</p>
-<p style="text-align: justify;">>           C’est ce pays, avec les Pays-Bas, qui domine le classement mondial.
-<p style="text-align: justify;">Cette nouvelle étape reste en Belgique, autour de la citadelle de Namur.
-Nous nous y étions déjà rendus à l’occasion d’une étape du tour de France sur route en 2015.</p>
+Félix se passionne de plus en plus pour cette discipline qui se rapproche du VTT.
+Nous avons déjà assisté à une manche de cette coupe du monde sur la côte Belge, à Coxyde fin octobre.
+>           C’est ce pays, avec les Pays-Bas, qui domine le classement mondial.
+Cette nouvelle étape reste en Belgique, autour de la citadelle de Namur.
+Nous nous y étions déjà rendus à l’occasion d’une étape du tour de France sur route en 2015.
 
 <h1 style="text-align: justify;">Dimanche 17 décembre 2017</h1>
-<p style="text-align: justify;">Direction la capitale de la Wallonie, vers le sud de la Belgique.
-L’autoroute nous fait d’abord passer par Mons et Charleroi.</p>
-<p style="text-align: justify;">>           Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle
+Direction la capitale de la Wallonie, vers le sud de la Belgique.
+L’autoroute nous fait d’abord passer par Mons et Charleroi.
+>           Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle
 [gallery type="rectangular" size="large" link="file" ids="6436,6461,6442"]
-<p style="text-align: justify;">Cette curieuse saucisse est une première pour Lucie, plutôt habituée aux quenelles de sa région Lyonnaise.
+Cette curieuse saucisse est une première pour Lucie, plutôt habituée aux quenelles de sa région Lyonnaise.
 Avec le gel et le dégel des jours précédents, le terrain est très boueux.
-Mieux vaut être bien équipé pour profiter de ce spectacle sportif.</p>
+Mieux vaut être bien équipé pour profiter de ce spectacle sportif.
 
 <h1 style="text-align: justify;">Course Élite féminine</h1>
-<p style="text-align: justify;">C’est l’occasion de reconnaître le circuit à accomplir plusieurs fois.</p>
+C’est l’occasion de reconnaître le circuit à accomplir plusieurs fois.
 [gallery type="rectangular" size="large" link="file" ids="6447,6449,6451,6448"]
-<p style="text-align: justify;">Surtout que Pauline Ferrand-Prévot, notre championne française de VTT, se remet au cyclo-cross.
+Surtout que Pauline Ferrand-Prévot, notre championne française de VTT, se remet au cyclo-cross.
 Ces concurrentes vont tourner pendant trois quarts d’heure en donnant leur maximum.
-Les Britanniques dominent la compétition avec la victoire de Evie Richards.</p>
+Les Britanniques dominent la compétition avec la victoire de Evie Richards.
 [gallery type="rectangular" size="large" link="file" ids="6483,6482,6450,6452,6486"]
-<p style="text-align: justify;"></p>
+
 6489
 <h1>Course Elite messieurs</h1>
 Elle est prévue en milieu d’après-midi.

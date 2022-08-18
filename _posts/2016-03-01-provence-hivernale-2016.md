@@ -3,29 +3,29 @@ layout: post
 title:  "Provence Hivernale 2016"
 date:   2016-03-01 05:50:06 +0100
 ---
-<p style="text-align: justify;">La Provence peut se révéler rude en hiver mais les paysages en sont d'autant plus éblouissants.</p>
+La Provence peut se révéler rude en hiver mais les paysages en sont d'autant plus éblouissants.
 <p style="padding-left: 30px; text-align: justify;">> De grosses sorties sont au programme sur Strava.
-<p style="text-align: justify;">Il faut dire que j'élargis mon rayon d'action et les massifs montagneux ne manquent pas autour d'Aix.
-La nouveauté est l'utilisation de mon vtt car j'ai fait l'effort de le transporter en tgv.</p>
+Il faut dire que j'élargis mon rayon d'action et les massifs montagneux ne manquent pas autour d'Aix.
+La nouveauté est l'utilisation de mon vtt car j'ai fait l'effort de le transporter en tgv.
 
 <h2 style="text-align: justify;">Peyrolles
-<p style="text-align: justify;">Pour me préparer à ces sorties, je vais m'échauffer dans les environs de Peyrolles.</p>
+Pour me préparer à ces sorties, je vais m'échauffer dans les environs de Peyrolles.
 
 <center><iframe src="http://www.strava.com/activities/489658542/embed/326aa8662bcea801799dfab5e2d2187de931ddf3" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<p style="text-align: justify;">C'est un de mes itinéraires habituels, parfait pour régler le vélo.</p>
+C'est un de mes itinéraires habituels, parfait pour régler le vélo.
 <p style="padding-left: 30px; text-align: justify;">> Le relief se fait tout de suite sentir mais le souffle s'adapte.
-<p style="text-align: justify;">Pas évident non plus de trouver la tenue adéquate au temps de saison.
+Pas évident non plus de trouver la tenue adéquate au temps de saison.
 Le contraste thermique est une des caractéristiques de la Provence.
 On se réchauffe bien en montée mais il vaut mieux se couvrir en descente.
-Après quelques heures à monter et descendre, me voilà de retour à l'Olivette.</p>
+Après quelques heures à monter et descendre, me voilà de retour à l'Olivette.
 
 <h2 style="text-align: justify;">Mourre Nègre
-<p style="text-align: justify;">Le vent ayant chassé les nuages de la veille, je prends la direction du Luberon.
-Je commence à le connaître mais surtout sur route.</p>
+Le vent ayant chassé les nuages de la veille, je prends la direction du Luberon.
+Je commence à le connaître mais surtout sur route.
 <p style="padding-left: 30px; text-align: justify;">> Cette fois-ci il est prévu d'atteindre son sommet, le Mourre Nègre.
 
 <center><iframe src="http://www.strava.com/activities/490616896/embed/aad92e2306690f521ad19bafbf76acecd685ec66" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<p style="text-align: justify;">Je privilégie les DFCI qui permettent aux pompiers d'intervenir en cas d'incendie.
+Je privilégie les DFCI qui permettent aux pompiers d'intervenir en cas d'incendie.
 A partir du magnifique village de Lourmarin, classé parmi les plus beaux villages de France, je suis confronté à une ascension ininterrompue de 10 km.
 Le Mourre Nègre se mérite avec un petit mistral qui me rafraîchit après la chaleur de la montée.
 Le Ventoux ou la Montagne de Lure s'offrent à moi au Nord, alors que la Sainte Victoire se dévoile au Sud.
@@ -33,22 +33,22 @@ Il n'y a plus qu'à suivre la crête jusqu'à Vitrolles-en-Luberon avec le vent 
 Quelques grosses flaques d'eau gelées ralentissent mon allure.
 Le ciel s'est couvert mais je suis à l'abri du mistral pour remonter au sommet du Luberon que je dois à nouveau franchir.
 C'est une longue descente d'une dizaine de kilomètres dévalée à grande vitesse qui me ramène à Cucuron.
-Je passe par la chapelle de l'ermitage ou Notre Dame de Beauvoir avant de me retrouver à Lourmarin.</p>
+Je passe par la chapelle de l'ermitage ou Notre Dame de Beauvoir avant de me retrouver à Lourmarin.
 [gallery type="rectangular" size="large" link="file" ids="1308,1317,1327,1322"]
 <h2 style="text-align: justify;">Plateau du Cengle
-<p style="text-align: justify;">Le lendemain est plus classique en partant de l'Olivette.
-Il s'agit d'atteindre le plateau du Cengle en passant par la colline de la Cime.</p>
+Le lendemain est plus classique en partant de l'Olivette.
+Il s'agit d'atteindre le plateau du Cengle en passant par la colline de la Cime.
 
 <center><iframe src="http://www.strava.com/activities/491384168/embed/26d4c9c7c3e08822b630a17452f0069008f332c9" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<p style="text-align: justify;">Des troupeaux parcourent celle-ci l'été en semi-liberté.
+Des troupeaux parcourent celle-ci l'été en semi-liberté.
 Le plateau du Cengle se situe au sud de Sainte Victoire en contre-bas de celle-ci.
-Mais il faut auparavant passer par le barrage de Bimont, sans oublier ensuite une petite ascension jusqu'au refuge Cézanne.</p>
+Mais il faut auparavant passer par le barrage de Bimont, sans oublier ensuite une petite ascension jusqu'au refuge Cézanne.
 <p style="padding-left: 30px; text-align: justify;">> Le Cengle est remarquable par sa barrière rocheuse surplombant la vallée.
-<p style="text-align: justify;">On roule ensuite sur le plateau au milieu des vignes et des oliviers.
+On roule ensuite sur le plateau au milieu des vignes et des oliviers.
 Le retour se fait par le barrage Zola, situé en aval de Bimont.
 Son concepteur n'est autre que le père du célèbre Emile.
 Il faut ensuite remonter jusqu'au site des carrières de Bibémus, rendu célèbre par les peintures de Paul Cézanne.
-Un dernier effort pour passer par la Tour Cézar qui surplombe Aix et me voilà de retour à l'Olivette.</p>
+Un dernier effort pour passer par la Tour Cézar qui surplombe Aix et me voilà de retour à l'Olivette.
 [gallery type="rectangular" size="large" link="file" ids="1349,1532"]
 <h2 style="text-align: justify;">
 1535
@@ -113,42 +113,42 @@ Après avoir prévenu que je serai en retard, cette sortie se termine à l'obscu
 
 1450
 <h2 style="text-align: justify;">Pilon du Roi
-<p style="text-align: justify;">La dernière sortie consiste à faire le tour du massif de l'Etoile près de Marseille.</p>
+La dernière sortie consiste à faire le tour du massif de l'Etoile près de Marseille.
 
 <center><iframe src="http://www.strava.com/activities/496079349/embed/b862d87a62da0878cf8b19f9cd0c94d13e92261a" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<p style="text-align: justify;">C'est le grand beau temps avec des températures qui vont grimper.
+C'est le grand beau temps avec des températures qui vont grimper.
 Pourtant, au départ du Vieux Mimet, elles sont négatives.
 Il ne fait pas bien chaud à l'ombre de la Tête du Grand Puech que je vais contourner.
-Je me rapproche de Plan de Cuques avant de remonter dans le massif.</p>
+Je me rapproche de Plan de Cuques avant de remonter dans le massif.
 
 <h2 style="text-align: justify;">L'Etoile
 <p style="padding-left: 30px; text-align: justify;">> Mon repère est le relais de télévision de l'Etoile.
-<p style="text-align: justify;">Une longue montée à travers la forêt m'y conduit.
+Une longue montée à travers la forêt m'y conduit.
 Je suis d'ailleurs doublé par des vtt électriques.
 Du haut de ce relais je devine Marseille dans la brume ou dans sa pollution.
 Je continue l'ascension du massif en m'aventurant jusqu'au sommet de la petite Etoile.
-L'été, un mirador permet de surveiller les éventuels départs d'incendies.</p>
+L'été, un mirador permet de surveiller les éventuels départs d'incendies.
 [gallery size="large" type="rectangular" link="file" ids="1490,1495"]
-<p style="text-align: justify;">L'entraînement des canadaires, basés à Marignane, me survolant, est impressionnant.
-Il n'y a plus qu'à se rapprocher du Pilon du Roi après être redescendu dans la forêt.</p>
+L'entraînement des canadaires, basés à Marignane, me survolant, est impressionnant.
+Il n'y a plus qu'à se rapprocher du Pilon du Roi après être redescendu dans la forêt.
 [gallery size="large" type="rectangular" link="file" ids="1504,1457"]
-<p style="text-align: justify;">Je vais essayer de revenir plus tôt que la veille.
+Je vais essayer de revenir plus tôt que la veille.
 Surtout que ma marraine Laurence et son mari Philippe sont à Aix pour profiter de la région qu'ils adorent.
-La descente vers Mimet en passant par le Col Saint Anne n'est qu'une formalité.</p>
+La descente vers Mimet en passant par le Col Saint Anne n'est qu'une formalité.
 
 <h2 style="text-align: justify;">Presqu'île de Giens
-<p style="text-align: justify;">Pour terminer mon séjour, il était normalement prévu une randonnée avec l'association HGN dont mes parents font partie.
-Ce sont d'ailleurs eux qui gèrent son site ( hgn.fr ) pour les passionnés d'activités physiques mais aussi culturelles.</p>
+Pour terminer mon séjour, il était normalement prévu une randonnée avec l'association HGN dont mes parents font partie.
+Ce sont d'ailleurs eux qui gèrent son site ( hgn.fr ) pour les passionnés d'activités physiques mais aussi culturelles.
 <p style="padding-left: 30px; text-align: justify;">> Mais hélas il pleut sur la presqu'île de Giens dont nous devions faire le tour.
-<p style="text-align: justify;">Pourtant le perfectionniste Maurice avait tout prévu sauf le temps.</p>
+Pourtant le perfectionniste Maurice avait tout prévu sauf le temps.
 
 <h2 style="text-align: justify;">Food Truck
-<p style="text-align: justify;">Dernière journée repos avec la rando remplacée par le lavage du vélo et les préparatifs de bagages.
-C'est l'occasion aussi de tester le nouveau Food Truck installé non loin de l'Olivette.</p>
+Dernière journée repos avec la rando remplacée par le lavage du vélo et les préparatifs de bagages.
+C'est l'occasion aussi de tester le nouveau Food Truck installé non loin de l'Olivette.
 [gallery type="rectangular" size="large" link="file" ids="1556,1555,1557"]
 <p style="padding-left: 30px; text-align: justify;">> Je peux me le permettre après avoir enchaîné trois sorties importantes, surtout en dénivelé.
 
 <h2 style="text-align: justify;">Gare St Charles
-<p style="text-align: justify;">En raison de l'importance des bagages et du vélo à transporter, il est prévu le lendemain un départ depuis la gare St Charles directement à Marseille ...</p>
+En raison de l'importance des bagages et du vélo à transporter, il est prévu le lendemain un départ depuis la gare St Charles directement à Marseille ...
 [gallery type="rectangular" size="large" ids="1561,1559,1560"]
 <p style="padding-left: 30px; text-align: justify;">> Merci au Scénic fraîchement réparé de papa et maman, qui m'a conduit au plus proche de ces aventures.
