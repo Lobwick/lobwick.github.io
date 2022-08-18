@@ -2,6 +2,7 @@
 layout: post
 title:  "Paris-Roubaix Challenge 2021"
 date:   2021-10-09 08:59:03 +0100
+image: /assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_68.jpg 
 ---
 > Enfin le retour des pavés après deux ans et demie d’absence !
 En effet notre dernière participation remonte à avril 2019, avant la trêve Covid.
