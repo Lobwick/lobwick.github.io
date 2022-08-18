@@ -8,9 +8,9 @@ D’où ce week-end en direction du plat pays après avoir traversé le pays des
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_63" title="" alt="2015_06_28 paysbas_01" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_64" title="" alt="2015_06_28 paysbas_02" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_101" title="" alt="2015_06_28 pays bas gopro_04" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_63.jpg" title="" alt="2015_06_28 paysbas_01" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_64.jpg" title="" alt="2015_06_28 paysbas_02" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_101.jpg" title="" alt="2015_06_28 pays bas gopro_04" >
 </div>
 </div>
 
@@ -26,12 +26,12 @@ Alors que cette fois-ci, en famille et entre amis, ces deux jours ont été plus
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_67" title="" alt="2015_06_28 paysbas_05" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_72" title="" alt="2015_06_28 paysbas_10" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_534" title="" alt="2015_06_29 120 randoPaysBas_01-2" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_535" title="" alt="2015_06_29 120 randoPaysBas_01-3" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_536" title="" alt="2015_06_29 120 randoPaysBas_01-4" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_537" title="" alt="2015_06_29 120 randoPaysBas_01" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_67.jpg" title="" alt="2015_06_28 paysbas_05" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_72.jpg" title="" alt="2015_06_28 paysbas_10" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_534.jpg" title="" alt="2015_06_29 120 randoPaysBas_01-2" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_535.jpg" title="" alt="2015_06_29 120 randoPaysBas_01-3" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_536.jpg" title="" alt="2015_06_29 120 randoPaysBas_01-4" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_537.jpg" title="" alt="2015_06_29 120 randoPaysBas_01" >
 </div>
 </div>
 
@@ -41,10 +41,10 @@ Nous avions de la marge et après deux bonnes pauses gourmandes, Breskens fut at
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_68" title="" alt="2015_06_28 paysbas_06" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_69" title="" alt="2015_06_28 paysbas_07" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_75" title="" alt="2015_06_28 paysbas_13" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_205" title="" alt="2015_06_29 randoPaysBas2_02" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_68.jpg" title="" alt="2015_06_28 paysbas_06" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_69.jpg" title="" alt="2015_06_28 paysbas_07" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_75.jpg" title="" alt="2015_06_28 paysbas_13" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_205.jpg" title="" alt="2015_06_29 randoPaysBas2_02" >
 </div>
 </div>
 
@@ -54,9 +54,9 @@ Il ne restait plus qu’à se rassasier autour d’un feu réussi après quelque
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_76" title="" alt="2015_06_28 paysbas_14" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_77" title="" alt="2015_06_28 paysbas_15" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_203" title="" alt="2015_06_29 randoPaysBas2_01" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_76.jpg" title="" alt="2015_06_28 paysbas_14" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_77.jpg" title="" alt="2015_06_28 paysbas_15" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_203.jpg" title="" alt="2015_06_29 randoPaysBas2_01" >
 </div>
 </div>
 
@@ -67,9 +67,9 @@ C’est pour cela que certains ont passé la nuit en hamac sous un tarp.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_102" title="" alt="2015_06_28 pays bas gopro_01" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_103" title="" alt="2015_06_28 pays bas gopro_02" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_104" title="" alt="2015_06_28 pays bas gopro_03" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_102.jpg" title="" alt="2015_06_28 pays bas gopro_01" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_103.jpg" title="" alt="2015_06_28 pays bas gopro_02" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_104.jpg" title="" alt="2015_06_28 pays bas gopro_03" >
 </div>
 </div>
 
@@ -82,19 +82,19 @@ Il ne restait plus qu’à longer la canal jusqu’à Brugge avant d’être de 
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_70" title="" alt="2015_06_28 paysbas_08" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_71" title="" alt="2015_06_28 paysbas_09" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_79" title="" alt="2015_06_29 fetemusique skate Russe rando paysbas_17" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_80" title="" alt="2015_06_29 fetemusique skate Russe rando paysbas_18" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_81" title="" alt="2015_06_29 randoPaysBas2_19" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_206" title="" alt="2015_06_29 randoPaysBas2_03" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_207" title="" alt="2015_06_29 randoPaysBas2_04" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_208" title="" alt="2015_06_29 randoPaysBas2_05" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_209" title="" alt="2015_06_29 randoPaysBas2_06" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_210" title="" alt="2015_06_29 randoPaysBas2_07" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_211" title="" alt="2015_06_29 randoPaysBas2_08" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_212" title="" alt="2015_06_29 randoPaysBas2_09" >
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_539" title="" alt="2015_08 120 multiple_01-2" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_70.jpg" title="" alt="2015_06_28 paysbas_08" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_71.jpg" title="" alt="2015_06_28 paysbas_09" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_79.jpg" title="" alt="2015_06_29 fetemusique skate Russe rando paysbas_17" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_80.jpg" title="" alt="2015_06_29 fetemusique skate Russe rando paysbas_18" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_81.jpg" title="" alt="2015_06_29 randoPaysBas2_19" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_206.jpg" title="" alt="2015_06_29 randoPaysBas2_03" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_207.jpg" title="" alt="2015_06_29 randoPaysBas2_04" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_208.jpg" title="" alt="2015_06_29 randoPaysBas2_05" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_209.jpg" title="" alt="2015_06_29 randoPaysBas2_06" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_210.jpg" title="" alt="2015_06_29 randoPaysBas2_07" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_211.jpg" title="" alt="2015_06_29 randoPaysBas2_08" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_212.jpg" title="" alt="2015_06_29 randoPaysBas2_09" >
+<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_539.jpg" title="" alt="2015_08 120 multiple_01-2" >
 </div>
 </div>
 
