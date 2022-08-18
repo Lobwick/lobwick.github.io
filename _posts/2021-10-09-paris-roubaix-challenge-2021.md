@@ -17,6 +17,8 @@ C’est presque le tracé féminin qui part de Denain, avec une trentaine de kil
 > Car les professionnels hommes s’élancent toujours de Compiègne, avec 260 km dont une soixantaine de pavés.
 Pour cette reprise de Paris-Roubaix, Félix et moi roulons avec le peloton Lille on Wheels qui part de la Citadelle Vauban tous les dimanches matins pour sa sortie hebdomadaire.
 
+{% gallery /assets/images/paris-roubaix-challenge-2021/ paris-roubaix-challenge-2021_14069.jpg,paris-roubaix-challenge-2021_14092.jpg,paris-roubaix-challenge-2021_14100 %}
+
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14069.jpg" title="Retrait des dossards " alt="2A01A9AC-3BDB-4C1B-A0C9-64446DC54777" >
