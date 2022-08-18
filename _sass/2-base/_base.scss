@@ -237,14 +237,16 @@ table td {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(2, auto);
   justify-content: center;
   align-content: center;
   grid-gap: 10px;
 
   img {
+    display: block;
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
   }
 }
 

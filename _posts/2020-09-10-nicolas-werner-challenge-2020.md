@@ -6,7 +6,7 @@ categories:
 - NWC
 - Gravel
 - Events
-image: /assets/images/nwc_2020/nwc_2020_nwc_2020_12918
+image: /assets/images/nwc_2020/nwc_2020_12918
 
 ---
 À défaut de participer au tour de France cette année, les Two Moulins participeront au [Nicolas Werner Challenge](https://www.thenwc.org) qui est un évènement européen pour lutter contre le cancer et favoriser sa recherche !
@@ -19,36 +19,22 @@ Cet évènement étant gratuit, les organisateurs poussent l'ensemble des partic
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/nwc_2020/nwc_2020_12802" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12803" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12833" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12898" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12899" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12900" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12907" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12914" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12915" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12916" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12917" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12918" title="test" alt="alt" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12918" title="test" alt="alt" >
+    <img src="/assets/images/nwc_2020/nwc_2020_12802" title="POur Raymonde" alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12803"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12833"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12898" title="KM0" alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12899"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12900" title="C'est parti" alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12907"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12914"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12915"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12916"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12917" title="Champs-Elysées et Arc-de-Triomphe" alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
+	<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
   </div>
   <!--<em>My best moments / <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>-->
 </div>
-
-![nwc](/assets/images/nwc_2020/nwc_2020_12802 "Pour Raymonde")
-![nwc](/assets/images/nwc_2020/nwc_2020_12803)
-![nwc](/assets/images/nwc_2020/nwc_2020_12833)
-![nwc](/assets/images/nwc_2020/nwc_2020_12898 "KMo")
-![nwc](/assets/images/nwc_2020/nwc_2020_12899)
-![nwc](/assets/images/nwc_2020/nwc_2020_12900 "C'est parti !")
-![nwc](/assets/images/nwc_2020/nwc_2020_12907)
-![nwc](/assets/images/nwc_2020/nwc_2020_12914)
-![nwc](/assets/images/nwc_2020/nwc_2020_12915)
-![nwc](/assets/images/nwc_2020/nwc_2020_12916)
-![nwc](/assets/images/nwc_2020/nwc_2020_12917 "Champs-Elysées et Arc-de-Triomphe")
-![nwc](/assets/images/nwc_2020/nwc_2020_12918)
-![nwc](/assets/images/nwc_2020/nwc_2020_12918)
 
 Le samedi 12 septembre, tous les participants ont rendez-vous devant le magasin de cycles le KM0, à proximité de l’Arc de Triomphe.
 
