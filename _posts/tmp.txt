@@ -1,0 +1,6 @@
+[gallery link="file" size="medium" type="columns" ids="63,64,101" orderby="rand"]
+[gallery size="medium" link="file" type="rectangular" ids="67,72,534,535,536,537" orderby="rand"]
+[gallery link="file" size="medium" type="rectangular" ids="69,68,75,205" orderby="rand"]
+[gallery link="file" size="medium" type="rectangular" ids="77,76,203" orderby="rand"]
+[gallery link="file" size="large" type="rectangular" ids="102,103,104" orderby="rand"]
+[gallery link="file" size="medium" type="rectangular" ids="79,81,80,70,71,206,207,208,209,210,211,212,539" orderby="rand"]

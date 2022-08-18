@@ -9,7 +9,7 @@ categories:
 image: /assets/images/nwc_2020/nwc_2020_12918
 
 ---
-À défaut de participer au tour de France cette année, les Two Moulins participeront au [Nicolas Werner Challenge](https://www.thenwc.org) qui est un évènement européen pour lutter contre le cancer et favoriser sa recherche !
+À défaut de participer au tour de France cette année, les Two Moulins participeront au [Nicolas Werner Challenge](https://www.thenwc.org) qui est un évènement européen pour lutter contre le cancer et favoriser sa recherche !
 
 Challenge que nous avions manqué l'an dernier, mais que nous ferons cette année pour la grand-mère de Félix qui se bat actuellement contre un cancer.
 
@@ -20,19 +20,19 @@ Cet évènement étant gratuit, les organisateurs poussent l'ensemble des partic
 <div class="gallery-box">
   <div class="gallery">
     <img src="/assets/images/nwc_2020/nwc_2020_12802" title="POur Raymonde" alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12803"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12833"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12898" title="KM0" alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12899"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12900" title="C'est parti" alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12907"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12914"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12915"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12916"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12917" title="Champs-Elysées et Arc-de-Triomphe" alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
-	<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
-  </div>
+		<img src="/assets/images/nwc_2020/nwc_2020_12803"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12833"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12898" title="KM0" alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12899"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12900" title="C'est parti" alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12907"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12914"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12915"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12916"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12917" title="Champs-Elysées et Arc-de-Triomphe" alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
+		<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
+	  </div>
   <!--<em>My best moments / <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>-->
 </div>
 
@@ -42,7 +42,7 @@ Le départ étant prévu vers 8h, nous partons de Lille de bonne heure avec nos 
 
 Félix a son gravel et moi je suis en vtt, car on a privilégié l’option chemins.
 
-Nous sommes accueillis chaleureusement par Moritz et des bénévoles, afin de récupérer le tracé de l’itinéraire et notre plaque de cadre.</p>
+Nous sommes accueillis chaleureusement par Moritz et des bénévoles, afin de récupérer le tracé de l’itinéraire et notre plaque de cadre.</p>
 
 > Celle-ci est personnalisée puisqu’elle indique le prénom d’un proche qui lutte contre un cancer.
 
