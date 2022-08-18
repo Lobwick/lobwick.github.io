@@ -7,8 +7,8 @@ Après l'Etape sportive du Tour de France en juillet, passons au cyclotourisme .
 Je n'avais pas eu le temps de longer les Côtes de la Manche et du débarquement en 2018.
 Mais cette année le temps n'est pas favorable dans cette région en ce mois d'août.
 La région parisienne bénéficie de meilleures conditions météorologiques.
-Il va falloir profiter de ce week-end sans orages mais venté !<em><strong>
-</strong></em>Grâce au site " France Vélo Tourisme ", que je recommande, je vais explorer le Parc naturel régional du Vexin français.
+Il va falloir profiter de ce week-end sans orages mais venté !> 
+Grâce au site " France Vélo Tourisme ", que je recommande, je vais explorer le Parc naturel régional du Vexin français.
 L'Avenue verte Paris-London traverse justement celui-ci ...
 Deux options possibles de parcours m'offrent l'opportunité d'effectuer une boucle autour de cette région.
 Je choisis comme base de départ la petite ville de Neuville-sur-Oise à proximité de Cergy.
@@ -22,8 +22,8 @@ C'est l'âme même de France Vélo Tourisme qui évite au maximum les routes tro
 Le Victoire toujours de service, équipé en sacoches bike packing, est parfait pour ces itinéraires ouverts à tous.
 Les champs alternent avec de petits bois tranquilles et des villages authentiques.
 Ces charmants paysages préservés sont aussi riches en belles demeures et en manoirs.
-C'est au niveau de Chaussy que j'atteins l'Epte.<em><strong>
-</strong></em>J'y croise deux autres jeunes cyclotouristes se rendant jusqu'à Rouen.
+C'est au niveau de Chaussy que j'atteins l'Epte.> 
+J'y croise deux autres jeunes cyclotouristes se rendant jusqu'à Rouen.
 
 [gallery type="rectangular" link="file" size="large" ids="10715,10716,10718,10717,10720,10721,10722,10723"]
 

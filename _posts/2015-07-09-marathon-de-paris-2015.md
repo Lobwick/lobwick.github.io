@@ -5,12 +5,12 @@ date:   2015-07-09 15:46:20 +0100
 ---
 <p style="text-align: justify;">Suite du week-end avec le Marathon de Paris. Changement de décor avec la capitale après les <a href="http://twomoulins.fr/velo/paris-roubaix-2015">pavés</a>.
 Eh oui ! C'est ce qui arrive quand on ne fait pas attention aux inscriptions.</p>
-<p style="padding-left: 30px;"><em><strong>On se doit d'assumer ces deux jours de folie à consommer avec modération pour tenir !</strong></em></p>
+> On se doit d'assumer ces deux jours de folie à consommer avec modération pour tenir !
 
 <h2 style="text-align: justify;">Le Marathon de Paris
 <p style="text-align: justify;">Changement radical de temps avec même de la chaleur.
 Les pompiers avaient sorti leurs lances à incendie pour nous réhydrater.</p>
-<p style="padding-left: 30px;"><em><strong>Ambiance impressionnante pour un premier marathon en famille.</strong></em></p>
+> Ambiance impressionnante pour un premier marathon en famille.
 <p style="text-align: justify;">Nous avions d'ailleurs plus ou moins reconnu le parcours en participant au <a href="https://www.strava.com/activities/265166492">semi-marathon</a> quelques semaines auparavant.
 Une fois positionnés dans notre sas, il n'y a plus qu'à suivre le rythme.</p>
 [gallery link="file" size="medium" type="rectangular" ids="217,216"]

@@ -5,13 +5,13 @@ date:   2018-06-28 19:23:36 +0100
 ---
 Etant cyclistes et coureurs, il fallait se mettre au Bike&amp;Run.
 L'occasion se présente sur une petite distance, idéale pour découvrir cette activité.
-<p style="padding-left: 30px;"><em><strong>Nous nous retrouvons donc à Zuytpeene, proche de Cassel et son célèbre Mont.</strong></em></p>
+> Nous nous retrouvons donc à Zuytpeene, proche de Cassel et son célèbre Mont.
 C'est d'ailleurs le Cassel Vtt Club qui organise cette épreuve, tout comme le Cassel Trophy.
 
 [gallery type="rectangular" link="file" size="large" ids="8160,8159,8149"]
 <p style="text-align: justify;">Retrait des dossards et de la plaque de cadre entre 14 et 15h30, pour un départ dans la foulée.
 Les organisateurs sont tout juste installés car nous sommes les premiers, bien que venant de loin.</p>
-<p style="text-align: justify;"><em><strong>         L'équipe 641 des Twomoulins peut donc se préparer, avant de se reposer un peu.</strong></em></p>
+<p style="text-align: justify;">>          L'équipe 641 des Twomoulins peut donc se préparer, avant de se reposer un peu.
 <p style="text-align: justify;">Enfin, plus ou moins, car c'est la ducasse au village, avec les manèges qui tournent déjà !</p>
 [gallery type="rectangular" link="file" size="large" ids="8161,8148"]
 <p style="text-align: justify;">Après une longue attente, il faut se rapprocher de la ligne de départ, pour ne pas manquer le briefing d'avant course.
@@ -26,7 +26,7 @@ La décision a été prise de me faire courir en premier.</p>
 <p style="text-align: justify;">Félix se tient prêt pour me suivre à vélo, jusqu'à ce que je m'épuise.
 Surtout que ce sprint trop rapide m'a coupé les jambes !
 Il pose donc son vélo un peu plus loin, avant que je l'enfourche afin de récupérer.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>C'est ainsi que nous trouvons notre rythme ...</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> C'est ainsi que nous trouvons notre rythme ...
 <p style="text-align: justify;">Jusqu'au moment où je suis stupéfait d'apercevoir Félix, courant quelques centaines de mètres en avant, alors que je ne suis pas en train de pédaler.
 Comble de précipitation, je n'ai pas vu le vélo posé sur le talus, en courant !
 Demi-tour en remontant les autres concurrents ahuris.
@@ -39,10 +39,10 @@ Il en faut car l'autre boucle est moins plate, avec de nombreux passages à trav
 [gallery type="rectangular" link="file" size="large" ids="8158,8155,8154,8151"]
 <p style="text-align: justify;">Le vent de nord est sensible mais nous l'alternons de face et dans le dos.
 Il a le mérite de rafraichir surtout les coureurs.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Nous rattrapons notre retard, en remontant les équipes, dont certaines se disputent !</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Nous rattrapons notre retard, en remontant les équipes, dont certaines se disputent !
 <p style="text-align: justify;">Ces confrontations directes augmentent notre motivation.
 Mais, après tous ces efforts, voilà à nouveau le village pour nous acclamer chaleureusement.</p>
-<p style="padding-left: 30px;"><em><strong>Ce premier Run &amp; Bike des Two Moulins se finira à la 10° place !</strong></em></p>
+> Ce premier Run &amp; Bike des Two Moulins se finira à la 10° place !
 8178
 [gallery type="rectangular" size="large" link="file" ids="8182,8180,8179,8144,8143,8177"]
 <p style="text-align: justify;">C'est le moment de récupérer avec une bonne pression bien fraîche et une gaufre artisanale cuite le matin par les organisateurs : goûter prévu dans l'inscription.

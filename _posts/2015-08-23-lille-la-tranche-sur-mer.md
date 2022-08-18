@@ -4,7 +4,7 @@ title:  "Direction La Tranche / Mer"
 date:   2015-08-23 16:27:44 +0100
 ---
 <p style="text-align: justify;">Pour rejoindre la famille installée en camping.</p>
-<p style="padding-left: 30px;"><em><strong>Quatre jours sont prévus avec des étapes de plus ou moins 200 km.</strong></em></p>
+> Quatre jours sont prévus avec des étapes de plus ou moins 200 km.
 
 <h2 style="text-align: justify;">Jour 1
 <p style="text-align: justify;">Le beau temps est au rendez-vous.
@@ -25,7 +25,7 @@ Un MacDo se présente sur notre route à l’heure du déjeuner.</p>
 [gallery type="rectangular" link="file" ids="506,521,525" orderby="rand"]
 <h2 style="text-align: justify;">Jour 3
 <p style="text-align: justify;">Heureusement, les collines du Perche vont nous apporter un peu de fraîcheur relative.</p>
-<p style="padding-left: 30px;"><em><strong>Mais avec plus de dénivelés forcément.</strong></em></p>
+> Mais avec plus de dénivelés forcément.
 <p style="text-align: justify;">Nous croisons d’ailleurs l’itinéraire du Paris-Brest.</p>
 [gallery type="rectangular" link="file" ids="526,529" orderby="rand"]
 <h2 style="text-align: justify;">
@@ -35,7 +35,7 @@ Dans Nantes, la chaleur est de retour.
 Nous nous réfugions dans un jardin public accueillant pour déjeuner au frais.
 
 [gallery type="rectangular" link="file" ids="513,516,514"]
-<p style="padding-left: 30px;"><em><strong>Fin de l’aventure avec une installation méritée à La Tranche.</strong></em></p>
+> Fin de l’aventure avec une installation méritée à La Tranche.
 [gallery type="rectangular" link="file" ids="518,517,584"]
 
 <center><iframe src="https://www.strava.com/activities/1141195390/embed/fdd8e921792e138339e8369d660dec082776720b" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>

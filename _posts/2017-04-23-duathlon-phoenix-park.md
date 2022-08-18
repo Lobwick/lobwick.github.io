@@ -32,7 +32,7 @@ N’ayant pas été doublé lors de cette transition, je décide de maintenir ma
 
 <center><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1140269082/embed/7d344e8a6c86ea04e9a699bec28f5e53bf95f101'></iframe></center>
 4792
-<p style="padding-left: 30px;"><em><strong>Je termine donc ce duathlon de Phoenix Park à la 13e place sur 223 personnes en 1:12:00.</strong></em></p>
+> Je termine donc ce duathlon de Phoenix Park à la 13e place sur 223 personnes en 1:12:00.
 Très bonne expérience que j’ai hâte de renouveler une fois rentré en France au Chtriman de Gravelines.
 Il faudra tout de même que je travaille les transitions car j’y ai perdu de précieuses minutes.
 Merci à toute l'équipe de Belpark Tri pour l'organisation de ce superbe duathlon à Phoenix Park et à <a href="https://www.facebook.com/Lcwautelet/">Lucie</a> pour une grande partie des photos de cet article.

@@ -4,7 +4,7 @@ title:  "Lille - Hardelot"
 date:   2017-05-27 21:52:57 +0100
 ---
 <p style="text-align: justify;">C’est au dernier moment que nous avons décidé de participer à cette édition.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>En effet, elle coïncide avec la fin des cours de Félix en Irlande.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> En effet, elle coïncide avec la fin des cours de Félix en Irlande.
 <p style="text-align: justify;">Je viens juste d’aller le chercher à l’aéroport de Beauvais, en provenance de Dublin.
 Il faut surtout récupérer son vélo pour prendre le départ de ce Lille-Hardelot.
 Même en nous inscrivant au dernier moment, il reste toujours de la place pour cette cyclosportive.</p>
@@ -13,7 +13,7 @@ Même en nous inscrivant au dernier moment, il reste toujours de la place pour c
 <p style="text-align: justify;">Rendez-vous au Grand-Palais de Lille en ce dimanche 21 mai 2017.</p>
 [gallery type="rectangular" size="large" link="file" ids="5166,5167,5168"]
 <p style="text-align: justify;">Difficile de rejoindre la ligne de départ, car il faut se faufiler parmi les 6500 participants.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Heureusement tous les cyclotouristes ne partent pas en même temps !</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Heureusement tous les cyclotouristes ne partent pas en même temps !
 <p style="text-align: justify;">Mieux vaut quand même ne pas tarder pour ne pas être gênés.
 C’est donc vers 7 h que nous retrouvons Philippe, Kevin et Simon pour former un petit peloton de cinq.</p>
 [gallery type="rectangular" size="large" link="file" ids="5127,5126"]
@@ -23,7 +23,7 @@ Quel plaisir de parcourir les grands boulevards de Lille, même s’il faut surv
 <p style="text-align: justify;">Une certaine fraîcheur nous accompagne jusqu’à Merville.</p>
 
 <h2 style="text-align: justify;">Merville
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Premier ravitaillement au niveau de l’île flamande.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Premier ravitaillement au niveau de l’île flamande.
 <p style="text-align: justify;">Merville, ancienne cité drapière flamande, se dénommait Meerghem, ou hameau de la mer, au XVe siècle.
 Elle est entourée de 25 km de cours d’eau, dont la Lys.</p>
 [gallery type="rectangular" size="large" link="file" ids="5131,5132,5133"]
@@ -36,7 +36,7 @@ Elle est entourée de 25 km de cours d’eau, dont la Lys.</p>
 <h2 style="text-align: justify;">Saint-Omer
 <p style="text-align: justify;">Déjà la moitié de la distance accomplie, mais sans dénivelé !
 Avant les premiers faux plats montants, il est préférable de se ravitailler.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Il faut vraiment en avoir besoin, car il y a du bouchon de cyclistes qui ont eu la même idée.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Il faut vraiment en avoir besoin, car il y a du bouchon de cyclistes qui ont eu la même idée.
 <p style="text-align: justify;">Tout le monde se retrouve à proximité de l’Abbaye de Saint-Bertin.</p>
 [gallery type="rectangular" size="large" link="file" ids="5170,5171,5169"]
 <p style="text-align: justify;">Ce vaisseau fantôme de pierre est un site quasi wagnérien, idéal pour faire une pause.</p>
@@ -58,11 +58,11 @@ Nous allons pouvoir reprendre des forces grâce à sa volaille, grillée à poin
 [gallery type="rectangular" size="large" link="file" ids="5172,5184"]
 
 Licques est en effet connue pour sa célèbre Fête de la dinde.
-<p style="padding-left: 30px;"><em><strong>Délicieux, mais à consommer avec modération, car les futures collines sont de plus en plus prononcées !</strong></em></p>
+> Délicieux, mais à consommer avec modération, car les futures collines sont de plus en plus prononcées !
 
 ## Collines de l’Artois
 Par rapport à l’année dernière, les côtes sont moins raides, mais plus nombreuses et plus longues.
-<p style="padding-left: 30px;"><em><strong>Exception quand même avec une nouveauté, et le Ventus d’Alembon.</strong></em></p>
+> Exception quand même avec une nouveauté, et le Ventus d’Alembon.
 C’est un Ventoux en miniature qui permet aux participants de se mesurer à l’occasion d’un défi de pente.
 
 [gallery type="rectangular" size="large" link="file" ids="5160,5161,5162"]
@@ -71,8 +71,8 @@ Un petit vent de sud nous aide à franchir ces collines de l’Artois, mais réc
 Heureusement, l’air de la Manche se fait sentir en s’approchant de Capelle-Lès-Boulogne.
 ## Capelle-Lès-Boulogne
 C’est un joli petit village du verdoyant bocage boulonnais, niché au cœur du parc naturel régional des Caps et Marais d’Opale, à sept kilomètres à peine à l’est du premier port de pêche de France.
-<p style="padding-left: 30px;"><em><strong>Dernier ravitaillement avant le sprint final jusqu’à la Côte et Hardelot.
-</strong></em></p>
+> Dernier ravitaillement avant le sprint final jusqu’à la Côte et Hardelot.
+
 [gallery type="rectangular" size="large" link="file" ids="5185,5187"]
 ## Hardelot
 Fin de cette randonnée cyclotourisme permettant à chacun d’aller à son rythme.
@@ -82,7 +82,7 @@ Fin de cette randonnée cyclotourisme permettant à chacun d’aller à son ryth
 Nous retrouvons la foule du départ après avoir franchi la ligne d’arrivée, afin de valider notre temps même s’il ne s’agit pas d’une course.
 
 <center><iframe src="https://www.strava.com/activities/999334583/embed/edb7fe2c1251d3014c4e3a814fee0edf5118790e" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Notre petit peloton des cinq doigts de la main se disperse pour regagner Lille.
-<p style="padding-left: 30px;"><em><strong>La possibilité de retourner à vélo est tentante, car nous sommes quand début d’après-midi, après avoir bien roulé.</strong></em></p>
+> La possibilité de retourner à vélo est tentante, car nous sommes quand début d’après-midi, après avoir bien roulé.
 [gallery type="rectangular" size="large" link="file" ids="5121,5156"]
 
 Ce ne sera pas la peine, car j’ai conduit le C8 la veille, mais en revenant le long d’un parcours plus direct et surtout moins vallonné.

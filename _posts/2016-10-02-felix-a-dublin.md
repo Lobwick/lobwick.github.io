@@ -42,9 +42,9 @@ Avec l'exactitude de la sncf nous quittons le port sur une Manche d'huile.
 Il faut se repérer sur cet immeuble flottant mais nous ne tardons pas à retrouver les salles communes avec sièges inclinables.
 
 [gallery type="rectangular" size="medium" link="file" ids="2492,2494,2502,2491"]
-<p style="padding-left: 30px;"><span style="font-size: 12pt;"><em><strong>Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</strong></em></span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
 3527
-<p style="padding-left: 30px;"><span style="font-size: 12pt;"><em><strong>Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</strong></em></span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
 [gallery type="rectangular" size="medium" ids="2506,2484,2482,2481,2518,2483"]
 
 Le dernier " Independance Day ", en version sous-titrée heureusement, nous permet de trouver le sommeil.
@@ -80,7 +80,7 @@ Le passage sur le pont de Normandie est une première familiale et sans aucun so
 Embarquement dans les temps sur l'Oscar Wilde de la compagnie Irish Ferries.
 
 [gallery type="rectangular" size="medium" link="file" ids="2453,2459,2450"]
-<p style="padding-left: 30px;"><em><strong>Inutile de vous dire que les Français sont en minorité !</strong></em></p>
+> Inutile de vous dire que les Français sont en minorité !
 [gallery type="rectangular" size="medium" link="file" ids="2460,2462,2464"]
 
 Vivement le départ car la chaleur est suffocante, surtout sur les ponts.
@@ -92,9 +92,9 @@ Avec l'exactitude de la sncf nous quittons le port sur une Manche d'huile.
 Il faut se repérer sur cet immeuble flottant mais nous ne tardons pas à retrouver les salles communes avec sièges inclinables.
 
 [gallery type="rectangular" size="medium" link="file" ids="2492,2494,2502,2491"]
-<p style="padding-left: 30px;"><span style="font-size: 12pt;"><em><strong>Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</strong></em></span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
 3527
-<p style="padding-left: 30px;"><span style="font-size: 12pt;"><em><strong>Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</strong></em></span></p>
+<p style="padding-left: 30px;"><span style="font-size: 12pt;">> Il y a tout ce qu'il faut à bord, même deux salles de cinéma.</span></p>
 [gallery type="rectangular" size="medium" link="file" ids="2506,2484,2482,2481,2518,2483"]
 
 Le dernier " Independance Day ", en version sous-titrée heureusement, nous permet de trouver le sommeil.
@@ -114,14 +114,14 @@ La location est vite retrouvée en plein centre, à proximité du Griffith Colle
 Elle se situe au premier étage d'une maison partagée en trois logements, à proximité d'un charmant canal où se pratiquent l'aviron ou le canoë.
 
 [gallery type="rectangular" size="medium" link="file" ids="2527,2528"]
-<p style="padding-left: 30px;"><em><strong>Félix et Adrien devraient y être bien à l'aise pour cette année scolaire.</strong></em></p>
+> Félix et Adrien devraient y être bien à l'aise pour cette année scolaire.
 Le C8 va enfin pouvoir être soulagé.
 Ce logement est en partie meublé mais l'immense Ikea de Dublin va permettre de compléter la chambre de Félix.
 Les jours suivants ne sont que montage de meubles et installation.
 D'ailleurs les températures d'une vingtaine de degrés sont appréciables en comparaison de la fournaise française.
 Le plus gros souci fut la demande de la ligne téléphonique pour Internet.
 Pas évident l'anglais avec l'accent irlandais sans aucun effort de leur part.
-<p style="padding-left: 30px;"><em><strong>En revanche l'eau est gratuite à Dublin, peut-être en tombe-t-il trop ?!?</strong></em></p>
+> En revanche l'eau est gratuite à Dublin, peut-être en tombe-t-il trop ?!?
 Après ces quelques jours de labeur, Isa et moi profitons du centre ville de Dublin avec un temps toujours aussi magnifique.
 
 [gallery type="rectangular" size="medium" link="file" ids="2543,2538,2562,2566,2572,2558,2574"]

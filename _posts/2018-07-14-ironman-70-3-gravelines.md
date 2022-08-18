@@ -46,7 +46,7 @@ Je me tiens à l'arrière, n'ayant pas une forme aquatique exemplaire; je ne veu
 <p style="text-align: justify;">La deuxième boucle est un enfer pour moi, mais je sers les dents et je continue juste pour terminer, en oubliant complètement la notion de performance. En effet, c'est avec une allure moyenne de 5.22/km que je finirai ce semi, bien en-deca des précédents accomplis, comme ceux de Paris.</p>
 
 <center><iframe src="https://www.strava.com/activities/1676206410/embed/d9ec64b2c051e59a62f3c8401a1585473dfa6ed6" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<p style="padding-left: 30px; text-align: justify;"><em><strong>Chrono de 5h39 à l'arrivée de ce premier half-ironman</strong></em></p>
+<p style="padding-left: 30px; text-align: justify;">> Chrono de 5h39 à l'arrivée de ce premier half-ironman
 [gallery type="rectangular" ids="8434,8433,8432"]
 <p style="text-align: justify;">Content d'avoir fini ce half-ironman, je franchis la ligne d'arrivée avant de rejoindre les collègues sur le stand d'Aptonia, où je peux savourer une bière à l'ombre de la tente montée par les collègues la veille.</p>
 [gallery type="rectangular" link="file" ids="8438,8439,8436,8435"]

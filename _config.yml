@@ -9,14 +9,14 @@ url: "https://lobwick.github.io/" # The base hostname & protocol for your site, 
 
 #-------------------------------
 # Author Settings
-author-name: Félix Moulin
+author-name: Two Moulins
 
 #-------------------------------
 # Hero Settings
 hero:
-  image: '/images/70.jpg'
-  title: Félix Moulin
-  description: Thoughts, stories and ideas.
+  image: '/images/twomoulins.png'
+  title: Two Moulins
+  description: 
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}

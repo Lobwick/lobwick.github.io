@@ -7,11 +7,11 @@ date:   2018-08-04 11:00:52 +0100
 Mais cette fois-ci par nos propres moyens et non en passant par Amaury Sports Organisation.
 On va donc se mesurer aux pavés, sur l'étape qui avait conduit les coureurs professionnels entre Arras et Roubaix.
 D'ailleurs celle-ci avait précédé celle de montagne pour le peloton, avec la première journée de repos intercalée.</p>
-<p style="padding-left: 30px; text-align: justify;"><em><strong>C'est l'occasion de retrouver certains secteurs pavés empruntés à <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> que nous disputons chaque année.</strong></em></p>
+<p style="padding-left: 30px; text-align: justify;">> C'est l'occasion de retrouver certains secteurs pavés empruntés à <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> que nous disputons chaque année.
 <p style="text-align: justify;">Tour de France oblige, ceux-ci seront réduits du tiers pour ne pas trop déstabiliser le peloton, avec certains cyclistes vraiment allergiques à ces gros blocs nordistes.</p>
 [gallery type="rectangular" size="large" link="file" ids="8493,8492,8491,8494,8496,8495"]
 <p style="text-align: justify;">Par conséquent, c'est l'étape 9 du tour qui nous attend et que les pros avaient accompli le dimanche 14 juillet.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Elle est prévue dans le cadre de Lille on Wheels et Félix l'a organisée en partenariat avec le Rapha Cycling Club.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Elle est prévue dans le cadre de Lille on Wheels et Félix l'a organisée en partenariat avec le Rapha Cycling Club.
 <p style="text-align: justify;">Il va donc falloir se déplacer jusqu'à Arras en voiture afin de débuter cette étape.
 C'est au niveau de la citadelle que nous rejoignons Emile car le peloton s'était élancé de celle-ci en direction de Roubaix.</p>
 [gallery type="rectangular" size="large" link="file" ids="8498,8497,8500,8499,8501,8502,8503,8505,8504,8506"]
@@ -21,14 +21,14 @@ Pas de secteurs pavés en vue mais un vent sensible de sud-ouest qui annonce la 
 Puis nous remontons en direction du nord.
 Les deux premiers secteurs pavés interviennent avant la forêt de Marchiennes.
 Après la mauvaise expérience du dernier <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> d'avril 2018 tenté avec le bon vieux Gitane Victoire, j'ai préféré l'option vtt avec mon <a href="http://twomoulins.fr/en-piste-pour-paris-roubaix-2016/">Epic</a> tout suspendu.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Du coup, les pavés semblent inexistants !</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Du coup, les pavés semblent inexistants !
 <p style="text-align: justify;">Ce n'est pas le cas de Félix dont le support gps et gopro n'a pas résisté aux terribles secousses à grande vitesse.
 Cependant, ce n'est qu'un détail en comparaison de ce que nous réserve la suite de l'étape ...</p>
 [gallery type="rectangular" size="large" link="file" ids="8507,8508,8509,8510,8511,8525,8524,8514,8536"]
 <p style="text-align: justify;">Juste un peu plus loin, alors que je me trouve au niveau de Félix pour le filmer, l'inattendu se produit ...
 On roule sur une portion mixte, avec des pavés au centre, bordés de chaque côté par une bande bitumée.
 Au moment de changer de direction, sa roue avant glisse sur une mini bordure.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>La chute est inévitable en direct sur la vidéo, me déstabilisant à mon tour sur Félix !</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> La chute est inévitable en direct sur la vidéo, me déstabilisant à mon tour sur Félix !
 <p style="text-align: justify;">Le pire est à craindre car il semble se plaindre de son épaule et je redoute une fracture de la clavicule.
 Mais c'est finalement son coude qui en sang.
 Dégâts matériels se limitant aux tenues cyclistes.
@@ -39,7 +39,7 @@ Il faut que les pavés se méritent.
 Je suis contraint de passer du tubeless à la chambre à air car il n'y a plus assez de liquide anti-crevaison dans le pneu que je dois regonfler sans cesse.
 Quant à Félix, suite à une première crevaison réparée, il doit à nouveau faire face à une perte de pression.
 Entre deux, on a le plaisir de retrouver Simon qui vient prendre part aux secousses dominicales !</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>En raison de tous ces soucis matériels et physiques, il faut se résoudre à écourter l'étape au niveau de Cysoing.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> En raison de tous ces soucis matériels et physiques, il faut se résoudre à écourter l'étape au niveau de Cysoing.
 <p style="text-align: justify;">D'autant plus que l'orage menace.
 C'est ainsi qu'on se retrouve chez Félix juste au  moment du départ de la dernière étape des coureurs du tour de France, qui les conduits jusqu'à Paris.
 Nous verrons peut-être Roubaix lors d'une nouvelle tentative ...</p>

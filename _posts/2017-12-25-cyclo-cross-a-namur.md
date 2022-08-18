@@ -5,14 +5,14 @@ date:   2017-12-25 19:30:56 +0100
 ---
 <p style="text-align: justify;">Félix se passionne de plus en plus pour cette discipline qui se rapproche du VTT.
 Nous avons déjà assisté à une manche de cette coupe du monde sur la côte Belge, à Coxyde fin octobre.</p>
-<p style="text-align: justify;"><em><strong>          C’est ce pays, avec les Pays-Bas, qui domine le classement mondial.</strong></em></p>
+<p style="text-align: justify;">>           C’est ce pays, avec les Pays-Bas, qui domine le classement mondial.
 <p style="text-align: justify;">Cette nouvelle étape reste en Belgique, autour de la citadelle de Namur.
 Nous nous y étions déjà rendus à l’occasion d’une étape du tour de France sur route en 2015.</p>
 
 <h1 style="text-align: justify;">Dimanche 17 décembre 2017</h1>
 <p style="text-align: justify;">Direction la capitale de la Wallonie, vers le sud de la Belgique.
 L’autoroute nous fait d’abord passer par Mons et Charleroi.</p>
-<p style="text-align: justify;"><em><strong>          Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle</strong></em></p>
+<p style="text-align: justify;">>           Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle
 [gallery type="rectangular" size="large" link="file" ids="6436,6461,6442"]
 <p style="text-align: justify;">Cette curieuse saucisse est une première pour Lucie, plutôt habituée aux quenelles de sa région Lyonnaise.
 Avec le gel et le dégel des jours précédents, le terrain est très boueux.
@@ -35,7 +35,7 @@ Nous sommes dans la forêt tout en surplombant la ville.
 
 [gallery type="rectangular" size="large" link="file" ids="6471,6441,6440"]
 
-<em><strong>          Vers 15 h les champions s’élancent, après s’être échauffés avant les fé</strong><strong>minines.</strong></em>
+>           Vers 15 h les champions s’élancent, après s’être échauffés avant les fé</strong><strong>minines.
 
 [gallery type="rectangular" size="large" link="file" ids="6437,6456,6485,6438"]
 
@@ -45,7 +45,7 @@ Nous avons le temps de nous déplacer aux différents endroits spectaculaires po
 
 [gallery type="rectangular" size="large" link="file" ids="6488,6470,6487,6459"]
 
-<em><strong>          Très vite, le champion du monde en titre belge, Wout Van Aert prend plusieurs centaines de mètres d’avance.</strong></em>
+>           Très vite, le champion du monde en titre belge, Wout Van Aert prend plusieurs centaines de mètres d’avance.
 
 Il est aidé par la chute d’un de ses plus proches adversaires, le Néerlandais Mathieu Van der Poel.
 Ce dernier lutte maintenant pour la deuxième place avec un autre Belge, Ton Aerts.
@@ -53,7 +53,7 @@ Tous ne tardent pas à être couverts de boue, au point de faire laver leur vél
 
 [gallery type="rectangular" size="large" link="file" ids="6446,6455,6484,6464"]
 
-<em><strong>          Félix est à l’affût avec ses différents appareils photo et je l’aide avec le smartphone pour les vidéos.</strong></em>
+>           Félix est à l’affût avec ses différents appareils photo et je l’aide avec le smartphone pour les vidéos.
 
 [gallery type="rectangular" size="large" link="file" ids="6469,6465,6468"]
 

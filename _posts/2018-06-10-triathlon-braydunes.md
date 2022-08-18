@@ -53,5 +53,5 @@ Le parcours toujours aussi ludique que les autres années, constitué de deux bo
 <p style="text-align: justify;">Après avoir profité d'un dernier ravitaillement, nous procédons à des courses pour préparer au mieux la soirée au camping du Perroquet.
 Nous pouvons enfin savourer le coucher de soleil autour d’un bon petit verre, après avoir pris une douche grâce aux robinets extérieurs.</p>
 [gallery type="rectangular" link="file" ids="8025,8029,8030,8031,8032,8033,8035,8036"]
-<p style="padding-left: 30px;"><em><strong>Toutes mes Félicitations à mes collègues pour la performance de ce premier triathlon !</strong></em></p>
+> Toutes mes Félicitations à mes collègues pour la performance de ce premier triathlon !
 8028

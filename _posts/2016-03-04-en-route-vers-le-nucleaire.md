@@ -4,7 +4,7 @@ title:  "En route vers le nucléaire !"
 date:   2016-03-04 20:16:54 +0100
 ---
 <p style="text-align: justify;">Quelle direction prendre avec un important vent de Nord-Est ?</p>
-<p style="padding-left: 30px;"><em><strong>Mieux vaut l’avoir de travers à l’aller comme au retour.</strong></em></p>
+> Mieux vaut l’avoir de travers à l’aller comme au retour.
 <p style="text-align: justify;">Je privilégie donc la direction de la Manche.</p>
 
 <center><iframe src="https://www.strava.com/activities/504877775/embed/734ae923519f19fe71ec6aa9fc975fabe6382e4b" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
@@ -13,7 +13,7 @@ date:   2016-03-04 20:16:54 +0100
 Occasion également pour moi de rendre hommage à mon dernier oncle, Josué de Nantes, décédé fin février.
 Ce dernier roulait encore quelques semaines auparavant sur son bon vieux vélo à l’âge de 93 ans.
 Tenue d’hiver adéquate pour affronter ce vent glacial, j’enfourche le Fixie auquel je prends goût.</p>
-<p style="padding-left: 30px;"><em><strong>Surtout que le parcours est relativement plat dans la plaine du Nord, à condition d’éviter les Monts.</strong></em></p>
+> Surtout que le parcours est relativement plat dans la plaine du Nord, à condition d’éviter les Monts.
 <p style="text-align: justify;">Je vais quand même frôler le Mont Cassel et sa terrible montée en pavés.
 Après ce léger vallonnement à peine perceptible avec le monovitesse, je me laisse descendre vers la côte.</p>
 [gallery type="rectangular" size="medium" link="file" ids="1627"]
@@ -28,7 +28,7 @@ Je file d’abord jusqu’à l’extrémité de l’imposante digue qui protège
 3574
 En raison du vent, il n’y a même pas un pêcheur.
 Par contre, le trafic des navires est important.
-<p style="padding-left: 30px;"><em><strong>Ensuite, je vais m’approcher au plus près de cette centrale qui tourne à plein régime en période hivernale.</strong></em></p>
+> Ensuite, je vais m’approcher au plus près de cette centrale qui tourne à plein régime en période hivernale.
 Il suffit d’écouter les trois énormes lignes électriques de 400 kV pour s’en rendre compte.
 Pas de tours de refroidissement, car il se fait grâce à la mer (à confirmer par les spécialistes).
 
@@ -38,7 +38,7 @@ Vraiment proche de la centrale, je pénètre dans Gravelines qui est une ancienn
 Un magnifique beffroi domine sa grand-place et la mairie.
 
 [gallery type="rectangular" size="large" link="file" ids="1636,1638,1637,1639,1640" orderby="rand"]
-<p style="padding-left: 30px;"><em><strong>L’air marin m’attirant, je prolonge vers Grand-Fort-Philippe en longeant le canal.</strong></em></p>
+> L’air marin m’attirant, je prolonge vers Grand-Fort-Philippe en longeant le canal.
 Je me souviens d’ailleurs d’un ancien voyage scolaire de fin d’année accompli avec des cm2.
 C’est l’ancien bâtiment des sauveteurs en mer qui me le rappelle.
 
@@ -53,7 +53,7 @@ Ayant commencé le char à cerf-volant et le mountainboard de traction (kitesurf
 ## Retour tardif
 Comme d’habitude, avec ces visites accompagnées de photos, je ne me suis pas rendu compte de la baisse du soleil.
 
-<em><strong>Or, je suis à une centaine de kilomètres de la maison.</strong></em>
+> Or, je suis à une centaine de kilomètres de la maison.
 
 Heureusement que les jours rallongent, car je dois me détourner de mon itinéraire parfois impraticable en Fixie.
 Pourtant, le passage par les marais et les moulins à eau, au soleil couchant, est saisissant.

@@ -31,7 +31,7 @@ Nous récupérons avec une bonne bière avant de monter la tente !</p>
 <center><iframe src="https://www.komoot.fr/tour/197695990/embed?profile=1" width="640" height="580" frameborder="0" scrolling="no"></iframe></center>
 12343
 Nous profitons du camping pour prendre une douche et se changer comme on le peut afin de se rendre au restaurant. Le nôtre n'est plus disponible et une majorité sont soit fermés, soit complets. Nous décidons de prendre la route de Saint-Amand et de voir sur place... Nous trouverons refuge au Soul Kitchen où une bière et un bon plat nous attendent.
-<p style="padding-left: 30px;"><em><strong>De quoi se mettre en forme pour le lendemain. </strong></em></p>
+> De quoi se mettre en forme pour le lendemain. 
 Il nous faudra tout de même retourner au camping, à 10km de Saint-Amand, avant de pouvoir dormir; juste à temps afin d'éviter la pluie menaçante !
 
 [gallery type="rectangular" link="file" ids="12316,12315,12314,12313,12312,12311"]

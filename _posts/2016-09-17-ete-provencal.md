@@ -5,7 +5,7 @@ date:   2016-09-17 02:34:44 +0100
 ---
 Comme sur le tour de France, il faut pédaler pendant les jours de repos. C'est ce que je compte faire entre mes deux traversées de la France ( Herlies-Aix-Herlies ) pour vivre comme il se doit un Été Provençal.
 
-<em><strong>Je vais rouler avec mes parents cyclistes dans l'âme.</strong></em>
+> Je vais rouler avec mes parents cyclistes dans l'âme.
 <h3>Le plateau de Puyricard</h3>
 Pour se remettre dans le rythme on va parcourir le Plateau de Puyricard.
 Il faut aussi se perfectionner avec leur nouveau gps.
@@ -27,7 +27,7 @@ C'est l'occasion aussi de profiter des Carrières de Lumières qui présentent C
 [gallery size="medium" type="rectangular" link="file" ids="2763,2764,2765,2766,2768"]
 
 Ce diaporama musical projeté sur les anciens murs de ces carrières est toujours aussi impressionnant.
-<p style="padding-left: 30px;"><em><strong>Les oeuvres de Chagall se prêtent admirablement à cette mise en scène.</strong></em></p>
+> Les oeuvres de Chagall se prêtent admirablement à cette mise en scène.
 Après avoir rafraîchi nos corps sous terre, nous rejoignons les Baux à proximité en marchant.
 
 [gallery type="rectangular" size="medium" link="file" ids="2770,2771,2772,2773,2774,2775,2776"]
@@ -57,7 +57,7 @@ Reprenons l'exploration de nouveaux espaces à vélo.
 Le mieux est de prendre la voiture.
 La solution de la chambre d'hôte à Mazan est retenue.
 
-<em><strong>Il y a des parcours cyclistes intéressants au pied du Mont Ventoux.</strong></em>
+> Il y a des parcours cyclistes intéressants au pied du Mont Ventoux.
 
 Deux d'entre eux sont programmés : Les Terrasses du Ventoux et Les portes du Ventoux.
 Je vous recommande le site " La Provence à Vélo "
@@ -68,7 +68,7 @@ Le mistral nous pousse jusqu'à Mormoiron puis jusqu'à Villes-sur-Auzon.
 
 [gallery type="rectangular" size="medium" link="file" ids="2783,2784,2785"]
 
-<em><strong>En attendant de savoir si nous suivons les gorges de la Nesque, il faut reprendre des forces avec un vrai coca bien frais.</strong></em>
+> En attendant de savoir si nous suivons les gorges de la Nesque, il faut reprendre des forces avec un vrai coca bien frais.
 
 Mais ce ne sera pas pour aujourd'hui car nous ne sommes partis qu'en milieu de journée.
 Le village perché de Méthamis vaut le détour.
@@ -100,7 +100,7 @@ La confiture est vite absorbée car quelques pentes plus raides nous permettent 
 
 [gallery type="rectangular" size="medium" link="file" ids="2803,2804,2805,2806,2807"]
 
-<em><strong>C'est l'occasion de pique-niquer avec nos rillettes et du fromage de chèvre en admirant le paysage.</strong></em>
+> C'est l'occasion de pique-niquer avec nos rillettes et du fromage de chèvre en admirant le paysage.
 
 [gallery type="rectangular" size="medium" link="file" ids="2808,2809,2810,2811,2812"]
 
@@ -114,7 +114,7 @@ On a le choix à 360 degrés entre la plaine de Carpentras, les dentelles de Mon
 Le passage sur une piste à travers la forêt et des roches rouges nous amène directement à Bédouin.
 
 [gallery type="rectangular" size="medium" link="file" ids="2816,2818"]
-<p style="padding-left: 30px;"><em><strong>Une deuxième ascension du Mont est tentante mais il faut que je m'économise pour la remontée dans le Nord le surlendemain.</strong></em></p>
+> Une deuxième ascension du Mont est tentante mais il faut que je m'économise pour la remontée dans le Nord le surlendemain.
 Ce qui n'empêche pas quelques photos souvenirs sans oublier divers achats cyclistes.
 
 [gallery type="rectangular" size="medium" link="file" ids="2819,2820"]
@@ -134,8 +134,8 @@ Il n'y a plus qu'à rejoindre Mazan en suivant le retour de la veille.
 
 <center><iframe src="https://www.strava.com/activities/672376317/embed/4f44333b3dd14ae6bae7abdfc1e2f9f3f311619a" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Cette centaine de kilomètres touristiques à un rythme familial nous a fait le plus grand bien alors qu'elle n'était pas prévue.
-<p style="padding-left: 30px;"><em><strong>Comme dirait papa, cela change du plateau de Puyricard et correspond à une bonne préparation de la Loire à vélo.</strong></em>
-<em><strong> Quant à moi, je me suis rendu compte qu'il n'y a pas que l'exploit sportif qui compte dans le cyclisme.</strong></em></p>
+> Comme dirait papa, cela change du plateau de Puyricard et correspond à une bonne préparation de la Loire à vélo.
+>  Quant à moi, je me suis rendu compte qu'il n'y a pas que l'exploit sportif qui compte dans le cyclisme.
 Il ne reste plus qu'à envisager le tour complet du Mont Ventoux, avec peut-être l'assistance d'un vélo électrique ...
 
 Désormais on attend le retour de Félix d'Inde afin de l'installer à <a href="http://twomoulins.fr/vie/felix-a-dublin">Dublin</a> pour une année d'études en échange Erasmus.

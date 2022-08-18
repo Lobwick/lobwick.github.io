@@ -7,7 +7,7 @@ date:   2020-07-23 10:32:59 +0100
 Il s'agit toujours de gravel sur les chemins des Hauts de France.
 Ce brevet est organisé par le club Lys VTT, basé à Erquinghem-Lys près d'Armentières, et regroupe une cinquantaine de cyclistes.
 C'est d'ailleurs depuis cette ville que le parcours commence, pour y revenir une fois bouclé.</p>
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Il est quand même prévu 450 km pour 5000 m de dénivelé, avec uniquement de la route pour les liaisons.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Il est quand même prévu 450 km pour 5000 m de dénivelé, avec uniquement de la route pour les liaisons.
 <p style="text-align: justify;">Habitant à proximité, il suffit de s'y rendre directement à vélo, depuis Lille pour Félix et depuis la maison pour moi; ce qui est appréciable.</p>
 
 <h2 style="text-align: justify;">Briefing
@@ -36,14 +36,14 @@ Direction les Monts des Flandres avec un lever de soleil sans nuage mais une tem
 [gallery type="rectangular" link="file" ids="12718,12743,12717,12744,12745,12719"]
 <p style="text-align: justify;">Retour en France avec le Monts des Cats et le fromage ou la bière des moines de l'abbaye .</p>
 [gallery type="rectangular" link="file" size="large" ids="12409,12408,12407,12410,12411"]
-<p style="text-align: justify; padding-left: 30px;"><em><strong>C'est justement à son niveau que l'aventure a failli se terminer pour Félix.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> C'est justement à son niveau que l'aventure a failli se terminer pour Félix.
 <p style="text-align: justify;">En effet, sa nouvelle sacoche de cintre, achetée la veille, frotte sur le cadre du vélo sans pouvoir la maintenir.
 Décision est prise de transférer son contenu dans ma sacoche de selle que je n'avais pas remplie au maximum.
 Reste à dissimuler sa sacoche parmi les arbres de la forêt, sans oublier de la repérer, afin de revenir la récupérer par la suite...</p>
 [gallery type="rectangular" size="large" link="file" ids="12412,12415,12413,12416,12414"]
 <p style="text-align: justify;">Le dernier Mont concerne la ville de Cassel où la pause déjeuner s'impose.</p>
 [gallery type="rectangular" link="file" ids="12720,12721,12722,12723,12748,12747,12746"]
-<p style="text-align: justify; padding-left: 30px;"><em><strong>C'est également le cas d'une majorité d'entre nous qui a repéré la même boulangerie.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> C'est également le cas d'une majorité d'entre nous qui a repéré la même boulangerie.
 <p style="text-align: justify;">Nous nous installons au soleil sur les marches de l'hôtel de ville avec nos sandwichs.
 Ludo en fait autant et c'est l'occasion pour faire connaissance, avant de reprendre l'aventure avec lui un peu plus loin.</p>
 [gallery type="rectangular" size="large" link="file" ids="12419,12417,12418"]

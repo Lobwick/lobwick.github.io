@@ -4,10 +4,10 @@ title:  "Nicola Werner Challenge #2021"
 date:   2021-09-24 20:17:53 +0100
 ---
 Après la découverte de ce challenge l’année dernière, Félix et moi participons à sa 6 ème édition.
-<p style="padding-left: 30px;"><em><strong>Il est toujours destiné à réunir des dons afin de soutenir la lutte contre les HPV.</strong></em></p>
+> Il est toujours destiné à réunir des dons afin de soutenir la lutte contre les HPV.
 C’est ce qui a causé le décès de Nicola Werner, dont le mari Moritz est à l’origine de ce challenge.
 Pour nous, il se déroule à Paris, mais il est aussi international.
-<p style="padding-left: 30px;"><em><strong>Chaque participant choisit de soutenir une personne de sa famille luttant contre un cancer.</strong></em></p>
+> Chaque participant choisit de soutenir une personne de sa famille luttant contre un cancer.
 Hélas pour nous, il s’agit toujours de Raymonde, mamie de Félix et qui continue à avoir le courage de résister à son cancer des os !
 
 [gallery type="rectangular" link="file" size="large" ids="13940,13941"]
@@ -24,13 +24,13 @@ Après la traversée du Bois de Boulogne, du Parc de Saint-Cloud et de la Forêt
 [gallery type="rectangular" size="large" link="file" ids="13945,13946,13947,13948,13949,13951,13950,13952,13953,13954"]
 
 En cours de matinée, notre petit groupe d’une dizaine de gravelers traverse d’ailleurs Saint-Rémy-lès-Chevreuse.
-<p style="padding-left: 30px;"><em><strong>Nous sommes presque arrivés au Barn où un festin nous attend, avec notamment de délicieuses grillades !</strong></em></p>
+> Nous sommes presque arrivés au Barn où un festin nous attend, avec notamment de délicieuses grillades !
 [gallery type="rectangular" link="file" size="large" ids="13958,13955,13957,13960,13959,13956"]
 
 Avant d’enfourcher à nouveau nos deux roues, Moritz fait un discours pour nous rappeler l’objectif de ce challenge qui est de lutter contre le cancer.
 
 Mais il reste la moitié de l’itinéraire, c’est-à-dire une cinquantaine de kilomètres, pour retourner à Paris.
-<p style="padding-left: 30px;"><em><strong>Autant dire que la digestion va être pénible !</strong></em></p>
+> Autant dire que la digestion va être pénible !
 Heureusement le parcours est plus roulant qu’à l’aller.
 Ce qui nous permet de faire une pause pour respecter une minute de silence en la mémoire de Nicola.
 Puis nous croisons par moments les pelotons roulant exclusivement sur route.

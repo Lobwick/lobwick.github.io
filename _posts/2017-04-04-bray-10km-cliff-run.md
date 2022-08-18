@@ -45,7 +45,7 @@ Lorsque je sors de celui-ci pour rejoindre cette dernière, les quelques gouttes
 
 Je patiente avec de sympathiques coureurs sous une passerelle aux abords de la plage.
 Pour nous rendre au départ, nous devons franchir un premier obstacle car une énorme flaque s’est formée sous la passerelle.
-<p style="padding-left: 30px;"><em><strong>Ce ne sera que la première d’une longue série...</strong></em></p>
+> Ce ne sera que la première d’une longue série...
 [gallery type="rectangular" link="file" ids="4514,4495,4513"]
 <p style="text-align: justify;">J’arrive à temps pour voir les coureurs des vagues précédentes partir. Je les rattraperai pour la plupart, dans la partie descendante du parcours.</p>
 

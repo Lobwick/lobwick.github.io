@@ -3,7 +3,7 @@ layout: post
 title:  "Orléans via la région parisienne"
 date:   2015-07-27 12:18:42 +0100
 ---
-<p style="text-align: justify; padding-left: 30px;"><em><strong>Ce que j’apprécie avant tout avec le vélo, c’est d’avoir un but en fonction de la destination.</strong></em></p>
+<p style="text-align: justify; padding-left: 30px;">> Ce que j’apprécie avant tout avec le vélo, c’est d’avoir un but en fonction de la destination.
 <p style="text-align: justify;">Cette fois-ci, rendre visite à la famille maternelle jusqu’à Orléans et plus particulièrement à Olivet au bord du Loiret.</p>
 
 <h2 style="text-align: justify;">Problème de gps
@@ -14,7 +14,7 @@ Départ au petit matin du mardi 21/7 sans se presser et en retrouvant la chaleur
 
 [caption id="attachment_452" align="aligncenter" width="900"]<a href="http://twomoulins.fr/wp-content/uploads/2015/07/2015_07_21-orléansPa_011.jpg"><img class="wp-image-452 size-large" src="http://twomoulins.fr/wp-content/uploads/2015/07/2015_07_21-orléansPa_011-1024x768.jpg" alt="2015_07_21 orléansPa_01" width="900" height="675" /></a> Pratique une béquille[/caption]
 ## Paris
-<p style="padding-left: 30px;"><em><strong>La région parisienne est atteinte pour le coucher de soleil après une journée propice à la bicyclette.</strong></em></p>
+> La région parisienne est atteinte pour le coucher de soleil après une journée propice à la bicyclette.
 
 <blockquote>[gallery type="rectangular" link="file" size="medium" ids="428,426,427,424,430,429,439"]</blockquote>
 <p style="text-align: justify;">Chaude ambiance dans la capitale remplie de touristes surtout japonais qui semblent ne pas vouloir se coucher.
@@ -47,7 +47,7 @@ Il me détaille tout ceci sur leurs cartes qu’ils me laissent avec gentillesse
 Et nous voilà partis tous les deux à vélo pour m’aider à sortir d’Orléans.
 
 Le plus grand regret de cette journée fut l’impossibilité de retrouver François le frère de Laurence et sa femme Annie étant en vacances à Royan.
-<p style="padding-left: 30px;"><em><strong>Ce retour à la maison aurait pu s’intituler le chemin des cathédrales comme un certain « Racines et des ailes »</strong></em></p>
+> Ce retour à la maison aurait pu s’intituler le chemin des cathédrales comme un certain « Racines et des ailes »
 D’abord Chartres, puis Beauvais et pour finir Amiens ; il ne manquait que Senlis que j’aurais pu visiter à l’aller, sans oublier Orléans.
 Je remercie encore Philippe pour cette riche idée.
 
@@ -59,7 +59,7 @@ Ce voyage s’est terminé par la tournée émouvante des cimetières militaires
 
 Pour conclure, je commence à m’habituer à la navigation classique sur carte papier avec boussole.
 Mais j’aimerais bien retrouver un GPS digne de ce nom pour de tels périples, car c’est plus rassurant.
-<p style="padding-left: 30px;"><em><strong>Après 72 heures dont dix pour cent de sommeil, on est content de retrouver son domicile et calmé pour un moment !</strong></em></p>
+> Après 72 heures dont dix pour cent de sommeil, on est content de retrouver son domicile et calmé pour un moment !
 Retrouvez l’ensemble des photos <a href="http://adobe.ly/1HSvSfv">ici</a>.
 
 <center><iframe src="https://www.strava.com/activities/353910358/embed/cfd20dfb57ca459a3b68d30a6c4c36a5a271dc7e" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
