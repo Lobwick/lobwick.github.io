@@ -20,7 +20,7 @@ Le port est à proximité, avec la principale usine de production de la fameuse 
 
 
 
-[gallery type="rectangular" link="file" size="large" ids="9332,9331,9333,9378,9379,9337,9380"]
+9332,9331,9333,9378,9379,9337,9380
 
 En quittant la Meuse, je m'élève tout de suite sur les hauteurs de Liège, avant de redescendre jusqu'à Nessonvaux.
 Il n'y a plus qu'à suivre la Vesdre jusqu'à Verviers, en passant par Pepinster.
@@ -28,7 +28,7 @@ Il n'y a plus qu'à suivre la Vesdre jusqu'à Verviers, en passant par Pepinster
 
 
 
-[gallery type="rectangular" link="file" size="large" ids="9381,9357,9340,9396,9344,9343,9349,9352,9353,9382,9383,9355,9358,9384,9385"]
+9381,9357,9340,9396,9344,9343,9349,9352,9353,9382,9383,9355,9358,9384,9385
 
 >  
 
@@ -38,13 +38,13 @@ Après une bonne ascension pour le contourner, je peux profiter de sa tour panor
 Je vais ensuite rouler sur le barrage pour compléter les photos, avec un ciel qui se dégage.
 Hélas, pas le temps de faire le tour du lac complètement ...
 
-[gallery type="rectangular" ids="9362,9363,9386,9387,9364,9388,9389,9368,9390,9369,9370,9372,9391,9375,9392,9393,9395"]
+[gallery type="rectangular" ids="9362,9363,9386,9387,9364,9388,9389,9368,9390,9369,9370,9372,9391,9375,9392,9393,9395
 
 Le lac d'Eupen m'attend, avant de me rapprocher de l'Allemagne.
 >           Je vais aussi retrouver les difficultés dans ma deuxième langue scolaire !
 On ne rencontre personne, à part quelques " hgnistes " ,en traversant ensuite une vaste zone naturelle protégée.
 
-[gallery type="rectangular" link="file" size="large" ids="9398,9399,9400,9401,9402,9403,9404,9405,9406,9407,9408,9409,9410,9411"]
+9398,9399,9400,9401,9402,9403,9404,9405,9406,9407,9408,9409,9410,9411
 
 Je suis étonné de pouvoir déjà traverser la frontière, avant de plonger sur Montjoie ou Monschau.
 C'est vraiment une petite bourgade à ne pas manquer, typique de la région, un peu à l'alsacienne !
@@ -53,7 +53,7 @@ jusque là.
 Je vais pouvoir goûter avec le fameux pain allemand, surtout qu'à partir de 18 h tout ferme dans ce pays.
 Pas besoin de montre car les touristes que je suis, se sont volatilisés !
 
-[gallery type="rectangular" ids="9412,9413,9414,9415,9416,9417,9418,9419,9420,9421,9422,9423,9424,9425"]
+[gallery type="rectangular" ids="9412,9413,9414,9415,9416,9417,9418,9419,9420,9421,9422,9423,9424,9425
 
 Problème d'itinéraire car je dois traverser la forêt sur un chemin sinueux de vttistes.
 >           Victoire n'y résisterait pas et je préfère l'épargner !
@@ -68,14 +68,14 @@ C'est un restaurant touristique complètement déserté, comme hanté !
 Il y a quand même un peu d'éclairage permettant de m'installer tranquillement.
 Seuls quelques cris d'animaux viennent déranger la nuit.
 
-[gallery type="rectangular" link="file" size="large" ids="9426,9427,9428,9429,9430,9431,9432,9435,9433,9434,9436"]
+9426,9427,9428,9429,9430,9431,9432,9435,9433,9434,9436
 
 Pour ce deuxième jour, le ciel est complètement dégagé comme prévu.
 >           Sans pouvoir m'échauffer, il faut remonter de ce lac sur une forte pente en guise de
 petit dejeuner.   
 Le soleil se lève sur Schleiden, avant de retrouver un considérable parc d'éoliennes sur un plateau.
 
-[gallery type="rectangular" link="file" size="large" ids="9438,9439,9440,9441,9443,9442,9444,9445"]
+9438,9439,9440,9441,9443,9442,9444,9445
 
 Puis la série des lacs continue pour le bonheur énergétique de la région.
 J'ai bien cru devoir m'en passer car il faut s'engager sur une piste forestière.
@@ -84,7 +84,7 @@ C'est la retenue d'eau d'Oleftalstrasse, la plus sauvage,que le soleil matinal i
 
 
 
-[gallery type="rectangular" link="file" size="large" ids="9446,9447,9448,9452,9450,9451,9449"]
+9446,9447,9448,9452,9450,9451,9449
 
 >  
 
@@ -92,24 +92,24 @@ Après ces soucis, le relief s'adoucit jusqu'à la frontière avec la Belgique.
 >           On se noie pleinement dans l'immense forêt de sapins.
 Sorti d'Allemagne, changement de direction vers l'Est et le circuit automobile de Spa-Francorchamps.
 
-[gallery type="rectangular" link="file" size="large" ids="9453,9454,9457,9456,9455,9460,9459"]
+9453,9454,9457,9456,9455,9460,9459
 
 >           C'est au tour du cinquième si vous avez suivi !
 Petit lac de Butgenbach que je peux suivre sur un sentier pas large mais roulant.
 
-[gallery type="rectangular" link="file" size="large" ids="9466,9462,9463,9465,9468,9469"]
+9466,9462,9463,9465,9468,9469
 
 Pas beaucoup plus loin, sur la Warche, l'interminable série se conclue par le plan d'eau de Robertville.
 Pour mieux l'admirer, je le traverse deux fois avant de franchir son barrage.
 
-[gallery type="rectangular" link="file" size="large" ids="9472,9471,9476,9474,9470,9473"]
+9472,9471,9476,9474,9470,9473
 
 En début d'après-midi, goûter de hamburgers au MacDo de Malmedy.
->           Il y en a si peu au sein de ces conifères et il faut bien reconstitué le potentiel</strong> </em>
+>           Il y en a si peu au sein de ces conifères et il faut bien reconstitué le potentiel</strong> 
 >           de protéines !
 Le soleil est rayonnant sur les magnifiques édifices de cette localité importante.
 
-[gallery type="rectangular" link="file" size="large" ids="9478,9479,9480,9481,9482,9483,9477"]
+9478,9479,9480,9481,9482,9483,9477
 
 >           J'approche enfin du but de ce deuxième jour, le circuit de Formule 1.
 Il était proche de ma dernière incursion dans les Ardennes, mais il avait fallu penser à revenir à la maison.
@@ -123,7 +123,7 @@ Je me faufile sur tous les différents parkings interdits à la circulation, pou
 Je ne me prive pas non plus pour un ravitaillement en eau dans le luxueux hôtel du circuit, en espérant croiser quelques pilotes pas encore arrivés.
 Un peu déçu par cette désillusion due au calendrier, je vais me réconforter avec les retrouvailles de la cascade de Coo.
 
-[gallery type="rectangular" link="file" size="large" ids="9484,9485,9486,9487,9488,9489,9490,9491"]
+9484,9485,9486,9487,9488,9489,9490,9491
 
 Après une longue descente impressionnante et interminable, me voilà à Stavelot.
 Il n'y a plus qu'à suivre l'Amblève qui va finir par se jeter en cascade à Coo, après avoir traversé la commune de Trois-Ponts.
@@ -132,7 +132,7 @@ Ce site très touristique est forcément plus animé qu'au printemps.
 Impossible d'y dormir comme la dernière fois ...
 Je vais trouver plus de calme en continuant à rouler dans la vallée.
 
-[gallery type="rectangular" link="file" size="large" ids="9492,9493,9494,9500,9496,9497,9498,9499,9495,9501,9502,9503"]
+9492,9493,9494,9500,9496,9497,9498,9499,9495,9501,9502,9503
 
 La troisième journée devait être orageuse mais la nuit étoilée a laissé place à un ciel azur.
 >           C'est l'occasion de respecter l'itinéraire avec une boucle passant par le joyau du massif, 
@@ -140,7 +140,7 @@ La troisième journée devait être orageuse mais la nuit étoilée a laissé p
 Il suffit de quitter l'Emblève à Remouchamps, pour la retrouver plus tard dans la journée.
 Après avoir fait l'effort de me lever aux aurores, j'assiste incrédule à la dissipation des bancs de brume par le soleil levant.
 
-[gallery type="rectangular" ids="9504,9514,9506,9521,9507,9508,9509,9510,9522,9511"]
+[gallery type="rectangular" ids="9504,9514,9506,9521,9507,9508,9509,9510,9522,9511
 
 Après ces splendides vues de cartes postales, le petit déjeuner est prévu à Theux.
 C'est aussi une petite ville incontournable des Ardennes ...
@@ -148,7 +148,7 @@ C'est aussi une petite ville incontournable des Ardennes ...
 
 
 
-[gallery type="rectangular" link="file" size="large" ids="9513,9512,9516,9517,9518,9519,9520"]
+9513,9512,9516,9517,9518,9519,9520
 
 >  
 
@@ -157,14 +157,14 @@ Menu chargé sur le plateau : un fort, un sanctuaire et un centre de pèlerinage
 bien sûr.
 C'était l'heure de la messe comme dans la cathédrale de Reims.
 
-[gallery type="rectangular" link="file" size="large" ids="9524,9525,9523,9526,9528,9530,9529,9531"]
+9524,9525,9523,9526,9528,9530,9529,9531
 
 Retrouvailles avec l'Emblève à Aywaille que l'on traverse lors de Liège-Bastogne-Liège.
 Son pont est chargé d'histoire.
 C'est en longeant le cours d'eau que je croise un bon nombre de canards profitant du soleil qui a tendance à disparaître.
 Je fais aussi la connaissance de Stefan Steiner, un pêcheur à la fois cycliste, qui me recommande quelques bonnes bières une fois de retour à Liège.
 
-[gallery type="rectangular" link="file" size="large" ids="9541,9535,9536,9538,9537,9534,9539"]
+9541,9535,9536,9538,9537,9534,9539
 
 En croisant des cyclistes au bas d'une forte côte, ils m'indiquent que le détour vaut la peine pour éviter la route principale.
 De toutes les façons, eux n'ont pas le choix puisqu'ils habitent à mi-pente !
@@ -172,7 +172,7 @@ De toutes les façons, eux n'ont pas le choix puisqu'ils habitent à mi-pente !
 L'ascension laisse place à un beau panorama sur le plateau.
 La descente jusqu'à Comblain-au-Pont est vertigineuse.
 
-[gallery type="rectangular" link="file" size="large" ids="9542,9543,9544,9545,9546,9547,9548"]
+9542,9543,9544,9545,9546,9547,9548
 
 Nouvelle bonne surprise avec la découverte du Ravel que les cyclistes avaient aussi évoqué.
 Pas évident de le dénicher mais le jeu en vaut la chandelle !
@@ -181,14 +181,14 @@ Pas évident de le dénicher mais le jeu en vaut la chandelle !
 Il longe le canal de l'Ourthe qui vient de recueillir les eaux de l'Emblève.
 C'est un tracé familial riche en découvertes, m'épargnant la circulation de mon itinéraire d'origine.
 
-[gallery type="rectangular" link="file" size="large" ids="9552,9553,9554,9555,9556,9557,9558,9560,9561,9562,9563"]
+9552,9553,9554,9555,9556,9557,9558,9560,9561,9562,9563
 
 Je suis même surpris de pénétrer dans la capitale Wallone sans la deviner.
 La Vesdre vient se jeter dans l'Ourthe qui va retrouver la Meuse.
 >           C'est en quelque sorte un peu comme l'aboutissement de mon périple le long de ces 
 >           différents cours d'eau alimentant de nombreux lacs.
 
-[gallery type="rectangular" link="file" size="large" ids="9564,9572,9569,9570,9571,9587"]
+9564,9572,9569,9570,9571,9587
 
 L'avance que je possédais s'est réduite en tourisme mais comme le temps ne menace plus, j'en profite jusqu'à l'obscurité ...
 >           Tant pis pour les fameuses bières de la Place du Marché en plein centre ville !
@@ -197,7 +197,7 @@ Je préfère savourer le succulent pain noix-noisettes que je transporte depuis 
 Aussi bon que la baguette !
 A la nuit tombante je retrouve la voiture qui m'attend ...
 
-[gallery type="rectangular" link="file" size="large" ids="9577,9575,9574,9576,9579,9580,9581,9582,9583,9584,9586"]
+9577,9575,9574,9576,9579,9580,9581,9582,9583,9584,9586
 
 Il est prévu de suivre les côtes de la Manche avec les plages du débarquement, mais mes élèves risquent de s'impatienter !
 Dire que certains prennent une année sabbatique pour faire le tour du monde ...

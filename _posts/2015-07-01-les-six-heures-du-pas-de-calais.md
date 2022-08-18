@@ -9,7 +9,7 @@ Nous étions présents tous les deux sur la sortie cyclosportive des Six Heures 
 ## Veille des Six Heures du Pas de Calais
 Une soirée camping passé durant la course avec <a href="http://runinlille.fr">Émile</a> et <a href="http://selimaklil.fr">Sélim</a> avant une journée chargée. Des tours et encore des tours de ce circuit d’environ deux kilomètres, le tout dans une très bonne ambiance.
 
-[gallery link="file" size="large" type="rectangular" ids="109,110,111,113,114" orderby="rand"]
+109,110,111,113,114
 ## Les boucles des Six Heures du Pas de Calais
 
 112

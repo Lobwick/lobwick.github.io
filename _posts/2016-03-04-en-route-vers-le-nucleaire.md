@@ -8,7 +8,7 @@ Quelle direction prendre avec un important vent de Nord-Est ?
 Je privilégie donc la direction de la Manche.
 
 <center><iframe src="https://www.strava.com/activities/504877775/embed/734ae923519f19fe71ec6aa9fc975fabe6382e4b" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<h2 style="text-align: justify;">En route vers le nucléaire
+## En route vers le nucléaire
 Ce sera une bonne préparation pour le<a href="http://twomoulins.fr/semi-marathon-de-paris-2016/"> semi-marathon de Paris</a> du week-end suivant.
 Occasion également pour moi de rendre hommage à mon dernier oncle, Josué de Nantes, décédé fin février.
 Ce dernier roulait encore quelques semaines auparavant sur son bon vieux vélo à l’âge de 93 ans.
@@ -16,14 +16,14 @@ Tenue d’hiver adéquate pour affronter ce vent glacial, j’enfourche le Fixie
 > Surtout que le parcours est relativement plat dans la plaine du Nord, à condition d’éviter les Monts.
 Je vais quand même frôler le Mont Cassel et sa terrible montée en pavés.
 Après ce léger vallonnement à peine perceptible avec le monovitesse, je me laisse descendre vers la côte.
-[gallery type="rectangular" size="medium" link="file" ids="1627"]
+[gallery type="rectangular" size="medium" link="file" ids="1627
 La célèbre ville de Bergues est indiquée sur ma droite, mais il faudrait affronter le vent.
 Dunkerque approche rapidement avec les fumées de ses aciéries.
 
-<h2 style="text-align: justify;">Gravelines
+## Gravelines
 Me voilà déjà à Gravelines dont la centrale nucléaire est bien indiquée.
 Je file d’abord jusqu’à l’extrémité de l’imposante digue qui protège le terminal pétrolier et méthanier.
-[gallery type="rectangular" size="large" link="file" ids="1628,1629,1631,1632" orderby="rand"]
+1628,1629,1631,1632
 
 3574
 En raison du vent, il n’y a même pas un pêcheur.
@@ -32,24 +32,24 @@ Par contre, le trafic des navires est important.
 Il suffit d’écouter les trois énormes lignes électriques de 400 kV pour s’en rendre compte.
 Pas de tours de refroidissement, car il se fait grâce à la mer (à confirmer par les spécialistes).
 
-[gallery type="rectangular" size="large" link="file" ids="1635,1634,1633" orderby="rand"]
+1635,1634,1633
 
 Vraiment proche de la centrale, je pénètre dans Gravelines qui est une ancienne cité fortifiée Vauban.
 Un magnifique beffroi domine sa grand-place et la mairie.
 
-[gallery type="rectangular" size="large" link="file" ids="1636,1638,1637,1639,1640" orderby="rand"]
+1636,1638,1637,1639,1640
 > L’air marin m’attirant, je prolonge vers Grand-Fort-Philippe en longeant le canal.
 Je me souviens d’ailleurs d’un ancien voyage scolaire de fin d’année accompli avec des cm2.
 C’est l’ancien bâtiment des sauveteurs en mer qui me le rappelle.
 
-[gallery type="rectangular" size="large" link="file" ids="1641,1642,1643" orderby="rand"]
+1641,1642,1643
 
 
 3575
 Avant l’accès à la mer, la chapelle dédiée aux marins est imposante.
 Ayant commencé le char à cerf-volant et le mountainboard de traction (kitesurf à roulettes sur sable) sur le platier d’Oye, je décide d’y faire un détour.
 
-[gallery type="rectangular" size="large" link="file" ids="1647,1648" orderby="rand"]
+1647,1648
 ## Retour tardif
 Comme d’habitude, avec ces visites accompagnées de photos, je ne me suis pas rendu compte de la baisse du soleil.
 

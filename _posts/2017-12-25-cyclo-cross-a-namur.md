@@ -13,18 +13,18 @@ Nous nous y étions déjà rendus à l’occasion d’une étape du tour de Fran
 Direction la capitale de la Wallonie, vers le sud de la Belgique.
 L’autoroute nous fait d’abord passer par Mons et Charleroi.
 >           Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle
-[gallery type="rectangular" size="large" link="file" ids="6436,6461,6442"]
+6436,6461,6442
 Cette curieuse saucisse est une première pour Lucie, plutôt habituée aux quenelles de sa région Lyonnaise.
 Avec le gel et le dégel des jours précédents, le terrain est très boueux.
 Mieux vaut être bien équipé pour profiter de ce spectacle sportif.
 
 <h1 style="text-align: justify;">Course Élite féminine</h1>
 C’est l’occasion de reconnaître le circuit à accomplir plusieurs fois.
-[gallery type="rectangular" size="large" link="file" ids="6447,6449,6451,6448"]
+6447,6449,6451,6448
 Surtout que Pauline Ferrand-Prévot, notre championne française de VTT, se remet au cyclo-cross.
 Ces concurrentes vont tourner pendant trois quarts d’heure en donnant leur maximum.
 Les Britanniques dominent la compétition avec la victoire de Evie Richards.
-[gallery type="rectangular" size="large" link="file" ids="6483,6482,6450,6452,6486"]
+6483,6482,6450,6452,6486
 
 6489
 <h1>Course Elite messieurs</h1>
@@ -33,17 +33,17 @@ Il faut encore patienter sous cette grisaille froide et humide.
 Heureusement que le site est agréable autour de cette citadelle de Namur.
 Nous sommes dans la forêt tout en surplombant la ville.
 
-[gallery type="rectangular" size="large" link="file" ids="6471,6441,6440"]
+6471,6441,6440
 
 >           Vers 15 h les champions s’élancent, après s’être échauffés avant les fé</strong><strong>minines.
 
-[gallery type="rectangular" size="large" link="file" ids="6437,6456,6485,6438"]
+6437,6456,6485,6438
 
 Le circuit commence par une longue montée éprouvante afin d’atteindre le château.
 Il est ensuite plus sinueux entre les arbres, avant de retrouver la ligne d’arrivée à franchir six fois.
 Nous avons le temps de nous déplacer aux différents endroits spectaculaires pour ne rien manquer.
 
-[gallery type="rectangular" size="large" link="file" ids="6488,6470,6487,6459"]
+6488,6470,6487,6459
 
 >           Très vite, le champion du monde en titre belge, Wout Van Aert prend plusieurs centaines de mètres d’avance.
 
@@ -51,11 +51,11 @@ Il est aidé par la chute d’un de ses plus proches adversaires, le Néerlandai
 Ce dernier lutte maintenant pour la deuxième place avec un autre Belge, Ton Aerts.
 Tous ne tardent pas à être couverts de boue, au point de faire laver leur vélo entre deux passages sur la ligne d’arrivée.
 
-[gallery type="rectangular" size="large" link="file" ids="6446,6455,6484,6464"]
+6446,6455,6484,6464
 
 >           Félix est à l’affût avec ses différents appareils photo et je l’aide avec le smartphone pour les vidéos.
 
-[gallery type="rectangular" size="large" link="file" ids="6469,6465,6468"]
+6469,6465,6468
 
 Le Belge Wout Van Aert ne sera jamais rejoint en terminant avec plus d’une minute d’avance sur son compatriote Ton Aerts, devançant le Néerlandais Mathieu Van der Poel pour compléter le podium.
 Prochaine manche de la coupe du monde d’ailleurs prévue dans son pays...

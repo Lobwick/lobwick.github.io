@@ -10,14 +10,14 @@ Il suffisait d'attendre la bonne occasion ...
 Elle se présente enfin avec la semaine des jours fériés de début mai, accompagnée d'une météo estivale !
 D'ailleurs, le 8 mai n'est pas férié en Belgique.
 J'ai décidé de rouler light, pour changer du bikepacking ...
-[gallery type="rectangular" size="large" link="file" ids="7857,7853,7843,7854,7824"]
+7857,7853,7843,7854,7824
 
 Pour éviter la circulation, je trace un itinéraire sur les plus petites routes belges.
 Elles sont de très bonne qualité, en évitant leurs fameuses plaques, tout du moins en Flandres.
 > Je ne vais pas tarder à être déçu, en me rapprochant de la Wallonie !
 Le retour s'effectuera en repassant par le tracé aller.
 
-[gallery type="rectangular" size="large" link="file" ids="7822,7850,7877,7870,7868"]
+7822,7850,7877,7870,7868
 Presque pas un souffle d'air prévu et un itinéraire plutôt plat jusqu'à Namur.
 Elle marque l'entrée dans les Ardennes, avec un relief plus prononcé.
 Cela me rappelle l'épreuve de la coupe du monde <a href="http://twomoulins.fr/cyclo-cross-a-namur/">UCI de cyclo-cross à Namur</a>.
@@ -25,7 +25,7 @@ Cela me rappelle l'épreuve de la coupe du monde <a href="http://twomoulins.fr/c
 Il reste encore un tiers du parcours avant de découvrir la cascade.
 Surtout que j'aimerais atteindre ce but pour le coucher de soleil.
 La température a diminué de quelques degrés en pénétrant dans les Ardennes.
-[gallery type="rectangular" size="large" link="file" ids="7860,7863,7856,7869,7852"]
+7860,7863,7856,7869,7852
 Le panneau " Trois-Ponts " m'indique que je suis presque arrivé.
 Après un passage par son lac,  je découvre le petit village de Coo.
 Pas de temps à perdre pour les photos car le jour diminue.
@@ -35,7 +35,7 @@ A cette heure tardive il n'y a plus aucun touriste.
 Elle est composée de deux chutes principales, tombant de quelques dizaines de mètres sur une largeur conséquente, et se faisant bien entendre.
 Ce site est aussi le lieu de nombreuses activités aquatiques estivales entourant un mini parc d'attractions.
 Dommage d'avoir modifié ce paysage si naturel !
-[gallery type="rectangular" size="large" link="file" ids="7834,7851,7848,7840,7861"]
+7834,7851,7848,7840,7861
 Il n'y a pas que le tourisme mais il faut aussi remettre du carburant dans le cycliste.
 C'est assuré dans la brasserie de la cascade qui la surplombe et qui reste la dernière ouverte.
 Miraculeusement, elle me propose encore des tagliatelles carbonara, pour refaire le plein de sucres lents afin d'assurer le retour du lendemain.
@@ -48,14 +48,14 @@ Elle me permet de m'isoler de la fraîcheur des nuits ardennaises, quelle que so
 Le vélo, lui aussi recouvert, me tient compagnie.
 Cela me rappelle la <a href="http://twomoulins.fr/french-divide-2/">French Divide</a> ...
 7907
-[gallery type="rectangular" size="large" link="file" ids="7874,7872,7875,7876"]
+7874,7872,7875,7876
 Nuit de courte durée dans ces conditions, avec uniquement quelques degrés au réveil !
 Heureusement que les photos ont été prises au coucher de soleil, car il se lève tout juste.
 Je ne vais pas tarder à me réchauffer, en retrouvant les pentes de la veille.
 > La température est redevenue vraiment agréable en arrivant à Namur.
 C'est le moment d'y pénétrer car je l'avais évitée la veille pour ne pas perdre de temps.
 Je sais aussi que le retour est plus plat à partir de la capitale de la Wallonie.
-[gallery type="rectangular" link="file" size="large" ids="7818,7859,7837,7841,7855"]
+7818,7859,7837,7841,7855
 Plus plat mais aussi plus monotone, surtout quand il faut revenir.
 Moins de dénivelé signifie également plus de vent.
 Il souffle de l'ouest et va ralentir mon retour à la maison.
@@ -65,7 +65,7 @@ Cela veut tout dire ! Il fallait le savoir ...
 Je m'en souviendrai la prochaine fois.
 En puisant dans mes réserves, je finis par traverser la frontière.
 Alors que le soleil disparaît à l'horizon, me revoilà à la maison.
-[gallery type="rectangular" link="file" size="large" ids="7817,7825,7842,7833,7832,7906"]
+7817,7825,7842,7833,7832,7906
 Excursion en Wallonie réussie en deux jours, mais avec quelques heures supplémentaires j'aurais pu poursuivre jusqu'à Spa-Francorchamps.
 <p style="padding-left: 30px; text-align: justify;">> Il faudra y retourner au moment du grand prix de Belgique de Formule 1 !
 Pas pour rouler sur le circuit, comme ce fut le cas des coureurs du tour de France l'année dernière, mais pour se plonger dans une ambiance plus bruyante ...

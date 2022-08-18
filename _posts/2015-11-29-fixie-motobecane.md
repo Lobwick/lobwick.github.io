@@ -25,5 +25,5 @@ Pourquoi un compteur sans fil me direz-vous ? De nos jours les GPS et applicatio
 <h3>Gallerie</h3>
 Retrouvez ci-dessous une petite galerie de ce Fixie Motobécane. Il ne manque plus qu'une paire de chaussures Kursk Pro de Chrome et des pédales automatiques pour qu'il soit totalement terminé. Un seul mot pour la fin : hâte de pouvoir enfin rouler après l'immobilisation terminée !
 
-[gallery type="rectangular" link="file" size="medium" ids="1001,1000,999,998,997,996,995,994,993,992,991,990,988" orderby="rand"]
+1001,1000,999,998,997,996,995,994,993,992,991,990,988
 

@@ -7,24 +7,24 @@ Suite du week-end avec le Marathon de Paris. Changement de décor avec la capita
 Eh oui ! C'est ce qui arrive quand on ne fait pas attention aux inscriptions.
 > On se doit d'assumer ces deux jours de folie à consommer avec modération pour tenir !
 
-<h2 style="text-align: justify;">Le Marathon de Paris
+## Le Marathon de Paris
 Changement radical de temps avec même de la chaleur.
 Les pompiers avaient sorti leurs lances à incendie pour nous réhydrater.
 > Ambiance impressionnante pour un premier marathon en famille.
 Nous avions d'ailleurs plus ou moins reconnu le parcours en participant au <a href="https://www.strava.com/activities/265166492">semi-marathon</a> quelques semaines auparavant.
 Une fois positionnés dans notre sas, il n'y a plus qu'à suivre le rythme.
-[gallery link="file" size="medium" type="rectangular" ids="217,216"]
-<h2 style="text-align: justify;">Mi-parcours
+217,216
+## Mi-parcours
 Aux 10 km on ne réfléchit pas trop, mais après le <a href="https://www.strava.com/activities/265166492">semi-marathon</a> c'est une autre histoire surtout avec des températures estivales.
 Heureusement, l'ambiance des groupes de tambours et les nombreux encouragements du public parisien aident à se surpasser.
 Les pas se font plus lourds, mais après le bois de Vincennes voici le bois de Boulogne après avoir longé la Seine.
 
-<h2 style="text-align: justify;">Terminus
+## Terminus
 La ligne d'arrivée est en vue et avec elle la délivrance.
-[gallery link="file" size="medium" type="rectangular" ids="218,220,219"]
+218,220,219
 L'année prochaine, nous espérons que ces <a href="http://twomoulins.fr/velo/paris-roubaix-2015">deux</a> magnifiques événements n'aient pas lieu le même week-end.
 Cela nous permettra d'en profiter pleinement et de moins stresser.
-[gallery type="rectangular" link="file" ids="260,259,258" orderby="rand"]
+260,259,258
 
 
 258

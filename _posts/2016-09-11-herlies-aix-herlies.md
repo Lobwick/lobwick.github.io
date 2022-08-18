@@ -3,13 +3,13 @@ layout: post
 title:  "Herlies-Aix-Herlies"
 date:   2016-09-11 19:14:36 +0100
 ---
-<h2 style="text-align: justify;"><b>Aller</b>
+## <b>Aller</b>
 Deux ans après ma première traversée de la France, je suis à nouveau tenté par cette aventure.
 > Mais cette fois-ci avec un itinéraire plus direct en évitant un maximum de dénivelé.
 Je veux surtout profiter d'un maximum de jours de vacances à Aix.
 Le vélo aussi n'est plus le même car je délaisse mon vtt de compétition pour le bon vieux Gitane Victoire de papa.
 Plus d'imposantes sacoches sur porte-bagage arrière mais uniquement des sacoches en version bikepacking.
-[gallery link="file" type="rectangular" ids="2833"]
+[gallery link="file" type="rectangular" ids="2833
 > Je privilégie la légèreté pour être plus rapidement rendu dans le midi.
 Ce début août s'annonçant sec mais chaud, je décide de prendre la route le lundi 1 er août aux aurores.
 > Je pourrai ainsi profiter de journées plus longues pour accumuler les kilomètres.
@@ -18,12 +18,12 @@ Il s'agit de longer l'autoroute du nord où toute la circulation est concentrée
 Avant de traverser Paris par l'est, j'équipe la sacoche de selle d'un gilet fluo par précaution.
 La chaleur de la capitale est pesante.
 Pour rejoindre la Bourgogne je passe par Sens afin de compléter ma collection de cathédrales.
-[gallery type="rectangular" size="medium" link="file" ids="2834,2836,2837"]
+[gallery type="rectangular" size="medium" link="file" ids="2834,2836,2837
 Cette première journée se termine à Migennes car un petit jardin public va me servir de camping.
 Mon emplacement idéal est une table de pique-nique en guise de sommier.
 Après une petite toilette au gant et au bidon d'eau, il n'y a plus qu'à s'enfiler dans le sac de couchage déroulé sur la table.
 
-<h2 style="text-align: justify;">Deuxième jour
+## Deuxième jour
 > Réveil avant le lever du soleil pour pouvoir rouler aux premières lueurs.
 Deuxième jour qui doit me conduire jusqu'à Lyon en passant par Beaune.
 L'itinéraire est assez proche de l'autoroute mais sur des départementales très roulantes.
@@ -33,16 +33,16 @@ Je me rends compte que la Bourgogne est vallonnée avant d'atteindre le point cu
 Le passage par le col de Bessey-en-Chaume à 576 m d'altitude permet d'atteindre Beaune après une descente régulière de plusieurs kilomètres très plaisante.
 Occasion de retrouver une foule considérable de cyclistes émerveillés par les Hospices de Beaune.
 
-[gallery type="rectangular" size="medium" link="file" ids="2839,2840,2841,2842,2843,2844"]
+[gallery type="rectangular" size="medium" link="file" ids="2839,2840,2841,2842,2843,2844
 > Cette pause tombe bien car la température approche les 35 degrés en plein après-midi.
 Deuxième étape se terminant à Lyon où la nuit reste chaude le long des quais.
 ## Troisième jour
 Pour rejoindre Aix-en-Provence il n'y a plus qu'à longer la vallée du Rhône.
 Je ne peux m'empêcher de faire étape à Montélimar pour reprendre des forces avec du nougat.
 
-[gallery type="rectangular" link="file" ids="2845"]
+2845
 > Un peu de tourisme à Orange, pensant que j'étais arrivé ...
-[gallery type="rectangular" size="medium" link="file" ids="2846,2847,2848,2849"]
+[gallery type="rectangular" size="medium" link="file" ids="2846,2847,2848,2849
 
 
 2850

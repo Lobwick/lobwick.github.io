@@ -14,7 +14,7 @@ Ne perdons pas de temps en ce 24 décembre, avec un temps relativement clément�
 >           C’est l’occasion de faire coïncider ce début de Festive 500 avec un Lille On Wheels.
 Comme nous sommes dimanche, Simon vient se joindre à nous pour nous encourager.
 Le vent nous pousse à grande vitesse jusqu’à Tournai en Belgique, après être passé par Baisieux.
-[gallery type="rectangular" size="large" link="file" ids="6503,6504,6506,6507"]
+6503,6504,6506,6507
 Pas le temps de s’attarder sur le marché de Noël, encore endormi en ce début de matinée ; il faut regagner la métropole lilloise.
 Les relais nous permettent d’affronter le vent d’ouest à une bonne allure.
 Une fois passée la frontière, nous traversons Genech et Cysoing pour retrouver Villeneuve d’Ascq comme à l’aller.
@@ -29,7 +29,7 @@ Il faut d’abord rejoindre la Lys qui traverse Estaires.
 Après un détour par Le Doulieu et Vieux-Berquin, les arbres sont en vue.
 >           Nous quittons la forêt sans avoir croisé le livreur de jouets, bien occupé sur son traîneau et non à vélo.
 La Lys est retraversée à Merville, connue pour son aérodrome où Félix avait passé son Brevet d’Initiation en Aéronautique en fin de collège.
-[gallery type="rectangular" size="large" link="file" ids="6508,6509,6510"]
+6508,6509,6510
 Il ne reste plus qu’à franchir Laventie que Zélie connaît bien, car elle s’y fait vacciner chaque année chez le vétérinaire Eric Lannoo.
 >           C’est quand même plus agréable de revenir au départ, poussés par le vent.
 Presque deux tiers du Festive accomplis, en étant épargnés par le temps, même s’il faut tenir compte du vent de sud-ouest sensible.
@@ -49,10 +49,10 @@ Après ce troisième jour, on a de la marge sur le planning...
 <h1 style="text-align: justify;">#DAY04 ~ Lunettes</h1>
 Curieux titre pour cet itinéraire semi-improvisé.
 Tout commence par un ancien tracé dénommé Bio C’Bon spécial Lille On Wheels.
-[gallery type="rectangular" size="large" link="file" ids="6516,6513,6512,6514"]
+6516,6513,6512,6514
 Il s’était terminé à l’époque par une dégustation de produits bio.
 Voilà le premier œil tracé...
-[gallery type="rectangular" size="large" link="file" ids="6519,6522,6520"]
+6519,6522,6520
 Trop court pour rentrer directement !
 C’est parti pour la monture complète à travers les Weppes.
 >           Finalement c’est l’étape la plus longue du défi.
@@ -66,12 +66,12 @@ Mais la journée commence par un changement de plateaux classiques pour des oval
 Nous décidons donc de maintenir la même direction vers le nord de la Belgique, tout en écourtant l’itinéraire prévu.
 >           Tans pis pour la brioche qu’on ramènera une prochaine fois !
 
-[gallery type="rectangular" size="large" link="file" ids="6533,6526,6532,6527,6537,6534"]
+6533,6526,6532,6527,6537,6534
 
 <center><iframe src="https://www.strava.com/activities/1330599626/embed/2dfe912d99a2a9eee4feae9eebfcb0148d2279cd" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 6571
 <h1 style="text-align: justify;">Rapha Festive 500</h1>
-[gallery type="rectangular" link="file" ids="6566"]
+6566
 Avec une moyenne de cent kilomètres par jour, l’édition 2018 n’a été qu’une formalité.
 Si bien que certains imaginent un Festive 1000 !
 On a bien fait de se lancer dans le défi rapidement, car le temps s’est ensuite considérablement dégradé.

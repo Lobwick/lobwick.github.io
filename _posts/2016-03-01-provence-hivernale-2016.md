@@ -8,7 +8,7 @@ La Provence peut se révéler rude en hiver mais les paysages en sont d'autant p
 Il faut dire que j'élargis mon rayon d'action et les massifs montagneux ne manquent pas autour d'Aix.
 La nouveauté est l'utilisation de mon vtt car j'ai fait l'effort de le transporter en tgv.
 
-<h2 style="text-align: justify;">Peyrolles
+## Peyrolles
 Pour me préparer à ces sorties, je vais m'échauffer dans les environs de Peyrolles.
 
 <center><iframe src="http://www.strava.com/activities/489658542/embed/326aa8662bcea801799dfab5e2d2187de931ddf3" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
@@ -19,7 +19,7 @@ Le contraste thermique est une des caractéristiques de la Provence.
 On se réchauffe bien en montée mais il vaut mieux se couvrir en descente.
 Après quelques heures à monter et descendre, me voilà de retour à l'Olivette.
 
-<h2 style="text-align: justify;">Mourre Nègre
+## Mourre Nègre
 Le vent ayant chassé les nuages de la veille, je prends la direction du Luberon.
 Je commence à le connaître mais surtout sur route.
 <p style="padding-left: 30px; text-align: justify;">> Cette fois-ci il est prévu d'atteindre son sommet, le Mourre Nègre.
@@ -34,8 +34,8 @@ Quelques grosses flaques d'eau gelées ralentissent mon allure.
 Le ciel s'est couvert mais je suis à l'abri du mistral pour remonter au sommet du Luberon que je dois à nouveau franchir.
 C'est une longue descente d'une dizaine de kilomètres dévalée à grande vitesse qui me ramène à Cucuron.
 Je passe par la chapelle de l'ermitage ou Notre Dame de Beauvoir avant de me retrouver à Lourmarin.
-[gallery type="rectangular" size="large" link="file" ids="1308,1317,1327,1322"]
-<h2 style="text-align: justify;">Plateau du Cengle
+1308,1317,1327,1322
+## Plateau du Cengle
 Le lendemain est plus classique en partant de l'Olivette.
 Il s'agit d'atteindre le plateau du Cengle en passant par la colline de la Cime.
 
@@ -49,13 +49,13 @@ Le retour se fait par le barrage Zola, situé en aval de Bimont.
 Son concepteur n'est autre que le père du célèbre Emile.
 Il faut ensuite remonter jusqu'au site des carrières de Bibémus, rendu célèbre par les peintures de Paul Cézanne.
 Un dernier effort pour passer par la Tour Cézar qui surplombe Aix et me voilà de retour à l'Olivette.
-[gallery type="rectangular" size="large" link="file" ids="1349,1532"]
-<h2 style="text-align: justify;">
+1349,1532
+## 
 1535
 ## Jade d'Asie
 La journée très pluvieuse de vendredi est l'occasion de refaire le plein de calories au Jade d'Asie.
 > Comme d'habitude six assiettes sont au menu.
-[gallery type="rectangular" link="file" ids="1537,1538,1539,1540,1541,1542"]
+1537,1538,1539,1540,1541,1542
 ## Le Grand Saint-Jean
 Le temps du week-end s'annonce incertain.
 Si bien que samedi, une petite marche familiale au sein du cimetière paysager du Grand Saint-Jean est prévue.
@@ -66,7 +66,7 @@ Le lendemain autour de Puyricard, c'est à vélo que nous testons ce dernier en 
 <center><iframe src="http://www.strava.com/activities/493467476/embed/4bca6571f35f3aff7d76762ab1b2c934ed5fbde5" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Il y a encore de quoi faire avec un tel appareil.
 
-[gallery size="large" type="rectangular" link="file" ids="1544"]
+[gallery size="large" type="rectangular" link="file" ids="1544
 ## Rognes
 Lundi, reprise du vtt car un petit mistral tente de dégager le ciel.
 Je vais explorer le massif entre Rognes, la Roque-d'Anthéron et Lambesc.
@@ -77,7 +77,7 @@ C'est l'occasion de m'approcher de la retenue d'eau Saint Christophe.
 Je vais ensuite croiser plusieurs fois le canal de Marseille à partir duquel j'effectue des remontées dans le massif.
 Le chemin est parfois rendu impraticable par des engins de déboisement.
 
-[gallery size="large" type="columns" link="file" ids="1361,1362,1379,1380"]
+[gallery size="large" type="columns" link="file" ids="1361,1362,1379,1380
 
 Je découvre l'abbaye de Silvacane proche de la Roque-d'Anthéron.
 > Ce qui n'était pas encore arrivé, arriva, avec devant moi un imposant portail de propriété privée.
@@ -88,7 +88,7 @@ Je passe par la chapelle Saint Anne de Goiron avec le monument aux martyrs de la
 Heureusement le mistral va me pousser jusqu'à la voiture qui m'a permis de rejoindre ce massif plus rapidement.
 Le soleil vient juste de se coucher.
 
-[gallery type="columns" size="large" link="file" ids="1369,1381,1383,1386"]
+[gallery type="columns" size="large" link="file" ids="1369,1381,1383,1386
 ## Mont Aurélien
 Il me reste deux grosses sorties programmées sur Strava.
 Je croyais explorer le massif de la Sainte Baume mais il s'agit plutôt d'un massif intermédiaire entre celle-ci et la Sainte Victoire.
@@ -99,20 +99,20 @@ Le temps est couvert en ce début de sortie et je roule donc à bonne vitesse.
 > Après avoir contourné le Mont Olympe, j'aperçois le Mont Aurélien sur les hauteurs.
 Il n'y a plus qu'à faire demi-tour avec le retour du soleil.
 
-[gallery size="large" type="rectangular" link="file" ids="1409,1410"]
+[gallery size="large" type="rectangular" link="file" ids="1409,1410
 
 Séance photos au niveau de la chapelle de l'ermitage de Saint Jean du Puy.
 
-[gallery type="rectangular" size="large" link="file" ids="1438,1435,1440"]
+1438,1435,1440
 
 Je ne vois pas le temps passer en pensant que je n'ai plus qu'à descendre de la crête à vive allure.
 Le soleil se couche mais j'aperçois un troupeau de moutons bien surveillés par le chien du berger.
 Après avoir prévenu que je serai en retard, cette sortie se termine à l'obscurité.
 
-[gallery type="rectangular" size="large" link="file" ids="1446,1451"]
+1446,1451
 
 1450
-<h2 style="text-align: justify;">Pilon du Roi
+## Pilon du Roi
 La dernière sortie consiste à faire le tour du massif de l'Etoile près de Marseille.
 
 <center><iframe src="http://www.strava.com/activities/496079349/embed/b862d87a62da0878cf8b19f9cd0c94d13e92261a" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
@@ -121,34 +121,34 @@ Pourtant, au départ du Vieux Mimet, elles sont négatives.
 Il ne fait pas bien chaud à l'ombre de la Tête du Grand Puech que je vais contourner.
 Je me rapproche de Plan de Cuques avant de remonter dans le massif.
 
-<h2 style="text-align: justify;">L'Etoile
+## L'Etoile
 <p style="padding-left: 30px; text-align: justify;">> Mon repère est le relais de télévision de l'Etoile.
 Une longue montée à travers la forêt m'y conduit.
 Je suis d'ailleurs doublé par des vtt électriques.
 Du haut de ce relais je devine Marseille dans la brume ou dans sa pollution.
 Je continue l'ascension du massif en m'aventurant jusqu'au sommet de la petite Etoile.
 L'été, un mirador permet de surveiller les éventuels départs d'incendies.
-[gallery size="large" type="rectangular" link="file" ids="1490,1495"]
+[gallery size="large" type="rectangular" link="file" ids="1490,1495
 L'entraînement des canadaires, basés à Marignane, me survolant, est impressionnant.
 Il n'y a plus qu'à se rapprocher du Pilon du Roi après être redescendu dans la forêt.
-[gallery size="large" type="rectangular" link="file" ids="1504,1457"]
+[gallery size="large" type="rectangular" link="file" ids="1504,1457
 Je vais essayer de revenir plus tôt que la veille.
 Surtout que ma marraine Laurence et son mari Philippe sont à Aix pour profiter de la région qu'ils adorent.
 La descente vers Mimet en passant par le Col Saint Anne n'est qu'une formalité.
 
-<h2 style="text-align: justify;">Presqu'île de Giens
+## Presqu'île de Giens
 Pour terminer mon séjour, il était normalement prévu une randonnée avec l'association HGN dont mes parents font partie.
 Ce sont d'ailleurs eux qui gèrent son site ( hgn.fr ) pour les passionnés d'activités physiques mais aussi culturelles.
 <p style="padding-left: 30px; text-align: justify;">> Mais hélas il pleut sur la presqu'île de Giens dont nous devions faire le tour.
 Pourtant le perfectionniste Maurice avait tout prévu sauf le temps.
 
-<h2 style="text-align: justify;">Food Truck
+## Food Truck
 Dernière journée repos avec la rando remplacée par le lavage du vélo et les préparatifs de bagages.
 C'est l'occasion aussi de tester le nouveau Food Truck installé non loin de l'Olivette.
-[gallery type="rectangular" size="large" link="file" ids="1556,1555,1557"]
+1556,1555,1557
 <p style="padding-left: 30px; text-align: justify;">> Je peux me le permettre après avoir enchaîné trois sorties importantes, surtout en dénivelé.
 
-<h2 style="text-align: justify;">Gare St Charles
+## Gare St Charles
 En raison de l'importance des bagages et du vélo à transporter, il est prévu le lendemain un départ depuis la gare St Charles directement à Marseille ...
-[gallery type="rectangular" size="large" ids="1561,1559,1560"]
+[gallery type="rectangular" size="large" ids="1561,1559,1560
 <p style="padding-left: 30px; text-align: justify;">> Merci au Scénic fraîchement réparé de papa et maman, qui m'a conduit au plus proche de ces aventures.

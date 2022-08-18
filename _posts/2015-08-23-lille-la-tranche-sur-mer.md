@@ -6,37 +6,37 @@ date:   2015-08-23 16:27:44 +0100
 Pour rejoindre la famille installée en camping.
 > Quatre jours sont prévus avec des étapes de plus ou moins 200 km.
 
-<h2 style="text-align: justify;">Jour 1
+## Jour 1
 Le beau temps est au rendez-vous.
 Nous prenons la route le samedi1° août.
-[gallery type="rectangular" link="file" ids="541,542,543,544,545"]
+541,542,543,544,545
 Les premiers kilomètres sont plutôt monotones, car nous connaissons le paysage.
 La température se réchauffe vite et c’est loin d’être fini...
-[gallery type="rectangular" link="file" ids="503,504,520,505"]
+503,504,520,505
 Nous traversons la Picardie au plus direct.
 Un MacDo se présente sur notre route à l’heure du déjeuner.
-[gallery type="rectangular" link="file" ids="546,531" orderby="rand"]
+546,531
 Fin de première journée éprouvante pour les organismes et premier campement.
-[gallery type="rectangular" link="file" ids="547,550,548,552,528,551"]
-<h2 style="text-align: justify;">Jour 2
+547,550,548,552,528,551
+## Jour 2
 Nous passons par Évreux le deuxième jour.
-[gallery type="rectangular" link="file" ids="553,554,557,564,559,558,563,508,509,524,523"]
+553,554,557,564,559,558,563,508,509,524,523
 La traversée de la Beauce s’effectue sous une chaleur accablante proche des 40°C.
-[gallery type="rectangular" link="file" ids="506,521,525" orderby="rand"]
-<h2 style="text-align: justify;">Jour 3
+506,521,525
+## Jour 3
 Heureusement, les collines du Perche vont nous apporter un peu de fraîcheur relative.
 > Mais avec plus de dénivelés forcément.
 Nous croisons d’ailleurs l’itinéraire du Paris-Brest.
-[gallery type="rectangular" link="file" ids="526,529" orderby="rand"]
-<h2 style="text-align: justify;">
+526,529
+## 
 527
 ## Jour 4
 Dans Nantes, la chaleur est de retour.
 Nous nous réfugions dans un jardin public accueillant pour déjeuner au frais.
 
-[gallery type="rectangular" link="file" ids="513,516,514"]
+513,516,514
 > Fin de l’aventure avec une installation méritée à La Tranche.
-[gallery type="rectangular" link="file" ids="518,517,584"]
+518,517,584
 
 <center><iframe src="https://www.strava.com/activities/1141195390/embed/fdd8e921792e138339e8369d660dec082776720b" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
@@ -44,12 +44,12 @@ Nous nous réfugions dans un jardin public accueillant pour déjeuner au frais.
 ## Vacances méritées
 Une fois arrivée à La Tranche sur Mer, c’est occasion de passer du temps en famille, mais également de faire des photos avec le matériel qui n’aura pas été transporté sans effort. 12kg de matériel c’est lourd !
 
-[gallery type="rectangular" link="file" ids="591,587,583,586,858,859,860,861" orderby="rand"]
+591,587,583,586,858,859,860,861
 
 Mais aussi de profiter des vagues de la plage du phare avec <a href="http://www.imagedimagepro.fr">Pierry Bouche</a>, photographe et shapper, à La Tranche sur Mer.
 Vacances pour moi mais pas pour Philippe qui reprend la route pour un <a href="http://twomoulins.fr/velo/tour-de-france">Tour de France</a>.
 
-[gallery type="rectangular" link="file" ids="593,595,594,592,588,863" orderby="rand"]
+593,595,594,592,588,863
 
 On se quitte avec la vidéo de ce périple
 

@@ -29,6 +29,7 @@ Mais cette fois-ci le vent de sud est défavorable au retour.
 Bon parcours avec un peu plus de 200 km au compteur.
 La moyenne du challenge étant ainsi bien rétablie, me laissant de la marge pour les jours suivants.
 Surtout avec le lundi de repos en famille.
+
 ## Les Weppes
 Le Nouvel An approche et je décide donc d'explorer les Weppes aux alentours.
 Une première journée, le mardi, en tournant dans le sens inverse des aiguilles d'une montre.

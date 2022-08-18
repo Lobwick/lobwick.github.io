@@ -18,5 +18,5 @@ J'essaie tout de même de relativiser les choses car au vu de l'accident je ne m
 
 Un nouveau vélo est donc arrivé car l'ancien, comme vous pouvez le voir, a été sévèrement touché au niveau du cadre. Il aurait pu encore tenir la route mais n'étant pas sûr de sa fiabilité, j'ai préféré le changer avec un <a href="http://twomoulins.fr/vie/fixie-motobecane">cadre Motobécane transformé en fixie</a>.
 
-[gallery type="rectangular" link="file" ids="975,977"]
+975,977
 

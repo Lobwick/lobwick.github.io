@@ -12,8 +12,8 @@ Son fixie, le Dolan Pre Cursa, l’a suivi dans une housse pour être transport�
 En ce qui me concerne, je continue à rouler, avec de plus en plus de plaisir, sur le bon vieux Gitane Victoire de mon père, que j’avais tenté de transformer en fixie.
 Pour préparer ce nouveau Rapha Festive 500, d’autres itinéraires variés ont été prévus au cours du mois de décembre, pour accomplir une telle distance en peu de jours.
 
-[gallery type="rectangular" size="medium" link="file" ids="3760,3762,3722,3724,3723,3729,3725,3728,3727"]
-<h2 style="text-align: justify;">Rapha Festive 500 # 1
+[gallery type="rectangular" size="medium" link="file" ids="3760,3762,3722,3724,3723,3729,3725,3728,3727
+## Rapha Festive 500 # 1
 Ne sachant pas que ce challenge débutait la veille de Noël, nous le commençons avec un décalage d’une journée.
 En ce 25 décembre, Rapha Festive 500 commence par une nouveauté en ce qui concerne les itinéraires.
 > Pour entamer ce challenge, les premiers kilomètres s’effectueront sur le « petit 500 »
@@ -23,19 +23,19 @@ Il faut en profiter, car la température est encore assez clémente.
 Il suffit pour cela de tracer un petit cœur d’une quarantaine de kilomètres et le tour est joué.
 
 <center><iframe src="https://www.strava.com/activities/811163673/embed/7ec8dc8239e3b5faaa9339e03ec401f515f0cf73" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<h2 style="text-align: justify;">Rapha Festive 500 # 2
+## Rapha Festive 500 # 2
 Le lendemain, une grande boucle dans les Weppes permet de fleureter avec les 200 km au compteur.
 
 <center><iframe src="https://www.strava.com/activities/812069868/embed/170513cdcc65f4ba25439c607f5a0681f4d67733" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<h2 style="text-align: justify;">Rapha Festive 500 # 3
+## Rapha Festive 500 # 3
 Mardi 27 décembre, il faut compenser les kilomètres non parcourus la veille.
 C’est donc la reprise du « trèfle des Weppes » de l’année dernière qui va permettre une progression considérable.
 > La chute des températures ne nous empêche pas de franchir allègrement la barre des 300 km
 
 <center><iframe src="https://www.strava.com/activities/813002614/embed/2dfcc47496122cf50d0aa66e5e69612d2799b4e5" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 3742
-[gallery type="rectangular" size="medium" link="file" ids="3692,3691,3693,3736,3733,3847"]
-<h2 style="text-align: justify;">Rapha Festive 500 # 4
+[gallery type="rectangular" size="medium" link="file" ids="3692,3691,3693,3736,3733,3847
+## Rapha Festive 500 # 4
 À mi-challenge, il reste bien moins que la moitié des kilomètres à parcourir.
 C’est l’occasion de trottiner pour se dégourdir les jambes en se réchauffant et fêter nos noces d’argent en ce jour des St Innocents.
 Direction le bois d’Hantay près de Salomé, en empruntant les chemins, pour un trail à travers les champs.
@@ -43,7 +43,7 @@ Direction le bois d’Hantay près de Salomé, en empruntant les chemins, pour u
 D’autant plus, que sans le savoir, cette distance sera comptabilisée en fin de semaine pour un autre challenge que j’ignorais  (New Balance Run 50)
 
 <center><iframe src="https://www.strava.com/activities/813535296/embed/e9924c6b13e1f6f1c3a63b06ed430087a5579910" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h2 style="text-align: justify;">Rapha Festive 500 # 5
+## Rapha Festive 500 # 5
 Les choses sérieuses reprennent en ce jeudi 29 décembre.
 <p style="padding-left: 30px; text-align: justify;">> C’est le moment de sortir le grand jeu avec forcément le « grand 500 »
 Pas évident de suivre ces chiffres en empruntant des routes praticables en vélo de route.
@@ -52,15 +52,15 @@ L’hiver est maintenant bien installé avec un froid sec qui joue en notre fave
 Avec une centaine de kilomètres supplémentaires, nous touchons au but.
 
 <center><iframe src="https://www.strava.com/activities/814774701/embed/3ce157f6eaac4a4e4add38730417d20c14b28ae1" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h2 style="text-align: justify;">Rapha Festive 500
+## Rapha Festive 500
 La petite boucle des Weppes, après la grande de l’épisode 2, n’est qu’une formalité.
 Elle nous permet d’atteindre tout juste le seuil des 500 kilomètres.
 <p style="padding-left: 30px; text-align: justify;">> Occasion de lâcher les watts, surtout quand père et fils prennent des relais entre 30 et 40 km/h
 Il était temps d’ailleurs qu’on en termine, car un brouillard retombe précocement en fin d’après-midi.
 
-<center><iframe src="https://www.strava.com/activities/815886735/embed/19708bec4b31a840cb3a57cefa3c074543a3c025" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>[gallery type="rectangular" size="medium" link="file" ids="3740,3739,3764,3737,3741"]
+<center><iframe src="https://www.strava.com/activities/815886735/embed/19708bec4b31a840cb3a57cefa3c074543a3c025" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>[gallery type="rectangular" size="medium" link="file" ids="3740,3739,3764,3737,3741
 3761
-<h2 style="text-align: justify;">New Balance Run 50
+## New Balance Run 50
 <p style="padding-left: 30px; text-align: justify;">> Une journée avant la date limite du Nouvel An, mission accomplie sans forcer.
 La principale difficulté était d’affronter des conditions climatiques plus rudes.
 Il ne reste plus qu’à patienter pour recevoir notre médaille écusson  de cette année.
@@ -81,7 +81,7 @@ Par conséquent, au lieu de me limiter à ces quelques kilomètres insignifiants
 <p style="padding-left: 30px; text-align: justify;">> Inutile de se risquer sur le macadam complètement verglacé !
 
 <center><iframe src="https://www.strava.com/activities/816458265/embed/fc043b2ffd472b7d47ce57663a4464d308c2a455" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h2 style="text-align: justify;">Bilan
+## Bilan
 <p style="padding-left: 30px; text-align: justify;">> L’année 2016 se termine ainsi en apothéose avec deux challenges supplémentaires Strava.
 Il n’y a plus qu’à profiter du Nouvel An, afin de récupérer des calories pour 2017.
 Elles seront d’ailleurs rapidement consommées en ce premier jour de la Nouvelle Année.
@@ -91,7 +91,7 @@ Il faut profiter de ce jour férié pour « s’incruster » sur le golf d’Ill
 Quel bonheur de suivre ce 18 trous en foulant ses greens désertés par les fêtards de la veille !
 Une nouvelle expérience pour bien entamer l’année qui sera encore riche en sport.
 Félix la commence aussi en fanfare avec un kom (meilleur temps sur une section) obtenu en bmx sur un chemin prévu pour le VTT !
-[gallery type="rectangular" size="medium" link="file" ids="3754,3755,3759,3758,3730"]
+[gallery type="rectangular" size="medium" link="file" ids="3754,3755,3759,3758,3730
 <p style="padding-left: 30px; text-align: justify;">> Je vous donne rendez-vous le 16 juillet, pour notre participation avec Félix, à l’étape du tour de France 2017
 Plus de chaleur et de dénivelé entre Briançon et le mythique Col de l’Izoard...
 En attendant, n’hésitez pas à regarder cette vidéo du challenge Rapha Festive 500

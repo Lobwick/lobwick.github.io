@@ -9,19 +9,19 @@ Bien sûr, sur les deux parcours proposés, on opte pour le plus long comme à n
 Ils nous ont prévu 110 km totalisant 1800 m de dénivelé.
 <p style="padding-left: 30px; text-align: justify;">> Malheureusement, une importante tempête est annoncée pour ce dimanche 23 septembre !
 Simon, qui roule aussi avec Lille on Wheels le dimanche matin sur route ou le mercredi soir en CX/VTT, nous accompagne.
-[gallery type="rectangular" link="file" size="large" ids="9690,9691,9689,9692"]
+9690,9691,9689,9692
 Le départ est donné de Coquelles au niveau de la Cité de l'Europe.
 En effet, Carrefour est partenaire de cette cyclo, ainsi que Decathlon.
 Ils vont assurer tous les ravitaillements avec l'aide des nombreux bénévoles du club local.
 <p style="padding-left: 30px; text-align: justify;">> Nous nous garons sur le parking de cet hypermarché alors qu'il fait encore nuit.
 Heureusement, un petit déjeuner parfait est prévu au moment de récupérer nos plaques de cadre.
-[gallery type="rectangular" size="large" link="file" ids="9694,9693,9698,9695,9697,9696"]
+9694,9693,9698,9695,9697,9696
 Tout le monde s'élance vers huit heures comme prévu par le club dans une bonne ambiance.
 > On est vêtu en conditions automnales, nous attendant au pire à partir de la mi-journée !
 Le début de ce parcours est assez roulant jusqu'au premier ravitaillement.
 Pour l'instant il crachine légèrement et nous ne sommes éclaboussés que par de nombreuses flaques d'eau des pluies de la veille.
 Il ferait presque doux en ce début de journée.
-[gallery type="rectangular" ids="9701,9700,9699,9717,9714,9702,9703"]
+[gallery type="rectangular" ids="9701,9700,9699,9717,9714,9702,9703
 Le premier ravito est à l'image du petit déjeuner, avec même des minis saucissons ...
 Ils sont appréciables pour le moral car la dépression s'abat sur nous comme prévue !
 La forêt domaniale de Guînes va essayer de nous mettre à l'abri.
@@ -30,7 +30,7 @@ Ces chemins parfois étroits deviennent vite impraticables, surtout avec le pass
 On patine dans les montées et les descentes sont propices à de nombreuses glissades sans gravité amorties par la boue.
 Le rythme ralentit progressivement, à l'inverse du déluge qui nous détrempe jusqu'aux os !
 La météo ne s'était pas trompée ...
-[gallery type="rectangular" link="file" size="large" ids="9705,9707,9706,9710,9709,9708,9711"]
+9705,9707,9706,9710,9709,9708,9711
 Le deuxième ravitaillement surgit miraculeusement !
 Il est installé à la sortie de la forêt, bien abrité dans une grange locale.
 > Les cyclistes sont méconnaissables, avec des airs de mineurs façon boueuse !
@@ -38,7 +38,7 @@ Mais il faut se remettre en selle pour parcourir le reste du plateau.
 Le vent se renforçant, il devient plus sage d'écourter l'itinéraire ...
 C'est  le gps qui va s'en charger pour ramener les naufragés jusqu'à Coquelles en traversant la tempête.
 De retour à Carrefour, on constate que d'autres participants en ont fait autant.
-[gallery type="rectangular" size="large" link="file" ids="9713,9704,9712"]
+9713,9704,9712
 Il y a tout ce qu'il faut pour récupérer, avec même des merguez au barbecue accompagnées de Leffe.
 Il est temps aussi de récupérer nos affaires sèches de rechange pour essayer de se réchauffer.
 <p style="padding-left: 30px; text-align: justify;">> Séance streap tease improvisée à l'intérieur du C8, dissimulée par la buée !

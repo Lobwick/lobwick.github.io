@@ -22,47 +22,47 @@ Il est prévu de la traverser à midi, mais je vais prendre de l’avance en me 
 
 Le mont Cassel me sert de ligne de mire et il émerge de la brume en ce début de matinée très fraîche.
 
-[gallery type="columns" size="large" link="file" ids="4603,4605,4604"]
+[gallery type="columns" size="large" link="file" ids="4603,4605,4604
 L’allure est soutenue, car je tente de me réchauffer avec ma tenue d’été prévue pour une chaude journée ; les écarts thermiques sont importants en cette saison.
 Après un petit souci de desserrage de cale automatique de chaussure, me voilà rapidement à Loon-Plage et le GPS me conduit directement au terminal des ferries de la compagnie DFDS. Il n’y a plus qu’à prendre un billet, car je n’avais pas réservé, ne connaissant pas mon rythme.
-<p style="padding-left: 30px; text-align: justify;"><strong><em>Contrôle Vigipirate inexistant pour les cyclistes !
-[gallery type="rectangular" size="large" link="file" ids="4606,4608,4609"]
+<p style="padding-left: 30px; text-align: justify;">> Contrôle Vigipirate inexistant pour les cyclistes !
+4606,4608,4609
 Je vais donc pouvoir embarquer sur le ferry de 10 h, au lieu de celui de midi initialement prévu.
-[gallery type="rectangular" size="large" link="file" ids="4611,4620,4614"]
+4611,4620,4614
 Le Victoire est le seul au niveau des emplacements vélos et je l’attache solidement en cas de tempête !
 Presque deux heures de traversée pour me remettre de mon réveil avancé en fin de nuit, surtout que la Manche est une vraie mer d’huile.
 Les falaises de craie de Douvres se distinguent à la proue du ferry.
-[gallery type="rectangular" size="large" link="file" ids="4618,4616,4619"]
+4618,4616,4619
 <h1 style="text-align: justify;">South-Est England</h1>
 Une bouffée de chaleur m’accueille à Douvres, après être sorti le dernier du navire à cause d’un employé respectant scrupuleusement la sécurité.
-[gallery type="rectangular" size="large" link="file" ids="4617,4621,4622"]
+4617,4621,4622
 Après le souci de chaussure, je suis ennuyé par la sacoche de cintre qui appuie sur le câble du frein avant,  entraînant un frottement.
 <p style="padding-left: 30px; text-align: justify;">> Cela ne m’empêche pas de prendre la direction de Londres, avec encore une heure d’avance en raison du décalage horaire.
 Plus j’approche de Canterbury et plus j’apprécie ma tenue d’été en cours d’après-midi. Le paysage ressemble étrangement à celui des collines de l’Artois.
 Le souci de la sacoche est pénible, car la qualité du revêtement des routes anglaises est vraiment exécrable, même sur les principaux axes ; il va falloir s’y faire en se concentrant sur la circulation.
 <p style="padding-left: 30px; text-align: justify;">> Mieux vaut mettre pied à terre dans les rues piétonnes de Canterbury qui sont noires de touristes.
-[gallery type="rectangular" size="large" link="file" ids="4626,4627,4628"]
+4626,4627,4628
 Le but est de se rapprocher de la cathédrale, mais je suis désabusé de ne pouvoir la photographier sans payer une somme faramineuse ; pas grave, car je me rattraperai à Londres.
-[gallery type="rectangular" size="large" link="file" ids="4629,4631,4630"]
+4629,4631,4630
 <h1 style="text-align: justify;">Londres</h1>
 Cette première journée vers Dublin s’achève, mais j’ai le temps de profiter de la capitale.
 Alors que le soleil s’incline sur l’horizon, je m’aperçois sur le GPS que je suis en train de manquer Greenwich dans la banlieue londonienne.
 <p style="padding-left: 30px; text-align: justify;">> Un petit détour est par conséquent impératif pour franchir ce méridien.
 Encore faut-il le trouver ? Mais en essayant de demander à des Anglais, des Français qui viennent d’y passer, m’indiquent la direction.
-[gallery type="rectangular" size="large" link="file" ids="4637,4639,4638"]
+4637,4639,4638
 Le Royal Observatory Greenwich se situe au sommet d’une colline qui surplombe la Tamise ; je ne manque pas de marquer cette position sur mon GPS.
-[gallery type="rectangular" size="large" link="file" ids="4646,4651,4636"]
+4646,4651,4636
 Il ne me reste plus qu’à longer cette rivière pour retrouver mon parcours initial et traverser le Tower Bridge au soleil couchant.
-[gallery type="rectangular" size="large" link="file" ids="4650,4649,4645"]
+4650,4649,4645
 Pas le temps de manger, car le menu des monuments est copieux : the Eye of London, Palais de Westminster, Elizabeth Tower coiffée de Big Ben; c’est à cet instant qu’elle sonne les huit coups de 20 h précédés de sa célèbre mélodie.
-[gallery type="rectangular" size="large" link="file" ids="4655,4654,4656"]
+4655,4654,4656
 Fin de la visite à Buckingham Palace où je m’alimente en céréales, en attendant que The Queen me reçoive ; hélas, plus de chambre libre !
-[gallery type="rectangular" size="large" link="file" ids="4658,4659,4657"]
+4658,4659,4657
 <p style="padding-left: 30px; text-align: justify;">> Après cette longue journée, je ne me vois pas continuer à rouler pour sortir de Londres.
 Le parc voisin de Buckingham va m’héberger pour cette première nuit au sein d’un bosquet d’arbres et d’arbustes, tout en profitant d’un peu de lumière urbaine pour m’installer. À peine endormi, un renard et non un chien vient me pincer les orteils ! Il finira par me laisser tranquille.
-[gallery type="rectangular" size="large" link="file" ids="4661,4660,4662"]
+4661,4660,4662
 <p style="padding-left: 30px; text-align: justify;">> Bercé par la douce mélodie de Big Ben, je peux lui faire concurrence en ronflant.
-[gallery type="columns" size="large" link="file" ids="4663,4664,4667"]
+[gallery type="columns" size="large" link="file" ids="4663,4664,4667
 <h1 style="text-align: justify;"></h1>
 <h1 style="text-align: justify;"></h1>
 4592
@@ -94,31 +94,31 @@ Avec de la marge, le week-end me permet de réaliser ce que je viens d’accompl
 <p style="padding-left: 30px; text-align: justify;">> Ce troisième jour va contraster avec les précédents en traversant ce morceau de Grande-Bretagne.
 Tout d’abord, changement de tenue avec jambières et brassières en raison des températures divisées par deux et d’un petit vent de nord-ouest désagréable ; ensuite le paysage montagneux s’annonce grandiose.
 Une route historique se présente à moi pour franchir le Pays de Galles ; elle fut construite au début du XIXe siècle à l’époque des calèches.
-[gallery type="rectangular" size="large" link="file" ids="4694,4693,4692"]
+4694,4693,4692
 Qui dit montagnes, dit dénivelé, mais cette route est tracée régulièrement dans une vallée verdoyante en son début.
-[gallery type="columns" size="large" link="file" ids="4697,4701,4699"]
+[gallery type="columns" size="large" link="file" ids="4697,4701,4699
 Pas grand monde sur cet itinéraire et mes seuls compagnons sont les diverses races de moutons anglais qui ne se soucient guère de ce cycliste français s’aventurant en terres galloises.
-[gallery type="rectangular" size="large" link="file" ids="4702,4705,4703"]
+4702,4705,4703
 > Plus la route s’élève et plus le ciel s’assombrit au-dessus des sommets dégarnis, dignes de l’univers du Seigneur des Anneaux.
-[gallery type="columns" size="large" link="file" ids="4710,4711,4708"]
+[gallery type="columns" size="large" link="file" ids="4710,4711,4708
 Cela me permet d’accélérer le rythme, car j’ai espoir d’atteindre Holyhead dans la soirée pour prendre le ferry de  20 h ; je réalise alors que la distance indiquée sur les panneaux routiers est en miles et je comprends mieux l’écart avec le GPS !
-[gallery type="rectangular" size="large" link="file" ids="4707,4713,4706"]
+4707,4713,4706
 Mais la descente vers la mer est très rapide malgré un freinage loin d’être efficace à cause de la sacoche, comme je l’ai expliqué en début d’article.
 Une fois à Bangor, un magnifique pont suspendu me permet de passer sur une petite île sur laquelle se situe Holyhead.
-[gallery type="rectangular" size="large" link="file" ids="4721,4720,4724"]
+4721,4720,4724
 > Les derniers kilomètres ou plutôt miles sont interminables avec le stress de l’horaire.
 Au niveau du terminal, les bureaux de Irish Ferries sont closed, mais par chance il y a l’autre compagnie, StenaLine ; j’ai même une petite heure d’avance !
-[gallery type="rectangular" size="large" link="file" ids="4725,4726,4728"]
+4725,4726,4728
 <h1>Dublin</h1>
 Il me reste à prévenir Félix sans tarder, car je suis à bord du Superfast qui effectue la traversée en 3 h 30 à 20 nœuds de moyenne ! Tout juste le temps de récupérer de cette troisième et dernière journée : la plus plaisante de ce voyage.
-[gallery type="rectangular" size="large" link="file" ids="4733,4729,4738"]
+4733,4729,4738
 L’arrivée est annoncée vers minuit et Félix me confirme sa présence.
-[gallery type="columns" size="large" link="file" ids="4741,4597,4590"]
+[gallery type="columns" size="large" link="file" ids="4741,4597,4590
 > Quel bonheur de le retrouver au niveau des barrières de sécurité et de mettre un terme à cette nouvelle aventure européenne.
-[gallery type="rectangular" size="large" link="file" ids="4592,4598,4600"]
+4592,4598,4600
 Prévue à l’origine en quatre jours, les bonnes conditions climatiques l’ont raccourcie !
 La dizaine de kilomètres nous conduisant chez Félix n’est plus qu’un sprint final dans les rues de Dublin qu’il connaît comme sa poche.
-[gallery type="rectangular" size="large" link="file" ids="4742,4596,4593"]
+4742,4596,4593
 Comme d’habitude, après la joie des retrouvailles, un moment appréciable est la douche, pendant que Félix retouche déjà les photos de cet article.
 > Il ne me reste plus qu’à savourer une petite semaine de repos ou presque, car je vais    découvrir les routes irlandaises en roulant avec Félix.
 
@@ -128,9 +128,9 @@ Comme d’habitude, après la joie des retrouvailles, un moment appréciable est
 <h1>Deuxième jour</h1>
 Après une sortie longue et pénible de la capitale, je me dirige vers Oxford et ses universités. La route traverse de nombreuses agglomérations sur cet axe très fréquenté.
 >         Ambiance estivale dans la ville universitaire d’Angleterre, surtout un dimanche.
-[gallery type="rectangular" size="large" link="file" ids="4669,4675,4673"]
+4669,4675,4673
 Une fois le tour des différentes universités effectué, je prends la direction de Birmingham.
-[gallery type="rectangular" size="large" link="file" ids="4688,4683,4682"]
+4688,4683,4682
 La distance parcourue est moins importante que la veille, mais la traversée d’un petit bois est l’occasion de savourer une nuit plus champêtre que celle passée dans Londres.
-[gallery type="columns" size="large" link="file" ids="4689,4690,4691"]
+[gallery type="columns" size="large" link="file" ids="4689,4690,4691
 <h1></h1>

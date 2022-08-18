@@ -21,17 +21,17 @@ La ville de Ronse ne tarde pas à être franchie avant d'atteindre Ninove.
 On dit le plat pays mais un léger vallonnement se fait sentir à l'approche de la capitale.
 La dernière ligne droite ressemble à celle des Hunaudières sur le circuit des 24h du Mans, mais avec quelques bonnes bosses supplémentaires.
 <blockquote>Après cinq heures de pédalage ininterrompu comme prévu, me voilà sur la Grand Place pour midi.</blockquote>
-[gallery type="rectangular" size="large" link="file" ids="2046,2047,2048,2049"]
+2046,2047,2048,2049
 <blockquote>Pas évident de rentrer en contact avec Félix quand on ne possède pas le réseau téléphonique adéquate.</blockquote>
 Heureusement le wifi est gratuit à Bruxelles et les messages vont quand même réussir à passer.
 Lui et Cilette sont en train de déjeuner dans les Galeries Royales St Hubert.
 ## Retrouvailles
 Le soleil étant de retour, j'en profite pour faire le plein de photos avant que la place soit envahie de touristes.
 
-[gallery size="large" columns="2" link="file" type="rectangular" ids="2056,2054,2055,2057"]
+[gallery size="large" columns="2" link="file" type="rectangular" ids="2056,2054,2055,2057
 Je me rassasie de pralines à la ganache au chocolat de chez Godiva avant de retrouver le Manneken Pis et ses admirateurs de tous pays.
 
-[gallery size="large" columns="2" link="file" type="rectangular" ids="2058,2059,2060,2061"]
+[gallery size="large" columns="2" link="file" type="rectangular" ids="2058,2059,2060,2061
 Les jeunes viennent de finir de manger et me propose de déguster une Wafel au chocolat afin de refaire le plein de calories pour mon retour.
 Nous nous séparons en début d'après-midi, eux vers la gare tgv, et moi sur mon itinéraire de retour.
 <blockquote>Pourtant l'ambiance se prête à la flânerie mais nous en avons bien profité.</blockquote>

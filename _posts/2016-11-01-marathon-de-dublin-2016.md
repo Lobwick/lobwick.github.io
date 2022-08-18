@@ -5,7 +5,7 @@ date:   2016-11-01 21:03:48 +0100
 ---
 Petit compte-rendu de ce Marathon de Dublin 2016, nouveau marathon en raison de sa localisation et du fait de nombreux autres paramètres ...
 ## Préparation Physique
-[gallery type="rectangular" link="file" size="large" ids="3409,3410,3411" orderby="rand"]
+3409,3410,3411
 
 La préparation pour ce Marathon de Dublin est simple : aucune sortie de course à pied notable depuis le <a href="http://twomoulins.fr/le-marathon-de-paris-2016/">Marathon de Paris</a> en début d'année ! Seulement une ou deux sorties à mon arrivée à Dublin au mois de septembre.
 
@@ -15,12 +15,12 @@ Je n'avais plus l'envie de courir depuis le début de l'année. Je n'avais parti
 
 C'est pour cela que le Marathon de Dublin n'était pas prévu. J'avais envisagé la question en septembre mais plus de dossard disponible.
 
-[gallery type="rectangular" link="file" size="large" ids="3412,3413"]
+3412,3413
 
 Jeudi soir, me demandant comment occuper le week-end, je me suis dit : " pourquoi pas le Marathon de Dublin ? ". Pas de dossard, au diable ! J'ai donc fait comme Philippe pour le semi-marathon de 2015 : un faux dossard.
 Un aller rapide le vendredi soir, avec Adrien au village d'exposition, m'a permis de prendre une photo du dossard de plusieurs participants qui se prêtaient facilement au jeu.
 
-[gallery type="rectangular" link="file" size="large" ids="3415,3416,3417,3418,3414"]
+3415,3416,3417,3418,3414
 
 De retour chez moi, plus qu'à reproduire cela sur Photoshop. Un peu plus compliqué que prévu, car il y avait des parties détachables pour des boissons chaudes et le t-shirt finisher ...
 ## Préparation H-24
@@ -33,7 +33,7 @@ Le salon est l'occasion d'en acheter en réduction à -20%. Les miens ayant ét�
 Sur le retour, je passe acheter de grands sacs poubelles afin d'en faire un poncho jetable pour l'avant course, n'ayant pas accès aux vestiaires.
 La dernière étape de la journée est un passage à l'université, au Griffith College, pour y faire imprimer le faux dossard aux bonnes dimensions.
 
-[gallery type="rectangular" link="file" size="large" ids="3419,3420,3421,3422"]
+3419,3420,3421,3422
 
 Après un bon repas typique d'avant course constitué de pâtes, il est l'heure d'aller se coucher.
 ## Accès aux SAS
@@ -45,26 +45,26 @@ Il est donc nécessaire de parcourir 6 km avant d'y accéder.
 Je décide de me sous classer, car la veille, j'ai appris que la couleur de mon dossard était celle du SAS élite.
 Après un contrôle quasi inexistant de celui-ci, j'accède avec un français à la ligne de départ de notre SAS.
 
-[gallery type="rectangular" link="file" size="large" ids="3423,3424" orderby="rand"]
+3423,3424
 C'est désormais une semaine du repos qui m'attend, avant un voyage en Suisse. L'occasion d'acheter une nouvelle paire de chaussures, car les Hoka utilisées suite à ma <a href="http://twomoulins.fr/vie/fracture-du-bassin">fracture du bassin</a>, ont dépassé leur kilométrage de protection.
 3425
 ## Le marathon de Dublin
 Je prends le départ en compagnie d'un coureur français en lui demandant son objectif au 10°km.
 Mais je réalise que je suis parti bien trop vite : 4min50/km ( un marathon en 3 h 20 ! ).
 
-[gallery type="rectangular" link="file" size="large" ids="3426,3427"]
+3426,3427
 
 Je ralentis donc, mais dès la descente de Phoenix Park au 15°km, je ressens de fortes crampes dans les mollets qui m'accompagneront durant tout le reste du marathon ... Nous empruntons en sens inverse mon itinéraire vélo, seule partie du parcours que je connaissais d'avance.
 
 Je m'habitue donc à courir avec ces crampes et à laisser défiler le chrono alors qu'elles s'intensifient ... C'est toute la problématique de gérer un marathon, sans entraînement et en partant trop vite ...
 
-[gallery type="rectangular" link="file" size="large" ids="3428,3429"]
+3428,3429
 
 Le parcours continue de défiler avec toujours la foule présente pour soutenir et vous ravitailler, mais uniquement en eau. Les passants sont donc là pour vous fournir en gels, bonbons sucrés ainsi qu'en boissons. Merci à eux.
 
 Le semi-marathon passe en 1 h 46, ce qui est relativement proche des 1 h 39 du semi-marathon de Paris de 2016. Bien content de ce temps,  j'essaie de ne pas faiblir.
 
-[gallery type="rectangular" link="file" size="large" ids="3184,3185" orderby="rand"]
+3184,3185
 
 Le 35°km passe encore relativement bien, mais à partir du 37°, cela se dégrade et la crampe me fait tomber !
 Un gentil cycliste passant par là sur un beau vélo Venge S-Works de chez Specialized, m'étire et me relève en me proposant de m'offrir son bidon isotonique pour la suite. Il m'encourage à repartir en raison de mon bon chrono. Je vide donc son bidon dans une des gourdes Salomon du gilet.

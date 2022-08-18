@@ -15,7 +15,7 @@ Comme d'habitude, l'organisation est parfaite au niveau du " Run and Bike " pour
 On a le droit à notre gel énergisant qui risque d'être précieux.
 Le seul souci est de retirer les gants pour fixer notre plaque de cadre.
 <strong>C'est l'onglée inévitable !</strong>
-[gallery type="rectangular" size="large" link="file" ids="6962,6964,6949"]
+6962,6964,6949
 La sortie de cette ville s'effectue comme des bolides pour tenter de nous réchauffer, au point de s'essouffler.
 <strong>L'air dont nous avons besoin est glacial !</strong>
 Seul point positif pour l'instant : le vent de nord-est qui nous pousse vers les premières difficultés.
@@ -23,32 +23,32 @@ Il faut d'abord traverser l'Escaut après Avelgem.
 Le relief qu'on devinait au loin, va vraiment permettre de monter en température.
 Le Kluisberg est l'ascension abrupte des Ardennes flamandes qui ne pouvait pas manquer au parcours.
 Pas de pavés au menu, mais des pourcentages allant jusqu'à 18 %, pour une longueur totale de plus de 2000 mètres.
-[gallery type="rectangular" link="file" ids="6985,6986,6987,6992,6993"]
+6985,6986,6987,6992,6993
 En prenant la direction du soleil levant vers le Mont de l'Enclus, le vent continental se rappelle à nous.
 Mais la beauté de ce paysage vallonné atténue notre souffrance.
 <strong>On se croirait presque dans les Vosges avec cette ambiance hivernale !</strong>
 Après l'ascension du Kluisberg, la côte de Trieu ou Knokteberg augmente notre dénivelé global.
 Son début est relativement plat mais elle se corse au fil des mètres, jusqu'à atteindre 13 %
-[gallery type="rectangular" size="large" link="file" ids="6947,6943,6939,6938"]
+6947,6943,6939,6938
 Pour récupérer de cet effort, nous longeons une crête empruntée par le Tour des Flandres.
 La route est à l'honneur de ses anciens vainqueurs.
 Nous y repasserons dans quinze jours ...
-[gallery type="rectangular" size="large" link="file" ids="6958,6936,6933,6935"]
+6958,6936,6933,6935
 Avant de retraverser l'Escaut, nous profitons du ravitaillement de Berchem pour regagner quelques degrés avec le thé énergisant Etixx.
 <strong>Pas suffisamment chaud, car la décision commune avec Félix de basculer sur le parcours   de 75 km est prise, avant de perdre nos extrémités de doigts ...</strong>
 Direction le nord pour affronter le secteur pavés de Varent sur une distance de 2 km.
-[gallery type="rectangular" size="large" link="file" ids="6932,6961,6960"]
+6932,6961,6960
 
 
 6990
 Le parcours s'élève à nouveau avec le Tiegemberg et le Holstraat.
-[gallery type="rectangular" size="large" link="file" ids="6931,6930,6959"]
+6931,6930,6959
 Puis, petit souvenir de la Danilith Nokere Koerse de l'Etixx 2 de la semaine dernière, avec les 350 m de pavés du Nokereberg qui terminait cette dernière cyclo.
 Il n'y a plus qu'à se laisser pousser par le vent d'est pour regagner Waregem.
-[gallery type="rectangular" size="large" link="file" ids="6963,6989"]
+6963,6989
 A peine franchi la ligne d'arrivée, nous ne pensons qu'à retrouver le chauffage de la voiture !
 Tant pis pour le tee-shirt souvenir car il nous reste la plaque de cadre.
-[gallery type="rectangular" size="large" link="file" ids="6984,6965"]
+6984,6965
 <strong>C'est le moment d'apprécier les sièges chauffants du C8.</strong>
 Je ne manque pas non plus de faire le plein de gasoil, moins taxé qu'en France.
 Espérons que pour Gand-Wevelgem de samedi prochain les conditions climatiques changent ...

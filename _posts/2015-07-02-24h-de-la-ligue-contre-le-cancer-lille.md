@@ -38,5 +38,5 @@ Magnifique aventure humaine de quelques milliers de participants accomplissant p
 Rendez-vous est pris pour l’année prochaine avec cette fois-ci un minimum d’entraînement plus sérieux et toujours plus de candidats se relayant tout en campant autour du parcours.
 En attendant, <a href="http://adobe.ly/1Cb7re7">retrouvez ici</a> l’ensemble des photos prises par différents participants que je remercie au passage.
 
-[gallery link="file" size="medium" type="rectangular" ids="132,133,134" orderby="rand"]
+132,133,134
 
