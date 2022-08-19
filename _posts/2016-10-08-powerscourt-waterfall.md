@@ -13,7 +13,7 @@ Pas de vélo si on oublie une sortie rapide un matin qui fut écourtée par deux
 [gallery columns="2" link="none" type="rectangular" ids="2909,2908,2907
 
 <!--more-->
-<h3>En route vers Powerscourt Waterfall
+## En route vers Powerscourt Waterfall
 Une envie de visiter, un peu liée à celle de faire du vélo, me donne l'idée d'aller vers le sud de Dublin, découvrir la cascade "Powerscourt Waterfall".
 La veille au soir, je me crée un itinéraire de 130km qui me permet de visiter également les lacs Lough Tay et Lough Dan avec un retour par la mer.
 
@@ -24,7 +24,7 @@ L'itinéraire ne change pas de ceux en partant de Lille : il faut pédaler une d
 
 L'arrivée à Enniskerry annonce la découverte de Powerscourt Garden. Plus que quelques kilomètres avant d'arriver à Powerscourt Waterfall.
 L'itinéraire prévu passe dans une propriété privée, je rejoindrai donc la cascade en suivant les panneaux, car les réseaux téléphoniques ne sont pas opérationnels ici !
-<h3>Powerscourt Waterfall
+## Powerscourt Waterfall
 [gallery link="none" size="l" columns="2" type="rectangular" ids="2900,2875,2872,2894
 
 Après le contrôle du ticket acheté la veille sur le site web de Powerscourt Waterfall, l'entrée sur le domaine est saisissante; de superbes paysages sont au rendez-vous !

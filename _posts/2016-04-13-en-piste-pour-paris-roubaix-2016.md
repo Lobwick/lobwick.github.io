@@ -59,7 +59,7 @@ Heureusement, il y a le dernier secteur pavés, avec ceux de tous les vainqueurs
 Il y a de l'ambiance et nous profitons d'un tour sur cette piste mythique, dont la pente dans les virages en béton, est impressionnante.
 1778,1779,1777,1780
 Après le franchissement de la ligne d'arrivée, tous les coureurs ont droit à leur traditionnelle médaille.
-[gallery size="large" link="file" columns="2" type="rectangular" ids="1788,1789,1786,1787
+1788,1789,1786,1787
 
 <center><iframe src="https://www.strava.com/activities/542021780/embed/2177c7d66ddc8ac7726f4f10ec1822f9dfcea21c" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 ## 

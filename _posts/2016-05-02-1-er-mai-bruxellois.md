@@ -28,10 +28,10 @@ Lui et Cilette sont en train de déjeuner dans les Galeries Royales St Hubert.
 ## Retrouvailles
 Le soleil étant de retour, j'en profite pour faire le plein de photos avant que la place soit envahie de touristes.
 
-[gallery size="large" columns="2" link="file" type="rectangular" ids="2056,2054,2055,2057
+2056,2054,2055,2057
 Je me rassasie de pralines à la ganache au chocolat de chez Godiva avant de retrouver le Manneken Pis et ses admirateurs de tous pays.
 
-[gallery size="large" columns="2" link="file" type="rectangular" ids="2058,2059,2060,2061
+2058,2059,2060,2061
 Les jeunes viennent de finir de manger et me propose de déguster une Wafel au chocolat afin de refaire le plein de calories pour mon retour.
 Nous nous séparons en début d'après-midi, eux vers la gare tgv, et moi sur mon itinéraire de retour.
 <blockquote>Pourtant l'ambiance se prête à la flânerie mais nous en avons bien profité.

@@ -6,7 +6,7 @@ date:   2016-09-17 02:34:44 +0100
 Comme sur le tour de France, il faut pédaler pendant les jours de repos. C'est ce que je compte faire entre mes deux traversées de la France ( Herlies-Aix-Herlies ) pour vivre comme il se doit un Été Provençal.
 
 > Je vais rouler avec mes parents cyclistes dans l'âme.
-<h3>Le plateau de Puyricard
+## Le plateau de Puyricard
 Pour se remettre dans le rythme on va parcourir le Plateau de Puyricard.
 Il faut aussi se perfectionner avec leur nouveau gps.
 Commençons l'Été Provençal en explorant l'est du plateau vers Venelles.
@@ -20,7 +20,7 @@ Commençons l'Été Provençal en explorant l'est du plateau vers Venelles.
 <center><iframe src="https://www.strava.com/activities/670104962/embed/fa3b46ad549bee14823a51cff7f020ab61062e85" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>> 
 Après cet échauffement, nous pensons explorer de nouveaux espaces.
 3533
-<h3>Tourisme de repos
+## Tourisme de repos
 Mais pour changer du cyclisme, un peu de tourisme aux Baux de Provence.
 C'est l'occasion aussi de profiter des Carrières de Lumières qui présentent Chagall. Un Été Provençal c'est aussi de la culture !
 
@@ -34,7 +34,7 @@ Après avoir rafraîchi nos corps sous terre, nous rejoignons les Baux à proxim
 
 Ses ruelles ne sont pas encombrées par les innombrables touristes habituels.
 3534
-<h3>Initiation au Wakeboard
+## Initiation au Wakeboard
 Les sports nautiques sur le plan d'eau de Peyrolles font également partie d'un bon Été Provençal.
 Il s'agit aussi d'anciennes carrières remplies par la Durance qui coule dans la vallée.
 Au mois de juillet, mon beau-frère Emmanuel et son fils Aurélien ont essayé avec succès le ski nautique tracté par un téléski.
@@ -52,7 +52,7 @@ Je me réserve donc pour l'année prochaine car les bras ont déjà une heure de
 
 <center><iframe src="https://www.strava.com/activities/667895348/embed/2a5314842b3db9406e787bc80e637f2d99d752c8" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 3535
-<h3>Ne jamais arrêter le vélo !
+## Ne jamais arrêter le vélo !
 Reprenons l'exploration de nouveaux espaces à vélo.
 Le mieux est de prendre la voiture.
 La solution de la chambre d'hôte à Mazan est retenue.
@@ -106,7 +106,7 @@ La confiture est vite absorbée car quelques pentes plus raides nous permettent 
 
 
 3537
-<h3>Le pied du Ventoux
+## Le pied du Ventoux
 On a le choix à 360 degrés entre la plaine de Carpentras, les dentelles de Montmirail ou bien sûr Le Mont Ventoux.
 
 [gallery type="columns" size="medium" link="file" ids="2813,2814,2815

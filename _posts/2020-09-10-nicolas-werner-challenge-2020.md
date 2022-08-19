@@ -33,7 +33,7 @@ Cet évènement étant gratuit, les organisateurs poussent l'ensemble des partic
 		<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
 		<img src="/assets/images/nwc_2020/nwc_2020_12918"  alt="Nicolas Werner Challenge 2020" >
 	  </div>
-  <!--<em>My best moments / <a href="https://www.pexels.com/" target="_blank">Pexels</a>-->
+  <!--> My best moments / <a href="https://www.pexels.com/" target="_blank">Pexels</a>-->
 </div>
 
 Le samedi 12 septembre, tous les participants ont rendez-vous devant le magasin de cycles le KM0, à proximité de l’Arc de Triomphe.
