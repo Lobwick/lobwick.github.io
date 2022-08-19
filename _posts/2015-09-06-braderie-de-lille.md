@@ -2,6 +2,7 @@
 layout: post
 title:  "Braderie de Lille"
 date:   2015-09-06 16:50:57 +0100
+image: /assets/images/braderie-de-lille/880.jpg
 ---
 > Comment profiter de la braderie de Lille ?
 Je me rends à Lille en début de journée.
@@ -12,7 +13,7 @@ Merci à ce réseau collaboratif dédié au recrutement des cadres.
 Juste le temps de récupérer ses maillots orange fluo avec notre numéro de dossard et nous voilà prêts pour l’échauffement.
 À la baguette, Hugault le coach responsable du RunCrew qui réunit l’équipe de coachs sur le stand de La Voix du Nord devant la mairie de Lille.
 > Avec lui la température fraîche matinale est vite oubliée en quelques mouvements dans une chaude ambiance digne de la braderie de Lille.
-880
+
 Il n’y a plus qu’à s’approcher de la ligne de départ au début du Boulevard de la Liberté.
 
 Notre groupe orange avance au ralenti tellement la foule de la braderie de Lille est nombreuse.
@@ -27,7 +28,9 @@ Enfin, nous nous portons au niveau du meneur d’allure 1h40mn qui nous incite �
 Ce que nous faisons pour franchir la ligne d’arrivée ensemble avec Manu en 1h38mn.
 Merci à lui d’avoir pensé à accélérer la foulée.
 
-<center><iframe src="https://www.strava.com/activities/385349648/embed/69ea4844dee967b8dd44c97d74c128890ec4dcb3" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Pas de temps à perdre avant le 10 km prévu à 10h45.
+<center><iframe src="https://www.strava.com/activities/385349648/embed/69ea4844dee967b8dd44c97d74c128890ec4dcb3" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
+
+Pas de temps à perdre avant le 10 km prévu à 10h45.
 Juste le temps de se réhydrater et d’avaler quelques fruits secs accompagnés de quartiers d’orange.
 Peut-être à tort, je ne peux m’empêcher de m’étirer avant la course suivante.
 Le groupe orange Keycoopt du RunCrew se reforme devant leur stand.
@@ -40,5 +43,6 @@ Pas grave, car ce 10 km sert de décrassage pour pouvoir toujours profiter de la
 Arrivé face à la mairie de Lille, tout le monde commente sa course autour d’une bière bien méritée.
 
 <center><iframe src="https://www.strava.com/activities/385349658/embed/1e483a70dd4759b9ca826f4919a7b8019681143f" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
+
 > Les bradeurs vont pouvoir s’installer tranquillement après avoir suffisamment patienté.
-Rendez-vous pour le <a href="http://twomoulins.fr/velo/paris-versailles">Paris-Versailles</a> fin septembre...
+Rendez-vous pour le [Paris-Versailles]({% post_url 2015-10-13-paris-versailles %}) fin septembre...

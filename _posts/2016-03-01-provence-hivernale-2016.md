@@ -2,6 +2,7 @@
 layout: post
 title:  "Provence Hivernale 2016"
 date:   2016-03-01 05:50:06 +0100
+image: /assets/images/provence-hivernale-2016/provence-hivernale-2016_1349.jpg
 ---
 La Provence peut se révéler rude en hiver mais les paysages en sont d'autant plus éblouissants.
 > De grosses sorties sont au programme sur Strava.
@@ -34,12 +35,21 @@ Quelques grosses flaques d'eau gelées ralentissent mon allure.
 Le ciel s'est couvert mais je suis à l'abri du mistral pour remonter au sommet du Luberon que je dois à nouveau franchir.
 C'est une longue descente d'une dizaine de kilomètres dévalée à grande vitesse qui me ramène à Cucuron.
 Je passe par la chapelle de l'ermitage ou Notre Dame de Beauvoir avant de me retrouver à Lourmarin.
-1308,1317,1327,1322
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1308.jpg" title="Suivez le guide ..." alt="IMG_0002" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1317.jpg" title="Relais du Mourre-Nègre" alt="IMG_0011" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1322.jpg" title="Sainte-Victoire en arrière-plan" alt="IMG_0017" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1327.jpg" title="Petit coin pique-nique" alt="IMG_0022" >
+</div>
+</div>
+
 ## Plateau du Cengle
 Le lendemain est plus classique en partant de l'Olivette.
 Il s'agit d'atteindre le plateau du Cengle en passant par la colline de la Cime.
 
 <center><iframe src="http://www.strava.com/activities/491384168/embed/26d4c9c7c3e08822b630a17452f0069008f332c9" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
+
 Des troupeaux parcourent celle-ci l'été en semi-liberté.
 Le plateau du Cengle se situe au sud de Sainte Victoire en contre-bas de celle-ci.
 Mais il faut auparavant passer par le barrage de Bimont, sans oublier ensuite une petite ascension jusqu'au refuge Cézanne.
@@ -49,13 +59,29 @@ Le retour se fait par le barrage Zola, situé en aval de Bimont.
 Son concepteur n'est autre que le père du célèbre Emile.
 Il faut ensuite remonter jusqu'au site des carrières de Bibémus, rendu célèbre par les peintures de Paul Cézanne.
 Un dernier effort pour passer par la Tour Cézar qui surplombe Aix et me voilà de retour à l'Olivette.
-1349,1532
-## 
-1535
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1349.jpg" title="Sainte-Victoire" alt="IMG_0046_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1532.jpg" title="Le Cengle" alt="IMG_0800" >
+</div>
+</div>
+
+![](/assets/images/provence-hivernale-2016/1535.jpg)
+
 ## Jade d'Asie
 La journée très pluvieuse de vendredi est l'occasion de refaire le plein de calories au Jade d'Asie.
 > Comme d'habitude six assiettes sont au menu.
-1537,1538,1539,1540,1541,1542
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1537.jpg" title="wok" alt="IMG_4743" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1538.jpg" title="sushis" alt="IMG_4744" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1539.jpg" title="nems" alt="IMG_4745" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1540.jpg" title="viandes" alt="IMG_4746" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1541.jpg" title="chocolat" alt="IMG_4747" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1542.jpg" title="glace et fruits" alt="IMG_4748" >
+</div>
+</div>
+
 ## Le Grand Saint-Jean
 Le temps du week-end s'annonce incertain.
 Si bien que samedi, une petite marche familiale au sein du cimetière paysager du Grand Saint-Jean est prévue.
@@ -66,7 +92,7 @@ Le lendemain autour de Puyricard, c'est à vélo que nous testons ce dernier en 
 <center><iframe src="http://www.strava.com/activities/493467476/embed/4bca6571f35f3aff7d76762ab1b2c934ed5fbde5" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Il y a encore de quoi faire avec un tel appareil.
 
-1544
+![Suivez le gps](/assets/images/provence-hivernale-2016/1544.jpg)
 ## Rognes
 Lundi, reprise du vtt car un petit mistral tente de dégager le ciel.
 Je vais explorer le massif entre Rognes, la Roque-d'Anthéron et Lambesc.
@@ -77,7 +103,14 @@ C'est l'occasion de m'approcher de la retenue d'eau Saint Christophe.
 Je vais ensuite croiser plusieurs fois le canal de Marseille à partir duquel j'effectue des remontées dans le massif.
 Le chemin est parfois rendu impraticable par des engins de déboisement.
 
-1361,1362,1379,1380
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1361.jpg" title="Saint Christophe" alt="IMG_0053_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1362.jpg" title="Canal de Marseille" alt="IMG_0054_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1379.jpg" title="" alt="IMG_0074_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1380.jpg" title="" alt="IMG_0075_DxO" >
+</div>
+</div>
 
 Je découvre l'abbaye de Silvacane proche de la Roque-d'Anthéron.
 > Ce qui n'était pas encore arrivé, arriva, avec devant moi un imposant portail de propriété privée.
@@ -88,7 +121,15 @@ Je passe par la chapelle Saint Anne de Goiron avec le monument aux martyrs de la
 Heureusement le mistral va me pousser jusqu'à la voiture qui m'a permis de rejoindre ce massif plus rapidement.
 Le soleil vient juste de se coucher.
 
-1369,1381,1383,1386
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1369.jpg" title="Abbaye de Silvacane" alt="IMG_0062_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1381.jpg" title="Ermitage Saint-Anne-de-Goiron" alt="IMG_0076_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1383.jpg" title="Monument aux martyrs" alt="IMG_0078_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1386.jpg" title="Château de la Valbonette" alt="IMG_0081_DxO" >
+</div>
+</div>
+
 ## Mont Aurélien
 Il me reste deux grosses sorties programmées sur Strava.
 Je croyais explorer le massif de la Sainte Baume mais il s'agit plutôt d'un massif intermédiaire entre celle-ci et la Sainte Victoire.
@@ -99,19 +140,35 @@ Le temps est couvert en ce début de sortie et je roule donc à bonne vitesse.
 > Après avoir contourné le Mont Olympe, j'aperçois le Mont Aurélien sur les hauteurs.
 Il n'y a plus qu'à faire demi-tour avec le retour du soleil.
 
-1409,1410
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1409.jpg" title="Sainte-Victoire" alt="IMG_0151_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1410.jpg" title="Mont Aurélien" alt="IMG_0152_DxO" >
+</div>
+</div>
 
 Séance photos au niveau de la chapelle de l'ermitage de Saint Jean du Puy.
 
-1438,1435,1440
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1435.jpg" title="Saint-Jean-du-Puy" alt="IMG_0178_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1438.jpg" title="" alt="IMG_0181_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1440.jpg" title="Mont Olympe" alt="IMG_0183_DxO" >
+</div>
+</div>
 
 Je ne vois pas le temps passer en pensant que je n'ai plus qu'à descendre de la crête à vive allure.
 Le soleil se couche mais j'aperçois un troupeau de moutons bien surveillés par le chien du berger.
 Après avoir prévenu que je serai en retard, cette sortie se termine à l'obscurité.
 
-1446,1451
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1446.jpg" title="Sainte-Baume" alt="IMG_0189_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1451.jpg" title="citerne incendie" alt="IMG_0194_DxO" >
+</div>
+</div>
 
-1450
+![](/assets/images/provence-hivernale-2016/1450.jpg)
 ## Pilon du Roi
 La dernière sortie consiste à faire le tour du massif de l'Etoile près de Marseille.
 
@@ -128,10 +185,22 @@ Je suis d'ailleurs doublé par des vtt électriques.
 Du haut de ce relais je devine Marseille dans la brume ou dans sa pollution.
 Je continue l'ascension du massif en m'aventurant jusqu'au sommet de la petite Etoile.
 L'été, un mirador permet de surveiller les éventuels départs d'incendies.
-1490,1495
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1490.jpg" title="Mirador de la Petite Etoile" alt="IMG_0239_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1495.jpg" title="" alt="IMG_0245_DxO" >
+</div>
+</div>
+
 L'entraînement des canadaires, basés à Marignane, me survolant, est impressionnant.
 Il n'y a plus qu'à se rapprocher du Pilon du Roi après être redescendu dans la forêt.
-1504,1457
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1457.jpg" title="Mimet et les fumées de Gardanne" alt="IMG_0203_DxO" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1504.jpg" title="" alt="IMG_0254_DxO" >
+</div>
+</div>
+
 Je vais essayer de revenir plus tôt que la veille.
 Surtout que ma marraine Laurence et son mari Philippe sont à Aix pour profiter de la région qu'ils adorent.
 La descente vers Mimet en passant par le Col Saint Anne n'est qu'une formalité.
@@ -145,10 +214,24 @@ Pourtant le perfectionniste Maurice avait tout prévu sauf le temps.
 ## Food Truck
 Dernière journée repos avec la rando remplacée par le lavage du vélo et les préparatifs de bagages.
 C'est l'occasion aussi de tester le nouveau Food Truck installé non loin de l'Olivette.
-1556,1555,1557
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1555.jpg" title="" alt="IMG_4976" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1556.jpg" title="" alt="IMG_4979" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1557.jpg" title="" alt="IMG_4981" >
+</div>
+</div>
+
 > Je peux me le permettre après avoir enchaîné trois sorties importantes, surtout en dénivelé.
 
 ## Gare St Charles
 En raison de l'importance des bagages et du vélo à transporter, il est prévu le lendemain un départ depuis la gare St Charles directement à Marseille ...
-1561,1559,1560
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1559.jpg" title="la Bonne Mère au fond" alt="IMG_4987" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1560.jpg" title="gare St Charles" alt="IMG_4988" >
+<img src="/assets/images/provence-hivernale-2016/provence-hivernale-2016_1561.jpg" title="quelques bagages ..." alt="IMG_20160219_084006" >
+</div>
+</div>
+
 > Merci au Scénic fraîchement réparé de papa et maman, qui m'a conduit au plus proche de ces aventures.
