@@ -6,7 +6,7 @@ image: /assets/images/paques-en-irlande/paques-en-irlande_4869.jpg
 ---
 Après avoir [traversé l’Angleterre]({% post_url 2017-04-24-dublin-by-england %}), il faut garder la forme. Il y a certes un peu de ménage chez Félix, mais cela ne suffit pas.
 > Je compte bien profiter de ce valeureux vélo Victoire qui m’a conduit jusqu’à Dublin.
-Le temps est toujours aussi clément pour ces vacances de Pâques. De plus, certaines sorties n’ont pas été concrétisées à la [Toussaint]({% post_url 2016-10-31-les-moulins-en-terre-celtique }).
+Le temps est toujours aussi clément pour ces vacances de Pâques. De plus, certaines sorties n’ont pas été concrétisées à la [Toussaint]({% post_url 2016-10-31-les-moulins-en-terre-celtique %}).
 
 ## Howth
 Cette presqu’île aux portes de Dublin est vraiment dépaysante. Isa et moi l’avions un peu explorée lors des [dernières vacances]({% post_url 2016-10-31-les-moulins-en-terre-celtique }) en Irlande.
@@ -29,7 +29,7 @@ Certaines parties sont bien roulantes, mais attention à la chute, car ce n’es
   <div class="gallery">
 <img src="/assets/images/paques-en-irlande/paques-en-irlande_4848.jpg" title="Plus de frayeur que de mal !" alt="Pâques en Irlande" >
 <img src="/assets/images/paques-en-irlande/paques-en-irlande_4860.jpg" title="On fait comme on peut ..." alt="Pâques en Irlande" >
-<img src="/assets/images/paques-en-irlande/paques-en-irlande_4866.jpg" title=""Sorry, sorry !"" alt="Pâques en Irlande" >
+<img src="/assets/images/paques-en-irlande/paques-en-irlande_4866.jpg" title="Sorry, sorry !" alt="Pâques en Irlande" >
 </div>
 </div>
 Le matériel est soumis à rude épreuve et la cale de ma chaussure se dessert après une chute sans gravité ; sauf qu’il manque une vis. Comme nous sommes presque à mi-chemin, je vais essayer de ne pas la perdre.
