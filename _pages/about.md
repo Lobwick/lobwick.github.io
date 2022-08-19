@@ -31,4 +31,4 @@ Par conséquent, Les Moulins, Père et Fils, vous convient à suivre toutes leur
 
 > Bienvenue dans l’Univers Familial de ces deux Aventuriers nordistes !
 
-Si vous voulez nous contacter n'hésitez pas ! [C'est ici !]({{ site.baseurl }}{% link contact.md %})
+Si vous voulez nous contacter n'hésitez pas ! [C'est ici !]({{ site.baseurl }}{% link contact %})
