@@ -7,7 +7,7 @@ baseurl: ''
 url: https://lobwick.github.io/
 author-name: Two Moulins
 hero:
-  image: '/images/twomoulins.jpg'
+  image: '/assets/images/twomoulins.jpg'
   title: Two Moulins
   description: 
 social:
