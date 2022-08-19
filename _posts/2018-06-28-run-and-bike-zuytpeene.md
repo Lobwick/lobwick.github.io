@@ -11,7 +11,7 @@ C'est d'ailleurs le Cassel Vtt Club qui organise cette épreuve, tout comme le C
 8160,8159,8149
 Retrait des dossards et de la plaque de cadre entre 14 et 15h30, pour un départ dans la foulée.
 Les organisateurs sont tout juste installés car nous sommes les premiers, bien que venant de loin.
->          L'équipe 641 des Twomoulins peut donc se préparer, avant de se reposer un peu.
+>    L'équipe 641 des Twomoulins peut donc se préparer, avant de se reposer un peu.
 Enfin, plus ou moins, car c'est la ducasse au village, avec les manèges qui tournent déjà !
 8161,8148
 Après une longue attente, il faut se rapprocher de la ligne de départ, pour ne pas manquer le briefing d'avant course.

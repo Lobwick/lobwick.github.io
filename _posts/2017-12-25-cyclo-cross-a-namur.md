@@ -5,14 +5,14 @@ date:   2017-12-25 19:30:56 +0100
 ---
 Félix se passionne de plus en plus pour cette discipline qui se rapproche du VTT.
 Nous avons déjà assisté à une manche de cette coupe du monde sur la côte Belge, à Coxyde fin octobre.
->           C’est ce pays, avec les Pays-Bas, qui domine le classement mondial.
+>     C’est ce pays, avec les Pays-Bas, qui domine le classement mondial.
 Cette nouvelle étape reste en Belgique, autour de la citadelle de Namur.
 Nous nous y étions déjà rendus à l’occasion d’une étape du tour de France sur route en 2015.
 
 <h1 style="text-align: justify;">Dimanche 17 décembre 2017</h1>
 Direction la capitale de la Wallonie, vers le sud de la Belgique.
 L’autoroute nous fait d’abord passer par Mons et Charleroi.
->           Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle
+>     Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle
 6436,6461,6442
 Cette curieuse saucisse est une première pour Lucie, plutôt habituée aux quenelles de sa région Lyonnaise.
 Avec le gel et le dégel des jours précédents, le terrain est très boueux.
@@ -35,7 +35,7 @@ Nous sommes dans la forêt tout en surplombant la ville.
 
 6471,6441,6440
 
->           Vers 15 h les champions s’élancent, après s’être échauffés avant les fé<strong>minines.
+>     Vers 15 h les champions s’élancent, après s’être échauffés avant les fé<strong>minines.
 
 6437,6456,6485,6438
 
@@ -45,7 +45,7 @@ Nous avons le temps de nous déplacer aux différents endroits spectaculaires po
 
 6488,6470,6487,6459
 
->           Très vite, le champion du monde en titre belge, Wout Van Aert prend plusieurs centaines de mètres d’avance.
+>     Très vite, le champion du monde en titre belge, Wout Van Aert prend plusieurs centaines de mètres d’avance.
 
 Il est aidé par la chute d’un de ses plus proches adversaires, le Néerlandais Mathieu Van der Poel.
 Ce dernier lutte maintenant pour la deuxième place avec un autre Belge, Ton Aerts.
@@ -53,7 +53,7 @@ Tous ne tardent pas à être couverts de boue, au point de faire laver leur vél
 
 6446,6455,6484,6464
 
->           Félix est à l’affût avec ses différents appareils photo et je l’aide avec le smartphone pour les vidéos.
+>     Félix est à l’affût avec ses différents appareils photo et je l’aide avec le smartphone pour les vidéos.
 
 6469,6465,6468
 
