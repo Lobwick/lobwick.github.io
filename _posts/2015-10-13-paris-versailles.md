@@ -24,7 +24,7 @@ Cela tombe bien, car elle est animée par un festival moyenâgeux.
 
 Après quelques photos, direction Paris en passant par Roissy et Le Bourget.
 
-[gallery type="rectangular" size="full" link="file" ids="907,910,908
+907,910,908
 
 Il me faut encore traverser la capitale pour atteindre le village expo de Paris-Versailles à Issy-les-Moulineaux.
 
@@ -38,18 +38,18 @@ Après une bonne nuit, je suis en forme pour aller courir cette Paris-Versailles
 ## Paris-Versailles
 Grâce au RER me voilà au pied de la Tour Eiffel.
 
-[gallery type="rectangular" size="full" ids="916,920,918
+916,920,918
 > Le départ des 25 000 participants s’effectue par vagues de 350 toutes les min.
 Je me glisse dans la dernière pour être tranquille.
 
-[gallery type="rectangular" size="large" ids="917,919,922
+917,919,922
 
 Début de parcours le long de la Seine où je rattrape progressivement les vagues précédentes.
 Il faut commencer à se faufiler, mais la côte des Gardes va ralentir tout le monde.
 > Longue de 2 km avec une pente moyenne de 6 %, la chaleur se fait sentir en milieu de journée.
 Après la traversée de la forêt, la récompense du château de Versailles apparaît devant nous.
 
-[gallery type="rectangular" size="large" ids="924,923
+924,923
 
 <center><iframe src="https://www.strava.com/activities/402507713/embed/45d1fefb6ac497012f159a6637d75b7d26da9461" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Paris-Versailles terminée, je ne résiste pas à un peu de tourisme autour du château.
 3585

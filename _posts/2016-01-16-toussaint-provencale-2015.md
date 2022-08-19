@@ -88,7 +88,7 @@ Heureusement qu'il est là et en bon état car il m'a permis de parcourir plus d
 Merci papa qui le retrouve aussi maintenant lors de cyclos avec l'association HGN.
 > Il va falloir slalomer entre les balles des chasseurs de sangliers.
 Mais l'agglomération marseillaise apparaît après avoir passé plusieurs collines escarpées.
-[gallery size="large" type="rectangular" link="file" ids="1103,1256,1258
+1103,1256,1258
 
 La remontée vers le Garlaban est de plus en plus sauvage, d'où le nombre de fusils augmentant.
 De fortes pentes me permettent de le découvrir comme dans l'univers de Pagnol.

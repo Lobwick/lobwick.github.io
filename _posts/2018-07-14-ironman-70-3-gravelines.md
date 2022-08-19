@@ -47,7 +47,7 @@ La deuxième boucle est un enfer pour moi, mais je sers les dents et je continue
 
 <center><iframe src="https://www.strava.com/activities/1676206410/embed/d9ec64b2c051e59a62f3c8401a1585473dfa6ed6" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 > Chrono de 5h39 à l'arrivée de ce premier half-ironman
-[gallery type="rectangular" ids="8434,8433,8432
+8434,8433,8432
 Content d'avoir fini ce half-ironman, je franchis la ligne d'arrivée avant de rejoindre les collègues sur le stand d'Aptonia, où je peux savourer une bière à l'ombre de la tente montée par les collègues la veille.
 8438,8439,8436,8435
 Une fois les affaires récupérées sur le parc de transition, nous repartons vers Lille pour un repas bien mérité. Après une dure journée, j'ai envie de retenter ma chance sur un nouveau half dans le courant de l'année.

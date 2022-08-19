@@ -145,7 +145,7 @@ Le parc voisin de Buckingham va m’héberger pour cette première nuit au sein 
 </div>
 </div>
 > Bercé par la douce mélodie de Big Ben, je peux lui faire concurrence en ronflant.
-[gallery type="columns" size="large" link="file" ids="4663,4664,4667
+4663,4664,4667
 
 ![La médaille de la traversée d'Angleterre offerte par Félix](/assets/images/dublin-by-england/4592.jpg)
 
@@ -187,7 +187,7 @@ Une route historique se présente à moi pour franchir le Pays de Galles ; elle 
 </div>
 </div>
 Qui dit montagnes, dit dénivelé, mais cette route est tracée régulièrement dans une vallée verdoyante en son début.
-[gallery type="columns" size="large" link="file" ids="4697,4701,4699
+4697,4701,4699
 Pas grand monde sur cet itinéraire et mes seuls compagnons sont les diverses races de moutons anglais qui ne se soucient guère de ce cycliste français s’aventurant en terres galloises.
 <div class="gallery-box">
   <div class="gallery">

@@ -2,14 +2,15 @@
 layout: post
 title:  "Herlies-Aix-Herlies"
 date:   2016-09-11 19:14:36 +0100
+image: /assets/images/herlies-aix-herlies/herlies-aix-herlies_2850.jpg
 ---
-## <b>Aller</b>
+## Aller
 Deux ans après ma première traversée de la France, je suis à nouveau tenté par cette aventure.
 > Mais cette fois-ci avec un itinéraire plus direct en évitant un maximum de dénivelé.
 Je veux surtout profiter d'un maximum de jours de vacances à Aix.
 Le vélo aussi n'est plus le même car je délaisse mon vtt de compétition pour le bon vieux Gitane Victoire de papa.
 Plus d'imposantes sacoches sur porte-bagage arrière mais uniquement des sacoches en version bikepacking.
-[gallery link="file" type="rectangular" ids="2833
+![A fond la sécurité !](/assets/images/herlies-aix-herlies/2833.jpg)
 > Je privilégie la légèreté pour être plus rapidement rendu dans le midi.
 Ce début août s'annonçant sec mais chaud, je décide de prendre la route le lundi 1 er août aux aurores.
 > Je pourrai ainsi profiter de journées plus longues pour accumuler les kilomètres.
@@ -18,7 +19,13 @@ Il s'agit de longer l'autoroute du nord où toute la circulation est concentrée
 Avant de traverser Paris par l'est, j'équipe la sacoche de selle d'un gilet fluo par précaution.
 La chaleur de la capitale est pesante.
 Pour rejoindre la Bourgogne je passe par Sens afin de compléter ma collection de cathédrales.
-[gallery type="rectangular" size="medium" link="file" ids="2834,2836,2837
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2834.jpg" title="Cathédrale de Sens" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2836.jpg" title="" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2837.jpg" title="" alt="Herlies-Aix-Herlies" >
+</div>
+</div>
 Cette première journée se termine à Migennes car un petit jardin public va me servir de camping.
 Mon emplacement idéal est une table de pique-nique en guise de sommier.
 Après une petite toilette au gant et au bidon d'eau, il n'y a plus qu'à s'enfiler dans le sac de couchage déroulé sur la table.
@@ -29,31 +36,51 @@ Deuxième jour qui doit me conduire jusqu'à Lyon en passant par Beaune.
 L'itinéraire est assez proche de l'autoroute mais sur des départementales très roulantes.
 Je me rends compte que la Bourgogne est vallonnée avant d'atteindre le point culminant de cette traversée.
 
-2292
+![Semur-en-Auxois](/assets/images/herlies-aix-herlies/2292.jpg)
 Le passage par le col de Bessey-en-Chaume à 576 m d'altitude permet d'atteindre Beaune après une descente régulière de plusieurs kilomètres très plaisante.
 Occasion de retrouver une foule considérable de cyclistes émerveillés par les Hospices de Beaune.
 
-[gallery type="rectangular" size="medium" link="file" ids="2839,2840,2841,2842,2843,2844
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2839.jpg" title="" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2840.jpg" title="Descente du col de Bessey-en-Chaume" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2841.jpg" title="" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2842.jpg" title="" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2843.jpg" title="" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2844.jpg" title="Hospices de Beaune" alt="Herlies-Aix-Herlies" >
+</div>
+</div>
+
 > Cette pause tombe bien car la température approche les 35 degrés en plein après-midi.
 Deuxième étape se terminant à Lyon où la nuit reste chaude le long des quais.
+
 ## Troisième jour
 Pour rejoindre Aix-en-Provence il n'y a plus qu'à longer la vallée du Rhône.
 Je ne peux m'empêcher de faire étape à Montélimar pour reprendre des forces avec du nougat.
 
-2845
+![](/assets/images/herlies-aix-herlies/2845.jpg)
 > Un peu de tourisme à Orange, pensant que j'étais arrivé ...
-[gallery type="rectangular" size="medium" link="file" ids="2846,2847,2848,2849
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2846.jpg" title="Sa porte d'entrée" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2847.jpg" title="Son théâtre antique ..." alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2848.jpg" title="" alt="Herlies-Aix-Herlies" >
+<img src="/assets/images/herlies-aix-herlies/herlies-aix-herlies_2849.jpg" title="pas autant que la traction !" alt="Herlies-Aix-Herlies" >
+</div>
+</div>
 
-
-2850
+![La base de Salon-de-Provence n'est pas loin ](/assets/images/herlies-aix-herlies/2850.jpg)
 Mais la fin de ce troisième jour s'annonce un peu plus pénible à cause de la chaleur provençale.
 Les crampes menacent et l'ascension des dernières côtes se fait au ralenti.
 > J'atteins mon but en retrouvant l'Olivette et les parents vers 20h30.
 Cette traversée d'un millier de kilomètres fut plus rapide qu'en 2014 grâce à une meilleure expérience et un itinéraire plus rapide.
 
-<center><iframe src="https://www.strava.com/activities/664319958/embed/7f3db817b3c7ed4d5422cf4631b0ffd79b069ca6" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Je vais pouvoir profiter de quelques jours de vacances méritées racontées dans un prochain article ( Eté provençal )
+<center><iframe src="https://www.strava.com/activities/664319958/embed/7f3db817b3c7ed4d5422cf4631b0ffd79b069ca6" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
+
+Je vais pouvoir profiter de quelques jours de vacances méritées racontées dans un prochain article ( Eté provençal )
 Il sera ensuite temps de remonter dans le nord ...
-## <b>Retour </b>
+
+## Retour 
 Et comme la météo annonce un week-end du 15 août ensoleillé avec des températures en hausse, je me décide à prendre la direction de la maison.
 Entre temps j'ai eu le temps de réfléchir à un itinéraire plus touristique en m'accordant une journée supplémentaire de trajet.
 
@@ -76,25 +103,5 @@ Pour regagner le canal de Bourgogne, j'évite le col de Bessey-en-Chaume mais la
 Me voilà quand même dans la magnifique vallée de l'Ouche.
 > C'est à ce niveau que je retrouve le Canal de Bourgogne qui commence à Dijon.
 Je vais pouvoir passer une nuit paisible sur les bords de celui-ci au niveau de Montbard.
-## Deuxième jour
-Au petit matin, encore une fuite au pneu arrière.
-Heureusement j'utilise la dernière chambre à air gracieusement donnée la veille par une famille de cyclistes.
-> Celle-ci tiendra d'ailleurs jusqu'à Herlies !
-Ce canal se termine hélas à Migennes.
-Il vaut bien la ViaRhona, avec de nombreux tronçons aménagés récemment.
-Le reste du trajet est moins enthousiasmant.
-Il faut d'abord regagner Sens, puis Paris.
-Ne surveillant pas le gps, je me retrouve à Fontainebleau.
-Pas grave, mais je ne pourrai franchir Paris qu'au petit matin.
-## Troisième jour
-La capitale est très tranquille en cette période estivale.
-> Le petit déjeuner est servi sur le marché d'Aubervilliers.
-Après Senlis, plus besoin de gps.
-Je sais ce qui m'attend : Roye, Peronne, Bapaume, Arras et Lens.
-Surtout qu'après avoir échappé au mistral, me voilà confronté à un vent sensible soufflant du nord.
-Pour arriver en pleine forme à la maison, j'engloutis un méga cornet de glace à l'italienne au chocolat sur la place d'Arras.
-> En cette fin de quatrième journée, je vais enfin pouvoir apprécier une bonne douche à la maison !
-Hélas, pas de photos de ce retour en raison des nombreuses crevaisons qui ont un peu gâché ce retour.
-Ce sera pour une prochaine fois car je pense avoir trouvé le trajet idéal pour traverser la France à vélo ...
 
 <center><iframe src="https://www.strava.com/activities/678551238/embed/316bcabd9b83b114b9791cedff9ca1c7ef41e8cf" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>

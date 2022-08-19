@@ -16,7 +16,7 @@ Tenue d’hiver adéquate pour affronter ce vent glacial, j’enfourche le Fixie
 > Surtout que le parcours est relativement plat dans la plaine du Nord, à condition d’éviter les Monts.
 Je vais quand même frôler le Mont Cassel et sa terrible montée en pavés.
 Après ce léger vallonnement à peine perceptible avec le monovitesse, je me laisse descendre vers la côte.
-[gallery type="rectangular" size="medium" link="file" ids="1627
+1627
 La célèbre ville de Bergues est indiquée sur ma droite, mais il faudrait affronter le vent.
 Dunkerque approche rapidement avec les fumées de ses aciéries.
 

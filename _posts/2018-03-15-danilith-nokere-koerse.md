@@ -18,7 +18,7 @@ Il a plu toute la nuit et d'immenses mares se sont formées.
 <strong>Mais il faut les franchir en prenant de la vitesse, afin de ne plus pédaler au beau milieu.
 Hélas, pour certaines plus longues, cela ne suffit pas ...
 Le pédalage est inévitable, entraînant le remplissage des chaussures !
-[gallery type="rectangular" size="medium" link="file" ids="6888,6894,6892,6881
+6888,6894,6892,6881
 Heureusement, à l'extrémité sud du parcours, nous prenons de la hauteur avec l'Eikenberg à franchir.
 C'est une première côte, longue de presque un kilomètre avec une pente moyenne de 6 %.
 Un peu plus loin, les pavés de la Herlegemstraat vont permettre d'évacuer le surplus d'eau accumulée, en nous secouant.

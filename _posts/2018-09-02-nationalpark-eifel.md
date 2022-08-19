@@ -310,7 +310,7 @@ La troisième journée devait être orageuse mais la nuit étoilée a laissé pl
 Il suffit de quitter l'Emblève à Remouchamps, pour la retrouver plus tard dans la journée.
 Après avoir fait l'effort de me lever aux aurores, j'assiste incrédule à la dissipation des bancs de brume par le soleil levant.
 
-[gallery type="rectangular" ids="9504,9514,9506,9521,9507,9508,9509,9510,9522,9511
+9504,9514,9506,9521,9507,9508,9509,9510,9522,9511
 
 Après ces splendides vues de cartes postales, le petit déjeuner est prévu à Theux.
 C'est aussi une petite ville incontournable des Ardennes ...

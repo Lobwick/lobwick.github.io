@@ -51,7 +51,7 @@ Le plus grand regret de cette journée fut l’impossibilité de retrouver Fran�
 D’abord Chartres, puis Beauvais et pour finir Amiens ; il ne manquait que Senlis que j’aurais pu visiter à l’aller, sans oublier Orléans.
 Je remercie encore Philippe pour cette riche idée.
 
-[gallery columns="7" link="file" size="medium" type="rectangular" ids="468,469,470,471,472,488
+468,469,470,471,472,488
 ## Cimetières de la 1ère guerre mondiale
 Ce voyage s’est terminé par la tournée émouvante des cimetières militaires de la Somme.
 

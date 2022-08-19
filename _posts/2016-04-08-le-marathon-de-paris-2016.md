@@ -34,7 +34,7 @@ Le ciel, au dessus de l'Arc de Triomphe, annonce une chaude journée.
 <p style="text-align: left;">Nous visons les 3h45, tout comme une partie de l'équipe <a href="http://www.decathlonpro.fr">Décathlon Pro</a>.
 Félix est actuellement en stage chez eux et c'est l'occasion de courir avec d'autres sportifs.
 Place à l'habituel échauffement, pour mettre de l'ambiance et nous faire patienter.
-[gallery size="large" link="file" type="rectangular" ids="1724,1726,1725
+1724,1726,1725
 ## 
 
 
@@ -53,15 +53,15 @@ L'ambiance musicale des divers groupes nous donne le rythme en nous faisant oubl
 Nous voici donc au bois de Boulogne, le long des installations de Roland Garros.
 C'est bon signe car les kilomètres défilent moins rapidement et les quelques malaises apparaissent autour de nous.
 Encore un dernier ravitaillement et la ligne d'arrivée est toute proche.
-[gallery size="large" link="file" type="rectangular" ids="1737,1736,1735
+1737,1736,1735
 Le repère 42 km marque l'entrée sur une autre grande artère de Paris, l'Avenue Foch.
 > Il était temps car les derniers mètres sont pénibles pour tout le monde.
 
 <center><iframe src="https://www.strava.com/activities/535335894/embed/1557a8c7289e918665daf6df91ce3f702cf6274c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Le rythme trop rapide du départ, nous fait terminer en un peu plus de 4h, cinq heures après le départ des premiers.
-[gallery columns="1" type="rectangular" link="file" ids="1734
+1734
 > Mais, une fois la fatigue passée, place à la satisfaction d'être allés plus vite que l'année dernière.
 Retour au point de départ avec les traditionnelles photos de médailles devant d'autres victoires, celles de Napoléon.
 Le marathon de Paris sera suivi d'une semaine de récupération afin d'effectuer <a href="http://twomoulins.fr/velo/en-piste-pour-paris-roubaix-2016">Paris-Roubaix</a> dans les meilleures conditions.
-[gallery type="rectangular" size="large" link="none" ids="1732,1731,1733
+1732,1731,1733
 

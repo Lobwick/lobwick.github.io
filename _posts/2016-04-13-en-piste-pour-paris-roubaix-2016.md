@@ -16,7 +16,7 @@ Il va pouvoir se plonger dans l'ambiance des deux vélodromes de Roubaix, l'anci
 > C'est comme sur le Tour de France, c'est un monde à part.
 Mais contrairement au tour, on peut y participer le lendemain ( sauf l'étape du tour ouverte aux amateurs )
 Félix en a plein les yeux et ne peut s'empêcher de faire quelques achats chez Rapha, la célèbre marque cycliste.
-[gallery size="large" type="rectangular" link="file" ids="1772,1768,1771,1767,1769
+1772,1768,1771,1767,1769
 Samedi, cela ne plaisante plus, avec 170 km qui nous attendent, dont une cinquantaine sur pavés.
 
 ## La course

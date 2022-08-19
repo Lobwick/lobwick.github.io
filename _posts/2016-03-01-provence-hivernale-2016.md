@@ -66,7 +66,7 @@ Le lendemain autour de Puyricard, c'est à vélo que nous testons ce dernier en 
 <center><iframe src="http://www.strava.com/activities/493467476/embed/4bca6571f35f3aff7d76762ab1b2c934ed5fbde5" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Il y a encore de quoi faire avec un tel appareil.
 
-[gallery size="large" type="rectangular" link="file" ids="1544
+1544
 ## Rognes
 Lundi, reprise du vtt car un petit mistral tente de dégager le ciel.
 Je vais explorer le massif entre Rognes, la Roque-d'Anthéron et Lambesc.
@@ -77,7 +77,7 @@ C'est l'occasion de m'approcher de la retenue d'eau Saint Christophe.
 Je vais ensuite croiser plusieurs fois le canal de Marseille à partir duquel j'effectue des remontées dans le massif.
 Le chemin est parfois rendu impraticable par des engins de déboisement.
 
-[gallery size="large" type="columns" link="file" ids="1361,1362,1379,1380
+1361,1362,1379,1380
 
 Je découvre l'abbaye de Silvacane proche de la Roque-d'Anthéron.
 > Ce qui n'était pas encore arrivé, arriva, avec devant moi un imposant portail de propriété privée.
@@ -88,7 +88,7 @@ Je passe par la chapelle Saint Anne de Goiron avec le monument aux martyrs de la
 Heureusement le mistral va me pousser jusqu'à la voiture qui m'a permis de rejoindre ce massif plus rapidement.
 Le soleil vient juste de se coucher.
 
-[gallery type="columns" size="large" link="file" ids="1369,1381,1383,1386
+1369,1381,1383,1386
 ## Mont Aurélien
 Il me reste deux grosses sorties programmées sur Strava.
 Je croyais explorer le massif de la Sainte Baume mais il s'agit plutôt d'un massif intermédiaire entre celle-ci et la Sainte Victoire.
@@ -99,7 +99,7 @@ Le temps est couvert en ce début de sortie et je roule donc à bonne vitesse.
 > Après avoir contourné le Mont Olympe, j'aperçois le Mont Aurélien sur les hauteurs.
 Il n'y a plus qu'à faire demi-tour avec le retour du soleil.
 
-[gallery size="large" type="rectangular" link="file" ids="1409,1410
+1409,1410
 
 Séance photos au niveau de la chapelle de l'ermitage de Saint Jean du Puy.
 
@@ -128,10 +128,10 @@ Je suis d'ailleurs doublé par des vtt électriques.
 Du haut de ce relais je devine Marseille dans la brume ou dans sa pollution.
 Je continue l'ascension du massif en m'aventurant jusqu'au sommet de la petite Etoile.
 L'été, un mirador permet de surveiller les éventuels départs d'incendies.
-[gallery size="large" type="rectangular" link="file" ids="1490,1495
+1490,1495
 L'entraînement des canadaires, basés à Marignane, me survolant, est impressionnant.
 Il n'y a plus qu'à se rapprocher du Pilon du Roi après être redescendu dans la forêt.
-[gallery size="large" type="rectangular" link="file" ids="1504,1457
+1504,1457
 Je vais essayer de revenir plus tôt que la veille.
 Surtout que ma marraine Laurence et son mari Philippe sont à Aix pour profiter de la région qu'ils adorent.
 La descente vers Mimet en passant par le Col Saint Anne n'est qu'une formalité.
@@ -150,5 +150,5 @@ C'est l'occasion aussi de tester le nouveau Food Truck installé non loin de l'O
 
 ## Gare St Charles
 En raison de l'importance des bagages et du vélo à transporter, il est prévu le lendemain un départ depuis la gare St Charles directement à Marseille ...
-[gallery type="rectangular" size="large" ids="1561,1559,1560
+1561,1559,1560
 > Merci au Scénic fraîchement réparé de papa et maman, qui m'a conduit au plus proche de ces aventures.
