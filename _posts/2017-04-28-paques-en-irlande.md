@@ -9,7 +9,7 @@ Après avoir [traversé l’Angleterre]({% post_url 2017-04-24-dublin-by-england
 Le temps est toujours aussi clément pour ces vacances de Pâques. De plus, certaines sorties n’ont pas été concrétisées à la [Toussaint]({% post_url 2016-10-31-les-moulins-en-terre-celtique %}).
 
 ## Howth
-Cette presqu’île aux portes de Dublin est vraiment dépaysante. Isa et moi l’avions un peu explorée lors des [dernières vacances]({% post_url 2016-10-31-les-moulins-en-terre-celtique }) en Irlande.
+Cette presqu’île aux portes de Dublin est vraiment dépaysante. Isa et moi l’avions un peu explorée lors des [dernières vacances]({% post_url 2016-10-31-les-moulins-en-terre-celtique %}) en Irlande.
 Je me doutais bien que Félix avait une idée en tête quand je l’ai vu monter des pneus de cyclo-cross sur son vélo Roubaix.
 > Pourtant j’étais loin d’imaginer ce qui m’attendait.
 Heureusement de mon côté, le Victoire a rajeuni avec de nouveaux étriers de freins. Les pneus, trop fins pour  les mauvaises routes anglo-irlandaises, ont aussi été changés pour être plus larges.
