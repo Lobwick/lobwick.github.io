@@ -30,7 +30,7 @@ Le passage sur le pont de Normandie est une première familiale et sans aucun so
 Embarquement dans les temps sur l'Oscar Wilde de la compagnie Irish Ferries.
 
 [gallery type="rectangular" size="medium" link="file" ids="2453,2459,2450
-<blockquote>Inutile de vous dire que les Français sont en minorité !</blockquote>
+<blockquote>Inutile de vous dire que les Français sont en minorité !
 [gallery type="rectangular" size="medium" link="file" ids="2460,2462,2464
 
 Vivement le départ car la chaleur est suffocante, surtout sur les ponts.
@@ -142,7 +142,7 @@ Le navire de la même compagnie est loin d'être comparable avec l'Oscar Wilde.
 " L'Epsilon " est le plus petit de leur flotte mais avec un tarif proportionnel.
 Pas de risque de se perdre sur celui-ci.
 
-> On sait ce qui nous attend avec une traversée encore plus longue qu'à l'aller.</strong>
+> On sait ce qui nous attend avec une traversée encore plus longue qu'à l'aller.
 
 [gallery type="rectangular" size="medium" link="file" ids="2600,2598,2599,2597,2607
 

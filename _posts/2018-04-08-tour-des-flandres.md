@@ -37,7 +37,7 @@ Nous sommes des milliers à nous élancer sur les trois parcours qui ont ce mêm
 Embouteillages inévitables qui vont se dissiper progressivement en fonction des circuits.
 Le nôtre débute avec la côte très abrupte du Wolvenberg, asphaltée mais dont le pourcentage maximal atteint 17%, alors que les muscles sont tout juste chauds.
 Puis les secteurs pavés du Ruitersstraat et du Paddestraat, avec le Molenberg intercalé, nous amènent jusqu'au premier ravitaillement, proche de Zottegem au nord-est de notre départ.
-<p style="padding-left: 30px; text-align: justify;">> Dans le Molenberg, certains mettent pied à terre au passage des 15%, en raison de la bousculade et de l'humidité boueuse de ces pavés exigeants.
+> Dans le Molenberg, certains mettent pied à terre au passage des 15%, en raison de la bousculade et de l'humidité boueuse de ces pavés exigeants.
 Avant d'atteindre les routes étroites et escarpées du Leberg en direction du sud, ce sont les pavés ondoyants du Haaghoek qui nous font souffrir.
 Au niveau de Brakel, il faut monter la Tenbossestraat.
 7332,7331,7330,7329,7423
@@ -48,20 +48,20 @@ Puis, en pénétrant dans le bois, on se demande comment le traverser !
 Pourtant il faut le franchir pour rejoindre son sommet.
 Le chemin, car on ne peut plus parler de route, se met à sinuer à presque 20% sur des pavés déformés ...
 Miraculeusement, il est sec, même sous les arbres.
-<p style="padding-left: 30px; text-align: justify;">> La vue de la petite chapelle est une véritable délivrance !
+> La vue de la petite chapelle est une véritable délivrance !
 Tout le monde reprend sa respiration, avant un ravito mérité juste en contre-bas.
 7425,7293,7290,7289,7288
 Il faut maintenant repartir vers Oudenaarde en longeant les collines.
 Sauf qu'il va falloir les franchir à un moment ou un autre, avec le kilomètre du Valkenberg à presque 10%.
 Puis, après une longue route plus large, c'est au tour de l'Eikenberg, un peu moins rigoureux.
-<p style="padding-left: 30px; text-align: justify;">> Nous revoilà à Oudenaarde, mais uniquement pour un ravitaillement !
+> Nous revoilà à Oudenaarde, mais uniquement pour un ravitaillement !
 Le tracé reprend la direction du sud-est, avec cinq côtes au programme, sans oublier le secteur pavé de Mariaborrestraat à parcourir sur 2 km.
 7283,7285,7284,7282,7280
 La première ascension est le deuxième temps fort de ce Ronde Van Vlaanderen.
 Avant de pouvoir vaincre les 500 m du Koppenberg, il faut faire la queue !
 Les organisateurs sont obligés de nous laisser le monter que par vagues de quelques dizaines de cyclistes.
 Comme sur l'autoroute au moment des vacances scolaires ...
-<p style="padding-left: 30px; text-align: justify;">> Sinon, ce serait l'hécatombe au moment du passage à 22% sur ses pavés boueux !
+> Sinon, ce serait l'hécatombe au moment du passage à 22% sur ses pavés boueux !
 Même ainsi, beaucoup perdent de l'adhérence, condamnant les suivants à arrêter de pédaler.
 Pourtant, il est bien indiqué que les "tortues" doivent rester à droite, pour laisser filer les "lièvres" à gauche.
 Idem pour la file de véhicules lents sur autoroute ...
@@ -70,12 +70,12 @@ Cette sensation ne prend une telle ampleur qu'au Tour des Flandres !
 7319,7303,7328,7336,7295,7294
 Tout juste le temp de récupérer, avant de se faire secouer par les 2 km de mauvais pavés de Mariaborrestraat.
 S'enchaînent ensuite presque comme les cinq doigts de la main, le Steenbeekdries, le Taaienberg, le Kaperij et le kanarieberg.
-<p style="padding-left: 30px; text-align: justify;">> Redescente vers Ronse ou Renaix, pour le dernier ravito.
+> Redescente vers Ronse ou Renaix, pour le dernier ravito.
 Nous ne nous éternisons pas car des averses menacent sur le relief, après une journée qui s'est considérablement réchauffée.
 Surtout qu'un trio de monts nous attend avec le Kruisberg, le Hotond et le Karnemelkbeek.
 7373,7378,7377,7388,7387,7395
 Reste le bouquet final de cette mythique classique !
-<p style="padding-left: 30px; text-align: justify;">> Il s'agit de l'enchaînement du Vieux Kwaremont avec le Paterberg.
+> Il s'agit de l'enchaînement du Vieux Kwaremont avec le Paterberg.
 Le premier est vraiment pénible en raison de ses 2 km de pavés irréguliers avec un passage à plus de 10%.
 Ce n'est pas pour rien que sa bière se mérite ...
 7370
@@ -88,12 +88,12 @@ Quelques kilomètres pour le sprint final, à presque 40km/h, afin de franchir l
 7256,7263,7260
 Le moment le plus appréciable de la journée est de retrouver la zone VIP en bordure de cette ligne.
 Après avoir récupéré notre médaille, place à la Pasta Party ...
-<p style="padding-left: 30px; text-align: justify;">> Elle est à l'image du petit-déjeuner !
+> Elle est à l'image du petit-déjeuner !
 Différentes sortes de pâtes, accompagnées de sauces variées et des meilleurs fromages italiens, sans oublier les salades.
 Même le Saint-Emilion est prévu, à consommer avec modération car il y a le retour.
 7258,7261,7257,7251
 A la fin de cette journée, nous avons le sentiment d'avoir vécu l'équivalent de l'étape du tour de France, de juillet 2017 entre Briançon et le Col d'Izoard.
-<p style="padding-left: 30px; text-align: justify;">> Il y a de la souffrance, qu'il faut combattre au moral, et une ambiance particulière ...
+> Il y a de la souffrance, qu'il faut combattre au moral, et une ambiance particulière ...
 La semaine prochaine, encore des pavés !
 Mais ceux du <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> ...
 

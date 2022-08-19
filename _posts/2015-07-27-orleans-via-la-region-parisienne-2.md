@@ -16,7 +16,7 @@ Départ au petit matin du mardi 21/7 sans se presser et en retrouvant la chaleur
 ## Paris
 > La région parisienne est atteinte pour le coucher de soleil après une journée propice à la bicyclette.
 
-<blockquote>428,426,427,424,430,429,439</blockquote>
+<blockquote>428,426,427,424,430,429,439
 Chaude ambiance dans la capitale remplie de touristes surtout japonais qui semblent ne pas vouloir se coucher.
 Un peu comme moi qui profite de cette atmosphère en prenant des photos.
 Après un dernier sandwich sous la Tour Eiffel, il faut reprendre la route, car il me reste une bonne centaine de kilomètres.
@@ -29,7 +29,7 @@ Pas évident de quitter Paris et je me perds dans sa lointaine banlieue sud en p
 ## Orléans
 > Après avoir mis le double de temps depuis la capitale, j’arrive enfin à Orléans en milieu de mercredi.
 
-<blockquote>462,466,467</blockquote>
+<blockquote>462,466,467
 Ma marraine Laurence, très étonnée de me voir, forcement n’ayant pas prévenu, me propose son hospitalité qui est la bienvenue.
 Je ne fais qu’une bouchée de son succulent taboulé tout en ayant vidé deux bouteilles d’eau gazeuse de la cave de Philippe.
 ## Olivet

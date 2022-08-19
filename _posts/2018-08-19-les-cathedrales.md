@@ -5,7 +5,7 @@ date:   2018-08-19 15:46:49 +0100
 ---
 Je ne sais pas pourquoi, mais elles me fascinent.
 J'avais déjà rencontré celles d'Amiens, de Beauvais et de Chartres lors de précédentes cyclos à travers la France.
-> <strong>Il me manquait les plus majestueuses !</strong>
+> <strong>Il me manquait les plus majestueuses !
 Je trace un circuit qui va me permettre de les découvrir ...
 En cette mi-août, le temps est justement propice le long de l'Oise et de l'Aisne.
 Le point de départ est fixé au niveau du canal qui relie la Sambre à l'Oise.

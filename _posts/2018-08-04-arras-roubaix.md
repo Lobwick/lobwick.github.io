@@ -7,7 +7,7 @@ Après l'<a href="http://twomoulins.fr/etape-tour-2018/">étape du tour 2018</a>
 Mais cette fois-ci par nos propres moyens et non en passant par Amaury Sports Organisation.
 On va donc se mesurer aux pavés, sur l'étape qui avait conduit les coureurs professionnels entre Arras et Roubaix.
 D'ailleurs celle-ci avait précédé celle de montagne pour le peloton, avec la première journée de repos intercalée.
-<p style="padding-left: 30px; text-align: justify;">> C'est l'occasion de retrouver certains secteurs pavés empruntés à <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> que nous disputons chaque année.
+> C'est l'occasion de retrouver certains secteurs pavés empruntés à <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> que nous disputons chaque année.
 Tour de France oblige, ceux-ci seront réduits du tiers pour ne pas trop déstabiliser le peloton, avec certains cyclistes vraiment allergiques à ces gros blocs nordistes.
 8493,8492,8491,8494,8496,8495
 Par conséquent, c'est l'étape 9 du tour qui nous attend et que les pros avaient accompli le dimanche 14 juillet.

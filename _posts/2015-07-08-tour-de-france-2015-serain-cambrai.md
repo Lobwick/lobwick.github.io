@@ -12,9 +12,9 @@ Une dizaine de minutes plus tard, le peloton débarque sur le pont de Namur et a
 188,187,186,185,184,183,182,181,180,179,178,177
 Normalement, il était prévu de rejoindre le Tour au niveau des secteurs pavés, Emblèmes du Nord-Pas-de-Calais, mais également de cette étape du Tour. Mais ceci était sans compter les routes bloquées pour le passage du Tour.
 Nous nous sommes donc mis directement en route vers l’arrivée de cette étape à Cambrai.
-Une arrivée plus que juste afin de se positionner derrière la ligne d’arrivée et d’assister à la victoire de <strong>Tony Martin.</strong> Ce dernier a réalisé un exploit sur cette étape en la remportant sur le vélo d’un de ses coéquipiers suite à un problème technique. Il fut
-suivi par <strong>John Degenkolb</strong>, <strong>Peter Sagan</strong>, <strong>Greg Van Avermaet</strong> et <strong>Edvald Boasson Hagen</strong>.
+Une arrivée plus que juste afin de se positionner derrière la ligne d’arrivée et d’assister à la victoire de <strong>Tony Martin. Ce dernier a réalisé un exploit sur cette étape en la remportant sur le vélo d’un de ses coéquipiers suite à un problème technique. Il fut
+suivi par <strong>John Degenkolb, <strong>Peter Sagan, <strong>Greg Van Avermaet et <strong>Edvald Boasson Hagen.
 189,190,191
-On a fini la journée en beauté dans les paddocks avec notamment la rencontre du fondateur de Saxo Tinkoff, <strong>Oleg Tinkov</strong>.
+On a fini la journée en beauté dans les paddocks avec notamment la rencontre du fondateur de Saxo Tinkoff, <strong>Oleg Tinkov.
 192,193,194,195,196,197,198,199,406,407,408,409,410,411
 Vous pouvez retrouver l’ensemble des photos prises durant cette étape du Tour <a href="https://lightroom.adobe.com/shares/e39160f81797415eb6f1e62c46cfe04b/albums/8aca3a7106953b54d3342783a8d67ee6">ici</a>.

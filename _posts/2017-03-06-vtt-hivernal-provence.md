@@ -5,7 +5,7 @@ date:   2017-03-06 12:50:42 +0100
 ---
 Après avoir été convaincu l’année dernière de l’intérêt de rouler avec mon VTT, je le transporte à nouveau en TGV.
 À l’occasion de ces congés, de nouveaux itinéraires sont prévus autour d’Aix-en-Provence.
-<p style="padding-left: 30px; text-align: justify;">> Seule la technique change, puisque je les trace maintenant par satellite.
+> Seule la technique change, puisque je les trace maintenant par satellite.
 De cette façon je repère plus facilement les chemins DFCI permettant aux pompiers d’intervenir rapidement en cas d’incendie à travers les différents massifs montagneux.
 Bien entendu, il y aura quand même les classiques contournements de domaines privés ou secteurs militaires non repérables vu du ciel ni sur Garmin.
 Je compte aussi toujours sur le Scenic des parents qui permet d’atteindre les points de départ des parcours éloignés d’Aix.

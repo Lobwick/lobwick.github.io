@@ -28,7 +28,7 @@ J’apprenais à gérer le diabète lors d’efforts, mais aussi en fonction des
 Ce fut donc le cas lors de vacances aux sports d’hiver. Pour éviter tout souci et me faire passer ces précieuses Étoiles auxquelles je rêvais tant, mes parents décidèrent que mon père m’entraînerait seul et que je prendrais une heure de cours particulier avec un moniteur de l’ESF afin de les valider.
 Cette stratégie réussit pour la première Étoile. Mais ce ne fut pas le cas pour la deuxième que je tentais de passer à l’ESF des Ménuires. En effet, après avoir effectué une remontée dans le télécabine avec le moniteur et mes parents, celui-ci leur demanda pourquoi procédait-on ainsi.
 Mon père lui expliqua qu'ils ne souhaitaient pas que je gêne un cours collectif mais la réponse du moniteur fut vraiment déconcertante :
-<p style="padding-left: 30px;"><b><i>« Quand on a un fils avec une telle maladie, on reste chez soi ! »</i></b>
+> « Quand on a un fils avec une telle maladie, on reste chez soi ! »
 Le cours se termina donc sur ce grave malentendu. L’ESF fit la sourde oreille lorsqu’on lui parla de la réaction de ce moniteur auquel il faudra expliquer que le sport ne fait que du bien à un diabétique !
 3811
 ## Team Novonordisk

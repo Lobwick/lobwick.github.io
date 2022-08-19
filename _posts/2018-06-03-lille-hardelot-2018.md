@@ -5,13 +5,13 @@ date:   2018-06-03 20:31:58 +0100
 ---
 Toujours plus de monde cette année, avec 7000 participants !
 Il risque de faire chaud car le week-end est orageux.
-<p style="padding-left: 30px; text-align: justify;">> C'est aussi l'occasion d'un Lille on Wheels hors-série.
+> C'est aussi l'occasion d'un Lille on Wheels hors-série.
 Nous retrouvons donc Simon, Foucauld et son père, au niveau du Grand Palais.
 Benjamin nous rejoindra un peu plus loin sur le parcours.
 7915,7913,7917,7916
 Départ prévu pour 7 h afin d'éviter les chaleurs de l'après-midi avec d'éventuelles averses.
 La sortie de la métropole lilloise se fait tranquillement car les cyclistes sont nombreux sur les grandes avenues.
-<p style="padding-left: 30px; text-align: justify;">> Il y a déjà une vingtaine de degrés !
+> Il y a déjà une vingtaine de degrés !
 L'allure ne va pas tarder à s'accélérer car nous sommes poussés vers la mer par un vent d'Est; ce qui est rare.
 Surtout que le début du tracé est toujours très roulant.
 7918,7919,7923,7924,7922
@@ -35,7 +35,7 @@ Il s'agit de celui de Samer, qui est toujours un grand classique, avant de déco
 A l'approche de Neufchâtel-Hardelot, il n'y a presque plus qu'à se laisser descendre jusqu'à la plage.
 L'office du tourisme, où se situe la ligne d'arrivée, est en vue.
 Un petit pain et une bière nous attendent, au prix de plusieurs minutes de patience après l'avoir franchie.
-<strong>Heureusement que la voiture, conduite la veille avant de revenir à la maison à vélo, est toujours là !</strong>
+<strong>Heureusement que la voiture, conduite la veille avant de revenir à la maison à vélo, est toujours là !
 Elle va servir de garage à vélo, le temps de casser la croute.
 Pas évident de trouver une table libre sans trop attendre avant d'être servi !
 Il faut dire que des milliers de cyclistes sont en train d'arriver, pour bien souvent retrouver leur famille.

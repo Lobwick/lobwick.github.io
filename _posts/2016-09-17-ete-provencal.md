@@ -18,7 +18,7 @@ Commençons l'Été Provençal en explorant l'est du plateau vers Venelles.
 <center><iframe src="https://www.strava.com/activities/668664699/embed/85f1bcb5415c79dd170bafb16bb7cb86765c5e2b" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Puis le lendemain, direction Eguilles vers l'ouest.
 
 <center><iframe src="https://www.strava.com/activities/670104962/embed/fa3b46ad549bee14823a51cff7f020ab61062e85" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>> 
-Après cet échauffement, nous pensons explorer de nouveaux espaces.</strong>
+Après cet échauffement, nous pensons explorer de nouveaux espaces.
 3533
 <h3>Tourisme de repos</h3>
 Mais pour changer du cyclisme, un peu de tourisme aux Baux de Provence.

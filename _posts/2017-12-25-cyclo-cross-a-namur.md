@@ -35,7 +35,7 @@ Nous sommes dans la forêt tout en surplombant la ville.
 
 6471,6441,6440
 
->           Vers 15 h les champions s’élancent, après s’être échauffés avant les fé</strong><strong>minines.
+>           Vers 15 h les champions s’élancent, après s’être échauffés avant les fé<strong>minines.
 
 6437,6456,6485,6438
 

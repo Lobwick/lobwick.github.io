@@ -24,7 +24,7 @@ Nous avons préféré récupérer nos dossards la veille à Roubaix, pour se plo
 Comme à notre habitude, nous nous élançons sur le parcours le plus long de 172 km.
 Son départ est donné à partir de Busigny, au niveau de Caudry.
 Les professionnels débutent à Compiègne, mais le premier secteur pavé ne se situe qu'après cette petite ville du Cambrésis.
-<p style="padding-left: 30px; text-align: justify;">> C'est celui de Troisvilles, suivi de vingt-huit autres ...
+> C'est celui de Troisvilles, suivi de vingt-huit autres ...
 Nous sommes au point le plus haut de la course à 136 m.
 Ces secteurs sont répertoriés en fonction de leur difficulté, de 1 à 5 étoiles, c'est-à-dire du bleu jusqu'au noir.
 On se croirait sur les pistes !
@@ -58,7 +58,7 @@ La chaleur est maintenant bien présente et il faut songer à retirer sous-gants
 Puis on se rapproche d'Orchies, en passant par des secteurs connus, comme celui de Pont Gibus.
 En effet, Gilbert Duclos-Lassalle fut l'un des vainqueurs de Paris-Roubaix.
 Le ravitaillement de Beuvry-la-forêt est l'occasion de bien se désaltérer avec l'augmentation de la température ...
-<p style="padding-left: 30px; text-align: justify;">> C'est au tour de Mons-en-Pévèle.
+> C'est au tour de Mons-en-Pévèle.
 Ce n'est pas le plus connu des secteurs pavés, mais c'est assurément l'un des plus difficiles.
 En tout cas c'est le plus «sale» avec une chaussée irrégulière et piégeuse à l'extrême, des bas-côtés qui n'aident pas et une pente qui fait mal.
 Il est d'ailleurs classé 5 étoiles en noir, comme la Trouée !

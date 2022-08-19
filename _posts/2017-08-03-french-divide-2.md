@@ -384,14 +384,14 @@ Le paysage est typiquement pyrénéen avec une verdure omniprésente et même de
 6108,6109,6110
 En arrivant à Oloron-Sainte-Marie, je ne peux résister à faire un détour par le magasin d’usine Lindt, surtout que je commence à être trempé par ce fameux crachin pyrénéen, pire que le nôtre.
 6111,6113,6112
-<p style="padding-left: 30px; text-align: justify;">> Dans cette caverne d’Alibaba du chocolat, je me contente d’une livre en vrac, pour ne pas trop être chargé.
+> Dans cette caverne d’Alibaba du chocolat, je me contente d’une livre en vrac, pour ne pas trop être chargé.
 
 6114,6116,6115
 > 
 Je vais pouvoir les savourer à l’arrivée dans un autre des plus beaux villages de France, Navarrenx.
 Pour accompagner ces chocolats, rien de tel qu’un bon café dans la Taverne de Saint-Jacques.
 6117,6118,6119
-<p style="padding-left: 30px; text-align: justify;">> Je n’en reviens toujours pas de la décoration « compostellienne » de cet établissement.
+> Je n’en reviens toujours pas de la décoration « compostellienne » de cet établissement.
 
 6136,6067,6131,6065,6066,6129,6130,6137
 La sortie de ce village se fait par ses remparts.
@@ -409,13 +409,13 @@ Merci à Mr Haget d’avoir eu cette initiative et servi de guide.
 Au moment de repartir arrive un cycliste incroyable qui se reconnaîtra.
 C’est un pâtissier qui vient de Saint-Malo en suivant la Côte Atlantique, pour enchaîner avec le Camino vers Compostelle.
 Il remonte ensuite jusqu’au Puy-en-Velay puis redescend vers Rome, avant de retourner en Bretagne.
-<p style="padding-left: 30px; text-align: justify;">> Je suis admiratif devant ces milliers de kilomètres parcourus.
+> Je suis admiratif devant ces milliers de kilomètres parcourus.
 Renaud de la French Divide me rejoint à son tour, alors que nous avions mangé ensemble au restaurant la veille du départ.
 Il ne me reste plus qu’à atteindre Larribar pour y passer la nuit dans un abri municipal.
 6149,6153,6151
 <h1 style="text-align: justify;">Arrivée</h1>
 Dernière étape, courte, mais pas de tout repos, avec les derniers problèmes matériels.
-<p style="padding-left: 30px; text-align: justify;">> Cela commence en pleine nuit avec une crevaison lente à l’avant, pourtant avec du pneu tubeless.
+> Cela commence en pleine nuit avec une crevaison lente à l’avant, pourtant avec du pneu tubeless.
 Impossible de continuer dans ces conditions et comme je suis confortablement installé dans l’herbe, je me résous à mettre une chambre à air.
 6155
 Cela me permet de rejoindre Saint-Jean-le-Vieux afin d’y prendre un petit déjeuner.
@@ -424,13 +424,13 @@ Alors que je suis en admiration devant une splendide demeure basque, le proprié
 Il s’agit de Mr Simon qui me propose carrément le café, alors qu’il s’empresse d’aller chercher du pain à la boulangerie.
 6157,6159,6160
 C’est ainsi que nous nous retrouvons à bavarder tranquillement de la French Divide, du cyclisme et de sujets divers.
-<p style="padding-left: 30px; text-align: justify;">> Je me souviens encore de sa gelée de fruits rouges et des figues de son jardin, pour compléter ce petit déjeuner pyrénéen.
+> Je me souviens encore de sa gelée de fruits rouges et des figues de son jardin, pour compléter ce petit déjeuner pyrénéen.
 Merci à lui de m’avoir remotivé après la crevaison matinale en me redonnant des forces.
 Après Le Vieux, je m’apprête à traverser Saint-Jean-Pied-de-Port, et comme il n’est pas encore 11 h 30, je ne suis pas forcément obligé de marcher.
 6164,6165,6163
 Ce que je fais quand même, car c’est encore un des plus beaux villages de France, qui est à photographier sous tous ses angles.
 6161,6167,6166
-<p style="padding-left: 30px; text-align: justify;">> Il ne faut pas traîner, car le repas d’arrivée avec tous les participants est prévu vers midi.
+> Il ne faut pas traîner, car le repas d’arrivée avec tous les participants est prévu vers midi.
 
 6168,6162,6169
 Hélas, ce que je craignais depuis quelques tours de roue, arrive ; et il va falloir se résoudre à changer les plaquettes de frein avant.
@@ -439,7 +439,7 @@ Je ne l’ai jamais fait, mais je vais réussir grâce aux conseils de Renaud qu
 6177,6172,6171
 Il valait mieux, car les quelques dizaines de kilomètres restants sont loin d’être plats et semblent interminables, avec la chaleur augmentant et toujours cette maudite tendinite.
 6180,6173,6174
-<p style="padding-left: 30px; text-align: justify;">> Quand le panneau « Mendionde » se dresse sur le bas-côté, j’ai du mal à y croire !
+> Quand le panneau « Mendionde » se dresse sur le bas-côté, j’ai du mal à y croire !
 >  Beaucoup d’images et de pensées se bousculent, alors que la pression retombe.
 >  J’en ai encore des frissons tout en le racontant, après tant d’intensité et d’émotions !
 6191,6181,6182
@@ -447,13 +447,13 @@ Je me dirige vers le check point final situé au restaurant « Etchebarne » dan
 Au moment de chercher la salle des fêtes, je suis repéré par Sam et les organisateurs ; quelle délivrance de les retrouver !
 Ils m’y conduisent et me proposent d’y pénétrer en roulant pour une extraordinaire surprise.
 6184,6195,6185
-<p style="padding-left: 30px; text-align: justify;">> La salle comble de concurrents m’applaudit longuement, ce qui me touche énormément après avoir été si longtemps seul sur ces routes isolées.
+> La salle comble de concurrents m’applaudit longuement, ce qui me touche énormément après avoir été si longtemps seul sur ces routes isolées.
 
 6188,6183,6192
 Les habitants et bénévoles du village me prennent tout de suite en mains, pour récupérer et même soigner ma tendinite douloureuse.
 Un énorme merci à tant de gentillesse que l’on ne rencontre pas que dans le Nord !
 L’après-midi de ce dernier jour est consacré à la douche inestimable, au lavage et au rangement.
-<p style="padding-left: 30px; text-align: justify;">> Il se terminera bien entendu par une dernière soirée tous ensemble au restaurant « Etchebarne », comme dans Astérix et Obélix dans les Pyrénées...
+> Il se terminera bien entendu par une dernière soirée tous ensemble au restaurant « Etchebarne », comme dans Astérix et Obélix dans les Pyrénées...
 Le lendemain, je n’ai plus qu’à me laisser descendre jusqu’à <a href="http://twomoulins.fr/velo/biarritz">Biarritz</a> au bord de la mer.
 C’est là que m’attend la housse en poste restante, pour pouvoir transporter le vélo à bord du TGV ; ce compagnon de route l’a bien mérité.
 > Ce dimanche touristique est un peu comme la cerise sur le gâteau après un tel périple. 

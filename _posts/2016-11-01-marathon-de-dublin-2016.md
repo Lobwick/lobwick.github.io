@@ -75,7 +75,7 @@ Le 42°km sonne sur l'Apple Watch et je décide de donner le maximum pour finir 
 800m plus loin, je franchis la ligne d'arrivée, avant de m'écrouler ! Les crampes, que j'avais réussi à dompter difficilement pendant le marathon, disent stop. Les secours me proposent un fauteuil roulant, mais je préfère marcher jusqu'à la précieuse médaille : une de plus, largement méritée tout au long de ce marathon.
 
 Malgré le fait qu'il fut difficile à gérer, c'est un temps auquel je ne m'attendais pas avant de prendre ce départ, surtout sans préparation !
-<blockquote>Marathon de Dublin 2016 fini à la 388° place en 3h43,  dont quelques unes de souffrance !</blockquote>
+<blockquote>Marathon de Dublin 2016 fini à la 388° place en 3h43,  dont quelques unes de souffrance !
 <center><iframe src="https://www.strava.com/activities/1140513203/embed/86ebdd61f22402c010cd7309b70e326d69f755b4" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 Je rejoins Adrien, mon colocataire, qui a eu la gentillesse de venir me chercher à vélo afin de faciliter mon retour vers l'appartement. C'est avec plaisir que je lui emprunte son vélo après quelques étirements.
 

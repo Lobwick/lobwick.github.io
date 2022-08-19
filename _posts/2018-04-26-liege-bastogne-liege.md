@@ -44,7 +44,7 @@ Se présente alors la Côte de la Roche-aux-Faucons, l'une des côtes mythiques 
 7713,7736,7733,7743,7739
 
 <strong>
-</strong>
+
 Du haut de celle-ci, il n'y a plus qu'à se laisser rouler jusqu'à Sereing pour traverser la Meuse.
 C'est le secteur industriel de Liège, avec le stade de football du Standard de Liège.
 Cela me rappelle mon tour de Belgique, en passant par Anvers et jusqu'à Maastricht.

@@ -25,7 +25,7 @@ Le mont Cassel me sert de ligne de mire et il émerge de la brume en ce début d
 [gallery type="columns" size="large" link="file" ids="4603,4605,4604
 L’allure est soutenue, car je tente de me réchauffer avec ma tenue d’été prévue pour une chaude journée ; les écarts thermiques sont importants en cette saison.
 Après un petit souci de desserrage de cale automatique de chaussure, me voilà rapidement à Loon-Plage et le GPS me conduit directement au terminal des ferries de la compagnie DFDS. Il n’y a plus qu’à prendre un billet, car je n’avais pas réservé, ne connaissant pas mon rythme.
-<p style="padding-left: 30px; text-align: justify;">> Contrôle Vigipirate inexistant pour les cyclistes !
+> Contrôle Vigipirate inexistant pour les cyclistes !
 4606,4608,4609
 Je vais donc pouvoir embarquer sur le ferry de 10 h, au lieu de celui de midi initialement prévu.
 4611,4620,4614
@@ -37,17 +37,17 @@ Les falaises de craie de Douvres se distinguent à la proue du ferry.
 Une bouffée de chaleur m’accueille à Douvres, après être sorti le dernier du navire à cause d’un employé respectant scrupuleusement la sécurité.
 4617,4621,4622
 Après le souci de chaussure, je suis ennuyé par la sacoche de cintre qui appuie sur le câble du frein avant,  entraînant un frottement.
-<p style="padding-left: 30px; text-align: justify;">> Cela ne m’empêche pas de prendre la direction de Londres, avec encore une heure d’avance en raison du décalage horaire.
+> Cela ne m’empêche pas de prendre la direction de Londres, avec encore une heure d’avance en raison du décalage horaire.
 Plus j’approche de Canterbury et plus j’apprécie ma tenue d’été en cours d’après-midi. Le paysage ressemble étrangement à celui des collines de l’Artois.
 Le souci de la sacoche est pénible, car la qualité du revêtement des routes anglaises est vraiment exécrable, même sur les principaux axes ; il va falloir s’y faire en se concentrant sur la circulation.
-<p style="padding-left: 30px; text-align: justify;">> Mieux vaut mettre pied à terre dans les rues piétonnes de Canterbury qui sont noires de touristes.
+> Mieux vaut mettre pied à terre dans les rues piétonnes de Canterbury qui sont noires de touristes.
 4626,4627,4628
 Le but est de se rapprocher de la cathédrale, mais je suis désabusé de ne pouvoir la photographier sans payer une somme faramineuse ; pas grave, car je me rattraperai à Londres.
 4629,4631,4630
 <h1 style="text-align: justify;">Londres</h1>
 Cette première journée vers Dublin s’achève, mais j’ai le temps de profiter de la capitale.
 Alors que le soleil s’incline sur l’horizon, je m’aperçois sur le GPS que je suis en train de manquer Greenwich dans la banlieue londonienne.
-<p style="padding-left: 30px; text-align: justify;">> Un petit détour est par conséquent impératif pour franchir ce méridien.
+> Un petit détour est par conséquent impératif pour franchir ce méridien.
 Encore faut-il le trouver ? Mais en essayant de demander à des Anglais, des Français qui viennent d’y passer, m’indiquent la direction.
 4637,4639,4638
 Le Royal Observatory Greenwich se situe au sommet d’une colline qui surplombe la Tamise ; je ne manque pas de marquer cette position sur mon GPS.
@@ -58,10 +58,10 @@ Pas le temps de manger, car le menu des monuments est copieux : the Eye of Londo
 4655,4654,4656
 Fin de la visite à Buckingham Palace où je m’alimente en céréales, en attendant que The Queen me reçoive ; hélas, plus de chambre libre !
 4658,4659,4657
-<p style="padding-left: 30px; text-align: justify;">> Après cette longue journée, je ne me vois pas continuer à rouler pour sortir de Londres.
+> Après cette longue journée, je ne me vois pas continuer à rouler pour sortir de Londres.
 Le parc voisin de Buckingham va m’héberger pour cette première nuit au sein d’un bosquet d’arbres et d’arbustes, tout en profitant d’un peu de lumière urbaine pour m’installer. À peine endormi, un renard et non un chien vient me pincer les orteils ! Il finira par me laisser tranquille.
 4661,4660,4662
-<p style="padding-left: 30px; text-align: justify;">> Bercé par la douce mélodie de Big Ben, je peux lui faire concurrence en ronflant.
+> Bercé par la douce mélodie de Big Ben, je peux lui faire concurrence en ronflant.
 [gallery type="columns" size="large" link="file" ids="4663,4664,4667
 <h1 style="text-align: justify;"></h1>
 <h1 style="text-align: justify;"></h1>
@@ -79,7 +79,7 @@ Je patiente avec les autres piétons, pensant ensuite monter à bord en pédalan
 Encore une désillusion, car mon cher Victoire doit être chargé avec les autres bagages de passagers dans une camionnette ; en attendant de s’installer dans un bus pour accéder au ferry.
 La traversée peut ensuite commencer. Je me remets de ces dernières émotions en essayant d’accumuler encore un peu de sommeil, dont je vais avoir grandement besoin une fois au Pays de Galles ! Pas évident avec des groupes de jeunes anglais excités par leur voyage.
 À l’arrivée à Holyhead, même procédure pour le débarquement avant de récupérer le vélo.
-<p style="padding-left: 30px; text-align: justify;">>  Ce n’est que vers midi que je peux enfin débuter à traverser le Pays de Galles, en tentant d’oublier ces fâcheuses péripéties.
+>  Ce n’est que vers midi que je peux enfin débuter à traverser le Pays de Galles, en tentant d’oublier ces fâcheuses péripéties.
 Le point positif est que pas une goutte de pluie n’est annoncée pour les prochains jours, avec du vent d’ouest plutôt favorable.
 Je ne pense donc qu’à pédaler en maintenant une allure régulière d’endurance ; c’est pourquoi les photos de ce retour sont inexistantes.
 Plus de soucis de freinage puisque de nouveaux étriers m’ont été offerts par Félix, qui les a d’ailleurs installés. J’en ai aussi profité pour puiser dans son stock de pneus pour en installer de plus larges ; surtout plus confortables pour affronter le mauvais revêtement anglais, équivalent parfois à nos routes communales !
@@ -91,7 +91,7 @@ Avec de la marge, le week-end me permet de réaliser ce que je viens d’accompl
 <center><iframe src="https://www.strava.com/activities/953306990/embed/86b84e7eb6973838656abbd8ec174892ee6fab74" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 4691
 <h1>Pays de Galles</h1>
-<p style="padding-left: 30px; text-align: justify;">> Ce troisième jour va contraster avec les précédents en traversant ce morceau de Grande-Bretagne.
+> Ce troisième jour va contraster avec les précédents en traversant ce morceau de Grande-Bretagne.
 Tout d’abord, changement de tenue avec jambières et brassières en raison des températures divisées par deux et d’un petit vent de nord-ouest désagréable ; ensuite le paysage montagneux s’annonce grandiose.
 Une route historique se présente à moi pour franchir le Pays de Galles ; elle fut construite au début du XIXe siècle à l’époque des calèches.
 4694,4693,4692

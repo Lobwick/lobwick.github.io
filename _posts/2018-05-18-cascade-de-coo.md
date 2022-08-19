@@ -39,7 +39,7 @@ Dommage d'avoir modifié ce paysage si naturel !
 Il n'y a pas que le tourisme mais il faut aussi remettre du carburant dans le cycliste.
 C'est assuré dans la brasserie de la cascade qui la surplombe et qui reste la dernière ouverte.
 Miraculeusement, elle me propose encore des tagliatelles carbonara, pour refaire le plein de sucres lents afin d'assurer le retour du lendemain.
-<p style="padding-left: 30px; text-align: justify;">> Il reste la question du couchage car je suis parti en configuration light !
+> Il reste la question du couchage car je suis parti en configuration light !
 Je me dirige vers le camping ... de la cascade bien entendu; pour essayer de profiter de son bloc sanitaire.
 Cela s'annonce mal, mais le propriétaire hollandais essaie de contacter une auberge, appartenant aussi à un de ses compatriotes.
 Pourtant spécialisée pour accueillir des cyclistes, elle n'est ouverte que les week-ends, comme me le confirme son gérant.
@@ -60,14 +60,14 @@ Plus plat mais aussi plus monotone, surtout quand il faut revenir.
 Moins de dénivelé signifie également plus de vent.
 Il souffle de l'ouest et va ralentir mon retour à la maison.
 De plus, l'état des petites routes n'arrange rien, mais je l'ai voulu ainsi en traçant le parcours, afin d'éviter la circulation.
-<p style="padding-left: 30px; text-align: justify;">> Contrairement à la Flandre belge, les wallons se considèrent en "Walbanie" !
+> Contrairement à la Flandre belge, les wallons se considèrent en "Walbanie" !
 Cela veut tout dire ! Il fallait le savoir ...
 Je m'en souviendrai la prochaine fois.
 En puisant dans mes réserves, je finis par traverser la frontière.
 Alors que le soleil disparaît à l'horizon, me revoilà à la maison.
 7817,7825,7842,7833,7832,7906
 Excursion en Wallonie réussie en deux jours, mais avec quelques heures supplémentaires j'aurais pu poursuivre jusqu'à Spa-Francorchamps.
-<p style="padding-left: 30px; text-align: justify;">> Il faudra y retourner au moment du grand prix de Belgique de Formule 1 !
+> Il faudra y retourner au moment du grand prix de Belgique de Formule 1 !
 Pas pour rouler sur le circuit, comme ce fut le cas des coureurs du tour de France l'année dernière, mais pour se plonger dans une ambiance plus bruyante ...
 Pour conclure, cette cyclo m'a permis de me préparer pour la prochaine étape montagneuse du tour de France réservée aux amateurs, prévue le 8 juillet entre Annecy et le Grand Bornand.
 

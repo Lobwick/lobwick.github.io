@@ -42,25 +42,25 @@ Place à l'habituel échauffement, pour mettre de l'ambiance et nous faire patie
 1722
 ## Le Marathon de Paris
 Nous entendons le départ des Elites, peu après 9h, alors que le soleil s'aligne avec les Champs-Elysées.
-<p style="padding-left: 30px; text-align: justify;">> L'impatience, de dévaler la plus belle avenue du monde, se fait sentir.
+> L'impatience, de dévaler la plus belle avenue du monde, se fait sentir.
 1723
 Le troupeau se dirige vers le bois de Vincennes, chacun à son rythme.
 D'ailleurs, une partie du parcours reprend celui du semi du mois de mars.
 Ensuite, il faut longer la Seine, avec la chaleur qui se fait sentir.
 Heureusement, les sapeurs-pompiers de Paris ont déployé leurs lances pour nous rafraîchir.
-<p style="padding-left: 30px; text-align: justify;">> Je suis toujours étonné par les nombreux encouragements de la foule de spectateurs anonymes.
+> Je suis toujours étonné par les nombreux encouragements de la foule de spectateurs anonymes.
 L'ambiance musicale des divers groupes nous donne le rythme en nous faisant oublier les nombreux kilomètres.
 Nous voici donc au bois de Boulogne, le long des installations de Roland Garros.
 C'est bon signe car les kilomètres défilent moins rapidement et les quelques malaises apparaissent autour de nous.
 Encore un dernier ravitaillement et la ligne d'arrivée est toute proche.
 [gallery size="large" link="file" type="rectangular" ids="1737,1736,1735
 Le repère 42 km marque l'entrée sur une autre grande artère de Paris, l'Avenue Foch.
-<p style="padding-left: 30px; text-align: justify;">> Il était temps car les derniers mètres sont pénibles pour tout le monde.
+> Il était temps car les derniers mètres sont pénibles pour tout le monde.
 
 <center><iframe src="https://www.strava.com/activities/535335894/embed/1557a8c7289e918665daf6df91ce3f702cf6274c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Le rythme trop rapide du départ, nous fait terminer en un peu plus de 4h, cinq heures après le départ des premiers.
 [gallery columns="1" type="rectangular" link="file" ids="1734
-<p style="padding-left: 30px; text-align: justify;">> Mais, une fois la fatigue passée, place à la satisfaction d'être allés plus vite que l'année dernière.
+> Mais, une fois la fatigue passée, place à la satisfaction d'être allés plus vite que l'année dernière.
 Retour au point de départ avec les traditionnelles photos de médailles devant d'autres victoires, celles de Napoléon.
 Le marathon de Paris sera suivi d'une semaine de récupération afin d'effectuer <a href="http://twomoulins.fr/velo/en-piste-pour-paris-roubaix-2016">Paris-Roubaix</a> dans les meilleures conditions.
 [gallery type="rectangular" size="large" link="none" ids="1732,1731,1733

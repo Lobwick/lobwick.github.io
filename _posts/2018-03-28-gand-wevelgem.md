@@ -4,7 +4,7 @@ title:  "Gand ~ Wevelgem"
 date:   2018-03-28 10:10:49 +0100
 ---
 Comme un air de printemps pour ce nouveau week-end flandrien ...
-<p style="padding-left: 30px; text-align: justify;">> Il serait temps à la veille du changement d'heure.
+> Il serait temps à la veille du changement d'heure.
 On se retrouve à Wevelgem, non loin de la frontière, entre Halluin et Courtrai.
 C'est encore un samedi car les équipes professionnelles roulent le lendemain en partant de Gand.
 Départ encore plus matinal, vers 7h, car nous sommes inscrits pour le parcours de 215 km !
