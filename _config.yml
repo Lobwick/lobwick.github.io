@@ -12,27 +12,18 @@ hero:
   description: 
 social:
 - icon: ion-logo-twitter
-  link: https://twitter.com
+  link: https://twitter.com/Lobwick
 - icon: ion-logo-facebook
-  link: https://facebook.com
-- icon: ion-logo-dribbble
-  link: https://dribbble.com
+  link: https://www.facebook.com/twomoulins
 - icon: ion-logo-instagram
-  link: https://instagram.com
-- icon: ion-logo-github
-  link: https://github.com
-- icon: ion-logo-vimeo
-  link: https://vimeo.com/
+  link: https://www.instagram.com/lobwick/
 contact:
   email: lobwick@hotmail.fr
-  description: Sanara comes with a built-in contact form, that you can use with Formspree
-    service to handle up to 50 submissions per month for free. You could also easily
-    switch to another contact form service if you want.
-disqus-identifier: anvodstudio-demo
+  description: Besoin de nous envoyer un petit message, envie de venir rouler avec nous ou tout simplement de dire bonjour ? 
+disqus-identifier: twomoulins
 mailchimp: false
-mailchimp-title: Get Interesting News
-mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest
-  posts.
+mailchimp-title: Les nouvelles aventures
+mailchimp-text: Pour être au courant des nouvelles aventures des TwoMoulins n'hésitez pas à vous inscire à la newsletter.
 mailchimp-identifier: 
 markdown: kramdown
 permalink: "/:title"
