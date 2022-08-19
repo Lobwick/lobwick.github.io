@@ -8,15 +8,15 @@ J’ai rencontré Émile il y a maintenant cinq ans lors d’une Pasta Party org
 À l’époque, je courais bien plus que maintenant et lui oublie beaucoup plus sur son blog, <a href="http://runinlille.fr/">Run In Lille </a>(plus que pas est assez simple). Il est vrai que nous n’avons jamais couru ensemble, je pense. Mais nous avons commencé à faire de plus en plus de vélo et à parler photographie.
 Plus tard nous avons lancé <a href="https://www.strava.com/clubs/123845">Lille On Wheels</a> qui permet à des cyclistes de rouler ensemble dans le nord et de découvrir des itinéraires gratuitement. En dehors de Lille On Wheels, on a participé à un grand nombre d’événements dont les 6 Heures du Pas-de — Calais, Lille-Hardelot ou Paris-Roubaix amateurs...
 6681,6685,6682,6684,6686,6680
-<h3 style="text-align: justify;">Le déménagement sur Paris</h3>
+### Le déménagement sur Paris
 Émile a déménagé pour raisons professionnelles sur Paris, et entre mon année en Irlande et nos emplois du temps, nous n’avons pas réussi à rouler ensemble pendant tout ce temps. Lui, continue à courir le long de la Seine, et moi de faire du vélo dans le nord. N’ayant personne avec qui rouler à Paris, son vélo était relégué à servir de décoration dans son appartement, pour le plus grand désespoir de sa femme.
 
-<h3 style="text-align: justify;">Retrouvailles</h3>
+### Retrouvailles
 Nous avons profité d’un week-end libre pour nous deux. Les grandes classiques flandriennes ne commencent qu'en mars pour moi et lui n’avait pas de compétition de golf. Arrivant de Paris vendredi soir, nous profitons du samedi en faisant un tour dans Lille afin qu’il se rééquipe en tenue de vélo, car Émile a perdu pas moins de 20 kg depuis qu’il a arrêté le vélo.
 6636,6638,6637
 Direction B’Twin village pour faire les achats, suivi d’un rapide tour dans le centre de Lille afin qu’il me fasse connaître le Madison Coffee, un endroit agréable pour découvrir différents cafés dont des slow-coffee.
 
-<h3 style="text-align: justify;">Tests de l’équipement</h3>
+### Tests de l’équipement
 Émile fait fort pour sa reprise cycliste en remontant un groupe de transmission tout neuf sur son Triban 5 !
 Nous entamons un petit tour de Lille de 70 km pour tester les réglages et sa nouvelle tenue B’Twin. Les réglages sont au point pour lui au cours de toute cette sortie, hormis un léger souci de changement de plateaux.
 6639,6640
@@ -27,7 +27,7 @@ Après avoir essayé en vain d’aller manger en ville, faute de place de parkin
 
 
 6710
-<h3 style="text-align: justify;">Émile et son amour du dénivelé</h3>
+### Émile et son amour du dénivelé
 Pour profiter pleinement de ce week-end lillois, il nous accompagne naturellement pour le Lille On Wheels du dimanche matin, en tant que co-créateur avec Félix.
 Surtout qu’après tous ses préparatifs, il est le bienvenu pour venir gonfler notre peloton dominical.
 Il est d’ailleurs prévu que Guillaume, responsable de la BU où je travaille, roule en notre compagnie comme il l’a déjà fait à quelques reprises.

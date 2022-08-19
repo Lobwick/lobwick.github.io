@@ -3,7 +3,7 @@ layout: post
 title:  "Les Moulins en Terre Celtique"
 date:   2016-10-31 21:14:07 +0100
 ---
-<h3>Arrivée en Irlande</h3>
+<h3>Arrivée en Irlande
 <em>Cela fait deux mois que nous avons laissé Félix à Dublin et il nous manque déjà.
 
 Heureusement les vacances de la Toussaint sont l'occasion de le retrouver au pays de la harpe.
@@ -26,7 +26,7 @@ Nous voilà à Dublin en début de soirée, et Félix nous fait l'agréable surp
 Comme il n'a pas de charrette accrochée à celui-ci, nous privilégions une navette pour le centre-ville.
 Notre journée se termine ensuite par un bon kilomètre en marchant, avant d'atteindre son logement.
 Nous y retrouvons Adrien, son colocataire, également étudiant d'Epitech.
-<h3>La presqu'île de Howth</h3>
+<h3>La presqu'île de Howth
 Le lendemain, direction l'office du tourisme où ils ne font aucun effort en français, avec une seule brochure francophone à nous fournir.
 Ils nous conseillent quand même de profiter de la belle journée printanière pour admirer la presqu'île de Howth.
 Munis de note carte de transports urbains illimités pour 24h, le DART ( train urbain à ne pas confondre avec Darty ) nous y conduit directement.
@@ -51,7 +51,7 @@ Il ne nous reste plus qu'à redescendre jusqu'à son château, à proximité du 
 
 <center><iframe src="https://www.strava.com/activities/752065725/embed/92fdfe02c53ba9f42c3b91c48eb2ae2cb2215706" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Le ciel se voilant en deuxième partie de journée, nous serons mieux dans Dublin.
-<h3>Tourisme en centre-ville</h3>
+<h3>Tourisme en centre-ville
 <em>Le quartier du parlement irlandais  ( Leinster House ) est suffisant pour l'après-midi.
 
 Il est en effet entouré de la National Gallery, du Natural History Museum, de la National Library et du National Museum.
@@ -61,7 +61,7 @@ Nous terminerons par la plus grande université de la capitale, le Trinity Colle
 
 [gallery size="large" link="file" columns="2" type="rectangular" ids="3252,3249,3251,3250,3247
 Les trois grands secteurs piétonniers de Grafton, de Henry Street et de Temple Bar ayant été parcourus lors de notre seule <a href="http://twomoulins.fr/vie/felix-a-dublin">journée de tourisme en août</a>.
-<h3>Cyclo entre Père et Fils de la Powerscourt Waterfall</h3>
+<h3>Cyclo entre Père et Fils de la Powerscourt Waterfall
 Félix n'ayant pas cours dimanche, il est prévu de se rendre jusqu'à "Powerscourt Waterfall".
 Cette cascade chute de 121 mètres et se mérite à vélo.
 J'essaie pour la première fois le nouveau vélo de rando de Félix, le Landscape de chez Finna, qui se comporte très bien.
@@ -76,7 +76,7 @@ Même si la journée est vraiment automnale, cette cascade est photographiée et
 [gallery size="large" link="file" columns="2" type="rectangular" ids="2873,3090,2889,2874,2891
 
 
-<h3>Arrivée en Irlande</h3>
+<h3>Arrivée en Irlande
 <em>Cela fait deux mois que nous avons laissé Félix à Dublin et il nous manque déjà.
 
 Heureusement les vacances de la Toussaint sont l'occasion de le retrouver au pays de la harpe.
@@ -99,7 +99,7 @@ Nous voilà à Dublin en début de soirée, et Félix nous fait l'agréable surp
 Comme il n'a pas de charrette accrochée à celui-ci, nous privilégions une navette pour le centre-ville.
 Notre journée se termine ensuite par un bon kilomètre en marchant, avant d'atteindre son logement.
 Nous y retrouvons Adrien, son colocataire, également étudiant d'Epitech.
-<h3>La presqu'île de Howth</h3>
+<h3>La presqu'île de Howth
 Le lendemain, direction l'office du tourisme où ils ne font aucun effort en français, avec une seule brochure francophone à nous fournir.
 Ils nous conseillent quand même de profiter de la belle journée printanière pour admirer la presqu'île de Howth.
 Munis de note carte de transports urbains illimités pour 24h, le DART ( train urbain à ne pas confondre avec Darty ) nous y conduit directement.
@@ -116,14 +116,14 @@ Celui-ci nous conduit jusqu'au petit village de Howth pour admirer son église e
 
 
 3065
-<h3>Il ne nous reste plus qu'à redescendre jusqu'à son château, à proximité du golf, avant de remonter dans le DART.</h3>
+<h3>Il ne nous reste plus qu'à redescendre jusqu'à son château, à proximité du golf, avant de remonter dans le DART.
 [gallery type="rectangular" columns="2" size="large" link="file" ids="3238,3235,3237,3236
 
 
 
 <center><iframe src="https://www.strava.com/activities/752065725/embed/92fdfe02c53ba9f42c3b91c48eb2ae2cb2215706" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Le ciel se voilant en deuxième partie de journée, nous serons mieux dans Dublin.
-<h3>Tourisme en centre-ville</h3>
+<h3>Tourisme en centre-ville
 <em>Le quartier du parlement irlandais  ( Leinster House ) est suffisant pour l'après-midi.
 
 Il est en effet entouré de la National Gallery, du Natural History Museum, de la National Library et du National Museum.
@@ -133,7 +133,7 @@ Nous terminerons par la plus grande université de la capitale, le Trinity Colle
 
 [gallery size="large" link="file" columns="2" type="rectangular" ids="3252,3249,3251,3250,3247
 Les trois grands secteurs piétonniers de Grafton, de Henry Street et de Temple Bar ayant été parcourus lors de notre seule <a href="http://twomoulins.fr/vie/felix-a-dublin">journée de tourisme en août</a>.
-<h3>Cyclo entre Père et Fils de la Powerscourt Waterfall</h3>
+<h3>Cyclo entre Père et Fils de la Powerscourt Waterfall
 Félix n'ayant pas cours dimanche, il est prévu de se rendre jusqu'à "Powerscourt Waterfall".
 Cette cascade chute de 121 mètres et se mérite à vélo.
 J'essaie pour la première fois le nouveau vélo de rando de Félix, le Landscape de chez Finna, qui se comporte très bien.
@@ -150,9 +150,9 @@ Même si la journée est vraiment automnale, cette cascade est photographiée et
 
 2875
 <h3>Un maxi café et un grand chocolat brûlants vont nous réchauffer, avant de regagner la côte, pour nous épargner du dénivelé car les muscles sont bien refroidis.
-Félix m'avait promis d'y retourner et sa mission est accomplie car c'est le meilleur moment de ce séjour, même si le temps ne nous a pas épargnés.</h3>
+Félix m'avait promis d'y retourner et sa mission est accomplie car c'est le meilleur moment de ce séjour, même si le temps ne nous a pas épargnés.
 <center><iframe src="https://www.strava.com/activities/753573915/embed/e30e63c2c519783a8c0bc3a7138d46756795308d" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h3>Le Phoenix Park à vélo</h3>
+<h3>Le Phoenix Park à vélo
 Le lendemain matin, nous enfourchons à nouveau nos bicyclettes car Félix a un cours annulé.
 Il me propose cette fois-ci son circuit préféré de Dublin.
 
@@ -166,7 +166,7 @@ On redescend ensuite vers le port en longeant la "River Liffey"
 Puis on retourne chez lui en longeant le Grand Canal.
 
 <center><iframe src="https://www.strava.com/activities/754467927/embed/f341019a376b989b654626f82cdea80ac88cedc3" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h3>Dublin en bus</h3>
+<h3>Dublin en bus
 Après cette dépense matinale de calories, un peu de tourisme avec le traditionnel circuit en bus à étage.
 
 [gallery size="medium" columns="2" link="file" type="rectangular" ids="3097,3098,3099,3100,3101,3102,3103
@@ -176,7 +176,7 @@ Cela permet de profiter d'un aperçu global d'une grande ville pour ensuite ne s
 
 Des pauses dégustation sont prévues ( irish coffee, cocktail and glass of Guinness ) mais ce sera pour une prochaine fois car les jours raccourcissent.
 Il faudra aussi améliorer notre anglais car les traductions sont rares !
-<h3>Littoral de Dublin</h3>
+<h3>Littoral de Dublin
 Après le cyclotourisme et le tourisme urbain, retour à la nature le long du littoral.
 Le temps s'est amélioré et nous allons pouvoir explorer la côte sud de Dublin.
 
@@ -206,11 +206,11 @@ Destination populaire pour les vacances, depuis l'époque victorienne, c'est une
 
 
 3131
-<h3>Pause gourmande avec la cueillette d'arbouses, plutôt méditerranéennes, témoignant de la douceur du bord de mer.</h3>
+<h3>Pause gourmande avec la cueillette d'arbouses, plutôt méditerranéennes, témoignant de la douceur du bord de mer.
 [gallery size="large" link="file" columns="2" type="rectangular" ids="3133,3134,3193
 
 Un café Starbuck va nous faire passer le goût un peu fade de celles-ci, ne réussissant pas aux gourmandes.
-<h3>Le Musée Guinness</h3>
+<h3>Le Musée Guinness
 Que le temps passe vite en vacances, et nous voilà au dernier jour de cette semaine celtique.
 
 <em>Nous ne pouvions repartir sans visiter l'incontournable musée de la fameuse bière Guinness !
@@ -230,7 +230,7 @@ Comme il est bien connu que la chaleur se fait sentir en montant, il est temps d
 Tout est prévu et compris dans le billet d'entrée, en arrivant dans le bar panoramique, au sommet de la tour.
 
 <em>A consommer avec modération bien entendu, pour savourer le coup d'oeil à 360 degrés sur Dublin et les environs.
-<h3>Retour sur le continent</h3>
+<h3>Retour sur le continent
 Le réseau de transports urbains n'ayant plus de secret pour nous, on regagne l'aéroport en ce dernier jour.
 Nous sommes bien moins chargés qu'à l'aller en terre celtique et arrivons largement en avance.
 
@@ -243,7 +243,7 @@ Un maxi café et un grand chocolat brûlants vont nous réchauffer, avant de reg
 Félix m'avait promis d'y retourner et sa mission est accomplie car c'est le meilleur moment de ce séjour, même si le temps ne nous a pas épargnés.
 
 <center><iframe src="https://www.strava.com/activities/753573915/embed/e30e63c2c519783a8c0bc3a7138d46756795308d" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h3>Le Phoenix Park à vélo</h3>
+<h3>Le Phoenix Park à vélo
 Le lendemain matin, nous enfourchons à nouveau nos bicyclettes car Félix a un cours annulé.
 Il me propose cette fois-ci son circuit préféré de Dublin.
 
@@ -257,7 +257,7 @@ On redescend ensuite vers le port en longeant la "River Liffey"
 Puis on retourne chez lui en longeant le Grand Canal.
 
 <center><iframe src="https://www.strava.com/activities/754467927/embed/f341019a376b989b654626f82cdea80ac88cedc3" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h3>Dublin en bus</h3>
+<h3>Dublin en bus
 Après cette dépense matinale de calories, un peu de tourisme avec le traditionnel circuit en bus à étage.
 
 [gallery size="medium" columns="2" link="file" type="rectangular" ids="3097,3098,3099,3100,3101,3102,3103
@@ -267,7 +267,7 @@ Cela permet de profiter d'un aperçu global d'une grande ville pour ensuite ne s
 
 Des pauses dégustation sont prévues ( irish coffee, cocktail and glass of Guinness ) mais ce sera pour une prochaine fois car les jours raccourcissent.
 Il faudra aussi améliorer notre anglais car les traductions sont rares !
-<h3>Littoral de Dublin</h3>
+<h3>Littoral de Dublin
 Après le cyclotourisme et le tourisme urbain, retour à la nature le long du littoral.
 Le temps s'est amélioré et nous allons pouvoir explorer la côte sud de Dublin.
 
@@ -302,7 +302,7 @@ Pause gourmande avec la cueillette d'arbouses, plutôt méditerranéennes, témo
 [gallery size="large" link="file" columns="2" type="rectangular" ids="3133,3134,3193
 
 Un café Starbuck va nous faire passer le goût un peu fade de celles-ci, ne réussissant pas aux gourmandes.
-<h3>Le Musée Guinness</h3>
+<h3>Le Musée Guinness
 Que le temps passe vite en vacances, et nous voilà au dernier jour de cette semaine celtique.
 
 <em>Nous ne pouvions repartir sans visiter l'incontournable musée de la fameuse bière Guinness !
@@ -322,7 +322,7 @@ Comme il est bien connu que la chaleur se fait sentir en montant, il est temps d
 Tout est prévu et compris dans le billet d'entrée, en arrivant dans le bar panoramique, au sommet de la tour.
 
 <em>A consommer avec modération bien entendu, pour savourer le coup d'oeil à 360 degrés sur Dublin et les environs.
-<h3>Retour sur le continent</h3>
+<h3>Retour sur le continent
 Le réseau de transports urbains n'ayant plus de secret pour nous, on regagne l'aéroport en ce dernier jour.
 Nous sommes bien moins chargés qu'à l'aller en terre celtique et arrivons largement en avance.
 
