@@ -58,4 +58,4 @@ Par conséquent, Les Moulins, Père et Fils, vous convient à suivre toutes leur
 </div>
 
 
-Si vous voulez nous contacter n'hésitez pas ! [C'est ici !]({{ site.baseurl }}{% link contact %})
+Si vous voulez nous contacter n'hésitez pas !
