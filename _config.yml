@@ -27,6 +27,7 @@ mailchimp-text: Pour être au courant des nouvelles aventures des TwoMoulins n'h
 mailchimp-identifier: 
 markdown: kramdown
 permalink: "/:title"
+google-analytics: UA-86708626-1
 plugins:
 - ''
 - jekyll-paginate
