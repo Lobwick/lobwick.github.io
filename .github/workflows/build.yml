@@ -3,7 +3,7 @@ ame: Build and Sonar scan
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
