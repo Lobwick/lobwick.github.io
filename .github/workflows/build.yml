@@ -1,4 +1,4 @@
-ame: Build and Sonar scan
+name: Build and Sonar scan
 
 on:
   push:
