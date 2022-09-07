@@ -7,7 +7,7 @@ image: /assets/images/flashpacking-saint-amand-xav/flashpacking-saint-amand-xav_
 Cette fameuse aventure de balade à vélo avec les copains d'Epicubike a encore une fois bien failli être annulée.
 Cette idée d'un week-end entre ces copains est née l'année passée. Nous avions l'intention de faire la trace de l'Ardenne Arbalette durant l'été 2019... En raison d'un soucis de famille chez l'un des membres, cela a été reporté à 2020... Le COVID-19 ayant encore tout perturbé, j'ai à nouveau planifié un itinéraire en France , mais une majorité des membres a été appelée au travail pour le week-end... C'est donc avec Xavier que j'ai pris le départ de celui-ci car il voulait maintenir.
 
-![La folle équipe ](/assets/images/flashpacking-saint-amand-xav/12267.jpg)
+![La folle équipe ](/assets/images/flashpacking-saint-amand-xav/flashpacking-saint-amand-xav_12267.jpg)
 
 Planification de dernière minute le jeudi soir car je veux garder l'itinéraire prévu avec tout le monde pour plus tard. Xavier souhaite du chemin... Je décide de partir en direction de Saint-Amand, en suivant simplement la dernière partie de la [North Trail]({% post_url 2020-06-09-saint-omer-gravel %}) dont le début avait été testé avec Philippe.
 Un peu d'adaptation pour a dévier jusqu'au camping et c'est impeccable.
@@ -82,7 +82,7 @@ Nous récupérons avec une bonne bière avant de monter la tente !
 
 <center><iframe src="https://www.komoot.fr/tour/197695990/embed?profile=1" width="640" height="580" frameborder="0" scrolling="no"></iframe></center>
 
-![](/assets/images/flashpacking-saint-amand-xav/12343.jpg)
+![](/assets/images/flashpacking-saint-amand-xav/flashpacking-saint-amand-xav_12343.jpg)
 
 Nous profitons du camping pour prendre une douche et se changer comme on le peut afin de se rendre au restaurant. Le nôtre n'est plus disponible et une majorité sont soit fermés, soit complets. Nous décidons de prendre la route de Saint-Amand et de voir sur place... Nous trouverons refuge au Soul Kitchen où une bière et un bon plat nous attendent.
 > De quoi se mettre en forme pour le lendemain. 
@@ -109,7 +109,7 @@ La pluie ayant disparu au réveil, nous pouvons ranger nos affaires sans nous pr
 </div>
 </div>
 
-![Secteur de Bersée](/assets/images/flashpacking-saint-amand-xav/12332.jpg)
+![Secteur de Bersée](/assets/images/flashpacking-saint-amand-xav/flashpacking-saint-amand-xav_12332.jpg)
 
 Nous devons donc commencer à rouler doucement afin de trouver de quoi manger. Quelques portions de chemins et pavés plus loin, nous atteignons Beuvry-la-Forêt, avec une boulangerie. Mais comme le coin n'est pas sympa, nous continuerons un peu plus loin jusqu'à Orchies, pour trouver un petit déjeuner et prendre un café.
 
@@ -157,7 +157,7 @@ Un petit passage dans le parc de la Deule d'Houplin-Ancoisne, avant de regagner 
 </div>
 </div>
 
-![La fin du chemin ](/assets/images/flashpacking-saint-amand-xav/12338.jpg)
+![La fin du chemin ](/assets/images/flashpacking-saint-amand-xav/flashpacking-saint-amand-xav_12338.jpg)
 
 
 <center><iframe src="https://www.komoot.fr/tour/198444876/embed?profile=1" width="640" height="580" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>

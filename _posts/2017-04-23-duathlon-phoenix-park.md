@@ -41,7 +41,7 @@ Peu de temps après, nous voyons passer un troupeau de daims dérangés par les 
 </div>
 </div>
 
-![Sortie de transition 2](/assets/images/duathlon-phoenix-park/4774.jpg)
+![Sortie de transition 2](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4774.jpg)
 
 ## Troisième partie : Course à pied
 Le deuxième circuit de course à pied est de 2,5 km; une seule des boucles effectuées précédemment que je connais.
@@ -59,7 +59,7 @@ N’ayant pas été doublé lors de cette transition, je décide de maintenir ma
 
 <center><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1140269082/embed/7d344e8a6c86ea04e9a699bec28f5e53bf95f101'></iframe></center>
 
-![13 ° place en 1:12:00](/assets/images/duathlon-phoenix-park/4792.jpg)
+![13 ° place en 1:12:00](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4792.jpg)
 > Je termine donc ce duathlon de Phoenix Park à la 13e place sur 223 personnes en 1:12:00.
 Très bonne expérience que j’ai hâte de renouveler une fois rentré en France au Chtriman de Gravelines.
 Il faudra tout de même que je travaille les transitions car j’y ai perdu de précieuses minutes.
@@ -68,7 +68,7 @@ Merci à toute l'équipe de Belpark Tri pour l'organisation de ce superbe duathl
 <center><iframe title="Belpark tri" src="https://connect.garmin.com/modern/activity/embed/1691731979" width="465" height="598" frameborder="0" data-mce-fragment="1"></iframe></center>
 
 
-![Sortie de la transition 1](/assets/images/duathlon-phoenix-park/4785.jpg)
+![Sortie de la transition 1](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4785.jpg)
 
 ## Deuxième partie : Vélo
 Une fois sur le vélo, les sensations reviennent dans les jambes et je commence à accélérer afin de regagner des places sur mes prédécesseurs.
@@ -100,7 +100,7 @@ Cette fois-ci, je prends mes précautions. Après être descendu de vélo, je re
 
 Je dépose mon vélo et récupère la gourde d’eau quasiment vide si nécessaire.
 
-![Départ en tête](/assets/images/duathlon-phoenix-park/4766.jpg)
+![Départ en tête](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4766.jpg)
 
 ## Première partie : Course à pied
 Le départ de ma vague est initialement prévu à 10 h 30; nous sommes appelés en avance vers l’arche de départ pour une raison inconnue, car nous partirons comme prévu.

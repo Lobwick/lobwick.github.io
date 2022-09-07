@@ -6,7 +6,7 @@ image: /assets/images/felix-a-dublin/felix-a-dublin_2446.jpg
 ---
 Après le trek de Félix au Népal et mon séjour provençal (Eté Provençal), passons aux choses sérieuses ! Allons installer Félix à Dublin en Irlande !
 
-![](/assets/images/felix-a-dublin/3526.jpg)
+![](/assets/images/felix-a-dublin/felix-a-dublin_3526.jpg)
 
 C'est sa quatrième année d'études à Epitech en partenariat avec le Griffith College.
 
@@ -87,7 +87,7 @@ Il faut se repérer sur cet immeuble flottant mais nous ne tardons pas à retrou
 </div>
 </div>
 
-![](/assets/images/felix-a-dublin/3527.jpg)
+![](/assets/images/felix-a-dublin/felix-a-dublin_3527.jpg)
 
 > Il y a tout ce qu'il faut à bord, même deux salles de cinéma.
 
@@ -123,7 +123,7 @@ Débarquement à Rosselare en fin de matinée.
 </div>
 </div>
 
-![](/assets/images/felix-a-dublin/3529.jpg)
+![](/assets/images/felix-a-dublin/felix-a-dublin_3529.jpg)
 
 Il faut vite se familiariser à la conduite à gauche pour parcourir les cent kilomètres et quelques qui nous séparent de Dublin.
 La location est vite retrouvée en plein centre, à proximité du Griffith College.
@@ -181,7 +181,7 @@ Notre garçon nous accompagne jusqu'au port, avant le contrôle des passeports.
 </div>
 </div>
 
-![](/assets/images/felix-a-dublin/3530.jpg)
+![](/assets/images/felix-a-dublin/felix-a-dublin_3530.jpg)
 
 C'est là qu'une relative mauvaise surprise nous attend.
 Le navire de la même compagnie est loin d'être comparable avec l'Oscar Wilde.

@@ -58,13 +58,13 @@ En ce début mai, l’allongement des journées est considérable, mais je ne po
 Mieux vaut trouver l’emplacement adéquat pour bivouaquer et être prêt pour le premier de la matinée.
 Il faut surtout songer à se protéger du vent qui va se renforcer au cours de la nuit.
 
-![](/assets/images/amsterdam/5094.jpg)
+![](/assets/images/amsterdam/amsterdam_5094.jpg)
 <center><iframe src="https://www.strava.com/activities/977133711/embed/21e98de77fdf45df8e4ad7f777defe024dd2542b" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Avec quelques jours supplémentaires, il aurait été agréable de poursuivre jusqu’au Danemark afin d’y retrouver Cédric un petit cousin.
 Ce sera peut-être avec Félix...
 
 > L’Europe n’a réellement plus de frontières !
-![Tulipes ventées ...](/assets/images/amsterdam/5086.jpg)
+![Tulipes ventées ...](/assets/images/amsterdam/amsterdam_5086.jpg)
 
 ## Anvers et Gand
 Ces deux magnifiques villes belges sont incontournables au pays de la frite !

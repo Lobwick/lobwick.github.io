@@ -117,7 +117,7 @@ Après le franchissement de la ligne d'arrivée, tous les coureurs ont droit à 
 
 <center><iframe src="https://www.strava.com/activities/542021780/embed/2177c7d66ddc8ac7726f4f10ec1822f9dfcea21c" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-![](/assets/images/en-piste-pour-paris-roubaix-2016/1888.jpg)
+![](/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1888.jpg)
 
 ## Journée des pros
 Dimanche, place aux professionnels, alors que les amateurs sont devant leur écran ou au bord des pavés.

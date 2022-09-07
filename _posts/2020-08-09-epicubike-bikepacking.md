@@ -85,7 +85,7 @@ Guillaume est frappé de plein fouet par une hypo. Canettes de coca et pâtes de
 
 Nous nous dépêchons de parcourir les derniers kilomètres. Je profite des longues lignes droites pour réserver le diner au Calyspo, PMU où on s'était arrêté avec Philippe et Ludo lors de la [North Cuesta Track]({£ post_url 2020-07-23-north-cuesta-track %}).
 
-![Marie en pleine descente ](/assets/images/epicubike-bikepacking/12614.jpg)
+![Marie en pleine descente ](/assets/images/epicubike-bikepacking/epicubike-bikepacking_12614.jpg)
 
 Nous coupons la trace initialement prévue à travers un chemin gravillonné de forêt, au grand bonheur de Marie.
 On arrive juste avant 19h au Netto de Watten, mais il est déjà fermé. Nous nous redirigeons vers un Carrefour situé un peu plus loin.
@@ -103,7 +103,7 @@ Nous partons rejoindre Pathé et Guillaume qui viennent de s'arrêter devant le 
 
 <center><iframe src="https://www.komoot.fr/tour/226368611/embed?profile=1" width="640" height="680" frameborder="0" scrolling="no"></iframe></center>
 
-![](/assets/images/epicubike-bikepacking/12687.jpg)
+![](/assets/images/epicubike-bikepacking/epicubike-bikepacking_12687.jpg)
 
 ## Soirée
 La pluie est encore là quand nous entrons dans le restaurant. C'est avec plaisir que nous nous installons autour de la table avec une bonne bière, tout en retirant les chaussures totalement trempées.

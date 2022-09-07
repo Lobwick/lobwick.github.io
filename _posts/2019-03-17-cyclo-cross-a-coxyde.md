@@ -61,7 +61,7 @@ Lors du deuxième tour, les meilleurs se détachent avec le néerlandais Mathieu
 Les trajectoires creusent des sillons dans le sable des dunes, handicapant les poursuivants qui tentent de s'accrocher en restant en équilibre.
 
 > Puis le rythme se stabilise avec certains écarts déjà conséquents...
-![](/assets/images/cyclo-cross-a-coxyde/10052.jpg)
+![](/assets/images/cyclo-cross-a-coxyde/cyclo-cross-a-coxyde_10052.jpg)
 Il est temps pour nous de parcourir le circuit pour profiter d'autres passages intéressants.
 D'autant plus que les sautillements ne parviennent pas à nous réchauffer, si ce n'est s'enfoncer dans le sable !
 > Pas évident de se faufiler parmi la foule dense d'imposant flamands...

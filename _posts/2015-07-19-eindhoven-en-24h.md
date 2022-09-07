@@ -56,7 +56,7 @@ Pas de panique, car j’ai déjà traversé la France ainsi. Je sais ce qui m’
 </div>
 </div>
 
-![](/assets/images/eindhoven-en-24h/3580.jpg)
+![](/assets/images/eindhoven-en-24h/eindhoven-en-24h_3580.jpg)
 ## Capitale belge
 En étudiant la carte, j’espère passer par Bruxelles que j’avais volontairement évitée à l’aller. Cette capitale est presque plus charmante de nuit. Les touristes sont moins nombreux laissant place à quelques fêtards. Petit clin d’œil à certains avec le passage par Grimbergen juste avant.
 

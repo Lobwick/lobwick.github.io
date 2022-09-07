@@ -27,7 +27,7 @@ Commençons l'Été Provençal en explorant l'est du plateau vers Venelles.
 <center><iframe src="https://www.strava.com/activities/670104962/embed/fa3b46ad549bee14823a51cff7f020ab61062e85" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>> 
 Après cet échauffement, nous pensons explorer de nouveaux espaces.
 
-![](/assets/images/ete-provencal/3533.jpg)
+![](/assets/images/ete-provencal/ete-provencal_3533.jpg)
 
 ## Tourisme de repos
 Mais pour changer du cyclisme, un peu de tourisme aux Baux de Provence.
@@ -60,7 +60,7 @@ Après avoir rafraîchi nos corps sous terre, nous rejoignons les Baux à proxim
 </div>
 
 Ses ruelles ne sont pas encombrées par les innombrables touristes habituels.
-![](/assets/images/ete-provencal/3534.jpg)
+![](/assets/images/ete-provencal/ete-provencal_3534.jpg)
 
 ## Initiation au Wakeboard
 Les sports nautiques sur le plan d'eau de Peyrolles font également partie d'un bon Été Provençal.
@@ -88,7 +88,7 @@ Je me réserve donc pour l'année prochaine car les bras ont déjà une heure de
 
 <center><iframe src="https://www.strava.com/activities/667895348/embed/2a5314842b3db9406e787bc80e637f2d99d752c8" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 
-![](/assets/images/ete-provencal/3535.jpg)
+![](/assets/images/ete-provencal/ete-provencal_3535.jpg)
 
 ## Ne jamais arrêter le vélo !
 Reprenons l'exploration de nouveaux espaces à vélo.
@@ -116,7 +116,7 @@ Le mistral nous pousse jusqu'à Mormoiron puis jusqu'à Villes-sur-Auzon.
 
 Mais ce ne sera pas pour aujourd'hui car nous ne sommes partis qu'en milieu de journée.
 Le village perché de Méthamis vaut le détour.
-![](/assets/images/ete-provencal/3536.jpg)
+![](/assets/images/ete-provencal/ete-provencal_3536.jpg)
 
 
 <div class="gallery-box">
@@ -193,7 +193,7 @@ La confiture est vite absorbée car quelques pentes plus raides nous permettent 
 </div>
 </div>
 
-![](/assets/images/ete-provencal/3537.jpg)
+![](/assets/images/ete-provencal/ete-provencal_3537.jpg)
 ## Le pied du Ventoux
 On a le choix à 360 degrés entre la plaine de Carpentras, les dentelles de Montmirail ou bien sûr Le Mont Ventoux.
 

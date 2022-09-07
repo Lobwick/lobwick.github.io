@@ -147,7 +147,7 @@ Le parc voisin de Buckingham va m’héberger pour cette première nuit au sein 
 > Bercé par la douce mélodie de Big Ben, je peux lui faire concurrence en ronflant.
 4663,4664,4667
 
-![La médaille de la traversée d'Angleterre offerte par Félix](/assets/images/dublin-by-england/4592.jpg)
+![La médaille de la traversée d'Angleterre offerte par Félix](/assets/images/dublin-by-england/dublin-by-england_4592.jpg)
 
 ## Retour
 >   La fin des vacances approche et il va falloir songer à revenir en France ! 
@@ -173,7 +173,7 @@ Avec de la marge, le week-end me permet de réaliser ce que je viens d’accompl
 
 <center><iframe src="https://www.strava.com/activities/953306990/embed/86b84e7eb6973838656abbd8ec174892ee6fab74" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 
-![Colza et ciel anglais](/assets/images/dublin-by-england/4691.jpg)
+![Colza et ciel anglais](/assets/images/dublin-by-england/dublin-by-england_4691.jpg)
 
 ### Pays de Galles
 > Ce troisième jour va contraster avec les précédents en traversant ce morceau de Grande-Bretagne.
@@ -273,7 +273,7 @@ Comme d’habitude, après la joie des retrouvailles, un moment appréciable est
 
 <center><iframe src="https://www.strava.com/activities/938256502/embed/75d787e2b04af80d444b05f0a3b3e4234845527f" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 
-![](/assets/images/dublin-by-england/4651.jpg)
+![](/assets/images/dublin-by-england/dublin-by-england_4651.jpg)
 ## Deuxième jour
 Après une sortie longue et pénible de la capitale, je me dirige vers Oxford et ses universités. La route traverse de nombreuses agglomérations sur cet axe très fréquenté.
 >   Ambiance estivale dans la ville universitaire d’Angleterre, surtout un dimanche.

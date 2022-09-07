@@ -57,7 +57,7 @@ Je ne suis pas à mi-parcours mais il est inutile de poursuivre de nuit, sans ad
 </div>
 </div>
 
-![](/assets/images/ascension-des-ardennes/2082.jpg)
+![](/assets/images/ascension-des-ardennes/ascension-des-ardennes_2082.jpg)
 Séance photos au soleil couchant avant de repérer un abri.
 
 <div class="gallery-box">
@@ -116,7 +116,7 @@ Elle commence en contre-bas du barrage de la Plate Taille, autour du lac de l'Ea
 </div>
 </div>
 
-![Lac de l'Eau d'Heure ...](/assets/images/ascension-des-ardennes/2105.jpg)
+![Lac de l'Eau d'Heure ...](/assets/images/ascension-des-ardennes/ascension-des-ardennes_2105.jpg)
 En quittant ces lacs belges et après Cerfontaine, le relief devient franchement montagnard.
 
 <div class="gallery-box">
@@ -255,7 +255,7 @@ Il ne reste plus qu'à traverser la forêt de Saint-Amand-les-Eaux sans pouvoir 
 </div>
 </div>
 
-![A perte de vue](/assets/images/ascension-des-ardennes/2155.jpg)
+![A perte de vue](/assets/images/ascension-des-ardennes/ascension-des-ardennes_2155.jpg)
 > Le soleil grillant ma figure m'indique que je suis le bon cap plein ouest.
 
 <div class="gallery-box">

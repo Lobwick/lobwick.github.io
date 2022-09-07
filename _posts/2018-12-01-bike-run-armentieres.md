@@ -52,7 +52,7 @@ En effet, nous franchissons ensuite la ligne de départ qui sert aussi d'arrivé
 Cette boucle commence par un passage technique à travers les bois entre les nombreux troncs.
 Ce qui procure un avantage pour les coureurs sur les cyclistes !
 Puis nous passons par la base de voile, puisque les prés du Hem entoure un plan d'eau alimenté par la rivière La Lys.
-![Prés du Hem](/assets/images/bike-run-armentieres/9876.jpg)
+![Prés du Hem](/assets/images/bike-run-armentieres/bike-run-armentieres_9876.jpg)
 J'avais même eu le plaisir d'y essayer une nouvelle planche à voile, en plein été !
 D'ailleurs, on longe ses berges un peu plus loin, avec comme inconvénient d'affronter le vent d'Est qui agite sa surface.
 > Comme il fallait s'y attendre, la plage est de retour !

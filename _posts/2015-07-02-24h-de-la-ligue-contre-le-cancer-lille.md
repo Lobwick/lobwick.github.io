@@ -28,7 +28,7 @@ Ce sont surtout les encouragements des membres du [RunCrew59](http://www.runcrew
 Péniblement, mais sûrement, la distance des 100 km fut atteinte au bout de 22 h.
 Impossible d’effectuer un pas de plus au risque de se blesser gravement malgré les efforts des indispensables ostéopathes.
 C’est ainsi qu’on se retrouve dans une Joëlette motorisée par toute l’équipe du pour un tour d’honneur très émouvant.
-![](/assets/images/24h-de-la-ligue-contre-le-cancer-lille/3570.jpg)
+![](/assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_3570.jpg)
 Magnifique aventure humaine de quelques milliers de participants accomplissant plus d’un tour de Terre tout en réunissant des dizaines de milliers d’euros pour lutter contre cette maladie qui concerne malheureusement souvent une personne de son entourage plus ou moins proche.
 
 Rendez-vous est pris pour l’année prochaine avec cette fois-ci un minimum d’entraînement plus sérieux et toujours plus de candidats se relayant tout en campant autour du parcours.

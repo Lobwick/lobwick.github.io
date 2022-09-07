@@ -25,11 +25,11 @@ Je récupère ainsi mon dossard aux environs de 15 h 30. Le temps qui reste me p
 </div>
 </div>
 
-![](/assets/images/10km-cliff-run/4480.jpg)
+![](/assets/images/10km-cliff-run/10km-cliff-run_4480.jpg)
 
 <center><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1140302117/embed/5521b6ec077aec9647ceaeb0728f6ba0f978b199'></iframe></center>
 
-![Montée vers Bray Head](/assets/images/10km-cliff-run/4486.jpg)
+![Montée vers Bray Head](/assets/images/10km-cliff-run/10km-cliff-run_4486.jpg)
 Les trois prochains kilomètres montent le long de la promenade « Cliff Walk ».
 Je ne ressens étrangement plus de douleurs dans les tibias. Ce qui me permet d’accélérer l’allure et de rattraper les premiers participants de ma vague.
 Le paysage y est pour beaucoup car il est agréable de courir sur ce sentier qui surplombe la mer.
@@ -54,7 +54,7 @@ Malgré le terrain glissant, j’accélère dans cette descente pour essayer d�
 J’arrive en très bonne forme le long de la promenade de Bray, mais le final  sur des galets glissants m'handicape. Malgré le beau temps qui est de retour, ils n'ont pas eu le temps de sécher.
 Je finis la boucle qui rallie la ligne d’arrivée en puisant dans mes dernières forces, avec les encouragements de Philippe au téléphone en cas de besoin.
 
-![Dernière ligne droite avec Philippe](/assets/images/10km-cliff-run/4481.jpg)
+![Dernière ligne droite avec Philippe](/assets/images/10km-cliff-run/10km-cliff-run_4481.jpg)
 Encore heureux, car une fois franchi la ligne d’arrivée, je m’écroule sous les effets de l’hypoglycémie, certainement due à la faible température que je n’ai pas ressentie durant l’effort.
 <div class="gallery-box">
   <div class="gallery">
@@ -65,7 +65,7 @@ Encore heureux, car une fois franchi la ligne d’arrivée, je m’écroule sous
 Déçu de ne pas avoir descendu le chrono en dessous des 40 minutes, mais le dénivelé n’était certainement pas pris en compte par Garmin dans les calculs.
 Je retourne vers Dublin en Dart en me disant que ce fameux chrono pourrait être battu lors de la Great Ireland Run du week-end suivant dans la capitale.
 
-![](/assets/images/10km-cliff-run/4483.jpg)
+![](/assets/images/10km-cliff-run/10km-cliff-run_4483.jpg)
 ## En avant vers la ligne de départ
 Je me dirige assez tôt vers la ville de départ grâce au ticket de Dart fourni avec l’inscription de la course.
 

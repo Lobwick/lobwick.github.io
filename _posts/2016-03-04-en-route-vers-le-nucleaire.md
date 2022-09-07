@@ -18,7 +18,7 @@ Tenue d’hiver adéquate pour affronter ce vent glacial, j’enfourche le Fixie
 > Surtout que le parcours est relativement plat dans la plaine du Nord, à condition d’éviter les Monts.
 Je vais quand même frôler le Mont Cassel et sa terrible montée en pavés.
 Après ce léger vallonnement à peine perceptible avec le monovitesse, je me laisse descendre vers la côte.
-![](/assets/images/en-route-vers-le-nucleaire/1627.jpg)
+![](/assets/images/en-route-vers-le-nucleaire/en-route-vers-le-nucleaire_1627.jpg)
 La célèbre ville de Bergues est indiquée sur ma droite, mais il faudrait affronter le vent.
 Dunkerque approche rapidement avec les fumées de ses aciéries.
 
@@ -34,7 +34,7 @@ Je file d’abord jusqu’à l’extrémité de l’imposante digue qui protège
 </div>
 </div>
 
-![](/assets/images/en-route-vers-le-nucleaire/3574.jpg)
+![](/assets/images/en-route-vers-le-nucleaire/en-route-vers-le-nucleaire_3574.jpg)
 En raison du vent, il n’y a même pas un pêcheur.
 Par contre, le trafic des navires est important.
 > Ensuite, je vais m’approcher au plus près de cette centrale qui tourne à plein régime en période hivernale.
@@ -74,7 +74,7 @@ C’est l’ancien bâtiment des sauveteurs en mer qui me le rappelle.
 </div>
 </div>
 
-![](/assets/images/en-route-vers-le-nucleaire/3575.jpg)
+![](/assets/images/en-route-vers-le-nucleaire/en-route-vers-le-nucleaire_3575.jpg)
 Avant l’accès à la mer, la chapelle dédiée aux marins est imposante.
 Ayant commencé le char à cerf-volant et le mountainboard de traction (kitesurf à roulettes sur sable) sur le platier d’Oye, je décide d’y faire un détour.
 
