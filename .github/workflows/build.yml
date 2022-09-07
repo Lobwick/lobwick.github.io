@@ -1,0 +1,46 @@
+ame: Build and Sonar scan
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        id: checkout
+        with:
+          fetch-depth: 0
+      - uses: actions/jekyll-build-pages@v1
+        id: build 
+      - name: Check broken link
+
+
+
+      - name: Cache HTMLProofer
+        id: cache-htmlproofer
+        uses: actions/cache@v2
+        with:
+          path: tmp/.htmlproofer
+          key: ${{ runner.os }}-htmlproofer-${{ hashFiles('_site/**.html') }}
+          restore-keys: |
+            ${{ runner.os }}-htmlproofer-
+            ${{ runner.os }}-htmlproofer
+      - name: Check All External Links (Informational, Soft-Fail)
+        uses: chabad360/htmlproofer@v1.1
+        with:
+          directory: ${{ github.workspace }}/_site
+          arguments: --assume-extension --external_only --internal-domains privacyguides.org,www.privacyguides.org --timeframe 30d 
+        continue-on-error: true
+      - name: Check External Links (Only 4XX)
+        uses: chabad360/htmlproofer@v1.1
+        with:
+          directory: ${{ github.workspace }}/_site
+     
+
+      - uses: actions/upload-pages-artifact@v0
+        with:
+          path: ./_site
+          retention-days: 1
