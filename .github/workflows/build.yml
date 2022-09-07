@@ -15,8 +15,6 @@ jobs:
           fetch-depth: 0
       - uses: actions/jekyll-build-pages@v1
         id: build 
-      - name: Check broken link
-
 
 
       - name: Cache HTMLProofer
