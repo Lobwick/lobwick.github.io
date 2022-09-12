@@ -4,7 +4,7 @@ title:  "Marathon de Paris 2015"
 date:   2015-07-09 15:46:20 +0100
 image: /assets/images/marathon-de-paris-2015/marathon-de-paris-2015_216.jpg
 ---
-Suite du week-end avec le Marathon de Paris. Changement de décor avec la capitale après les <[pavés](% post_url 2015-07-09-paris-roubaix-2015 %).
+Suite du week-end avec le Marathon de Paris. Changement de décor avec la capitale après les [pavés](% post_url 2015-07-09-paris-roubaix-2015 %).
 Eh oui ! C'est ce qui arrive quand on ne fait pas attention aux inscriptions.
 > On se doit d'assumer ces deux jours de folie à consommer avec modération pour tenir !
 

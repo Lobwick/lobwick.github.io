@@ -76,5 +76,5 @@ La navigation traditionnelle est moins efficace par manque d’habitude. L’ora
 
 Même le deuxième GPS compteur ne me donne plus d’informations à partir de Ronse.
 
-Arrivé à la maison au petit matin après une trentaine d’heures sur le vélo et quelques centaines de kilomètres, mais en plusieurs tronçons. Retrouvez l’ensemble des photos <a href="http://adobe.ly/1MiHXPc">ici</a>.
+Arrivé à la maison au petit matin après une trentaine d’heures sur le vélo et quelques centaines de kilomètres, mais en plusieurs tronçons.
 > Enthousiasmé à l’aller par ce parcours paradisiaque, mais très déçu du retour gâché par ce foutu GPS !

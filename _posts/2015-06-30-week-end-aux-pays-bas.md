@@ -21,7 +21,6 @@ L’année dernière, j’avais découvert Breskens, à la fois station balnéai
 Mais j’avais fait l’aller-retour sur la journée sans vraiment profiter du dépaysement.
 Alors que cette fois-ci, en famille et entre amis, ces deux jours ont été plus agréables.
 
-![](/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_3562.jpg)
 
 ## Le Départ pour le Week-end aux Pays-Bas
 
@@ -61,14 +60,11 @@ Il ne restait plus qu’à se rassasier autour d’un feu réussi après quelque
 </div>
 </div>
 
-![](/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_3563.jpg)
-
 Après le coucher de soleil sur la plage, il ne fallut pas nous bercer pour récupérer et se préparer au retour du lendemain.
 C’est pour cela que certains ont passé la nuit en hamac sous un tarp.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_102.jpg" title="" alt="2015_06_28 pays bas gopro_01" >
 <img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_103.jpg" title="" alt="2015_06_28 pays bas gopro_02" >
 <img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_104.jpg" title="" alt="2015_06_28 pays bas gopro_03" >
 </div>
@@ -98,8 +94,6 @@ Il ne restait plus qu’à longer la canal jusqu’à Brugge avant d’être de 
 <img src="/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_539.jpg" title="" alt="2015_08 120 multiple_01-2" >
 </div>
 </div>
-
-![](/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_3566.jpg)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/6tSBDJdKX7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 

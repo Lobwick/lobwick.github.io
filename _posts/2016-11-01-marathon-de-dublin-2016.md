@@ -19,7 +19,7 @@ La préparation pour ce Marathon de Dublin est simple : aucune sortie de course 
 Pas de sortie running, mais des sorties vélo, avec de l'intensité comme ici<, ou du dénivelé lors de mes visites à Powerscourt Waterfall en [solitaire]({% post_url 2016-10-08-powerscourt-waterfall %}) ou avec [Philippe]({% post_url 2016-10-31-les-moulins-en-terre-celtique %}) qui ont tout de même bien préparer les jambes.
 
 ## Préparation H-48
-Je n'avais plus l'envie de courir depuis le début de l'année. Je n'avais participé au Marathon de Paris uniquement car j'y étais inscrit ( comprendre, dépense de 200€ pour mon inscription et celle de Philippe ), mais également pour courir avec les collègues de [Decathlon Pro](http://www.decathlonpro.fr).
+Je n'avais plus l'envie de courir depuis le début de l'année. Je n'avais participé au Marathon de Paris uniquement car j'y étais inscrit ( comprendre, dépense de 200€ pour mon inscription et celle de Philippe ), mais également pour courir avec les collègues de [Decathlon Pro](https://www.decathlonpro.fr).
 
 C'est pour cela que le Marathon de Dublin n'était pas prévu. J'avais envisagé la question en septembre mais plus de dossard disponible.
 

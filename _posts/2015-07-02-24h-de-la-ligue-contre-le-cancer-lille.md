@@ -32,7 +32,6 @@ C’est ainsi qu’on se retrouve dans une Joëlette motorisée par toute l’é
 Magnifique aventure humaine de quelques milliers de participants accomplissant plus d’un tour de Terre tout en réunissant des dizaines de milliers d’euros pour lutter contre cette maladie qui concerne malheureusement souvent une personne de son entourage plus ou moins proche.
 
 Rendez-vous est pris pour l’année prochaine avec cette fois-ci un minimum d’entraînement plus sérieux et toujours plus de candidats se relayant tout en campant autour du parcours.
-En attendant, <a href="http://adobe.ly/1Cb7re7">retrouvez ici</a> l’ensemble des photos prises par différents participants que je remercie au passage.
 
 <div class="gallery-box">
   <div class="gallery">
