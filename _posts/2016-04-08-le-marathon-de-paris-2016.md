@@ -91,7 +91,7 @@ Le rythme trop rapide du départ, nous fait terminer en un peu plus de 4h, cinq 
 
 > Mais, une fois la fatigue passée, place à la satisfaction d'être allés plus vite que l'année dernière.
 Retour au point de départ avec les traditionnelles photos de médailles devant d'autres victoires, celles de Napoléon.
-Le marathon de Paris sera suivi d'une semaine de récupération afin d'effectuer [Paris-Roubaix]({% post_url 2016-04-13-le-marathon-de-paris-2016 %}) dans les meilleures conditions.
+Le marathon de Paris sera suivi d'une semaine de récupération afin d'effectuer [Paris-Roubaix]({% post_url 2016-04-13-en-piste-pour-paris-roubaix-2016 %}) dans les meilleures conditions.
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1731.jpg" title="fils" alt="Marathon de Paris" >
