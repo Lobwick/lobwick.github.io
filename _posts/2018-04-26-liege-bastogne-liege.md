@@ -5,13 +5,13 @@ date:   2018-04-26 19:31:18 +0100
 ---
 La saison des classiques printanières se termine par sa " Doyenne ".
 > Créée à la fin du 19 ème siècle, c'est la plus ancienne course cycliste encore disputée.
-C'est aussi l'une des plus exigeantes et des plus prestigieuses, comme le <a href="http://twomoulins.fr/tour-des-flandres/">Tour des Flandres</a> ou <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> !
+C'est aussi l'une des plus exigeantes et des plus prestigieuses, comme le [Tour des Flandres]({% post_url 2018-04-08-tour-des-flandres %}) ou [Paris-Roubaix]({% post_url 2015-07-09-paris-roubaix-2015 %}) !
 Nous nous retrouvons donc en région Wallonne, dans le massif des Ardennes, pas loin du Luxembourg.
 
 7661,7682,7684,7714,7717,7710
 
 Le parcours officiel des professionnels nous attend, avec ses 260 km pour plus de 5000 m de dénivelé et 11 côtes prévues.
-Programme chargé, sans doute un peu trop pour Félix, qui a passé une mauvaise nuit avec des <a href="http://twomoulins.fr/jeunesse-et-diabete/">hypoglycémies</a> à répétition.
+Programme chargé, sans doute un peu trop pour Félix, qui a passé une mauvaise nuit avec des [hypoglycémies]({% post_url 2017-01-06-jeunesse-et-diabete %}) à répétition.
 > On préfère plus sagement coller le récapitulatif du circuit long de 154 km sur nos cadres !
 7681,7685,7683,7728,7686,7711
 
@@ -19,7 +19,7 @@ Départ très matinal de Liège vers 7 h, pour réussir à revenir dans les dél
 A cette époque de l'année, la fraîcheur matinale est appréciable, avant que la température ne grimpe ...
 Nous commençons par longer la Meuse, avant de la quitter pour s'engouffrer dans la vallée de l'Ourthe.
 La route s'élève alors progressivement car ce sont de profondes vallées.
-> C'est ainsi que je réalise que Félix n'a pas la forme de la <a href="http://twomoulins.fr/brabantse-pijl/">Flèche Brabançonne</a> !
+> C'est ainsi que je réalise que Félix n'a pas la forme de la [Flèche Brabançonne]({% post_url 2018-04-23-brabantse-pijl %}) !
 Il n'a pas réussi à récupérer de ses hypos nocturnes ...
 
 7678,7675,7674,7677,7676,7716
@@ -64,4 +64,5 @@ Il n'y a plus qu'à récupérer avec une saucisse à rallonge, accompagnée d'un
 <center><iframe src="https://www.strava.com/activities/1522688965/embed/cdcc57ae6247a26397c7a85a107293a6719db662" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
 <center><iframe src="https://www.youtube.com/embed/latNOLVdTeo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-Félix ne le sait pas encore mais son week-end n'est pas encore fini, car il participera le lendemain au <a href="http://twomoulins.fr/duathlon-s-de-lomme/">Duathlon S de Lomme</a> ...
+
+Félix ne le sait pas encore mais son week-end n'est pas encore fini, car il participera le lendemain au [Duathlon S de Lomme]({% post_url 2018-04-26-duathlon-s-de-lomme %}) ...

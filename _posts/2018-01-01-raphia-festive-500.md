@@ -3,13 +3,13 @@ layout: post
 title:  "Rapha Festive 500"
 date:   2018-01-01 14:01:45 +0100
 ---
-Cette année Félix n’est plus en <a href="http://twomoulins.fr/vie/paques-en-irlande">Irlande</a> et dispose de jours de congés.
+Cette année Félix n’est plus en [Irlande]({% post_url 2017-04-28-paques-en-irlande %}) et dispose de jours de congés.
 Il est bien installé à Lille et j’ai donc préparé quelques itinéraires sur Strava à partir de chez lui.
 Hélas, cette semaine entre Noël et le Nouvel An s’annonce automnale.
->     Mais pas question de laisser les vélos au chaud !
-C’est parti pour l’édition 2018 de ce fameux <a href="http://twomoulins.fr/velo/rapha-festive-500">Rapha Festive 500</a>...
+>     Mais pas question de laisser les vélos au chaud!
+C’est parti pour l’édition 2018 de ce fameux [Rapha Festive 500]({% post_url 2017-01-07-rapha-festive-500 %})</a>...
 
-<h1 style="text-align: justify;">#DAY01 ~ Tournai</h1>
+# DAY01 ~ Tournai
 Ne perdons pas de temps en ce 24 décembre, avec un temps relativement clément !
 >     C’est l’occasion de faire coïncider ce début de Festive 500 avec un Lille On Wheels.
 Comme nous sommes dimanche, Simon vient se joindre à nous pour nous encourager.
@@ -36,7 +36,9 @@ Presque deux tiers du Festive accomplis, en étant épargnés par le temps, mêm
 
 <center><iframe src="https://www.strava.com/activities/1326725432/embed/5d0d9e7ee77fb7dfde8a8aaf86cc3f0d6634ab21" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 6567
-<h1 style="text-align: justify;">#DAY03 ~ 500</h1>
+
+# DAY03 ~ 500
+
 >     Pour franchir le cap de ce mi Festive, retour du traditionnel « itinéraire 500 »
 Pas évident de le tracer avec nos quelques routes rurales pas toujours praticables.
 L’avantage est de changer souvent de direction par rapport au vent.
@@ -46,7 +48,8 @@ Les journées étant les plus courtes de l’année, ce parcours se termine à l
 Après ce troisième jour, on a de la marge sur le planning...
 
 <center><iframe src="https://www.strava.com/activities/1328219971/embed/2cf3b7637b857f510f064b9cbf2ba31a901826fc" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h1 style="text-align: justify;">#DAY04 ~ Lunettes</h1>
+
+# DAY04 ~ Lunettes
 Curieux titre pour cet itinéraire semi-improvisé.
 Tout commence par un ancien tracé dénommé Bio C’Bon spécial Lille On Wheels.
 6516,6513,6512,6514
@@ -59,7 +62,8 @@ C’est parti pour la monture complète à travers les Weppes.
 Plus qu’une centaine de kilomètres pour l’accomplir largement dans les délais...
 
 <center><iframe src="https://www.strava.com/activities/1329153266/embed/9318ef0bd0543b330611344d1d3d7281c64a0df3" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-<h1 style="text-align: justify;">#DAY05 ~ Messines</h1>
+
+# DAY05 ~ Messines
 >     Belle journée d’hiver en perspective, avec enfin un soleil d’hiver rayonnant.
 Il est prévu d’atteindre Ypres où nous avons l’habitude de reprendre des forces avec de la brioche aux pépites de chocolat.
 Mais la journée commence par un changement de plateaux classiques pour des ovales sur le vélo Roubaix de Félix.
@@ -70,7 +74,8 @@ Nous décidons donc de maintenir la même direction vers le nord de la Belgique,
 
 <center><iframe src="https://www.strava.com/activities/1330599626/embed/2dfe912d99a2a9eee4feae9eebfcb0148d2279cd" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 6571
-<h1 style="text-align: justify;">Rapha Festive 500</h1>
+
+# Rapha Festive 500
 6566
 Avec une moyenne de cent kilomètres par jour, l’édition 2018 n’a été qu’une formalité.
 Si bien que certains imaginent un Festive 1000 !

@@ -3,7 +3,7 @@ layout: post
 title:  "Paris-Roubaix"
 date:   2018-04-14 18:16:47 +0100
 ---
-Les <a href="http://twomoulins.fr/tour-des-flandres/">Flandriennes</a> se terminent avec leur reine : Paris-Roubaix
+Les [Flandriennes]({% post_url 2018-04-08-tour-des-flandres %}) se terminent avec leur reine : Paris-Roubaix
 Nous ne sommes plus en Flandres mais c'est quand même la fin de leur saison.
 Place ensuite aux Ardennaises, comme l'Amstel Gold Race ou Liège-Bastogne-Liège qui nous attend dans quinze jours.
 > Cette reine est autant redoutée par les professionnels que par les amateurs.
@@ -12,7 +12,7 @@ Il paraît qu'on l'affronte que si on la désire réellement ...
 Bernard Hinault la détestait mais il a réussi à la remporter grâce à son caractère de " blaireau " !
 Vendredi, Félix a la chance de croiser le meilleur cycliste de l'année 2017; Greg Van Avermaet est en reconnaissance avec son équipe BMC.
 7474,7486,7489,7488,7487,7481
-Quant à nous, c'est notre troisième participation au <a href="http://twomoulins.fr/en-piste-pour-paris-roubaix-2016/">Paris - Roubaix Challenge</a>.
+Quant à nous, c'est notre troisième participation au [Paris - Roubaix Challenge]({% post_url 2016-04-13-en-piste-pour-paris-roubaix-2016 %}).
 Félix a même fini le précédent en fixie single speed !
 > Après mes deux premiers en vtt, je décide de faire comme tout le monde avec un vélo de route.
 C'est donc le bon vieux Victoire de Papa que je vais encore mettre à contribution, après sa réussite sur le Tour des Flandres.
@@ -86,7 +86,7 @@ Nous le longeons donc avant de pénétrer sur le vélodrome, l'ancien en plein a
 On se  surprend même à essayer de sprinter, en prenant de la hauteur dans le dernier virage de cet anneau chargé de nostalgie.
 > La médaille nous attend, à peine franchi la ligne arrivée !
 Puis quelques photos, sous le chaud soleil roubaisien, terminent cette journée riche en rebondissements.
-La semaine prochaine, nous reprendrons la série du Etixx Classics Tour, avec la <a href="http://twomoulins.fr/brabantse-pijl/">Flèche Brabançonne</a> pour le début des Ardennaises ...
+La semaine prochaine, nous reprendrons la série du Etixx Classics Tour, avec la [Flèche Brabançonne]({% post_url 2018-04-23-brabantse-pijl %}) pour le début des Ardennaises ...
 7449,7463,7450,7493
 
 <center><iframe src="https://www.youtube.com/embed/GcBsUvzuXvw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><iframe src="https://www.strava.com/activities/1494783902/embed/1a2b0bd8abacc07ca1bb1342544c18c04f511ecb" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1">&amp;lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"&amp;gt;﻿&amp;lt;/span&amp;gt;</iframe></center>

@@ -3,9 +3,10 @@ layout: post
 title:  "Omloop van Vlaanderen"
 date:   2018-03-03 12:24:50 +0100
 ---
-Nouveau défi de cette année, participer aux dix <a href="http://twomoulins.fr/category/competitions/competitions-velo/classiques-flandriennes/">classiques Etixx flandriennes</a> !
+Nouveau défi de cette année, participer aux dix classiques Etixx flandriennes !
 Surtout que nous précédons ou suivons les coureurs des équipes professionnelles sur les mêmes parcours.
-<p style="padding-left: 30px;"><strong style="font-size: 12pt;">Une bonne dose de pavés, souvent inclinés à plusieurs dizaines de degrés, nous attend.
+
+> Une bonne dose de pavés, souvent inclinés à plusieurs dizaines de degrés, nous attend.
 Tout va dépendre des conditions climatiques ...
 
 Justement, la première Flandrienne s'annonce hivernale !
@@ -55,7 +56,9 @@ En effet il faut reprendre la voiture à Gand.
 Il va falloir patienter une heure car nous sommes allés trop vite sur le parcours !
 Les autres cyclistes amateurs ne tardent pas à nous rejoindre.
 Après un changement de train, nous revoilà dans la ville de départ matinale.
-La voiture nous attend pour charger les vélos et repartir vers Lille avant la prochaine classique, la <a href="http://twomoulins.fr/danilith-nokere-koerse/">Danilith Nokere Koerse</a>, la semaine prochaine.
+
+La voiture nous attend pour charger les vélos et repartir vers Lille avant la prochaine classique, la [Danilith Nokere Koerse]({% post_url 2018-03-15-danilith-nokere-koerse %}), la semaine prochaine.
+
 6739,6726,6730
 
 <center><iframe src="https://www.youtube.com/embed/iAebG28oc20" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>

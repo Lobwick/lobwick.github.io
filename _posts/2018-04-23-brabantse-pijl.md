@@ -3,7 +3,7 @@ layout: post
 title:  "Brabantse Pijl"
 date:   2018-04-23 19:59:03 +0100
 ---
-Après la rudesse des pavés du <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a>, retour au Etixx Classics Tour.
+Après la rudesse des pavés du [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %})</a>, retour au Etixx Classics Tour.
 La Flèche brabançonne marque depuis des années la fin du printemps flamand; avec des éléments des classiques ardennaises et flandriennes.
 > Cette cyclo est donc l'occasion de visiter la Druivenstreek, une magnifique région viticole au sud de Louvain, à l'est de Bruxelles.
 Mais celle-ci nous réserve quelques surprises ...
@@ -50,7 +50,8 @@ Il n'y a plus qu'à regagner le sud de Louvain en roulant sans dénivelé.
 7586,7564,7592,7582,7571,7572
 A plus de 30 km/h de moyenne et un gros 1000 m de dénivelé, nous revoilà à Heverlee.
 > Félix a mérité un bon hamburger avec bien sûr des frites belges, car il s'est toujours positionné devant !
-Nous sommes ainsi bien préparés pour <a href="http://twomoulins.fr/liege-bastogne-liege/">Liège-Bastogne-Liège</a> du prochain week-end ...
+
+Nous sommes ainsi bien préparés pour [Liège-Bastogne-Liège]({% post_url 2018-04-26-liege-bastogne-liege %}) du prochain week-end ...
 
 
 <center><iframe src="https://www.strava.com/activities/1507817156/embed/ea778d4a3fbdc857d0d4537447b7f5884b313438" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>

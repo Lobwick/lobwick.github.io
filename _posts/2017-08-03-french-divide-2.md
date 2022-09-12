@@ -10,7 +10,7 @@ Retrouvez-le sur le site de la French Divide 2017.
 5526,5525,5523
 Quelques photos de la soirée de lancement organisée chez <a href="https://cycleslecolier.fr">Specialized Lille</a> :
 5528,5529,5524
-<h1 style="text-align: justify;">Veille de départ</h1>
+## Veille de départ
 Nous nous rendons à Dunkerque en prenant un TER à partir de Lille.
 En quelques coups de pédales, nous parvenons à Bray-Dunes.
 Le briefing est prévu pour 18 h afin de suivre les dernières recommandations.
@@ -22,7 +22,7 @@ Pour prendre des forces et mieux faire connaissance, tout le monde se réunit da
 5545,5564,5552
 Mais nous ne tardons pas à rejoindre le camping municipal « Les Dunes » de Bray-Dunes pour être en forme le lendemain.
 
-<h1 style="text-align: justify;">Départ</h1>
+## Départ
 Il est prévu au bout de la digue en attendant le lever de soleil.
 Les vélos équipés en bikepacking ( sous forme de sacoches ) sont resplendissants.
 Il ne fait que quelques degrés et nous avons hâte de nous élancer.
@@ -39,7 +39,7 @@ Ce qui nous conduit ensuite à contourner l’agglomération lilloise par le sud
 5636,5655
 Il doit abandonner la course à la fin de cette première journée, suite aux accidents de ces derniers jours avec des automobilistes et à une chute en début de parcours. Il s’avère que sa fracture du bassin s’est de nouveau transformée en fissure...
 
-<h1 style="text-align: justify;">Les pavés</h1>
+## Les pavés
 Une vieille connaissance après avoir participé deux fois à Paris-Roubaix pour amateurs avec Félix.
 5637,5656,5639
 > Bizarre de franchir ces secteurs mythiques, comme la trouée d’Arenberg, en sens inverse !
@@ -50,7 +50,7 @@ J’approche du Quesnoy, mais il se fait tard après une longue première journ�
 C’est au niveau du calvaire de Bermerain qu’une famille me propose de dormir dans la chapelle qui avait hébergé d’autres concurrents la veille.
 Je tiens à remercier ces personnes dont le monsieur travaille aux services municipaux de la ville de Lille.
 
-<h1 style="text-align: justify;">Deuxième jour</h1>
+## Deuxième jour
 Au petit matin je franchis les fortifications incontournables de Le Quesnoy.
 5648,5649,5653
 Puis une nouvelle forêt est à traverser, celle de Mormal, plus importante.
@@ -73,7 +73,7 @@ C’est un couple de jeunes sportifs, que je remercie, qui m’autorise à recha
 Sommeil de courte durée, car je suis réveillé par quelques gouttes qui me contraignent à reprendre la route.
 
 5653
-<h1 style="text-align: justify;">Troisième jour</h1>
+## Troisième jour
 Châlons-en-Champagne se rapproche et va me permettre de faire le plein, non de carburant, mais de batteries de secours chez SFR.
 Il faut dire que les villes traversées sont rares, ce qui fait la beauté du parcours, mais il faut en profiter !
 Je suis soulagé de compléter l’énergie solaire et je vais pouvoir longer tranquillement la Marne, plus longue rivière française.
@@ -96,7 +96,7 @@ Le rythme soutenu nous conduit à Bar-sur-Seine.
 Grâce à son éclairage, nous roulons de nuit pour nous rapprocher de Tonnerre.
 Quelques heures de sommeil sont les bienvenues à l’abri d’un hangar.
 
-<h1 style="text-align: justify;">Quatrième jour</h1>
+## Quatrième jour
 Nous retrouvons les chemins de Saint-Jacques-de-Compostelle entre vignes et forêts.
 5684,5685,5686,5687,5688
 > Cela nous permet de traverser Chablis et ses vignobles connus, mais impossible de savourer !
@@ -127,7 +127,7 @@ Nous sommes enfin accueillis par le propriétaire belge qui nous propose gentime
 > Occasion de se doucher depuis quelques jours et de dormir un peu plus au chaud, sans se réveiller dans l’humidité !
 
 5696
-<h1 style="text-align: justify;">Cinquième jour</h1>
+## Cinquième jour
 Nous repartons dans la fraîcheur matinale du Morvan, avant de rattraper Daniele l’Italien, faisant aussi partie des excellents coureurs et ayant bien fini à l’Italian Divide.
 C’est un massif peu connu que nous allons parcourir, au milieu des forêts de sapins, grâce à la Grande Traversée du Morvan.
 5700,5701,5702
@@ -151,7 +151,7 @@ Sorti de la forêt, j’arrive au ralenti à Bourbon-Lancy vers deux heures du m
 > Comme un miracle surgit de la nuit, je découvre un magasin de cycles de la marque BMC assez spécialisée.
 En attendant son ouverture, je me réfugie au rez-de-chaussée du bâtiment, où se trouve un cabinet de kinésithérapeutes, pour une nuit encore plus courte que les précédentes.
 
-<h1 style="text-align: justify;">Sixième jour</h1>
+## Sixième jour
 Je suis d’ailleurs réveillé par l’un d’entre eux qui me marche dessus en s’excusant.
 Pour se faire pardonner, il m’accueille tout de suite dans le cabinet en me proposant de me doucher, après m’avoir offert le petit déjeuner.
 > Finalement dans sa malchance, ces rencontres sont inespérées et je ne saurai comment le remercier.
@@ -173,7 +173,7 @@ Il ne reste plus qu’à suivre l’Allier sur un magnifique single track, le ch
 Après cette journée riche en rebondissements, j’ai mérité de passer la nuit à proximité de l’Abbaye de Chantelle dominant la vallée.
 5723,5724,5726
 5700
-<h1 style="text-align: justify;">Septième jour</h1>
+## Septième jour
 > Cette fin de première semaine me conduit aux portes du Massif central.
 
 5727,5728
@@ -204,7 +204,7 @@ De toutes les façons, je ne peux pas dormir dans ces conditions !
 C’est à la sortie de la forêt que je vais pouvoir me réfugier dans une scierie, vers une heure du matin.
 Quel bonheur de se laisser bercer dans la sciure, au milieu des lames tranchantes démesurées, dignes d’un film d’horreur !
 
-<h1 style="text-align: justify;">Huitième jour</h1>
+## Huitième jour
 > Occasion de faire la grasse matinée puisque c’est dimanche !
 Mais il reste encore un bon tiers du parcours et surtout les Pyrénées.
 5791,5752,5754
@@ -228,7 +228,7 @@ Cette huitième journée ayant été la plus chaude depuis le début, je profite
 Ce fut une étape de transition avant les difficultés du lendemain.
 5799,5800,5801
 5785
-<h1 style="text-align: justify;">Neuvième jour</h1>
+## Neuvième jour
 Grosse journée pittoresque au programme.
 Cela commence par la descente jusqu’à Argentat pour retrouver la Dordogne.
 5803,5804,5805
@@ -268,7 +268,7 @@ Pas grave, car je me fais photographier devant le check point 2 prévu, et grâc
 > L’orage gronde et je décide sagement de passer la nuit, abrité dans un lycée à la sortie de la ville.
 
 5921,5920,5922
-<h1 style="text-align: justify;">Dixième jour</h1>
+## Dixième jour
 Après cette nuit orageuse, nous retrouvons rapidement les chemins de Compostelle sur le GR65 jusqu’à Lauzerte.
 5924,5925,6093
 > Je suis vraiment émerveillé par la détermination de ces marcheurs, pour qui cela doit sembler interminable.
@@ -300,7 +300,7 @@ J’y serais même resté pour la nuit avec cet accueil, mais il y avait encore 
 6100,5944,5945
 C’est finalement à l’abri d’un porche d’église que je vais me reposer pour uniquement quelques heures, car il y a encore des averses au niveau de L’Isle-Jourdain, proche de Toulouse.
 5920
-<h1 style="text-align: justify;">Onzième jour</h1>
+## Onzième jour
 > Le relief des Pyrénées commence à se faire sentir, avec surtout une brume locale d’altitude très humide.
 Sur notre passage après Lombez, un agriculteur barbu et lui-même vététiste, nous suit assidûment en étant connecté sur le site du tracker ; de précédents participants l’ont informé du passage de la French Divide.
 5948,5949,5946
@@ -333,7 +333,7 @@ La pente est très raide pour s’élever au-dessus de la vallée, mais je ne m�
 5983,5984,5985
 Je décide donc de redescendre jusqu’au bord du lac de Payolle, pour y passer la nuit dans un bloc sanitaire de camping, qui me protège de la fraîcheur d’altitude.
 
-<h1 style="text-align: justify;">Douzième jour</h1>
+## Douzième jour
 > La journée grandiose de ce parcours, accompagnée d’un temps resplendissant.
 Mais elle commence mal avec une grossière erreur de parcours qui m’amène directement dans un torrent.
 Il faut reprendre la montée du Tourmalet, après avoir heurté un sanglier.
@@ -354,7 +354,7 @@ Pour continuer jusqu’au Col du Tourmalet, il faut se frayer un passage à trav
 6018,6025,6026
 On y retrouve la foule des grands cols, mais il ne faut pas oublier le selfie validant le dernier check point bonus ; pas évident, car tous les cyclistes veulent en faire autant.
 6027,6028,6029
-> Après <a href="http://twomoulins.fr/velo/etape-du-tour-2017">l’Izoard</a> de l’étape du tour en juillet,  je complète ma collection qui comprend le Ventoux.
+> Après [l’Izoard]({% post_url 2017-07-20-etape-du-tour-2017 %}) de l’étape du tour en juillet,  je complète ma collection qui comprend le Ventoux.
 
 6032,6013,6033
 Il n’y a plus qu’à se laisser descendre à très très grande vitesse grâce aux freins à disque, en empruntant particulièrement la voie Laurent Fignon.
@@ -377,7 +377,7 @@ Je quitte Lourdes à travers une forêt paisible, dans l’obscurité comme d’
 Un Logis de France présent sur l’itinéraire me permet de squatter une terrasse du rez-de-chaussée.
 
 5996
-<h1 style="text-align: justify;">Avant-dernier jour</h1>
+## Avant-dernier jour
 Je reprends la route de Compostelle pour une longue journée sous la grisaille avec plus de fraîcheur, et ces fameux chiens pyrénéens sortis de nulle part pour vous mordiller les mollets !
 6062,6061,6060
 Le paysage est typiquement pyrénéen avec une verdure omniprésente et même des champs de fougères.
@@ -413,7 +413,7 @@ Il remonte ensuite jusqu’au Puy-en-Velay puis redescend vers Rome, avant de re
 Renaud de la French Divide me rejoint à son tour, alors que nous avions mangé ensemble au restaurant la veille du départ.
 Il ne me reste plus qu’à atteindre Larribar pour y passer la nuit dans un abri municipal.
 6149,6153,6151
-<h1 style="text-align: justify;">Arrivée</h1>
+## Arrivée
 Dernière étape, courte, mais pas de tout repos, avec les derniers problèmes matériels.
 > Cela commence en pleine nuit avec une crevaison lente à l’avant, pourtant avec du pneu tubeless.
 Impossible de continuer dans ces conditions et comme je suis confortablement installé dans l’herbe, je me résous à mettre une chambre à air.
@@ -454,12 +454,13 @@ Les habitants et bénévoles du village me prennent tout de suite en mains, pour
 Un énorme merci à tant de gentillesse que l’on ne rencontre pas que dans le Nord !
 L’après-midi de ce dernier jour est consacré à la douche inestimable, au lavage et au rangement.
 > Il se terminera bien entendu par une dernière soirée tous ensemble au restaurant « Etchebarne », comme dans Astérix et Obélix dans les Pyrénées...
-Le lendemain, je n’ai plus qu’à me laisser descendre jusqu’à <a href="http://twomoulins.fr/velo/biarritz">Biarritz</a> au bord de la mer.
+
+Le lendemain, je n’ai plus qu’à me laisser descendre jusqu’à [Biarritz]({% post_url 2017-09-05-biarritz %}) au bord de la mer.
 C’est là que m’attend la housse en poste restante, pour pouvoir transporter le vélo à bord du TGV ; ce compagnon de route l’a bien mérité.
 > Ce dimanche touristique est un peu comme la cerise sur le gâteau après un tel périple. 
 6200,6201,6202
 6188
-<h1 style="text-align: justify;">Bilan</h1>
+## Bilan
 6193,6194,6187
 Cette traversée de la France en bikepacking et sans assistance est vraiment une épreuve hors du commun.
 Commencée en famille, elle s’est poursuivie en mode course pour retrouver les habitués de l’épreuve précédente ; puis terminée dans sa version touriste en raison de ma blessure.

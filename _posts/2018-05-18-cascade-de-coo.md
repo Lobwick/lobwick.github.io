@@ -3,7 +3,7 @@ layout: post
 title:  "Cascade de Coo"
 date:   2018-05-18 10:07:43 +0100
 ---
-Après avoir participé à <a href="http://twomoulins.fr/liege-bastogne-liege/">Liège-Bastogne-Liège</a> fin avril, j'ai été conquis par cette région.
+Après avoir participé à [Liège-Bastogne-Liège]({% post_url 2018-04-26-liege-bastogne-liege %}) fin avril, j'ai été conquis par cette région.
 > J'avais hâte de retourner dans les Ardennes Wallonnes.
 Mais cette fois-ci, en m'y rendant à vélo , après avoir traversé la Belgique d'Ouest en Est.
 Il suffisait d'attendre la bonne occasion ...
@@ -20,7 +20,7 @@ Le retour s'effectuera en repassant par le tracé aller.
 7822,7850,7877,7870,7868
 Presque pas un souffle d'air prévu et un itinéraire plutôt plat jusqu'à Namur.
 Elle marque l'entrée dans les Ardennes, avec un relief plus prononcé.
-Cela me rappelle l'épreuve de la coupe du monde <a href="http://twomoulins.fr/cyclo-cross-a-namur/">UCI de cyclo-cross à Namur</a>.
+Cela me rappelle l'épreuve de la coupe du monde [UCI de cyclo-cross à Namur]({% post_url 2017-12-25-cyclo-cross-a-namur %}).
 > Je vais enfin profiter du paysage, mais aussi subir le dénivelé !
 Il reste encore un tiers du parcours avant de découvrir la cascade.
 Surtout que j'aimerais atteindre ce but pour le coucher de soleil.
@@ -46,7 +46,7 @@ Pourtant spécialisée pour accueillir des cyclistes, elle n'est ouverte que les
 Je vais donc passer la nuit sous une structure gonflable d'enfants ne fonctionnant pas.
 Elle me permet de m'isoler de la fraîcheur des nuits ardennaises, quelle que soit la saison !
 Le vélo, lui aussi recouvert, me tient compagnie.
-Cela me rappelle la <a href="http://twomoulins.fr/french-divide-2/">French Divide</a> ...
+Cela me rappelle la [French Divide]({% post_url 2017-08-03-french-divide-2 %})...
 7907
 7874,7872,7875,7876
 Nuit de courte durée dans ces conditions, avec uniquement quelques degrés au réveil !

@@ -14,7 +14,7 @@ Petit compte-rendu de ce Marathon de Dublin 2016, nouveau marathon en raison de 
 </div>
 </div>
 
-La préparation pour ce Marathon de Dublin est simple : aucune sortie de course à pied notable depuis le <a href="http://twomoulins.fr/le-marathon-de-paris-2016/">Marathon de Paris</a> en début d'année ! Seulement une ou deux sorties à mon arrivée à Dublin au mois de septembre.
+La préparation pour ce Marathon de Dublin est simple : aucune sortie de course à pied notable depuis le [Marathon de Paris]({% post_url 2016-04-08-le-marathon-de-paris-2016 %}) en début d'année ! Seulement une ou deux sorties à mon arrivée à Dublin au mois de septembre.
 
 Pas de sortie running, mais des sorties vélo, avec de l'intensité comme ici<, ou du dénivelé lors de mes visites à Powerscourt Waterfall en [solitaire]({% post_url 2016-10-08-powerscourt-waterfall %}) ou avec [Philippe]({% post_url 2016-10-31-les-moulins-en-terre-celtique %}) qui ont tout de même bien préparer les jambes.
 

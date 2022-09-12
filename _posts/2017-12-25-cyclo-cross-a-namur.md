@@ -9,7 +9,7 @@ Nous avons déjà assisté à une manche de cette coupe du monde sur la côte Be
 Cette nouvelle étape reste en Belgique, autour de la citadelle de Namur.
 Nous nous y étions déjà rendus à l’occasion d’une étape du tour de France sur route en 2015.
 
-<h1 style="text-align: justify;">Dimanche 17 décembre 2017</h1>
+## Dimanche 17 décembre 2017
 Direction la capitale de la Wallonie, vers le sud de la Belgique.
 L’autoroute nous fait d’abord passer par Mons et Charleroi.
 >     Nous arrivons un peu avant midi pour savourer des frites belges accompagnées d’une    fricadelle
@@ -18,7 +18,7 @@ Cette curieuse saucisse est une première pour Lucie, plutôt habituée aux quen
 Avec le gel et le dégel des jours précédents, le terrain est très boueux.
 Mieux vaut être bien équipé pour profiter de ce spectacle sportif.
 
-<h1 style="text-align: justify;">Course Élite féminine</h1>
+## Course Élite féminine
 C’est l’occasion de reconnaître le circuit à accomplir plusieurs fois.
 6447,6449,6451,6448
 Surtout que Pauline Ferrand-Prévot, notre championne française de VTT, se remet au cyclo-cross.
@@ -27,7 +27,7 @@ Les Britanniques dominent la compétition avec la victoire de Evie Richards.
 6483,6482,6450,6452,6486
 
 6489
-<h1>Course Elite messieurs</h1>
+<h1>Course Elite messieurs
 Elle est prévue en milieu d’après-midi.
 Il faut encore patienter sous cette grisaille froide et humide.
 Heureusement que le site est agréable autour de cette citadelle de Namur.

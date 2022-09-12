@@ -5,7 +5,7 @@ date:   2018-09-24 08:12:01 +0100
 image: /assets/images/primus-classic/primus-classic_9627.jpg
 ---
 Fin de saison de ces flandriennes avec la Primus Classic.
-Elles avaient débuté en fin d'hiver avec la <a href="http://twomoulins.fr/omloop-van-vlaanderen/">[Omloop Het Nieuwsblad]({% post_url 2018-03-03-omloop-van-vlaanderen %}) Cyclo</a>, le lendemain de mon anniversaire fin février.
+Elles avaient débuté en fin d'hiver avec la [Omloop Het Nieuwsblad]({% post_url 2018-03-03-omloop-van-vlaanderen %}) Cyclo, le lendemain de mon anniversaire fin février.
 > Le calendrier s'achève donc un semestre plus tard.
 C'est bientôt l'automne mais l'été indien est agréable.
 Dernière cyclo à ne pas manquer pour plusieurs raisons.

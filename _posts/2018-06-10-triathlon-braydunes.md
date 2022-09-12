@@ -30,12 +30,13 @@ Nous étions en train d'en discuter à l'arrière quand le départ retentit, san
 La natation se déroule quand même bien et je sors de l'eau en bonne forme en même temps qu'Aubin.
 
 <center><iframe src="https://www.strava.com/activities/1615604176/embed/e4b61bfd3b0c983ef26a216a4151a8d9cef1b2ed" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
+
 Je décide d'accélérer sur le reste du triathlon, pour effectuer la fin de la course à pied avec les collègues; n'étant pas cyclistes, ils vont plus essayer de gagner du temps en courant.
 Je croise Chloé qui est déjà dans le parc de transition au moment où j'y pénètre ! Quelques mots d'encouragement avant de me dépêcher d'en sortir pour regagner des places ...
 Le début du parcours cycliste a failli commencer par une chute car des personnes bloquaient la sortie en voulant essayer de monter sur leur vélo. Je roule à mon aise sur ce parcours que je connais et le capteur de puissance me permet de ne pas me mettre dans le rouge.
 Un arbitre passant par là, met des pénalités à un groupe qui se relaie de façon aussi bien synchronisée que sur un contre la montre par équipe !
 A la sortie de la boucle de mi-distance, j'aperçois Poorshan qui lutte ... En effet il est victime de crampes, le conduisant même à mettre pied à terre pour s'étirer.
-La fin du parcours s'effectue avec un léger vent de face. Hugo confiera à la fin du triathlon qu'un vélo de course l'aurait quand même bien avantagé, mieux qu'au <a href="http://twomoulins.fr/duathlon-s-de-lomme/">Duathlon de Lomme</a>.
+La fin du parcours s'effectue avec un léger vent de face. Hugo confiera à la fin du triathlon qu'un vélo de course l'aurait quand même bien avantagé, mieux qu'au [Duathlon de Lomme]({% post_url 2018-04-26-duathlon-s-de-lomme %}).
 
 <center><iframe src="https://www.strava.com/activities/1612313279/embed/dc1e67db37956d06e5b78a701f1d89531c158377" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 Ma montre gps m'ayant fait défaut à la sortie de l'eau, les Garmin 735 n'apprécient pas l'eau salée, je retire le garmin 520 du vélo pour connaître une indication de ma vitesse. Avec l'habitude de courir en fonction de l'allure et non de la vitesse, il ne me sera d'aucune aide. Ma flemme de convertir l'emporta et il finira la course dans une poche de la trifonction Aptonia.

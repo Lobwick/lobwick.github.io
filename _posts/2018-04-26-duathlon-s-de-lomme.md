@@ -3,8 +3,8 @@ layout: post
 title:  "Duathlon S de Lomme"
 date:   2018-04-26 11:48:23 +0100
 ---
-Après l'échec de <a href="http://twomoulins.fr/liege-bastogne-liege/">Liège-Bastogne-Liège</a> dû aux hypoglycémies en série de la nuit, je voulais finir le week-end sur une bonne note.
-En avant donc pour un petit duathlon. Epreuves auxquelles j'avais pris goût l'année passée en <a href="http://twomoulins.fr/duathlon-phoenix-park/">Irlande</a>.
+Après l'échec de [Liège-Bastogne-Liège]({% post_url 2018-04-26-liege-bastogne-liege %}) dû aux hypoglycémies en série de la nuit, je voulais finir le week-end sur une bonne note.
+En avant donc pour un petit duathlon. Epreuves auxquelles j'avais pris goût l'année passée en [Irlande]({% post_url 2017-04-23-duathlon-phoenix-park %}).
 Un collègue de Décathlon, Hugo, s'inscrit également pour s'essayer à cette discipline, rejoint par Thomas qui ne possède pas de vélo.
 Après avoir échangé les vélos à mon appartement, nous prenons en roulant la route de Lomme, proche de Lille.
 Normalement proche en effet, car des erreurs de GPS nous font faire quelques détours, comme on peut le constater sur le tracé Strava.

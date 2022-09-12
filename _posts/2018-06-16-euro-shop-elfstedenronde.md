@@ -5,11 +5,11 @@ date:   2018-06-16 18:09:15 +0100
 ---
 Après une longue interruption de deux mois depuis la Flèche Brabançonne, nous revoilà plongés dans le
 circuit.
-Il y a aussi eu les participations à <a href="http://twomoulins.fr/paris-roubaix/">Paris-Roubaix</a> et<a href="http://twomoulins.fr/liege-bastogne-liege/"> Liège-Bastogne-Liège</a> qui ont remplacé deux étapes de ces Flandriennes, débutées fin février avec l'<a href="http://twomoulins.fr/omloop-van-vlaanderen/">Omloop Van Vlaanderen</a>.
+Il y a aussi eu les participations à [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %}) et [Liège-Bastogne-Liège]({% post_url 2018-04-26-liege-bastogne-liege %}) qui ont remplacé deux étapes de ces Flandriennes, débutées fin février avec l'[Omloop Van Vlaanderen]({% post_url 2018-03-03-omloop-van-vlaanderen %}).
 > Cela fait du bien de retrouver ces classiques Etixx ...
 Fini les tenues hivernales, et place à l'été en cette mi-juin !
 8120,8091,8093,8090,8092
-Après une longue absence, l'Euro Shop Elfstedenronde a fait son retour au calendrier en 2017 grâce à la ville de Bruges. Cette course d'un jour de légende fait partie de l'UCI Europe Tour. Le premier Elfstedenronde s'est déroulé en 1943, l'épreuve devenant célèbre dans les années '50 et '60 en Flandre Occidentale. La veille de la course professionnelle, nous avons l'occasion de découvrir à vélo l'arrière-pays brugeois. Plusieurs itinéraires nous sont proposés, principalement à travers les canaux. Rien à voir avec le dénivelé du <a href="http://twomoulins.fr/tour-des-flandres/">Tour des Flandres</a> !
+Après une longue absence, l'Euro Shop Elfstedenronde a fait son retour au calendrier en 2017 grâce à la ville de Bruges. Cette course d'un jour de légende fait partie de l'UCI Europe Tour. Le premier Elfstedenronde s'est déroulé en 1943, l'épreuve devenant célèbre dans les années '50 et '60 en Flandre Occidentale. La veille de la course professionnelle, nous avons l'occasion de découvrir à vélo l'arrière-pays brugeois. Plusieurs itinéraires nous sont proposés, principalement à travers les canaux. Rien à voir avec le dénivelé du [Tour des Flandres]({% post_url 2018-04-08-tour-des-flandres %}) !
 > Comme à notre habitude, nous nous élançons sur le plus long, celui de 141 km.
 8095,8089,8088,8087
 Départ de la périphérie de Bruges parmi les premiers vers 7h30.

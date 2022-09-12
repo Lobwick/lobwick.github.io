@@ -3,7 +3,7 @@ layout: post
 title:  "Ironman 70.3 Gravelines"
 date:   2018-07-14 15:44:55 +0100
 ---
-Après le <a href="http://twomoulins.fr/triathlon-braydunes/">triathlon de Bray-Dunes</a>, j'ai eu l'autorisation de mon leader de participer au triathlon de Gravelines, organisé par la marque Aptonia by Decathlon. En effet, mon équipe était d'astreinte ce week-end là; petite pensée pour ceux qui travaillaient pendant que je profitais de l'ambiance du triathlon.
+Après le [triathlon de Bray-Dunes]({% post_url 2018-06-10-triathlon-braydunes %}), j'ai eu l'autorisation de mon leader de participer au triathlon de Gravelines, organisé par la marque Aptonia by Decathlon. En effet, mon équipe était d'astreinte ce week-end là; petite pensée pour ceux qui travaillaient pendant que je profitais de l'ambiance du triathlon.
 
 ### Matinée Ambassadeur
 Ce week-end commence le vendredi matin au B'Twin village, avec une matinée passée avec la grande partie des ambassadeurs <a href="https://www.decathlon.fr/sport/c0-nutrition-sportive/_/N-rinoim" target="_blank" rel="noopener">Aptonia  </a>pour discuter des actions mises en place, afin de rendre accessible au plus grand nombre le triathlon. Une matinée bien sympathique qui se finira pour moi le midi, car je dois regagner Croix avec mes missions informatiques.
@@ -38,8 +38,9 @@ La montée du moulin se fait sans encombre, mais le ravitaillement à son sommet
 La deuxième boucle s'effectue tout comme la première, avec une vitesse moyenne de 32km/h.
 
 <center><iframe src="https://www.strava.com/activities/1674453571/embed/18182ea5e5096b539d6050832a59941dff8fc267" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
+
 ### Course à pied
-Pas de problème lors de cette transition, alors qu'au triathlon de <a href="http://twomoulins.fr/triathlon-braydunes/">Bray-Dunes</a> j'avais oublié de retirer mon casque ! Je l'échange contre une casquette afin de me protéger du soleil qui tape toujours plus.
+Pas de problème lors de cette transition, alors qu'au triathlon de [Bray-Dunes]({% post_url 2018-06-10-triathlon-braydunes %}) j'avais oublié de retirer mon casque ! Je l'échange contre une casquette afin de me protéger du soleil qui tape toujours plus.
 Philippe me rejoint à la sortie du parc de transition, pour m'accompagner sur ce semi-marathon. Les sensations ne sont pas là. La chaleur et moi ne faisant pas de bons amis et une crampe derrière le mollet me forcera à marcher jusqu'au premier ravitaillement. Mais une douche sous forme d'un bac d'eau froide me remet en forme.
 8442,8441,8440
 Philippe ira me chercher des gourdes d'eau sur les prochains ravitaillements, pour m'éviter de devoir m'arrêter une fois de plus. Un arrêt signifierait l'abandon car la crampe bien que disparue grâce à la douche, est toujours menaçante.
