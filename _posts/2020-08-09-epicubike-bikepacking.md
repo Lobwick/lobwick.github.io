@@ -83,7 +83,7 @@ Nous recevons notre douche froide à un peu plus de 20km de notre point d'arriv�
 
 Guillaume est frappé de plein fouet par une hypo. Canettes de coca et pâtes de fruits n'arrivent pas à le remettre en selle. Nous décidons donc de faire deux groupes : Pathé et Guillaume d'un côté, et Marie et moi  de l'autre, afin d'arriver avant 19h à Watten pour faire des courses pour la soirée...
 
-Nous nous dépêchons de parcourir les derniers kilomètres. Je profite des longues lignes droites pour réserver le diner au Calyspo, PMU où on s'était arrêté avec Philippe et Ludo lors de la [North Cuesta Track]({£ post_url 2020-07-23-north-cuesta-track %}).
+Nous nous dépêchons de parcourir les derniers kilomètres. Je profite des longues lignes droites pour réserver le diner au Calyspo, PMU où on s'était arrêté avec Philippe et Ludo lors de la [North Cuesta Track]({% post_url 2020-07-23-north-cuesta-track %}).
 
 ![Marie en pleine descente ](/assets/images/epicubike-bikepacking/epicubike-bikepacking_12614.jpg)
 
