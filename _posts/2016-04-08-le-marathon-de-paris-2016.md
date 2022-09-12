@@ -2,7 +2,7 @@
 layout: post
 title:  "Le Marathon de Paris 2016"
 date:   2016-04-08 16:57:50 +0100
-image: /assets/images/en-piste-pour-paris-roubaix-2016/le-marathon-de-paris-2016_1737.jpg
+image: /assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1737.jpg
 ---
 ## Week-end Marathon de Paris
 > Après le [semi]({% post_url 2016-03-06-semi-marathon-de-paris-2016 %}) du mois de mars, on reprend les mêmes, mais on double la distance avec le Marathon de Paris!
@@ -19,9 +19,9 @@ J'en profite pour récupérer une lampe Schneider Electric, gagnée par tirage a
 Elle pourra toujours servir en randonnée vélo.
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1738.jpg" title="Vive le triathlon !" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1739.jpg" title="foule de marathoniens" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1740.jpg" title="Porte de Versailles ..." alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1738.jpg" title="Vive le triathlon !" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1739.jpg" title="foule de marathoniens" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1740.jpg" title="Porte de Versailles ..." alt="Marathon de Paris" >
 </div>
 </div>
 
@@ -38,10 +38,10 @@ Au petit matin, l'ambiance humide a disparu et le soleil fait son apparition.
 Le ciel, au dessus de l'Arc de Triomphe, annonce une chaude journée.
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1727.jpg" title="Feu vert pour le départ" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1728.jpg" title="Arc de Triomphe" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1729.jpg" title="Pratique pour se repérer" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1730.jpg" title="Fraîcheur du matin" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1727.jpg" title="Feu vert pour le départ" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1728.jpg" title="Arc de Triomphe" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1729.jpg" title="Pratique pour se repérer" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1730.jpg" title="Fraîcheur du matin" alt="Marathon de Paris" >
 </div>
 </div>
 Pas de temps pour le tourisme, afin de rejoindre notre sas de départ.
@@ -51,18 +51,18 @@ Félix est actuellement en stage chez eux et c'est l'occasion de courir avec d'a
 Place à l'habituel échauffement, pour mettre de l'ambiance et nous faire patienter.
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1724.jpg" title="" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1725.jpg" title="notre SAS 3h45 prévu" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1726.jpg" title="Les marathoniens s'installent ..." alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1724.jpg" title="" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1725.jpg" title="notre SAS 3h45 prévu" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1726.jpg" title="Les marathoniens s'installent ..." alt="Marathon de Paris" >
 </div>
 </div>
 
-![Il va faire chaud !](/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1722.jpg)
+![Il va faire chaud !](/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1722.jpg)
 
 ## Le Marathon de Paris
 Nous entendons le départ des Elites, peu après 9h, alors que le soleil s'aligne avec les Champs-Elysées.
 > L'impatience, de dévaler la plus belle avenue du monde, se fait sentir.
-![Suivez le meneur d'allure ...](/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1723.jpg)
+![Suivez le meneur d'allure ...](/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1723.jpg)
 Le troupeau se dirige vers le bois de Vincennes, chacun à son rythme.
 D'ailleurs, une partie du parcours reprend celui du semi du mois de mars.
 Ensuite, il faut longer la Seine, avec la chaleur qui se fait sentir.
@@ -75,9 +75,9 @@ Encore un dernier ravitaillement et la ligne d'arrivée est toute proche.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1735.jpg" title="dans la douleur !" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1736.jpg" title="rattrapés par le meneur 4h ..." alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1737.jpg" title="Avenue Foch avec l'Arc de Triomphe en ligne de mire mais ..." alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1735.jpg" title="dans la douleur !" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1736.jpg" title="rattrapés par le meneur 4h ..." alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1737.jpg" title="Avenue Foch avec l'Arc de Triomphe en ligne de mire mais ..." alt="Marathon de Paris" >
 </div>
 </div>
 
@@ -87,15 +87,15 @@ Le repère 42 km marque l'entrée sur une autre grande artère de Paris, l'Avenu
 <center><iframe src="https://www.strava.com/activities/535335894/embed/1557a8c7289e918665daf6df91ce3f702cf6274c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Le rythme trop rapide du départ, nous fait terminer en un peu plus de 4h, cinq heures après le départ des premiers.
 
-![Quelques heures après le premier ...](/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1734.jpg)
+![Quelques heures après le premier ...](/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1734.jpg)
 
 > Mais, une fois la fatigue passée, place à la satisfaction d'être allés plus vite que l'année dernière.
 Retour au point de départ avec les traditionnelles photos de médailles devant d'autres victoires, celles de Napoléon.
-Le marathon de Paris sera suivi d'une semaine de récupération afin d'effectuer [Paris-Roubaix]({% post_url 2016-04-13-en-piste-pour-paris-roubaix-2016 %}) dans les meilleures conditions.
+Le marathon de Paris sera suivi d'une semaine de récupération afin d'effectuer [Paris-Roubaix]({% post_url 2016-04-13-le-marathon-de-paris-2016 %}) dans les meilleures conditions.
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1731.jpg" title="fils" alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1732.jpg" title="Père et ..." alt="Marathon de Paris" >
-<img src="/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1733.jpg" title="En attendant l'année prochaine ..." alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1731.jpg" title="fils" alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1732.jpg" title="Père et ..." alt="Marathon de Paris" >
+<img src="/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1733.jpg" title="En attendant l'année prochaine ..." alt="Marathon de Paris" >
 </div>
 </div>
