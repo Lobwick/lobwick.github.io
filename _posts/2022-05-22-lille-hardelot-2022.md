@@ -5,12 +5,6 @@ date:   2022-05-22 15:12:21 +0100
 image: /assets/images/lille-hardelot-2022/lille-hardelot-2022_12.jpg
 ---
 
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_2.jpg">
-</div>
-</div>
-
 Après deux ans d’absence pour les raisons que vous connaissez, notre chère cyclo chti est de retour !
 
 C’est le grand bonheur pour tous les cyclistes de la région et d’un peu plus loin.
