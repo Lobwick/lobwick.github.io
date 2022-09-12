@@ -34,7 +34,7 @@ Comme l’année dernière, Benoît nous révèle l’existence de six checkpoin
 Le repas n’a pas changé par rapport à 2020, car les succulentes galettes orientales sont toujours au menu.
 > Ensuite, tout le monde rejoint son bivouac sur place car le départ du lendemain est très matinal !
 
-![](/assets/images/north-cuesta-track-2021/13767.jpg)
+![](/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13767.jpg)
 
 C’est par petits groupes que les aventuriers s’élancent à partir de 5h en ce 10 juillet.
 Pour notre peloton constitué de Ludo, Guillaume, Félix et moi, il faut être prêt pour 5h24 précises.

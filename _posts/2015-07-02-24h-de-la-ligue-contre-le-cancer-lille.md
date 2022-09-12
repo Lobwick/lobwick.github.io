@@ -2,7 +2,7 @@
 layout: post
 title:  "24h de la ligue contre le cancer ~ Lille"
 date:   2015-07-02 20:46:59 +0100
-image: /assets/images/24h-de-la-ligue-contre-le-cancer-lille/3569.jpg
+image: /assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_3569.jpg
 ---
 Il y a des jours où il vaudrait mieux réfléchir à ce qu’on entreprend.
 En effet, courir des heures jusqu’à repousser ses limites, quelle folie !

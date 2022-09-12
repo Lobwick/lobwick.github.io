@@ -2,7 +2,7 @@
 layout: post
 title:  "Braderie de Lille"
 date:   2015-09-06 16:50:57 +0100
-image: /assets/images/braderie-de-lille/880.jpg
+image: /assets/images/braderie-de-lille/braderie-de-lille_880.jpg
 ---
 > Comment profiter de la braderie de Lille ?
 Je me rends à Lille en début de journée.

@@ -66,7 +66,7 @@ Un dernier effort pour passer par la Tour Cézar qui surplombe Aix et me voilà 
 </div>
 </div>
 
-![](/assets/images/provence-hivernale-2016/1535.jpg)
+![](/assets/images/provence-hivernale-2016/provence-hivernale-2016_1535.jpg)
 
 ## Jade d'Asie
 La journée très pluvieuse de vendredi est l'occasion de refaire le plein de calories au Jade d'Asie.
@@ -92,7 +92,7 @@ Le lendemain autour de Puyricard, c'est à vélo que nous testons ce dernier en 
 <center><iframe src="http://www.strava.com/activities/493467476/embed/4bca6571f35f3aff7d76762ab1b2c934ed5fbde5" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Il y a encore de quoi faire avec un tel appareil.
 
-![Suivez le gps](/assets/images/provence-hivernale-2016/1544.jpg)
+![Suivez le gps](/assets/images/provence-hivernale-2016/provence-hivernale-2016_1544.jpg)
 ## Rognes
 Lundi, reprise du vtt car un petit mistral tente de dégager le ciel.
 Je vais explorer le massif entre Rognes, la Roque-d'Anthéron et Lambesc.
@@ -168,7 +168,7 @@ Après avoir prévenu que je serai en retard, cette sortie se termine à l'obscu
 </div>
 </div>
 
-![](/assets/images/provence-hivernale-2016/1450.jpg)
+![](/assets/images/provence-hivernale-2016/provence-hivernale-2016_1450.jpg)
 ## Pilon du Roi
 La dernière sortie consiste à faire le tour du massif de l'Etoile près de Marseille.
 

@@ -67,7 +67,7 @@ Celui-ci nous conduit jusqu'au petit village de Howth pour admirer son église e
 
 
 
-![](/assets/images/les-moulins-en-terre-celtique/3065.jpg)
+![](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3065.jpg)
 Il ne nous reste plus qu'à redescendre jusqu'à son château, à proximité du golf, avant de remonter dans le DART.
 
 <div class="gallery-box">
@@ -195,7 +195,7 @@ Celui-ci nous conduit jusqu'au petit village de Howth pour admirer son église e
 </div>
 </div>
 
-![](/assets/images/les-moulins-en-terre-celtique/3065.jpg)
+![](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3065.jpg)
 
 ## Il ne nous reste plus qu'à redescendre jusqu'à son château, à proximité du golf, avant de remonter dans le DART.
 <div class="gallery-box">
@@ -265,7 +265,7 @@ Même si la journée est vraiment automnale, cette cascade est photographiée et
 </div>
 
 
-![](/assets/images/les-moulins-en-terre-celtique/2875.jpg)
+![](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_2875.jpg)
 
 ## Un maxi café et un grand chocolat brûlants vont nous réchauffer, avant de regagner la côte, pour nous épargner du dénivelé car les muscles sont bien refroidis.
 Félix m'avait promis d'y retourner et sa mission est accomplie car c'est le meilleur moment de ce séjour, même si le temps ne nous a pas épargnés.
@@ -376,7 +376,7 @@ Destination populaire pour les vacances, depuis l'époque victorienne, c'est une
 </div>
 </div>
 
-![](/assets/images/les-moulins-en-terre-celtique/3131.jpg)
+![](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3131.jpg)
 
 ## Pause gourmande avec la cueillette d'arbouses, plutôt méditerranéennes, témoignant de la douceur du bord de mer.
 <div class="gallery-box">
@@ -506,7 +506,7 @@ Nous sommes bien moins chargés qu'à l'aller en terre celtique et arrivons larg
 </div>
 
 
-![presqu'île de Howth](/assets/images/les-moulins-en-terre-celtique/3301.jpg)
+![presqu'île de Howth](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3301.jpg)
 
 Le vol de retour est encore plus calme qu'à l'aller.
 Merci à Raymonde et Roger qui sont à l'heure à Bruxelles pour nous reconduire.

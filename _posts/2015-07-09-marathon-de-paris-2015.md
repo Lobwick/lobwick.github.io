@@ -46,6 +46,6 @@ Cela nous permettra d'en profiter pleinement et de moins stresser.
 </div>
 </div>
 
-![](/assets/images/marathon-de-paris-2015/258.jpg)
+![](/assets/images/marathon-de-paris-2015/marathon-de-paris-2015_258.jpg)
 
 <center><iframe src="https://www.strava.com/activities/284293082/embed/040580856389410c5d378dde31374457853f953f" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>

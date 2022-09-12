@@ -123,7 +123,7 @@ Nous nous retrouvons presque en même temps à la voiture.
 Après ces quelques sorties en VTT, c’est la meilleure journée de mes vacances.
 
 Pour les prochaines de printemps à Pâques,  j’espère traverser l’Angleterre à vélo pour retrouver [Félix à Dublin]({% post_url 2016-10-02-felix-a-dublin %})...
-![](/assets/images/vtt-hivernal-provence/4064.jpg)
+![](/assets/images/vtt-hivernal-provence/vtt-hivernal-provence_4064.jpg)
 
 ## La Sainte Baume
 Encore une Sainte que je pensais avoir parcouru l’année dernière, mais je m’étais trompé de massif.
@@ -291,7 +291,7 @@ Après ces quelques sorties en VTT, c’est la meilleure journée de mes vacance
 
 Pour les prochaines de printemps à Pâques,  j’espère traverser l’Angleterre à vélo pour retrouver [Félix à Dublin]({% post_url 2016-10-02-felix-a-dublin %})...
 
-![](/assets/images/vtt-hivernal-provence/4064.jpg)
+![](/assets/images/vtt-hivernal-provence/vtt-hivernal-provence_4064.jpg)
 
 ## La Sainte Baume
 Encore une Sainte que je pensais avoir parcouru l’année dernière, mais je m’étais trompé de massif.
@@ -377,7 +377,7 @@ Surtout qu’avec toutes ces photos et vidéos, le smartphone est déchargé san
 Sans me précipiter, je retrouve l’itinéraire de départ me ramenant jusqu’à la voiture.
 Comme je l’avais pressenti, ce fut la plus belle sortie des vacances, même si le vélo a moins résisté que le cycliste.
 
-![genêts sauvages](/assets/images/vtt-hivernal-provence/4167.jpg)
+![genêts sauvages](/assets/images/vtt-hivernal-provence/vtt-hivernal-provence_4167.jpg)
 ## Étang de Berre
 Après l’est, direction l’ouest et cet étang bientôt classé au patrimoine mondial de l’UNESCO.
 Pour m’y rendre, je vais traverser des collines repérées depuis l’autoroute A8.

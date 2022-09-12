@@ -66,7 +66,7 @@ Après ce repas, il ne reste plus qu'à se réfugier dans nos tentes pour certai
 </div>
 </div>
 
-![Have a good night !](/assets/images/north-cuesta-track/12401.jpg)
+![Have a good night !](/assets/images/north-cuesta-track/north-cuesta-track_12401.jpg)
 
 ## Jour 1 : les Monts et les marais
 Avant le départ, on profite d'un petit déjeuner acheté la veille avant la fermeture des boulangeries, ainsi que d'un café proposé par l'organisation !
@@ -240,7 +240,7 @@ Il était temps avant de ne plus rien voir et la paille ne demande qu'à nous ac
 </div>
 </div>
 
-![](/assets/images/north-cuesta-track/12441.jpg)
+![](/assets/images/north-cuesta-track/north-cuesta-track_12441.jpg)
 
 ## Jour 2 : le boulonnais
 Réveil un peu plus tardif que la veille en ce deuxième jour, pour un départ à 6h30.
@@ -353,7 +353,7 @@ L'installation est plus rapide que la première nuit, annonçant un sommeil plus
 </div>
 </div>
 
-![Direction l'est...](/assets/images/north-cuesta-track/12494.jpg)
+![Direction l'est...](/assets/images/north-cuesta-track/north-cuesta-track_12494.jpg)
 
 ## Jour 3 : l'Artois et le bassin minier.
 Ce troisième et dernier jour espéré commence de la meilleure façon avec le café de Ludo fait maison.

@@ -53,7 +53,7 @@ Plus loin, le Knokteberg ( 1260m à 7% avec un max de 13% ) et la version Off-Ro
 </div>
 </div>
 
-![Ce n'est pas le printemps !](/assets/images/tour-des-flandres-2/9788.jpg)
+![Ce n'est pas le printemps !](/assets/images/tour-des-flandres-2/tour-des-flandres-2_9788.jpg)
 > Le premier ravitaillement de Ronse permet de reprendre des forces ...
 Une petite boucle nous fait franchir le Sherpenberg ( 1200m à 8,4% avec un max de 20% )
 Au niveau d'une bifurcation avec le parcours de 50 km, Félix me propose de continuer en solo le 80 car il n'est pas en vtt.

@@ -51,7 +51,7 @@ Direction le sud de la Belgique pour passer à l'ouest de Louvain et permettre d
 La traversée de petits bois est vraiment agréable, en alternance avec des passages au soleil, plus chauds.
 Première difficulté avec la montée du Sigarenberg !
 Après une boucle vers l'Est, nous retrouvons la côte de Pécrot.
-![](/assets/images/primus-classic/9671.jpg)
+![](/assets/images/primus-classic/primus-classic_9671.jpg)
 Flandrienne oblige, la Moskesstraat est un long secteur pavé qui secoue les organismes, sans épargner la mécanique ...
 > Conséquence, je crève un peu plus loin !
 Le deuxième ravitaillement est installé au niveau de Wavre.

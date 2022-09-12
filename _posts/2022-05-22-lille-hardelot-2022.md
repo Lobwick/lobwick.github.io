@@ -2,12 +2,12 @@
 layout: post
 title:  "Lille ~ Hardelot 2022"
 date:   2022-05-22 15:12:21 +0100
-image: /assets/images/lille-hardelot-2022/12.jpg
+image: /assets/images/lille-hardelot-2022/lille-hardelot-2022_12.jpg
 ---
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/2.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_2.jpg">
 </div>
 </div>
 
@@ -23,7 +23,7 @@ En ce dimanche 22 mai 2022, les conditions météo sont idéales avec un maximum
 Au menu, il y a toujours environ 150 km pour un peu plus de 1000 m de dénivelé.
 Le rassemblement de départ a traditionnellement lieu autour de Lille Grand Palais.
 
-![Départ ](/assets/images/lille-hardelot-2022/1.jpg)
+![Départ ](/assets/images/lille-hardelot-2022/lille-hardelot-2022_1.jpg)
 
 La première épreuve consiste à réussir à franchir le portillon de départ, tellement la foule à deux roues est dense pour cette édition !
 Ensuite les grands boulevards lillois permettent de fluidifier les cyclotouristes.
@@ -36,11 +36,11 @@ Il va nous conduire à travers les Weppes jusqu’au premier ravitaillement de M
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/2.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/3.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/4.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/5.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/6.jpg"  >
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_2.jpg"  >
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_3.jpg"  >
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_4.jpg"  >
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_5.jpg"  >
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_6.jpg"  >
 </div>
 </div>
 
@@ -52,10 +52,10 @@ Mais il est appréciable car on est à mi-distance après 80 km.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/7.jpg">
-<img src="/assets/images/lille-hardelot-2022/8.jpg">
-<img src="/assets/images/lille-hardelot-2022/9.jpg">
-<img src="/assets/images/lille-hardelot-2022/10.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_7.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_8.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_9.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_10.jpg">
 </div>
 </div>
 
@@ -66,25 +66,25 @@ Heureusement que le ravitaillement de Licques est prévu à ce stade de l’itin
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/11.jpg">
-<img src="/assets/images/lille-hardelot-2022/12.jpg">
-<img src="/assets/images/lille-hardelot-2022/13.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_11.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_12.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_13.jpg">
 </div>
 </div>
 
 > Difficile de résister aux grillades de volaille qui sont la spécialité locale !
 
-![Ravito ](/assets/images/lille-hardelot-2022/14.jpg)
+![Ravito ](/assets/images/lille-hardelot-2022/lille-hardelot-2022_14.jpg)
 
 Mais le littoral se rapproche et forcément plutôt en descente.
 Parmi les nouveautés de cette édition, nous nous rapprochons de Boulogne.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/15.jpg">
-<img src="/assets/images/lille-hardelot-2022/16.jpg">
-<img src="/assets/images/lille-hardelot-2022/17.jpg">
-<img src="/assets/images/lille-hardelot-2022/18.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_15.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_16.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_17.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_18.jpg">
 </div>
 </div>
 
@@ -100,19 +100,19 @@ Le final dans les rues de cette station balnéaire est forcément en pente favor
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/19.jpg">
-<img src="/assets/images/lille-hardelot-2022/20.jpg">
-<img src="/assets/images/lille-hardelot-2022/21.jpg">
-<img src="/assets/images/lille-hardelot-2022/22.jpg">
-<img src="/assets/images/lille-hardelot-2022/23.jpg">
-<img src="/assets/images/lille-hardelot-2022/24.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_19.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_20.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_21.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_22.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_23.jpg">
+<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_24.jpg">
 </div>
 </div>
 
 Le passage de la ligne d’arrivée contraste avec la foule matinale car les participants arrivent régulièrement !
 
 
-![Photo finish](/assets/images/lille-hardelot-2022/25.jpg)
+![Photo finish](/assets/images/lille-hardelot-2022/lille-hardelot-2022_25.jpg)
 
 En ce début d’après-midi, du réconfort nous est apporté avec un petit pain jambon fromage, une bière et un cône glacé.
 La voiture que j’avais laissée la veille, avant de faire le retour à vélo, est heureusement toujours au même endroit et je n’ai pas oublié les clefs !

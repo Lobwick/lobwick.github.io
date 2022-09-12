@@ -57,12 +57,12 @@ Place à l'habituel échauffement, pour mettre de l'ambiance et nous faire patie
 </div>
 </div>
 
-![Il va faire chaud !](/assets/images/en-piste-pour-paris-roubaix-2016/1722.jpg)
+![Il va faire chaud !](/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1722.jpg)
 
 ## Le Marathon de Paris
 Nous entendons le départ des Elites, peu après 9h, alors que le soleil s'aligne avec les Champs-Elysées.
 > L'impatience, de dévaler la plus belle avenue du monde, se fait sentir.
-![Suivez le meneur d'allure ...](/assets/images/en-piste-pour-paris-roubaix-2016/1723.jpg)
+![Suivez le meneur d'allure ...](/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1723.jpg)
 Le troupeau se dirige vers le bois de Vincennes, chacun à son rythme.
 D'ailleurs, une partie du parcours reprend celui du semi du mois de mars.
 Ensuite, il faut longer la Seine, avec la chaleur qui se fait sentir.
@@ -87,7 +87,7 @@ Le repère 42 km marque l'entrée sur une autre grande artère de Paris, l'Avenu
 <center><iframe src="https://www.strava.com/activities/535335894/embed/1557a8c7289e918665daf6df91ce3f702cf6274c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Le rythme trop rapide du départ, nous fait terminer en un peu plus de 4h, cinq heures après le départ des premiers.
 
-![Quelques heures après le premier ...](/assets/images/en-piste-pour-paris-roubaix-2016/1734.jpg)
+![Quelques heures après le premier ...](/assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-roubaix-2016_1734.jpg)
 
 > Mais, une fois la fatigue passée, place à la satisfaction d'être allés plus vite que l'année dernière.
 Retour au point de départ avec les traditionnelles photos de médailles devant d'autres victoires, celles de Napoléon.

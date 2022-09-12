@@ -87,7 +87,7 @@ Nous croisons d’ailleurs l’itinéraire du Paris-Brest.
 </div>
 </div>
 
-![](/assets/images/lille-la-tranche-sur-mer/527.jpg)
+![](/assets/images/lille-la-tranche-sur-mer/lille-la-tranche-sur-mer_527.jpg)
 
 ## Jour 4
 Dans Nantes, la chaleur est de retour.
@@ -112,7 +112,7 @@ Nous nous réfugions dans un jardin public accueillant pour déjeuner au frais.
 
 <center><iframe src="https://www.strava.com/activities/1141195390/embed/fdd8e921792e138339e8369d660dec082776720b" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-![Le spot de surf du Phare](/assets/images/lille-la-tranche-sur-mer/589.jpg)
+![Le spot de surf du Phare](/assets/images/lille-la-tranche-sur-mer/lille-la-tranche-sur-mer_589.jpg)
 
 ## Vacances méritées
 Une fois arrivée à La Tranche sur Mer, c’est occasion de passer du temps en famille, mais également de faire des photos avec le matériel qui n’aura pas été transporté sans effort. 12kg de matériel c’est lourd !

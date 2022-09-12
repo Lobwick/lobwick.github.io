@@ -50,7 +50,7 @@ C’est donc la reprise du « trèfle des Weppes » de l’année dernière qui 
 
 <center><iframe src="https://www.strava.com/activities/813002614/embed/2dfcc47496122cf50d0aa66e5e69612d2799b4e5" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-![hiver froid et sec](/assets/images/rapha-festive-500-2017/3742.jpg)
+![hiver froid et sec](/assets/images/rapha-festive-500-2017/rapha-festive-500-2017_3742.jpg)
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/rapha-festive-500-2017/rapha-festive-500-2017_3691.jpg" title="Rue Forte" alt="Rapha Festive 500" >
@@ -98,7 +98,7 @@ Il était temps d’ailleurs qu’on en termine, car un brouillard retombe préc
 </div>
 </div>
 
-![Les twomoulins affrontent le brouillard.](/assets/images/rapha-festive-500-2017/3761.jpg)
+![Les twomoulins affrontent le brouillard.](/assets/images/rapha-festive-500-2017/rapha-festive-500-2017_3761.jpg)
 
 ## New Balance Run 50
 > Une journée avant la date limite du Nouvel An, mission accomplie sans forcer.
@@ -147,4 +147,4 @@ Félix la commence aussi en fanfare avec un kom (meilleur temps sur une section)
 Plus de chaleur et de dénivelé entre Briançon et le mythique Col de l’Izoard...
 En attendant, n’hésitez pas à regarder cette vidéo du challenge Rapha Festive 500
 <iframe src="https://www.youtube.com/embed/3Ng3HCmJwpY" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-![Retour en Irlande](/assets/images/rapha-festive-500-2017/3796.jpg)
+![Retour en Irlande](/assets/images/rapha-festive-500-2017/rapha-festive-500-2017_3796.jpg)

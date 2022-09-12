@@ -10,7 +10,7 @@ Deux ans après ma première traversée de la France, je suis à nouveau tenté 
 Je veux surtout profiter d'un maximum de jours de vacances à Aix.
 Le vélo aussi n'est plus le même car je délaisse mon vtt de compétition pour le bon vieux Gitane Victoire de papa.
 Plus d'imposantes sacoches sur porte-bagage arrière mais uniquement des sacoches en version bikepacking.
-![A fond la sécurité !](/assets/images/herlies-aix-herlies/2833.jpg)
+![A fond la sécurité !](/assets/images/herlies-aix-herlies/herlies-aix-herlies_2833.jpg)
 > Je privilégie la légèreté pour être plus rapidement rendu dans le midi.
 Ce début août s'annonçant sec mais chaud, je décide de prendre la route le lundi 1 er août aux aurores.
 > Je pourrai ainsi profiter de journées plus longues pour accumuler les kilomètres.
@@ -36,7 +36,7 @@ Deuxième jour qui doit me conduire jusqu'à Lyon en passant par Beaune.
 L'itinéraire est assez proche de l'autoroute mais sur des départementales très roulantes.
 Je me rends compte que la Bourgogne est vallonnée avant d'atteindre le point culminant de cette traversée.
 
-![Semur-en-Auxois](/assets/images/herlies-aix-herlies/2292.jpg)
+![Semur-en-Auxois](/assets/images/herlies-aix-herlies/herlies-aix-herlies_2292.jpg)
 Le passage par le col de Bessey-en-Chaume à 576 m d'altitude permet d'atteindre Beaune après une descente régulière de plusieurs kilomètres très plaisante.
 Occasion de retrouver une foule considérable de cyclistes émerveillés par les Hospices de Beaune.
 
@@ -58,7 +58,7 @@ Deuxième étape se terminant à Lyon où la nuit reste chaude le long des quais
 Pour rejoindre Aix-en-Provence il n'y a plus qu'à longer la vallée du Rhône.
 Je ne peux m'empêcher de faire étape à Montélimar pour reprendre des forces avec du nougat.
 
-![](/assets/images/herlies-aix-herlies/2845.jpg)
+![](/assets/images/herlies-aix-herlies/herlies-aix-herlies_2845.jpg)
 > Un peu de tourisme à Orange, pensant que j'étais arrivé ...
 <div class="gallery-box">
   <div class="gallery">
@@ -69,7 +69,7 @@ Je ne peux m'empêcher de faire étape à Montélimar pour reprendre des forces 
 </div>
 </div>
 
-![La base de Salon-de-Provence n'est pas loin ](/assets/images/herlies-aix-herlies/2850.jpg)
+![La base de Salon-de-Provence n'est pas loin ](/assets/images/herlies-aix-herlies/herlies-aix-herlies_2850.jpg)
 Mais la fin de ce troisième jour s'annonce un peu plus pénible à cause de la chaleur provençale.
 Les crampes menacent et l'ascension des dernières côtes se fait au ralenti.
 > J'atteins mon but en retrouvant l'Olivette et les parents vers 20h30.

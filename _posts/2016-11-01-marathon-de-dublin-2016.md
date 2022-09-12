@@ -83,7 +83,7 @@ Après un contrôle quasi inexistant de celui-ci, j'accède avec un français à
 </div>
 
 C'est désormais une semaine du repos qui m'attend, avant un voyage en Suisse. L'occasion d'acheter une nouvelle paire de chaussures, car les Hoka utilisées suite à ma fracture du bassin, ont dépassé leur kilométrage de protection.
-![Ligne de départ ](/assets/images/marathon-de-dublin-2016/3425.jpg)
+![Ligne de départ ](/assets/images/marathon-de-dublin-2016/marathon-de-dublin-2016_3425.jpg)
 
 ## Le marathon de Dublin
 Je prends le départ en compagnie d'un coureur français en lui demandant son objectif au 10°km.
@@ -134,8 +134,8 @@ Je rejoins Adrien, mon colocataire, qui a eu la gentillesse de venir me chercher
 
 <iframe src="https://www.strava.com/activities/761077773/embed/17ff0b9759b5972b99e6daa1a0c19ee780686a06" width="590" height="405" frameborder="0" scrolling="no"></iframe>
 
-![](/assets/images/marathon-de-dublin-2016/3187.jpg)
+![](/assets/images/marathon-de-dublin-2016/marathon-de-dublin-2016_3187.jpg)
 C'est désormais une semaine du repos qui m'attend, avant un voyage en Suisse. L'occasion d'acheter une nouvelle paire de chaussures, car les Hoka utilisées suite à ma fracture du bassin, ont dépassé leur kilométrage de protection.
 
-![](/assets/images/marathon-de-dublin-2016/3187.jpg)
+![](/assets/images/marathon-de-dublin-2016/marathon-de-dublin-2016_3187.jpg)
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/761077773/embed/17ff0b9759b5972b99e6daa1a0c19ee780686a06'></iframe>  <iframe  frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/761077773/embed/17ff0b9759b5972b99e6daa1a0c19ee780686a06'></iframe>

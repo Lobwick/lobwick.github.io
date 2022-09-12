@@ -47,7 +47,7 @@ Nous nous rendons à proximité de la Cathédrale Christ Church en milieu de mat
 En effet, on nous a conseillé d’arriver un peu plus d’une heure en avance, car sinon il est impossible d'obtenir une place convenable.
 Comme prévu, nous ne pouvons pas aller plus loin dans le centre, car les abords de la parade commencent déjà à être bondés.
 
-![Parcours de la parade](/assets/images/saint-patricks-day/4357.jpg)
+![Parcours de la parade](/assets/images/saint-patricks-day/saint-patricks-day_4357.jpg)
 
 Nous sommes peut-être en avance, car le début de la parade est prévu à midi au nord de Dublin, mais le monde commence à se rassembler et se tasser derrière nous. Bien contents d’avoir une bonne place, nous allons vite déchanter car il commence à pleuvoir et le vent s'intensifie.
 La température chute donc rapidement, et c’est frigorifiés, que nous assistons à la parade.
@@ -113,7 +113,7 @@ Le départ est donné à midi, sous une légère pluie, qui durera quasiment pen
 Je ne souhaitais pas me blesser davantage pour les courses à venir, car la fracture de fatigue me forcerait à un arrêt complet pour au moins un mois.
 Malgré cela, cette course marque pour moi un nouveau PR sur le 5 K, discipline assez brutale à laquelle je ne m’étais jamais essayé en course.
 
-![Le phare de Poolbeg](/assets/images/saint-patricks-day/4375.jpg)
+![Le phare de Poolbeg](/assets/images/saint-patricks-day/saint-patricks-day_4375.jpg)
 ## 10K d’Arklow Bay
 Nous nous rendons donc tous ensemble le 11 mars à Arklow Bay pour son 10K qui devait permettre à tout le monde de faire le point sur son temps pour un dix kilomètres.
 Après un trajet effectué en bus, nous récupérons nos dossards dans un centre sportif. Après un rapide ravitaillement au Starbuck, nous prenons le départ de cette course sous la pluie.

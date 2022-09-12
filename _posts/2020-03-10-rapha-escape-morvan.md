@@ -18,7 +18,7 @@ Un petit apéro entre cyclistes s'y tient au moment où j'arrive vers 19h30. L'o
 </div>
 Un plat de pâtes et une petite bière plus tard, nous allons nous mettre au lit pour être en forme le lendemain.
 
-![](/assets/images/rapha-escape-morvan/11942.jpg)
+![](/assets/images/rapha-escape-morvan/rapha-escape-morvan_11942.jpg)
 Après un rapide petit-déjeuner, nous rejoignons Foucauld, Hugo, Sudeep, Thibault et Charly à la gare de Lyon afin de prendre le RER vers Avallon.
 Le grand luxe pour tout le monde, car nous pouvons compter sur Franziska et Pascal qui nous suivront en voiture pendant ces deux jours. Les valises sont pleines d'affaires de rechange !
 <div class="gallery-box">
@@ -89,7 +89,7 @@ Retour au gîte afin de passer une bonne nuit et d'être d'attaque pour la journ
 
 <center><iframe src="https://www.strava.com/activities/3145685116/embed/0cb9061844612f9574dd339f6d4d8e7b8efda054" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-![](/assets/images/rapha-escape-morvan/11985.jpg)
+![](/assets/images/rapha-escape-morvan/rapha-escape-morvan_11985.jpg)
 Après la nuit réparatrice et un bon petit déjeuner copieux, il est temps de faire les bagages et de se changer afin de se remettre en route.
 Le soleil est de la partie, ce qui rend certains d'entre nous un peu trop optimiste au niveau de la tenue à adopter...
 <div class="gallery-box">
@@ -143,7 +143,7 @@ Nous retrouvons Charlie qui a été récupéré par Pascal. Ce dernier nous amus
 </div>
 <center><iframe src="https://www.strava.com/activities/3145679777/embed/7ee233e93d4808d82e04a15760a0cf3c39dc4f79" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-"![La fin d'une bell aventure ](/assets/images/rapha-escape-morvan/12019.jpg)"
+"![La fin d'une bell aventure ](/assets/images/rapha-escape-morvan/rapha-escape-morvan_12019.jpg)"
 Grâce aux toilettes de la gare nous enfilons des vêtements secs. Un rapide aller-retour au McDonald accompagnera la dernière bière du Morvan dans le train du retour.
 
 Une fois à Paris, Julien me propose d'attendre le train Paris-Lille chez lui.
@@ -151,4 +151,4 @@ Une fois à Paris, Julien me propose d'attendre le train Paris-Lille chez lui.
 Merci à tout le monde pour ce week-end ! Julien pour le gîte, Foucauld pour l'itinéraire, Hugo, Charlie, Thibault et Sudeep pour les discussions et plaisanteries (surtout Thibault) ! Franziska et Pascal pour la logistique, sans vous ... ça aurait été plus compliqué !
 Et merci à vous pour les quelques photos empruntés.
 
-![](/assets/images/rapha-escape-morvan/12008.jpg)
+![](/assets/images/rapha-escape-morvan/rapha-escape-morvan_12008.jpg)

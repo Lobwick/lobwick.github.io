@@ -2,6 +2,7 @@
 layout: post
 title:  "Week-end aux Pays-Bas"
 date:   2015-06-30 19:38:06 +0100
+image: /assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_104.jpg
 ---
 Rien de tel qu’aller chercher un peu de fraîcheur vers le Nord par une telle canicule.
 D’où ce week-end en direction du plat pays après avoir traversé le pays des frites, retour sur ce Week-end aux Pays-Bas.
@@ -20,7 +21,7 @@ L’année dernière, j’avais découvert Breskens, à la fois station balnéai
 Mais j’avais fait l’aller-retour sur la journée sans vraiment profiter du dépaysement.
 Alors que cette fois-ci, en famille et entre amis, ces deux jours ont été plus agréables.
 
-![](/assets/images/week-end-aux-pays-bas/3562.jpg)
+![](/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_3562.jpg)
 
 ## Le Départ pour le Week-end aux Pays-Bas
 
@@ -60,7 +61,7 @@ Il ne restait plus qu’à se rassasier autour d’un feu réussi après quelque
 </div>
 </div>
 
-![](/assets/images/week-end-aux-pays-bas/3563.jpg)
+![](/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_3563.jpg)
 
 Après le coucher de soleil sur la plage, il ne fallut pas nous bercer pour récupérer et se préparer au retour du lendemain.
 C’est pour cela que certains ont passé la nuit en hamac sous un tarp.
@@ -98,10 +99,9 @@ Il ne restait plus qu’à longer la canal jusqu’à Brugge avant d’être de 
 </div>
 </div>
 
-![](/assets/images/week-end-aux-pays-bas/3566.jpg)
+![](/assets/images/week-end-aux-pays-bas/week-end-aux-pays-bas_3566.jpg)
 
-[embed]https://www.youtube.com/watch?v=6tSBDJdKX7o[/embed]
-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/6tSBDJdKX7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 <center><iframe src="https://www.strava.com/activities/335039442/embed/664f6c9d55b61b96db09fc6d2d0b4d392955796c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Retrouver <a href="https://lightroom.adobe.com/shares/619b131c315c43b4a9823b47dcf6f818/albums/5459892365e229e3130f53a40a19b123">sur cette galerie</a> l'ensemble des photos de ce Week-end aux Pays-Bas.

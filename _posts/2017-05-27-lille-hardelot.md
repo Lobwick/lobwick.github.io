@@ -109,7 +109,7 @@ Nous y retrouvons Émilien, de Lille on Wheels, qui hélas cassera son déraille
 Les bidons sont remplis. Jambières et brassières retirées, car la chaleur s’annonce en direction de Licques.
 
 
-![Les Flandres](/assets/images/lille-hardelot/5146.jpg)
+![Les Flandres](/assets/images/lille-hardelot/lille-hardelot_5146.jpg)
 
 ## Licques
 Les choses sérieuses commencent au carrefour du Boulonnais, du Calaisis et de l’Audomarois.

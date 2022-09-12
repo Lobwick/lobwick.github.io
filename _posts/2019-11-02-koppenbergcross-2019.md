@@ -51,7 +51,7 @@ Ensuite nous nous déplaçons sur les alentours du parcours. L'un des avantages 
 </div>
 La course se termine avec la victoire d'Eli Iserbyt, Thomas Pidcock finit deuxième après avoir mené une lutte acharnée avec le premier. Toon Aerts finira quatrième derrière Michael Vanthourenhout.
 
-![Thomas Pidcock sous les applaudissements !](/assets/images/koppenbergcross-2019/11630.jpg)
+![Thomas Pidcock sous les applaudissements !](/assets/images/koppenbergcross-2019/koppenbergcross-2019_11630.jpg)
 Nous reprenons la route du parking, cette fois à pied, car il y avait des milliers de personnes ayant assisté à cette course et la queue pour les navettes est longue !
 <div class="gallery-box">
   <div class="gallery">

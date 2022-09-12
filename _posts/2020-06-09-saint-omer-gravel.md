@@ -8,7 +8,7 @@ Pour une fois que le Nord-Pas-de-Calais est à l'honneur, autant en profiter à 
 En effet, Rémi Quinquin, adepte du gravel le long des chemins, a prévu de nous faire visiter la région à travers champs.
 > Cela coïncide idéalement avec le nouveau vélo spécial gravel de Félix.
 Son précédent s'est retrouvé immobilisé à cause de son dernier accident, uniquement matériel, avec un motard livreur trop pressé !
-![Diverge Expert ](/assets/images/saint-omer-gravel/12259.jpg)
+![Diverge Expert ](/assets/images/saint-omer-gravel/saint-omer-gravel_12259.jpg)
 A partir de Lille, quatre étapes sont au programme pour rejoindre la Côte et revenir par l'Avesnois.
 C'est quand même une balade de 750 km avec 4500m de dénivelé !
 La météo étant favorable sur plusieurs jours, il est temps de partir, après de minutieux préparatifs occupant cet interminable confinement.
@@ -78,7 +78,7 @@ La matinée ayant été rapide, nous engloutissons sandwich et kebab, avant une 
 
 > Elle fut l'occasion de la réflexion sur l'intérêt de continuer !
 En effet, à part deux forêts traversées, l'itinéraire est pour l'instant majoritairement bitumé et ne facilite pas le roulement de l'Epic avec ses gros pneus VTT. A ceci s'ajoute le vent qui nous aurait été défavorable pendant deux jours afin de rejoindre la foret de Saint Amand.
-![Ancien ascenseur à péniches](/assets/images/saint-omer-gravel/12221.jpg)
+![Ancien ascenseur à péniches](/assets/images/saint-omer-gravel/saint-omer-gravel_12221.jpg)
 Décision est prise de faire demi-tour plutôt que de continuer ainsi.
 C'est grâce au canal d'Aire et ses chemins de halage, que le retour vers l'agglomération lilloise s'effectue.
 <div class="gallery-box">

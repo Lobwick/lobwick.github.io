@@ -83,9 +83,9 @@ Dans ce but, le terrain de jeu idéal est le domaine forestier qui s'étend de M
 
 <center><iframe src="https://www.strava.com/activities/2819069641/embed/972bcedefb9aca6f75b26af32db3c9773128a527" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-![Baie de La Ciotat](/assets/images/provence-a-velo/12064.jpg)
+![Baie de La Ciotat](/assets/images/provence-a-velo/provence-a-velo_12064.jpg)
 ## Février 2020
-![](/assets/images/provence-a-velo/12071.jpg)
+![](/assets/images/provence-a-velo/provence-a-velo_12071.jpg)
 Cette année, les vacances de février débutent à vélo avec mon beau-frère Emmanuel et Maxence son aîné.
 Ce dernier doit se préparer à l'ironman 70.3 du pays d'Aix et j'ai donc raccourci un de mes parcours plus longs pour qu'il corresponde à la portion cycliste de cette épreuve d'endurance.
 Direction la vallée de la Durance où nous déjeunerons à Charleval, pour ensuite se rapprocher de Salon-de-Provence.
@@ -118,7 +118,7 @@ Je n'ai plus qu'à m'orienter vers la Sainte-Victoire pour retrouver la maison.
 </div>
 </div>
 <center><iframe src="https://www.strava.com/activities/3126403643/embed/5b425864e33fa5695e1572d00ede3fc04da5f331" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-![Iles de Frioul](/assets/images/provence-a-velo/12034.jpg)
+![Iles de Frioul](/assets/images/provence-a-velo/provence-a-velo_12034.jpg)
 Parmi les régions inexplorées de Provence il y a le Var.
 C'est pourquoi je vais rouler vers l'est jusqu'à Draguignan.
 Pour gagner du temps, la voiture me transporte jusqu'au village d'Esparron.

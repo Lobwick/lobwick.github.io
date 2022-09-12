@@ -52,7 +52,7 @@ La descente encore humide ne nous permet pas d'affoler les compteurs !
 </div>
 </div>
 
-![](/assets/images/s-works-tour-x-rcc/11524.jpg)
+![](/assets/images/s-works-tour-x-rcc/s-works-tour-x-rcc_11524.jpg)
 C'est au niveau de la ville de Steenvoorde que les deux groupes fusionnent après de multiples crevaisons.
 Tout le monde peut ainsi se regrouper sur la place de la mairie pour la photo de " mariage ".
 Il faut ensuite raccourcir le tracé prévu car les changements de chambres à air nous ont ralentis !

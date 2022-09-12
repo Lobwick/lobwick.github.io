@@ -84,7 +84,7 @@ C'est aussi un site important de la première guerre mondiale.
 </div>
 </div>
 Après sa descente, un peu plus loin au niveau de Messines, il y a le Irish Peace Park avec sa tour imposante en pierres.
-![Mont Kemmel](/assets/images/gent-wevelgem-cyclo/10142.jpg)
+![Mont Kemmel](/assets/images/gent-wevelgem-cyclo/gent-wevelgem-cyclo_10142.jpg)
 > Puis viennent les "Plugstreets", dernières difficultés du parcours.
 Depuis 2017, la course les emprunte afin de commémorer la Trêve de Noël de 1914. Ceux-ci comprennent trois secteurs à moitié goudronnés, d'une distance totale de 5 km. Les deux premiers sont légèrement ascendants et se trouvent en plaine. Ils risquent d'être décisifs pour les professionnels...
 > C'est dans le deuxième que Félix se retrouve à plat ! ( ou sur les clous ! )

@@ -2,7 +2,7 @@
 layout: post
 title:  "Les Six Heures du Pas de Calais"
 date:   2015-07-01 21:56:19 +0100
-image: /assets/images/24h-de-la-ligue-contre-le-cancer-lille/112.jpg
+image: /assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_112.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jsVhwqqKMls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

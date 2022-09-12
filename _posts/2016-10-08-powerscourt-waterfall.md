@@ -8,7 +8,7 @@ image: /assets/images/powerscourt-waterfall/powerscourt-waterfall_2908.jpg
 Arrivé depuis environ un mois maintenant à Dublin et toujours pas de vélo !
 Pas de vélo si on oublie une sortie rapide un matin qui fut écourtée par deux crevaisons. Pas de temps à cause de quelques sessions de kite surf sur la plage de Dollymount.
 
-![](/assets/images/powerscourt-waterfall/2910.jpg)
+![](/assets/images/powerscourt-waterfall/powerscourt-waterfall_2910.jpg)
 
 
 <div class="gallery-box">
@@ -65,7 +65,7 @@ Après le contrôle du ticket acheté la veille sur le site web de Powerscourt W
 </div>
 </div>
 
-![](/assets/images/powerscourt-waterfall/2882.jpg)
+![](/assets/images/powerscourt-waterfall/powerscourt-waterfall_2882.jpg)
 
 ### Un retour difficile
 Après avoir traversé la forêt, je rejoins la nationale pour un retour au plus court vers Dublin. Itinéraire calculé à l'aide de Garmin ... Au plus court, mais pas avec le moins de dénivelé. Le retour aura raison de moi. J'aurais dû suivre l'itinéraire plus long longeant la côte, il y aurait eu moins de dénivelé !
@@ -76,7 +76,7 @@ Après avoir traversé la forêt, je rejoins la nationale pour un retour au plus
 </div>
 </div>
 
-![](/assets/images/powerscourt-waterfall/3540.jpg)
+![](/assets/images/powerscourt-waterfall/powerscourt-waterfall_3540.jpg)
 A refaire à la Toussaint en compagnie de Philippe. La réputation de la cascade "Powerscourt Waterfall" est bien méritée !
 
 <center><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1140534352/embed/90cb4a4345cd0bf6ce8bc9bc6fd5700702c04f38'></iframe></center>

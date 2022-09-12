@@ -55,7 +55,7 @@ Il me faut encore traverser la capitale pour atteindre le village expo de Paris-
 En effet je suis attendu par Pascale, la marraine d’Isa, et Claude à Varennes-Jarcy.
 Ils ont gentiment accepté de m’héberger pour la nuit.
 
-![](/assets/images/paris-versailles/3584.jpg)
+![](/assets/images/paris-versailles/paris-versailles_3584.jpg)
 
 Je suis accueilli comme un pacha et je fais le plein de succulents spaghettis à la bolognaise.
 Après une bonne nuit, je suis en forme pour aller courir cette Paris-Versailles.
@@ -96,7 +96,7 @@ Après la traversée de la forêt, la récompense du château de Versailles appa
 
 <center><iframe src="https://www.strava.com/activities/402507713/embed/45d1fefb6ac497012f159a6637d75b7d26da9461" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Paris-Versailles terminée, je ne résiste pas à un peu de tourisme autour du château.
 
-![](/assets/images/paris-versailles/3585.jpg)
+![](/assets/images/paris-versailles/paris-versailles_3585.jpg)
 
 <div class="gallery-box">
   <div class="gallery">

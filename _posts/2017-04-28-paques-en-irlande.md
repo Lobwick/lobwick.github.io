@@ -62,13 +62,13 @@ Une fois accompli le tour de cette presqu’île, la piste cyclable est récupé
 
 <center><iframe src="https://www.strava.com/activities/943554626/embed/bd47d789402678ef410f2510e3238917ca4695bf" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-![lac principal](/assets/images/paques-en-irlande/4946.jpg)
+![lac principal](/assets/images/paques-en-irlande/paques-en-irlande_4946.jpg)
 Finalement, cette mini expérience de bivouac est une réussite qu'il faudra simplement prolonger de quelques jours avant le mois d'août.
 >  Mais le principal est de passer de bonnes vacances irlandaises dans des endroits inhabituels en compagnie de Félix.
 
 <center><iframe src="https://www.strava.com/activities/947769765/embed/760b18f075659daebfb3b89c8d83dfc044e6879c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 
-![Le grand bleu](/assets/images/paques-en-irlande/4869.jpg)
+![Le grand bleu](/assets/images/paques-en-irlande/paques-en-irlande_4869.jpg)
 
 ## Wicklow
 Encore un projet inabouti de ces vacances automnales par manque de temps. Wicklow et ses lacs, au sein d'un parc national montagneux, est le site incontournable de la région dublinoise , à seulement quelques dizaines de kilomètres de la capitale.

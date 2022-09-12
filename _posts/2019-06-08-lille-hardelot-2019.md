@@ -62,7 +62,7 @@ Toujours cet itinéraire varié et moins monotone que les années précédentes.
 </div>
 Dernier ravitaillement à Samer, connue pour ses fraises, qui hélas ne sont pas prévues au menu.
 
-![Mont de la Calique](/assets/images/lille-hardelot-2019/10343.jpg)
+![Mont de la Calique](/assets/images/lille-hardelot-2019/lille-hardelot-2019_10343.jpg)
 > Un Lille-Hardelot ne peut pas se terminer sans l'ascension du Haut Pichot à 177 m.
 Ce kilomètre à 11 % est fatidique pour certains en cette fin de parcours !
 Ils doivent se résigner à mettre pied à terre comme en montagne.

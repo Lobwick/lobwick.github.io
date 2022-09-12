@@ -2,7 +2,7 @@
 layout: post
 title:  "Rapha Festive 500 Father"
 date:   2016-01-10 11:21:53 +0100
-image: /assets/images/rapha-festive-500-father/1063.jpg
+image: /assets/images/rapha-festive-500-father/rapha-festive-500-father_1063.jpg
 ---
 > Que faire entre les fêtes ? Participer au Rapha Festive 500 !
 500 étant le nombre de kilomètres à effectuer entre Noël et le Nouvel An.

@@ -54,7 +54,7 @@ Fort heureusement, ils sont espacés de quelques bois et de nombreux champs où 
 </div>
 </div>
 
-![](/assets/images/world-championship-ronse-88-x-rcc/11428.jpg)
+![](/assets/images/world-championship-ronse-88-x-rcc/world-championship-ronse-88-x-rcc_11428.jpg)
 En tournant dans le sens inverse des aiguilles d'une montre, celui-ci favorise notre progression à l'aller.
 Quelques pavés inoffensifs sont à signaler mais j'ai diminué la pression des pneus à 5 bars afin d'épargner Victoire.
 Le ciel s'est bien dégagé avec une hausse du thermomètre mais il faut lutter contre Eole toujours sensible.
