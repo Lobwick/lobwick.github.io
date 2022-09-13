@@ -130,7 +130,7 @@ Une fois arrivée à La Tranche sur Mer, c’est occasion de passer du temps en 
 </div>
 </div>
 
-Mais aussi de profiter des vagues de la plage du phare avec [Pierry Bouche](http://www.imagedimagepro.fr), photographe et shapper, à La Tranche sur Mer.
+Mais aussi de profiter des vagues de la plage du phare avec Pierry Bouche, photographe et shapper, à La Tranche sur Mer.
 Vacances pour moi mais pas pour Philippe qui reprend la route pour un [Tour de France]({% post_url 2015-08-29-tour-de-france %}).
 
 <div class="gallery-box">

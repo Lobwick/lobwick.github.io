@@ -38,17 +38,7 @@ Tout le monde s'élance vers huit heures comme prévu par le club dans une bonne
 Le début de ce parcours est assez roulant jusqu'au premier ravitaillement.
 Pour l'instant il crachine légèrement et nous ne sommes éclaboussés que par de nombreuses flaques d'eau des pluies de la veille.
 Il ferait presque doux en ce début de journée.
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/raid-roc-dopale/raid-roc-dopale_9699.jpg" title="" alt="Processed with VSCO with acg preset" >
-<img src="/assets/images/raid-roc-dopale/raid-roc-dopale_9700.jpg" title="Encore propre ..." alt="Processed with VSCO with acg preset" >
-<img src="/assets/images/raid-roc-dopale/raid-roc-dopale_9701.jpg" title="" alt="Processed with VSCO with acg preset" >
-<img src="/assets/images/raid-roc-dopale/raid-roc-dopale_9702.jpg" title="Repos des montures ..." alt="Processed with VSCO with acg preset" >
-<img src="/assets/images/raid-roc-dopale/raid-roc-dopale_9703.jpg" title="Encore reconnaissables !" alt="Processed with VSCO with acg preset" >
-<img src="/assets/images/raid-roc-dopale/raid-roc-dopale_9714.jpg" title="Réconfort du saucisson !" alt="Processed with VSCO with acg preset" >
-<img src="/assets/images/raid-roc-dopale/raid-roc-dopale_9717.jpg" title="1 er ravito" alt="Processed with VSCO with acg preset" >
-</div>
-</div>
+
 Le premier ravito est à l'image du petit déjeuner, avec même des minis saucissons ...
 Ils sont appréciables pour le moral car la dépression s'abat sur nous comme prévue !
 La forêt domaniale de Guînes va essayer de nous mettre à l'abri.

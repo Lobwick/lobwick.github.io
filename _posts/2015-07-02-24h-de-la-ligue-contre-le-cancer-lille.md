@@ -16,14 +16,14 @@ Tout en slalomant entre les poussettes, on finit par trouver son rythme sur cett
 Un peu de bousculade à la remise des jetons et c’est reparti pour un tour après un ravitaillement raisonnable.
 
 Avec la nuit, le circuit se vide pour laisser place à la souffrance dans la solitude de la nuit.
-Heureusement, il y a toujours un membre de [RunCrew59](http://www.runcrew59.fr) pour me réconforter en m’accompagnant quelques tours afin de discuter.
+Heureusement, il y a toujours un membre du RunCrew59 pour me réconforter en m’accompagnant quelques tours afin de discuter.
 Et voilà que le GPS demande à se recharger en pleine nuit alors que le bonhomme est prêt à continuer.
 Cette demi-heure de repos fut fatidique avec l’accumulation d’acide lactique à la reprise.
 
 ## Prochaine étape : 100km
 Le double marathon étant atteint à mi-épreuve, le défi suivant consistait à atteindre les 100 km
 Hélas, impossible de remettre la machine en route et il fallut se résoudre à continuer en marchant plus ou moins rapidement.
-Ce sont surtout les encouragements des membres du [RunCrew59](http://www.runcrew59.fr) qui m’ont incité à ne pas renoncer.
+Ce sont surtout les encouragements des membres du RunCrew59 qui m’ont incité à ne pas renoncer.
 > Encore merci pour ce réconfort si précieux !
 Péniblement, mais sûrement, la distance des 100 km fut atteinte au bout de 22 h.
 Impossible d’effectuer un pas de plus au risque de se blesser gravement malgré les efforts des indispensables ostéopathes.

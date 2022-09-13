@@ -2,7 +2,7 @@
 layout: post
 title:  "Les Six Heures du Pas de Calais"
 date:   2015-07-01 21:56:19 +0100
-image: /assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_112.jpg
+image: /assets/images/les-six-heures-du-pas-de-calais/les-six-heures-du-pas-de-calais_112.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jsVhwqqKMls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -14,11 +14,11 @@ Une soirée camping passé durant la course avec Emile et Sélim avant une journ
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_109.jpg" title="" alt="2015_05_08 6heures_01" >
-<img src="/assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_110.jpg" title="" alt="2015_05_08 6heures_02" >
-<img src="/assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_111.jpg" title="" alt="Les 6 heures du Pas-de-Calais 2015" >
-<img src="/assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_113.jpg" title="" alt="Les 6 heures du Pas-de-Calais 2015" >
-<img src="/assets/images/24h-de-la-ligue-contre-le-cancer-lille/24h-de-la-ligue-contre-le-cancer-lille_114.jpg" title="" alt="Les 6 heures du Pas-de-Calais 2015" >
+<img src="/assets/images/les-six-heures-du-pas-de-calais/les-six-heures-du-pas-de-calais_109.jpg" title="" alt="2015_05_08 6heures_01" >
+<img src="/assets/images/les-six-heures-du-pas-de-calais/les-six-heures-du-pas-de-calais_110.jpg" title="" alt="2015_05_08 6heures_02" >
+<img src="/assets/images/les-six-heures-du-pas-de-calais/les-six-heures-du-pas-de-calais_111.jpg" title="" alt="Les 6 heures du Pas-de-Calais 2015" >
+<img src="/assets/images/les-six-heures-du-pas-de-calais/les-six-heures-du-pas-de-calais_113.jpg" title="" alt="Les 6 heures du Pas-de-Calais 2015" >
+<img src="/assets/images/les-six-heures-du-pas-de-calais/les-six-heures-du-pas-de-calais_114.jpg" title="" alt="Les 6 heures du Pas-de-Calais 2015" >
 </div>
 </div>
 

@@ -33,7 +33,6 @@ Cet évènement étant gratuit, les organisateurs poussent l'ensemble des partic
 		<img src="/assets/images/nwc_2020/nwc_2020_12918.jpg"  alt="Nicolas Werner Challenge 2020" >
 		<img src="/assets/images/nwc_2020/nwc_2020_12918.jpg"  alt="Nicolas Werner Challenge 2020" >
 	  </div>
-  <!--> My best moments / <a href="https://www.pexels.com/" target="_blank">Pexels</a>-->
 </div>
 
 Le samedi 12 septembre, tous les participants ont rendez-vous devant le magasin de cycles le KM0, à proximité de l’Arc de Triomphe.
@@ -143,7 +142,7 @@ A la sortie de cette dernière, le groupe est étonné de longer un ancien rail 
 Nous découvrons un peu plus loin qu’il s’agit de l’ancien projet de l’aérotrain d’Orléans traversant une partie du Loiret.
 
 ![nwc_2020_12829](/assets/images/nwc_2020/nwc_2020_12829.jpg)
-![nwc_2020_12848](/assets/images/nwc_2020/nwc_2020_12848.jpgAérotrain"")
+![nwc_2020_12848](/assets/images/nwc_2020/nwc_2020_12848.jpg)
 ![nwc_2020_12849](/assets/images/nwc_2020/nwc_2020_12849.jpg)
 
 Il faut ensuite contourner le centre d’étude nucléaire de Saclay où mes parents ont commencé à travailler.

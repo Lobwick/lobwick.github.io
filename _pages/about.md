@@ -15,10 +15,10 @@ Le diabète du fils ne le freinant pas pour évoluer dans des sports d’enduran
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/contact/contact_1.jpg" title="La Tranche sur Mer 2012" >
-<img src="/assets/images/contact/contact_2.jpg" title="Val d'Isère 2015" >
-<img src="/assets/images/contact/contact_3.jpg" title="Val d'Isère 2015" >
-<img src="/assets/images/contact/contact_4.jpg"  title="Val d'Isère 2012" >
+<img src="/assets/images/contact/contact_1.jpg" title="La Tranche sur Mer 2012" alt="Contact">
+<img src="/assets/images/contact/contact_2.jpg" title="Val d'Isère 2015" alt="Contact" >
+<img src="/assets/images/contact/contact_3.jpg" title="Val d'Isère 2015"  alt="Contact">
+<img src="/assets/images/contact/contact_4.jpg"  title="Val d'Isère 2012" alt="Contact" >
 </div>
 </div>
 
@@ -29,10 +29,10 @@ Félix rejoint l’équipe de cyclisme Novo Nordisk afin de montrer que le [diab
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/contact/contact_5.jpg"  title="Avant le départ de Paris-Roubaix" >
-<img src="/assets/images/contact/contact_6.jpg"  title="Paris-Roubaix" >
-<img src="/assets/images/contact/contact_7.jpg"  title="6h du Pas de Calais" >
-<img src="/assets/images/contact/contact_8.jpg"  title="Paris Roubaix" >
+<img src="/assets/images/contact/contact_5.jpg"  title="Avant le départ de Paris-Roubaix"  alt="Contact">
+<img src="/assets/images/contact/contact_6.jpg"  title="Paris-Roubaix" alt="Contact" >
+<img src="/assets/images/contact/contact_7.jpg"  title="6h du Pas de Calais"  alt="Contact">
+<img src="/assets/images/contact/contact_8.jpg"  title="Paris Roubaix" alt="Contact" >
 </div>
 </div>
 
@@ -50,10 +50,10 @@ Par conséquent, Les Moulins, Père et Fils, vous convient à suivre toutes leur
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/contact/contact_9.jpg"  title="Marathon de Paris 2015" >
-<img src="/assets/images/contact/contact_10.jpg"  title="10K Route du Louvre 2015" >
-<img src="/assets/images/contact/contact_11.jpg"  title="Semi de Paris 2016" >
-<img src="/assets/images/contact/contact_12.jpg"  title="Marathon de Paris 2015" >
+<img src="/assets/images/contact/contact_9.jpg"  title="Marathon de Paris 2015"  alt="Contact">
+<img src="/assets/images/contact/contact_10.jpg"  title="10K Route du Louvre 2015"  alt="Contact">
+<img src="/assets/images/contact/contact_11.jpg"  title="Semi de Paris 2016" alt="Contact" >
+<img src="/assets/images/contact/contact_12.jpg"  title="Marathon de Paris 2015"  alt="Contact">
 </div>
 </div>
 

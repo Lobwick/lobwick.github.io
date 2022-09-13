@@ -61,28 +61,6 @@ Après une bonne ascension pour le contourner, je peux profiter de sa tour panor
 Je vais ensuite rouler sur le barrage pour compléter les photos, avec un ciel qui se dégage.
 Hélas, pas le temps de faire le tour du lac complètement ...
 
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9362.jpg" title="" alt="ik1cdXqDRg2xHQapdUtXpA" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9363.jpg" title="" alt="GMcrwSDNSYaDskn9LtV6XQ" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9364.jpg" title="" alt="2ffDo5pFRb2fP%SmUSK5sw" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9368.jpg" title="Lion des Belges" alt="HmBOzJ0xToKQKnY62unBEw" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9369.jpg" title="Pas l'heure !" alt="S5%QA1g%R0e3wZ1bfoYwMQ" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9370.jpg" title="" alt="XSNqrFiNSOmRNtLx9Ow52w" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9372.jpg" title="" alt="phX00Q424UbwOIuYzTg" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9375.jpg" title="" alt="keS%nUg3Tmm+Wd5s9MoyFA" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9386.jpg" title="" alt="fullsizeoutput_4a9" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9387.jpg" title="" alt="fullsizeoutput_4a7" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9388.jpg" title="" alt="fullsizeoutput_49c" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9389.jpg" title="" alt="fullsizeoutput_4a5" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9390.jpg" title="" alt="fullsizeoutput_4a6" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9391.jpg" title="" alt="fullsizeoutput_49e" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9392.jpg" title="" alt="fullsizeoutput_4a3" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9393.jpg" title="" alt="fullsizeoutput_4b1" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9395.jpg" title="" alt="fullsizeoutput_4a2" >
-</div>
-</div>
-
 Le lac d'Eupen m'attend, avant de me rapprocher de l'Allemagne.
 > Je vais aussi retrouver les difficultés dans ma deuxième langue scolaire !
 On ne rencontre personne, à part quelques " hgnistes " ,en traversant ensuite une vaste zone naturelle protégée.
@@ -112,25 +90,6 @@ C'est vraiment une petite bourgade à ne pas manquer, typique de la région, un 
 jusque là.   
 Je vais pouvoir goûter avec le fameux pain allemand, surtout qu'à partir de 18 h tout ferme dans ce pays.
 Pas besoin de montre car les touristes que je suis, se sont volatilisés !
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9412.jpg" title="" alt="fullsizeoutput_4c9" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9413.jpg" title="Montjoie" alt="fullsizeoutput_4ca" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9414.jpg" title="" alt="fullsizeoutput_4cb" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9415.jpg" title="" alt="fullsizeoutput_4ce" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9416.jpg" title="Dédié à Victoire" alt="fullsizeoutput_4cd" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9417.jpg" title="" alt="fullsizeoutput_4cf" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9418.jpg" title="" alt="fullsizeoutput_4d1" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9419.jpg" title="Sous bonne garde !" alt="fullsizeoutput_4d2" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9420.jpg" title="" alt="fullsizeoutput_4d3" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9421.jpg" title="" alt="fullsizeoutput_4d4" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9422.jpg" title="Goûter allemand" alt="fullsizeoutput_4d5" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9423.jpg" title="" alt="fullsizeoutput_4d6" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9424.jpg" title="" alt="fullsizeoutput_4d8" >
-<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9425.jpg" title="Au feu !" alt="fullsizeoutput_4d7" >
-</div>
-</div>
 
 Problème d'itinéraire car je dois traverser la forêt sur un chemin sinueux de vttistes.
 > Victoire n'y résisterait pas et je préfère l'épargner !

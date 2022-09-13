@@ -21,7 +21,6 @@ Une chose est sure, nous ne souffrirons pas de la chaleur !
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13714.jpg" title="Les partenaires" alt="7CCD6440-4205-4243-93EA-92B8C1B6C51E" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13718.jpg" title="Encore plus long que l’année dernière !" alt="9BBF3880-396B-44E0-A563-C1912097EB91" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13721.jpg" title="" alt="23A626DA-C995-4431-A79D-75C7DB20407A" >
-<img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13747.jpg" title="" alt="06011B86-3E53-4FC2-BF78-08D9AC9A99C2" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13770.jpg" title="Briefing …" alt="AA399FB0-AFCD-4F30-9A84-9093F1037D98" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13794.jpg" title="" alt="DCBCAD35-375D-4029-8F02-0EF355A7DF1D" >
 </div>
@@ -49,7 +48,6 @@ Il faudra tenir jusqu’au Decathlon de Longuenesse…
   <div class="gallery">
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13693.jpg" title="" alt="2D0B2F93-AE10-4E31-B121-EB8C8134372B" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13705.jpg" title="" alt="05EBEEBD-D2AA-4BEA-9049-F58C27083FC5" >
-<img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13719.jpg" title="nous ravitaille …" alt="9FF46737-1108-4ABB-8BDD-AF6E7A5E4522" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13726.jpg" title="" alt="55DADBBE-123F-403A-B046-47CA272D29F7" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13727.jpg" title="Ludovic" alt="61FD38D5-4A07-41FA-9702-AA68593A56F9" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13728.jpg" title="" alt="69D3AE32-F63E-4589-AA61-5C3EED519424" >
@@ -114,11 +112,9 @@ Heureusement la pluie a cessé en début de soirée !
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13758.jpg" title="" alt="59576953-A58C-4E31-B509-173691E937DC" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13762.jpg" title="Puis à nouveau Félix !" alt="A2D6F242-4489-4515-AE8B-FBFC2E440A1A" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13763.jpg" title="Camping d’Equirre" alt="A5E96098-A085-4365-B3F9-826A5B841700" >
-<img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13764.jpg" title="" alt="A7C4D90F-7D1E-473F-BACE-591EB2749FAC" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13768.jpg" title="" alt="A6311463-186A-445D-A7A1-8FB26A6472E4" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13772.jpg" title="" alt="B0DAB62C-B227-4382-9934-8AA975D452ED" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13782.jpg" title="" alt="C90C5A2A-0542-46F1-9D33-DC0964F8A822" >
-<img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13796.jpg" title="" alt="DFDBD4D1-A0CD-4F75-8C2C-145CEEFC9DCC" >
 </div>
 </div>
 
@@ -136,7 +132,6 @@ La première journée en gravel boueux de presque 200 km et ses 2000 m de déniv
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13691.jpg" title="Grand nettoyage !" alt="1FC4AE2D-AEB8-4A9D-8185-F178423F4F5B" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13692.jpg" title="" alt="2A4C8521-2F09-424D-92C0-7EE4A531B955" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13694.jpg" title="" alt="2D67DA12-5CDA-42CD-B6D0-3A648A46333B" >
-<img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13698.jpg" title="" alt="3D81174C-1AE8-4F6D-A064-42BFF4BE6FE3" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13706.jpg" title="" alt="5EC61D0F-4477-4C33-9ACE-08281000EB22" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13707.jpg" title="" alt="6B22F98A-C8AD-4046-A6C6-9AF84DA062B7" >
 <img src="/assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13716.jpg" title="" alt="7FC9D131-9023-437F-9688-9E7B80D1862F" >

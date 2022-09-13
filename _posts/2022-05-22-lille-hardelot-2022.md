@@ -30,11 +30,11 @@ Il va nous conduire à travers les Weppes jusqu’au premier ravitaillement de M
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_2.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_3.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_4.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_5.jpg"  >
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_6.jpg"  >
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_2.jpg"  >
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_3.jpg"  >
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_4.jpg"  >
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_5.jpg"  >
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_6.jpg"  >
 </div>
 </div>
 
@@ -46,10 +46,10 @@ Mais il est appréciable car on est à mi-distance après 80 km.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_7.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_8.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_9.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_10.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_7.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_8.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_9.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_10.jpg">
 </div>
 </div>
 
@@ -60,9 +60,9 @@ Heureusement que le ravitaillement de Licques est prévu à ce stade de l’itin
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_11.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_12.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_13.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_11.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_12.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_13.jpg">
 </div>
 </div>
 
@@ -75,10 +75,10 @@ Parmi les nouveautés de cette édition, nous nous rapprochons de Boulogne.
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_15.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_16.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_17.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_18.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_15.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_16.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_17.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_18.jpg">
 </div>
 </div>
 
@@ -94,12 +94,12 @@ Le final dans les rues de cette station balnéaire est forcément en pente favor
 
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_19.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_20.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_21.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_22.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_23.jpg">
-<img src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_24.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_19.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_20.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_21.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_22.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_23.jpg">
+<img alt="lille hardelot 2022"  src="/assets/images/lille-hardelot-2022/lille-hardelot-2022_24.jpg">
 </div>
 </div>
 
