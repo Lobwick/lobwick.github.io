@@ -36,11 +36,3 @@ jobs:
         uses: chabad360/htmlproofer@v1.1
         with:
           directory: ${{ github.workspace }}/_site
-          arguments: --assume-extension --external_only --internal-domains privacyguides.org,www.privacyguides.org --timeframe 30d --url-ignore '/https:\/\/developers\.cloudflare\.com\//,/https:\/\/github\.com\/privacyguides\/privacyguides\.org\/(edit|tree|blob)\/main/'
-
-     
-
-      - uses: actions/upload-pages-artifact@v0
-        with:
-          path: ./_site
-          retention-days: 1
