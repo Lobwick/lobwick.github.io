@@ -71,7 +71,7 @@ En étudiant la carte, j’espère passer par Bruxelles que j’avais volontaire
 </div>
 
 > Mais après 24 h je ne suis pas rendu.
-3581
+![](/assets/images/eindhoven-en-24h/eindhoven-en-24h_3581.jpg)
 La navigation traditionnelle est moins efficace par manque d’habitude. L’orage menace et contrairement à l’aller les kilomètres semblent interminables avec en plus un vent défavorable pour ne rien arranger.
 
 Même le deuxième GPS compteur ne me donne plus d’informations à partir de Ronse.

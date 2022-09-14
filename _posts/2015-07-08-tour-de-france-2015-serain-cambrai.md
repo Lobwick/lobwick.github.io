@@ -49,10 +49,17 @@ Une dizaine de minutes plus tard, le peloton débarque sur le pont de Namur et a
 
 Normalement, il était prévu de rejoindre le Tour au niveau des secteurs pavés, Emblèmes du Nord-Pas-de-Calais, mais également de cette étape du Tour. Mais ceci était sans compter les routes bloquées pour le passage du Tour.
 Nous nous sommes donc mis directement en route vers l’arrivée de cette étape à Cambrai.
-Une arrivée plus que juste afin de se positionner derrière la ligne d’arrivée et d’assister à la victoire de Tony Martin. Ce dernier a réalisé un exploit sur cette étape en la remportant sur le vélo d’un de ses coéquipiers suite à un problème technique. Il fut
-suivi par John Degenkolb, Peter Sagan, Greg Van Avermaet et Edvald Boasson Hagen.
-189,190,191
+Une arrivée plus que juste afin de se positionner derrière la ligne d’arrivée et d’assister à la victoire de Tony Martin. Ce dernier a réalisé un exploit sur cette étape en la remportant sur le vélo d’un de ses coéquipiers suite à un problème technique. Il fut suivi par John Degenkolb, Peter Sagan, Greg Van Avermaet et Edvald Boasson Hagen.
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_189.jpg" title="Victoire de Tony Martin" alt="2015_07_07 TDF_canon_01" >
+<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_190.jpg" title="Arrivée de la tête de course" alt="2015_07_07 TDF_canon_02" >
+<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_191.jpg" title="Oleg Tinkov et Félix" alt="2015_07_07 TDF_canon_03" >
+</div>
+</div>
+
 On a fini la journée en beauté dans les paddocks avec notamment la rencontre du fondateur de Saxo Tinkoff, Oleg Tinkov.
+
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_192.jpg" title="" alt="2015_07_07 TDF_canon_01" >

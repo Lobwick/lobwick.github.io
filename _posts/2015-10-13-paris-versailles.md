@@ -101,8 +101,8 @@ Après la traversée de la forêt, la récompense du château de Versailles appa
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/paris-versailles/paris-versailles_925.jpg" title="" alt="Paris-Versailles" >
-<img src="/assets/images/paris-versailles/paris-versailles_926.jpg" title="Le " roi " de Paris-Versailles" alt="Paris-Versailles" >
-<img src="/assets/images/paris-versailles/paris-versailles_927.jpg" title="Le " vrai "" alt="Paris-Versailles" >
+<img src="/assets/images/paris-versailles/paris-versailles_926.jpg" title="Le roi  de Paris-Versailles" alt="Paris-Versailles" >
+<img src="/assets/images/paris-versailles/paris-versailles_927.jpg" title="Le vrai"  alt="Paris-Versailles" >
 <img src="/assets/images/paris-versailles/paris-versailles_929.jpg" title="" alt="Paris-Versailles" >
 <img src="/assets/images/paris-versailles/paris-versailles_932.jpg" title="Que d'or !" alt="Paris-Versailles" >
 <img src="/assets/images/paris-versailles/paris-versailles_936.jpg" title="" alt="Paris-Versailles" >

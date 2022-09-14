@@ -98,4 +98,4 @@ Il ne restait plus qu’à longer la canal jusqu’à Brugge avant d’être de 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/6tSBDJdKX7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-<center><iframe src="https://www.strava.com/activities/335039442/embed/664f6c9d55b61b96db09fc6d2d0b4d392955796c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>Retrouver <a href="https://lightroom.adobe.com/shares/619b131c315c43b4a9823b47dcf6f818/albums/5459892365e229e3130f53a40a19b123">sur cette galerie</a> l'ensemble des photos de ce Week-end aux Pays-Bas.
+<center><iframe src="https://www.strava.com/activities/335039442/embed/664f6c9d55b61b96db09fc6d2d0b4d392955796c" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
