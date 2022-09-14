@@ -23,7 +23,14 @@ Profitant d’un bel après-midi ensoleillé, nous voilà partis en direction de
 </div>
 </div>
 Les larges pneus vont être appréciables, car c’est bien du cyclo-cross qui est au programme. On va voir comment se comporte le Victoire, si son propriétaire est à la hauteur !
-4846,4857,4853
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/paques-en-irlande/paques-en-irlande_4846.jpg" title="Partie roulante" alt="Pâques en Irlande" >
+<img src="/assets/images/paques-en-irlande/paques-en-irlande_4853.jpg" title="Jusqu'à la plage !" alt="Pâques en Irlande" >
+<img src="/assets/images/paques-en-irlande/paques-en-irlande_4857.jpg" title="Roubaix gravelbike" alt="Pâques en Irlande" >
+</div>
+</div>
+
 Certaines parties sont bien roulantes, mais attention à la chute, car ce n’est pas large ; d’autant plus qu’il faut croiser des randonneurs pas forcément charmés, même avec des « sorry » ! Nous sommes d’ailleurs aussi contraints de les imiter lors de phases de portage.
 <div class="gallery-box">
   <div class="gallery">

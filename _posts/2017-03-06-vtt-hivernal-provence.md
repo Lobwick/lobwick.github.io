@@ -25,7 +25,13 @@ Les premiers kilomètres sont agréables, mais voilà la première propriété p
 > Ce n’est pas un souci grâce au GPS, mais il me fait traverser une bergerie.
 Heureusement les chiens sont attachés, ce qui n’est pas le cas du berger qui me rattrape en 4x4.
 Après une mise au point, tout s’arrange !
-3989,3990,3996
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/vtt-hivernal-provence/vtt-hivernal-provence_3989.jpg" title="" alt="Vtt hivernal en Provence" >
+<img src="/assets/images/vtt-hivernal-provence/vtt-hivernal-provence_3990.jpg" title="Troupeau en déplacement" alt="Vtt hivernal en Provence" >
+<img src="/assets/images/vtt-hivernal-provence/vtt-hivernal-provence_3996.jpg" title="" alt="Vtt hivernal en Provence" >
+</div>
+</div>
 La voie est libre, mais mon itinéraire se perd dans les sous-bois qu’il me faut franchir en marchant.
 Après avoir traversé le village de Varages, perché sur une colline, le lac d’Esparron se rapproche.
 
