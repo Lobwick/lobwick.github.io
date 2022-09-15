@@ -162,11 +162,5 @@ Heureusement que le parking souterrain du C8 est à proximité car il faut encor
 ![nwc_2020_12853](/assets/images/nwc_2020/nwc_2020_12853.jpg)
 ![nwc_2020_12866](/assets/images/nwc_2020/nwc_2020_12866.jpg "En attente du retardataire")
 
-<center><iframe src="[https://www.komoot.fr/tour/256820498/embed?profile=1](https://www.komoot.fr/tour/256820498/embed?profile=1 "https://www.komoot.fr/tour/256820498/embed?profile=1") width="100%" height="680" frameborder="0" scrolling="no" data-mce-fragment="1">
-	<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></center>
 
 Rendez-vous l’année prochaine à la même époque, pour tenter d’améliorer la somme de 40 000 euros collectés lors de cette cinquième édition du NWC afin d’aider la recherche sur le cancer ...
-
-**Notre collecte va rester ouverte encore un petit moment, alors n'hésitez pas !**
-
-<center><iframe src="[https://www.okpal.com/projects/01EGBMSD5FE0SGM1FS98SA84JG/widget](https://www.okpal.com/projects/01EGBMSD5FE0SGM1FS98SA84JG/widget "https://www.okpal.com/projects/01EGBMSD5FE0SGM1FS98SA84JG/widget") width="230" height="300" frameborder="0" scrolling="no" data-mce-fragment="1"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></center>
