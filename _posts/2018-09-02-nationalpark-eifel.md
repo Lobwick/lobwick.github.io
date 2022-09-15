@@ -269,7 +269,20 @@ La troisième journée devait être orageuse mais la nuit étoilée a laissé pl
 Il suffit de quitter l'Emblève à Remouchamps, pour la retrouver plus tard dans la journée.
 Après avoir fait l'effort de me lever aux aurores, j'assiste incrédule à la dissipation des bancs de brume par le soleil levant.
 
-9504,9514,9506,9521,9507,9508,9509,9510,9522,9511
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9504.jpg" title="Autoroute E25" alt="fullsizeoutput_503" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9506.jpg" title="Que de bleu !" alt="fullsizeoutput_504" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9507.jpg" title="" alt="a0IHpYqAS7aURsxINgMd5w" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9508.jpg" title="Sur la paille !" alt="IMG_5734" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9509.jpg" title="Entre Ourthe et Emblève" alt="fullsizeoutput_505" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9510.jpg" title="" alt="uQmita9lTcqfQpIyJOvYPA" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9511.jpg" title="" alt="fullsizeoutput_507" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9514.jpg" title="" alt="fullsizeoutput_50b" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9521.jpg" title="" alt="fullsizeoutput_512" >
+<img src="/assets/images/nationalpark-eifel/nationalpark-eifel_9522.jpg" title="" alt="fullsizeoutput_511" >
+</div>
+</div>
 
 Après ces splendides vues de cartes postales, le petit déjeuner est prévu à Theux.
 C'est aussi une petite ville incontournable des Ardennes ...
