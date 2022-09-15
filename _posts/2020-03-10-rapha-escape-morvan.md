@@ -143,7 +143,7 @@ Nous retrouvons Charlie qui a été récupéré par Pascal. Ce dernier nous amus
 </div>
 <center><iframe src="https://www.strava.com/activities/3145679777/embed/7ee233e93d4808d82e04a15760a0cf3c39dc4f79" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-"![La fin d'une bell aventure ](/assets/images/rapha-escape-morvan/rapha-escape-morvan_12019.jpg)"
+![La fin d'une bell aventure ](/assets/images/rapha-escape-morvan/rapha-escape-morvan_12019.jpg)"
 Grâce aux toilettes de la gare nous enfilons des vêtements secs. Un rapide aller-retour au McDonald accompagnera la dernière bière du Morvan dans le train du retour.
 
 Une fois à Paris, Julien me propose d'attendre le train Paris-Lille chez lui.
