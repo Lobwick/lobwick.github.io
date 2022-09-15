@@ -76,7 +76,7 @@ Il a le mérite de rafraichir surtout les coureurs.
 > Nous rattrapons notre retard, en remontant les équipes, dont certaines se disputent !
 Ces confrontations directes augmentent notre motivation.
 Mais, après tous ces efforts, voilà à nouveau le village pour nous acclamer chaleureusement.
-> Ce premier Run &amp; Bike des Two Moulins se finira à la 10° place !
+> Ce premier Run & Bike des Two Moulins se finira à la 10° place !
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/run-and-bike-zuytpeene/run-and-bike-zuytpeene_8143.jpg" title="Retour de course" alt="Run and Bike de Zuytpeene" >
@@ -91,6 +91,6 @@ Mais, après tous ces efforts, voilà à nouveau le village pour nous acclamer c
 C'est le moment de récupérer avec une bonne pression bien fraîche et une gaufre artisanale cuite le matin par les organisateurs : goûter prévu dans l'inscription.
 Chargement du C8 en vrac et retour vers la métropole lilloise.
 La route est l'occasion de repenser à cette expérience enrichissante d'un point de vue sportif et familial.
-Il n'y a plus qu'à surveiller les prochains Run&amp;Bike pour être plus performants dans cette discipline conviviale.
+Il n'y a plus qu'à surveiller les prochains Run&Bike pour être plus performants dans cette discipline conviviale.
 
 <center><iframe src="https://www.strava.com/activities/1656926736/embed/1b8162a3bf7fbda5ba2ae5477c015a38373211f6" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>

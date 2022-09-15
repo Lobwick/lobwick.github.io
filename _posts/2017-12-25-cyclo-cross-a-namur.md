@@ -66,7 +66,7 @@ Nous sommes dans la forêt tout en surplombant la ville.
 </div>
 </div>
 
-> Vers 15 h les champions s’élancent, après s’être échauffés avant les fé<strong>minines.
+> Vers 15 h les champions s’élancent, après s’être échauffés avant les féminines.
 
 <div class="gallery-box">
   <div class="gallery">
