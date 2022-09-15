@@ -5,6 +5,7 @@ date:   2019-03-17 17:33:31 +0100
 image: /assets/images/cyclo-cross-a-coxyde/cyclo-cross-a-coxyde_10042.jpg
 ---
 > Koksijde est à mi-saison de cette coupe du monde.
+
 Celle-ci est généralement dominée par les Flamands !
 D'ailleurs, la majorité des étapes se répartissent entre la Belgique et les Pays-Bas.
 Heureusement, celle de Coxyde est à proximité de chez nous.
@@ -12,6 +13,7 @@ Heureusement, celle de Coxyde est à proximité de chez nous.
 Direction Dunkerque en cette fin novembre ...
 En effet l'étape est juste de l'autre côté de la frontière avec la Belgique.
 > Elle est justement réputée pour son circuit vallonné dans les dunes !
+
 Les places de stationnement ne manquent pas car on peut se garer sur un aérodrome.
 Manu, bossant avec Félix chez Decath, nous accompagne.
 
@@ -27,6 +29,7 @@ L'hiver est en avance et on s'est couvert au maximum.
 Il en est ainsi chaque année et c'est parfait pour le cyclo-cross !
 
 > La course Elites Hommes va s'élancer...
+
 Juste le temps pour notre trio de dénicher l'endroit stratégique du parcours.
 Nous sommes placés au sommet d'une dune, au niveau d'une caméra de télévision.
 
@@ -43,6 +46,7 @@ Nous sommes placés au sommet d'une dune, au niveau d'une caméra de télévisio
 Le peloton encore réuni passe pour la première fois.
 
 > Certaines portions techniques obligent les coureurs à porter leur vélo en montant !
+
 Surtout que le circuit s'est étendu encore plus dans les dunes pour cette édition 2018.
 Ils descendent ensuite précautionneusement avec parfois un pied à terre au cas où ...
 
@@ -65,6 +69,7 @@ Les trajectoires creusent des sillons dans le sable des dunes, handicapant les p
 Il est temps pour nous de parcourir le circuit pour profiter d'autres passages intéressants.
 D'autant plus que les sautillements ne parviennent pas à nous réchauffer, si ce n'est s'enfoncer dans le sable !
 > Pas évident de se faufiler parmi la foule dense d'imposant flamands...
+
 Heureusement qu'il y a les arbres !
 
 <div class="gallery-box">
@@ -99,4 +104,5 @@ Après quelques tours et une heure de course, ils en finissent.
 </div>
 
 > Nous aussi car le froid nous paralyse !
+
 C'est finalement aussi du sport de les suivre...

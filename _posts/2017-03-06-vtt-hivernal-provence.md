@@ -7,6 +7,7 @@ image: /assets/images/vtt-hivernal-provence/vtt-hivernal-provence_3993.jpg
 Après avoir été convaincu l’année dernière de l’intérêt de rouler avec mon VTT, je le transporte à nouveau en TGV.
 À l’occasion de ces congés, de nouveaux itinéraires sont prévus autour d’Aix-en-Provence.
 > Seule la technique change, puisque je les trace maintenant par satellite.
+
 De cette façon je repère plus facilement les chemins DFCI permettant aux pompiers d’intervenir rapidement en cas d’incendie à travers les différents massifs montagneux.
 Bien entendu, il y aura quand même les classiques contournements de domaines privés ou secteurs militaires non repérables vu du ciel ni sur Garmin.
 Je compte aussi toujours sur le Scenic des parents qui permet d’atteindre les points de départ des parcours éloignés d’Aix.
@@ -23,6 +24,7 @@ Il y a aussi les pentes sur des chemins caillouteux qui coupent vite le souffle.
 Les premiers kilomètres sont agréables, mais voilà la première propriété privée à contourner.
 
 > Ce n’est pas un souci grâce au GPS, mais il me fait traverser une bergerie.
+
 Heureusement les chiens sont attachés, ce qui n’est pas le cas du berger qui me rattrape en 4x4.
 Après une mise au point, tout s’arrange !
 <div class="gallery-box">
@@ -36,6 +38,7 @@ La voie est libre, mais mon itinéraire se perd dans les sous-bois qu’il me fa
 Après avoir traversé le village de Varages, perché sur une colline, le lac d’Esparron se rapproche.
 
 > Je le savais inaccessible, mais à ce point là !
+
 C’est finalement au bout d’un sentier de plus en plus étroit que j’entrevois cette forme bleutée.
 Impossible de distinguer son barrage.
 <div class="gallery-box">
@@ -61,6 +64,7 @@ Mais je parviens quand même à retrouver Rians à la nuit tombée.
 Après une telle dose de VTT, passons à la rando.
 C’est l’occasion d’être avec mes parents pour terminer ce séjour provençal.
 > L’appel des calanques est irrésistible avec le temps presque printanier
+
 D’autant plus qu’ils ne se sont encore jamais aventurés jusqu’au Cap Morgiou.
 En cette période hivernale, la route menant à la calanque de Sormiou est ouverte à la circulation.
 
@@ -78,6 +82,7 @@ Nous allons pouvoir commencer à marcher à partir du Col du même nom.
 Ce qui va permettre de longer la crête tout en rejoignant en partie le GR 98.
 Le point de vue est magnifique, car elle sépare les deux calanques de Sormiou et Morgiou.
 > Mais il va falloir redescendre au niveau de la mer pour atteindre le cap.
+
 Pas facile sur un chemin où les cailloux se dérobent sous nos pieds.
 D’autres promeneurs rencontrés en chemin y ont renoncé.
 
@@ -114,6 +119,7 @@ Ce sera pour cet été, car la pénible descente est à gravir.
 Un peu plus loin, mes parents me proposent de bifurquer en solo vers la calanque de Sormiou.
 Ils la connaissent par cœur et on se rejoindra au niveau du col de départ.
 > Je passe donc en mode trail, en me laissant descendre jusqu’à cette eau turquoise.
+
 Quelques Marseillais savourent la tranquillité du lieu, pendant que je photographie le cadre d’un feuilleton policier tourné avec Alain Delon.
 
 <div class="gallery-box">
@@ -134,6 +140,7 @@ Pour les prochaines de printemps à Pâques,  j’espère traverser l’Angleter
 ## La Sainte Baume
 Encore une Sainte que je pensais avoir parcouru l’année dernière, mais je m’étais trompé de massif.
 > Cette fois, ci je l’ai bien repérée par satellite.
+
 C’est un peu l’équivalent géologique de la Sainte Victoire, mais orienté différemment.
 L’objectif est de pouvoir rouler jusqu’à son point le plus élevé dans la mesure du possible et de la contourner ensuite, par l’est et dans le sens inverse des aiguilles d’une montre.
 
@@ -141,6 +148,7 @@ L’objectif est de pouvoir rouler jusqu’à son point le plus élevé dans la 
 Cela commence à Gémenos, proche d’Aubagne, en ce dimanche très ensoleillé.
 
 > Le massif est impressionnant au départ du DFCI, car je suis confronté à de la montagne.
+
 Pas le temps de s’échauffer, car la pente avoisine les 15 % et je suis sur le plus petit développement.
 Cette première montée semble interminable, mais je prends mon mal en patience, étant confiant dans ma condition physique.
 Un col approche et je vais pouvoir souffler un peu sur une portion de route bitumée.
@@ -158,6 +166,7 @@ Il va falloir mouliner à nouveau.
 L’ascension finale est facilitée par une route, mais elle se termine par une zone militaire qui occupe en partie les hauteurs de la Sainte Baume.
 On y trouve des émetteurs de l’armée de l’air et le centre de contrôle de la Délégation générale de l’Aviation civile sur le Pic de Bertagne.
 > Mais je suis rassuré en croisant d’autres vttistes et des traileurs.
+
 Comme pour la Sainte Victoire, impossible de continuer à rouler sur la crête, car c’est un GR.
 L’étape suivante est la grotte de Sainte-Marie-Madeleine en contrebas de la falaise.
 Marie-Madeleine fut la première témoin de la résurrection du Christ.
@@ -186,6 +195,7 @@ C’est à partir de ce demi-tour de massif que les classiques propriétés priv
 Normal je suis passé sur le versant sud abrité du mistral.
 Toujours est-il qu’elles me condamnent à redescendre dans la vallée.
 > Je m’en serais passé, car je vais perdre en altitude.
+
 Il faut ensuite regagner les DFCI alors que le soleil s’incline sur l’horizon.
 
 <div class="gallery-box">
@@ -211,6 +221,7 @@ Cette pause touristique me sera fatale, car les derniers kilomètres sont loin d
 Me voilà reparti dans le massif, comme la chèvre de Mr Seguin alors que la nuit tombe.
 Pas évident de rouler dans la caillasse en se concentrant sur le faisceau lumineux de l’éclairage artificiel.
 > Et comble de malchance, plus de plaquettes de frein à l’avant !
+
 Le bruit métallique de frottement vient s’ajouter au stress du retard.
 Surtout qu’avec toutes ces photos et vidéos, le smartphone est déchargé sans pouvoir prévenir les parents.
 Sans me précipiter, je retrouve l’itinéraire de départ me ramenant jusqu’à la voiture.
@@ -228,6 +239,7 @@ Après une telle dose de VTT, passons à la rando.
 C’est l’occasion d’être avec mes parents pour terminer ce séjour provençal.
 
 > L’appel des calanques est irrésistible avec le temps presque printanier
+
 D’autant plus qu’ils ne se sont encore jamais aventurés jusqu’au Cap Morgiou.
 En cette période hivernale, la route menant à la calanque de Sormiou est ouverte à la circulation.
 
@@ -245,6 +257,7 @@ Nous allons pouvoir commencer à marcher à partir du Col du même nom.
 Ce qui va permettre de longer la crête tout en rejoignant en partie le GR 98.
 Le point de vue est magnifique, car elle sépare les deux calanques de Sormiou et Morgiou.
 > Mais il va falloir redescendre au niveau de la mer pour atteindre le cap.
+
 Pas facile sur un chemin où les cailloux se dérobent sous nos pieds.
 D’autres promeneurs rencontrés en chemin y ont renoncé.
 
@@ -281,6 +294,7 @@ Ce sera pour cet été, car la pénible descente est à gravir.
 Un peu plus loin, mes parents me proposent de bifurquer en solo vers la calanque de Sormiou.
 Ils la connaissent par cœur et on se rejoindra au niveau du col de départ.
 > Je passe donc en mode trail, en me laissant descendre jusqu’à cette eau turquoise.
+
 Quelques Marseillais savourent la tranquillité du lieu, pendant que je photographie le cadre d’un feuilleton policier tourné avec Alain Delon.
 
 <div class="gallery-box">
@@ -302,12 +316,14 @@ Pour les prochaines de printemps à Pâques,  j’espère traverser l’Angleter
 ## La Sainte Baume
 Encore une Sainte que je pensais avoir parcouru l’année dernière, mais je m’étais trompé de massif.
 > Cette fois, ci je l’ai bien repérée par satellite.
+
 C’est un peu l’équivalent géologique de la Sainte Victoire, mais orienté différemment.
 L’objectif est de pouvoir rouler jusqu’à son point le plus élevé dans la mesure du possible et de la contourner ensuite, par l’est et dans le sens inverse des aiguilles d’une montre.
 
 <center><iframe src="https://www.strava.com/activities/872836381/embed/08502f2c1dfcdc6ab162c81ad7dbb08ac19fd61e" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 Cela commence à Gémenos, proche d’Aubagne, en ce dimanche très ensoleillé.
 > Le massif est impressionnant au départ du DFCI, car je suis confronté à de la montagne.
+
 Pas le temps de s’échauffer, car la pente avoisine les 15 % et je suis sur le plus petit développement.
 Cette première montée semble interminable, mais je prends mon mal en patience, étant confiant dans ma condition physique.
 Un col approche et je vais pouvoir souffler un peu sur une portion de route bitumée.
@@ -325,6 +341,7 @@ Il va falloir mouliner à nouveau.
 L’ascension finale est facilitée par une route, mais elle se termine par une zone militaire qui occupe en partie les hauteurs de la Sainte Baume.
 On y trouve des émetteurs de l’armée de l’air et le centre de contrôle de la Délégation générale de l’Aviation civile sur le Pic de Bertagne.
 > Mais je suis rassuré en croisant d’autres vttistes et des traileurs.
+
 Comme pour la Sainte Victoire, impossible de continuer à rouler sur la crête, car c’est un GR.
 L’étape suivante est la grotte de Sainte-Marie-Madeleine en contrebas de la falaise.
 Marie-Madeleine fut la première témoin de la résurrection du Christ.
@@ -353,6 +370,7 @@ C’est à partir de ce demi-tour de massif que les classiques propriétés priv
 Normal je suis passé sur le versant sud abrité du mistral.
 Toujours est-il qu’elles me condamnent à redescendre dans la vallée.
 > Je m’en serais passé, car je vais perdre en altitude.
+
 Il faut ensuite regagner les DFCI alors que le soleil s’incline sur l’horizon.
 
 <div class="gallery-box">
@@ -378,6 +396,7 @@ Cette pause touristique me sera fatale, car les derniers kilomètres sont loin d
 Me voilà reparti dans le massif, comme la chèvre de Mr Seguin alors que la nuit tombe.
 Pas évident de rouler dans la caillasse en se concentrant sur le faisceau lumineux de l’éclairage artificiel.
 > Et comble de malchance, plus de plaquettes de frein à l’avant !
+
 Le bruit métallique de frottement vient s’ajouter au stress du retard.
 Surtout qu’avec toutes ces photos et vidéos, le smartphone est déchargé sans pouvoir prévenir les parents.
 Sans me précipiter, je retrouve l’itinéraire de départ me ramenant jusqu’à la voiture.
@@ -403,6 +422,7 @@ D’ailleurs je suis garé à côté de son aire d’autoroute.
 Puis il y a l’autoroute à franchir en de rares ponts.
 Mais voilà qu’il est nécessaire de contourner un circuit de motocross.
 > Sans m’en rendre compte, je suis mon itinéraire à l’envers à cause de cet imprévu.
+
 Ceci se révèlera profitable par rapport au profil.
 Intrigué par une sculpture majestueuse au loin, je m’en approche.
 Elle est dédiée à de jeunes sapeurs-pompiers décédés dans les incendies de 1995 et 2000, qui ont hélas ravagé le plateau.
@@ -432,6 +452,7 @@ Je trouve quand même refuge un peu plus loin sur une plage déserte.
 Idéale pour une courte pause déjeuner constituée d’une barre céréales, accompagnée de quelques photos.
 De retour dans les collines, il me faut traverser un domaine de chasse.
 > J’ai même cru rester piégé comme un vulgaire sanglier !
+
 Heureusement la ligne TGV est à proximité et je n’ai plus qu’à la longer pour retrouver le viaduc et le Scénic.
 
 ## Sainte Victoire
@@ -475,6 +496,7 @@ Normal, c’est le GR 9 qui m’oblige à porter le vélo autant qu’à rouler 
 Non content d’avoir atteint le sommet du massif de la Sainte Victoire à plus de 1000 m, je poursuis sur la crête, en direction de la Croix dominant Aix-en-Provence.
 C’est sans compter sur un passage le long des rochers où il faut se tenir à une chaîne et infranchissable en portant le vélo.
 > Il va falloir renoncer à la Croix.
+
 Je profite une dernière fois du Pic des Mouches pour les photos et les vidéos, avant de redescendre vers la Sinne.
 
 <div class="gallery-box">
@@ -489,6 +511,7 @@ Mais l’itinéraire que je pensais roulant est encore sinueux et étroit à par
 Je dois redoubler de vigilance surtout en descente.
 L’arrivée dans le vallon me réconforte.
 > Pourtant un bruit suspect provenant du vélo m’inquiète.
+
 En effet je constate qu’un rayon de la roue avant s’est cassé en raison des nombreuses secousses.
 Ce qui m’oblige à ralentir le rythme pour regagner l’Olivette.
 

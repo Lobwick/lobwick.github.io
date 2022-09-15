@@ -7,11 +7,13 @@ image: assets/images/les-cathedrales/les-cathedrales_9036.jpg
 Je ne sais pas pourquoi, mais elles me fascinent.
 J'avais déjà rencontré celles d'Amiens, de Beauvais et de Chartres lors de précédentes cyclos à travers la France.
 > Il me manquait les plus majestueuses !
+
 Je trace un circuit qui va me permettre de les découvrir ...
 En cette mi-août, le temps est justement propice le long de l'Oise et de l'Aisne.
 Le point de départ est fixé au niveau du canal qui relie la Sambre à l'Oise.
 Je ne vais pas tarder à longer cette dernière.
 > Ce n'est pas de tout repos car la route ne fait que monter et descendre !
+
 Elle a le mérite de me réchauffer car la vallée de cette rivière est recouverte de grisaille.
 <div class="gallery-box">
   <div class="gallery">
@@ -63,6 +65,7 @@ Ensuite je ne manque pas de redécouvrir le mémorial de Rethondes, marquant la 
 </div>
 C'est l'Aisne, affluent de l'Oise, qui va me conduire jusqu'à Soissons.
 > L'avantage des cathédrales est de les repérer de loin !
+
 En revanche, cela se complique pour les photographier complètement, en raison des constructions plus récentes qui les encerclent.
 Je suis d'abord intrigué par l'Abbaye St-Martin avec son caractère fantôme, qui se situe à proximité de la cathédrale.
 Avant de quitter Soissons, je passe par l'office du tourisme où je suis très bien accueilli, pour me réhydrater.
@@ -101,6 +104,7 @@ Mais sur sa route, un peu d'ascension avec le Mont Notre-Dame pour s'échauffer 
 </div>
 Puis, en cette fin de journée ensoleillée, le paysage devient grandiose !
 > On ne se rend même pas compte du relief.
+
 Il fait de plus en plus sombre et une cabane de chasseurs va me servir " d'hôtel "
 Autant en profiter hors période de chasse !
 J'aurais même pu y faire la grasse matinée si je n'avais pas mis le réveil.
@@ -120,6 +124,7 @@ J'aurais même pu y faire la grasse matinée si je n'avais pas mis le réveil.
 </div>
 A la sortie de la forêt, les vignes surgissent de la brume matinale.
 > Quelques grains finissent de me réveiller, pour affronter les pentes de plus en plus    nombreuses.
+
 Le relief va s'adoucir à l'approche de Reims, pour la deuxième cathédrale au programme.
 <div class="gallery-box">
   <div class="gallery">
@@ -153,6 +158,7 @@ Je vais espérer sa dissipation en récupérant avec un bon petit déjeuner.
 </div>
 Incroyable de constater que les vignes poussent presque jusqu'au centre ville.
 > En ce 15 août, j'atteins la cathédrale juste pour la messe de l'Assomption.
+
 Cela va compliquer la prise de photos internes, interdites durant l'office.
 A l'extérieur, on sent bien que vigipirate est renforcé.
 <div class="gallery-box">
@@ -172,6 +178,7 @@ A l'extérieur, on sent bien que vigipirate est renforcé.
 </div>
 En ce deuxième jour, il faut songer à remonter vers le nord.
 > Il reste une cathédrale au menu.
+
 Mais avant de l'atteindre, il y a l'Aisne à retraverser, avec son canal parallèle.
 Puis en pénétrant dans un petit village, la route est bloquée pour les préparatifs d'une fête médiévale en ce 15 août.
 Hélas, je n'ai pas le temps d'y assister si je veux atteindre Laon avant la nuit !
@@ -212,6 +219,7 @@ Au niveau de Cerny-en-Laonnois, j'aperçois le mémorial du Chemin des Dames de 
 </div>
 Il ne reste plus qu'à se laisser descendre jusqu'au Lac de l'Ailette.
 > Son niveau est bien bas avec la canicule du mois de Juillet.
+
 Après une dernière bonne côte, l'absence de relief fait ressortir la montagne de Laon comme un mirage au loin.
 <div class="gallery-box">
   <div class="gallery">
@@ -252,6 +260,7 @@ Il n'y a plus qu'à longer les remparts du Midi pour pénétrer dans la vieille 
 </div>
 </div>
 > La foule visitant la cathédrale contraste avec la tranquillité de la campagne traversée.
+
 Pas de souci de messe comme à Reims et je vais pouvoir en profiter.
 Heureusement car elle est grandiose et vraiment démesurée par rapport aux autres cathédrales.
 <div class="gallery-box">
@@ -284,6 +293,7 @@ Heureusement car elle est grandiose et vraiment démesurée par rapport aux autr
 </div>
 Au moment d'aller regagner mon bivouac à proximité des remparts pour m'isoler de cette foule, j'apprends qu'il est prévu un spectacle son et lumière projeté sur la cathédrale à partir de 22h30.
 > Même si la fatigue m'envahit, cela se mérite !
+
 Ce mélange de musique et d'éclairages est éblouissant ...
 <div class="gallery-box">
   <div class="gallery">
@@ -404,6 +414,7 @@ Depuis que je roule, c'est incontestablement la plus splendide rencontrée.
 </div>
 Au moment de retrouver la voiture devant la mairie, je rencontre le premier adjoint.
 > Je le remercie pour ses talents de photographe et sa richesse culturelle locale.
+
 Ma présence l'a rassuré car il s'était inquiété du stationnement d'un véhicule durant deux nuits, même si la gendarmerie ne lui avait rien signalé d'anormal.
 <div class="gallery-box">
   <div class="gallery">

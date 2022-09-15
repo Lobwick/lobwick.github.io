@@ -6,6 +6,7 @@ image: /assets/images/lille-hardelot/lille-hardelot_5173.jpg
 ---
 C’est au dernier moment que nous avons décidé de participer à cette édition.
 > En effet, elle coïncide avec la fin des cours de Félix en Irlande.
+
 Je viens juste d’aller le chercher à l’aéroport de Beauvais, en provenance de Dublin.
 Il faut surtout récupérer son vélo pour prendre le départ de ce Lille-Hardelot.
 Même en nous inscrivant au dernier moment, il reste toujours de la place pour cette cyclosportive.
@@ -29,6 +30,7 @@ Rendez-vous au Grand-Palais de Lille en ce dimanche 21 mai 2017.
 Difficile de rejoindre la ligne de départ, car il faut se faufiler parmi les 6500 participants.
 
 > Heureusement tous les cyclotouristes ne partent pas en même temps !
+
 Mieux vaut quand même ne pas tarder pour ne pas être gênés.
 C’est donc vers 7 h que nous retrouvons Philippe, Kevin et Simon pour former un petit peloton de cinq.
 <div class="gallery-box">
@@ -50,6 +52,7 @@ Une certaine fraîcheur nous accompagne jusqu’à Merville.
 
 ## Merville
 > Premier ravitaillement au niveau de l’île flamande.
+
 Merville, ancienne cité drapière flamande, se dénommait Meerghem, ou hameau de la mer, au XVe siècle.
 Elle est entourée de 25 km de cours d’eau, dont la Lys.
 <div class="gallery-box">
@@ -82,6 +85,7 @@ Puis nous contournons Hazebrouck pour arriver à Saint-Omer.
 Déjà la moitié de la distance accomplie, mais sans dénivelé !
 Avant les premiers faux plats montants, il est préférable de se ravitailler.
 > Il faut vraiment en avoir besoin, car il y a du bouchon de cyclistes qui ont eu la même idée.
+
 Tout le monde se retrouve à proximité de l’Abbaye de Saint-Bertin.
 <div class="gallery-box">
   <div class="gallery">
@@ -138,6 +142,7 @@ Licques est en effet connue pour sa célèbre Fête de la dinde.
 ## Collines de l’Artois
 Par rapport à l’année dernière, les côtes sont moins raides, mais plus nombreuses et plus longues.
 > Exception quand même avec une nouveauté, et le Ventus d’Alembon.
+
 C’est un Ventoux en miniature qui permet aux participants de se mesurer à l’occasion d’un défi de pente.
 
 <div class="gallery-box">

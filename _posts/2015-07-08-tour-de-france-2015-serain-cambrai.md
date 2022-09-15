@@ -70,11 +70,5 @@ On a fini la journée en beauté dans les paddocks avec notamment la rencontre d
 <img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_197.jpg" title="Ryder Hesjedal" alt="2015_07_07 TDF_canon_06" >
 <img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_198.jpg" title="Bryan Naulleau" alt="2015_07_07 TDF_canon_07" >
 <img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_199.jpg" title="Lars Boom" alt="2015_07_07 TDF_canon_08" >
-<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_406.jpg" title="Ramunas  Navardauskas" alt="2015_07_15 TdF_Defilé14_feux_01" >
-<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_407.jpg" title="Pierre-Luc Perichon" alt="2015_07_15 TdF_Defilé14_feux_02" >
-<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_408.jpg" title="Pierre-Luc Perichon" alt="2015_07_15 TdF_Defilé14_feux_03" >
-<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_409.jpg" title="Oleg Tinkov" alt="2015_07_15 TdF_Defilé14_feux_04" >
-<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_410.jpg" title="Oleg Tinkov" alt="2015_07_15 TdF_Defilé14_feux_05" >
-<img src="/assets/images/tour-de-france-2015-serain-cambrai/tour-de-france-2015-serain-cambrai_411.jpg" title="" alt="2015_07_15 TdF_Defilé14_feux_06" >
 </div>
 </div>

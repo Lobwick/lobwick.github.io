@@ -511,4 +511,5 @@ Nous sommes bien moins chargés qu'à l'aller en terre celtique et arrivons larg
 Le vol de retour est encore plus calme qu'à l'aller.
 Merci à Raymonde et Roger qui sont à l'heure à Bruxelles pour nous reconduire.
 > Dans deux mois, Félix profitera de ses congés pour nous retrouver à la maison.
+
 Pour conclure, je recommande Dublin ainsi que partir à l'aventure de l'Irlande où les quatre saisons peuvent animer une journée !

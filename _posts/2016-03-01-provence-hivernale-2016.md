@@ -6,6 +6,7 @@ image: /assets/images/provence-hivernale-2016/provence-hivernale-2016_1349.jpg
 ---
 La Provence peut se révéler rude en hiver mais les paysages en sont d'autant plus éblouissants.
 > De grosses sorties sont au programme sur Strava.
+
 Il faut dire que j'élargis mon rayon d'action et les massifs montagneux ne manquent pas autour d'Aix.
 La nouveauté est l'utilisation de mon vtt car j'ai fait l'effort de le transporter en tgv.
 
@@ -15,6 +16,7 @@ Pour me préparer à ces sorties, je vais m'échauffer dans les environs de Peyr
 <center><iframe src="http://www.strava.com/activities/489658542/embed/326aa8662bcea801799dfab5e2d2187de931ddf3" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 C'est un de mes itinéraires habituels, parfait pour régler le vélo.
 > Le relief se fait tout de suite sentir mais le souffle s'adapte.
+
 Pas évident non plus de trouver la tenue adéquate au temps de saison.
 Le contraste thermique est une des caractéristiques de la Provence.
 On se réchauffe bien en montée mais il vaut mieux se couvrir en descente.
@@ -54,6 +56,7 @@ Des troupeaux parcourent celle-ci l'été en semi-liberté.
 Le plateau du Cengle se situe au sud de Sainte Victoire en contre-bas de celle-ci.
 Mais il faut auparavant passer par le barrage de Bimont, sans oublier ensuite une petite ascension jusqu'au refuge Cézanne.
 > Le Cengle est remarquable par sa barrière rocheuse surplombant la vallée.
+
 On roule ensuite sur le plateau au milieu des vignes et des oliviers.
 Le retour se fait par le barrage Zola, situé en aval de Bimont.
 Son concepteur n'est autre que le père du célèbre Emile.
@@ -86,6 +89,7 @@ La journée très pluvieuse de vendredi est l'occasion de refaire le plein de ca
 Le temps du week-end s'annonce incertain.
 Si bien que samedi, une petite marche familiale au sein du cimetière paysager du Grand Saint-Jean est prévue.
 > Celui-ci est l'un des deux cimetières d'Aix, situé sur le plateau de Puyricard.
+
 Il faut dire que les parents y ont récemment réservé leur place que nous allons retrouver grâce à leur nouveau gps Garmin.
 Le lendemain autour de Puyricard, c'est à vélo que nous testons ce dernier en effectuant une boucle équivalente à un semi-marathon.
 
@@ -114,6 +118,7 @@ Le chemin est parfois rendu impraticable par des engins de déboisement.
 
 Je découvre l'abbaye de Silvacane proche de la Roque-d'Anthéron.
 > Ce qui n'était pas encore arrivé, arriva, avec devant moi un imposant portail de propriété privée.
+
 Impossible de modifier mon itinéraire et je décide donc d'en faire le détour pour traverser rapidement celle-ci.
 Il est vrai que son château de la Valbonette est imposant, à l'image du portail.
 De toutes les façons la journée touche à sa fin et de forts pourcentages de pente m'attendent.
@@ -138,6 +143,7 @@ Je croyais explorer le massif de la Sainte Baume mais il s'agit plutôt d'un mas
 A partir de Saint Savournin, direction Saint-Maximin-la-Sainte-Baume vers l'Est avec tout de suite un relief important.
 Le temps est couvert en ce début de sortie et je roule donc à bonne vitesse.
 > Après avoir contourné le Mont Olympe, j'aperçois le Mont Aurélien sur les hauteurs.
+
 Il n'y a plus qu'à faire demi-tour avec le retour du soleil.
 
 <div class="gallery-box">
@@ -180,6 +186,7 @@ Je me rapproche de Plan de Cuques avant de remonter dans le massif.
 
 ## L'Etoile
 > Mon repère est le relais de télévision de l'Etoile.
+
 Une longue montée à travers la forêt m'y conduit.
 Je suis d'ailleurs doublé par des vtt électriques.
 Du haut de ce relais je devine Marseille dans la brume ou dans sa pollution.
@@ -209,6 +216,7 @@ La descente vers Mimet en passant par le Col Saint Anne n'est qu'une formalité.
 Pour terminer mon séjour, il était normalement prévu une randonnée avec l'association HGN dont mes parents font partie.
 Ce sont d'ailleurs eux qui gèrent son site ( hgn.fr ) pour les passionnés d'activités physiques mais aussi culturelles.
 > Mais hélas il pleut sur la presqu'île de Giens dont nous devions faire le tour.
+
 Pourtant le perfectionniste Maurice avait tout prévu sauf le temps.
 
 ## Food Truck

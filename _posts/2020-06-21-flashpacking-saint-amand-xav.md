@@ -86,6 +86,7 @@ Nous récupérons avec une bonne bière avant de monter la tente !
 
 Nous profitons du camping pour prendre une douche et se changer comme on le peut afin de se rendre au restaurant. Le nôtre n'est plus disponible et une majorité sont soit fermés, soit complets. Nous décidons de prendre la route de Saint-Amand et de voir sur place... Nous trouverons refuge au Soul Kitchen où une bière et un bon plat nous attendent.
 > De quoi se mettre en forme pour le lendemain. 
+
 Il nous faudra tout de même retourner au camping, à 10km de Saint-Amand, avant de pouvoir dormir; juste à temps afin d'éviter la pluie menaçante !
 
 <div class="gallery-box">

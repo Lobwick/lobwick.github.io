@@ -8,6 +8,7 @@ image: /assets/images/brabantse-pijl/brabantse-pijl_7610.jpg
 Après la rudesse des pavés du [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %})</a>, retour au Etixx Classics Tour.
 La Flèche brabançonne marque depuis des années la fin du printemps flamand; avec des éléments des classiques ardennaises et flandriennes.
 > Cette cyclo est donc l'occasion de visiter la Druivenstreek, une magnifique région viticole au sud de Louvain, à l'est de Bruxelles.
+
 Mais celle-ci nous réserve quelques surprises ...
 <div class="gallery-box">
   <div class="gallery">
@@ -60,6 +61,7 @@ Tim Wellens devança au sprint Sonny Colbrelli et Tiesj Benoot, pour un podium p
 
 En ce qui nous concerne, le parcours d'une centaine de kilomètres débute à Heverlee.
 > C'est vraiment le printemps et il est possible de commencer directement en cuissard et maillot courts avec des mitaines.
+
 Un petit coupe-vent sera retiré au premier ravitaillement, après avoir traversé quelques zones de brouillard.
 <div class="gallery-box">
   <div class="gallery">
@@ -74,6 +76,7 @@ Un petit coupe-vent sera retiré au premier ravitaillement, après avoir travers
 </div>
 Après quelques pentes moyennes pour réchauffer les jambes de la fraîcheur matinale, se dresse le Smeysberg.
 > Cette côte de 600 mètres de long, située en Brabant Flamand, a des pourcentages allant jusqu'à 16 % !
+
 Avant de profiter du ravitaillement d'Overijse, il faut affronter l'Ijskelderlaan.
 C'est une ascension courte mais abrupte, dépassant les 10 %
 <div class="gallery-box">
@@ -96,6 +99,7 @@ J'en profite toujours pour remplir mes sacoches de bike packing avec leurs barre
 
 Nous reprenons la route pour l'emblématique descente sinueuse, jusque dans le centre historique d'Overijse.
 > Cependant il faut reprendre de l'altitude avec le Shavei.
+
 A l'image de toutes ces côtes du Brabant, elles ne sont longues que de quelques centaines de mètres mais avec un pourcentage proche des 10 %.
 > Ce ne sont qu'une succession de sprints en pente !
 <div class="gallery-box">
@@ -110,6 +114,7 @@ La route reste vallonnée mais sans pourcentage important.
 De petits pelotons s'organisent afin d'affronter un léger vent et ainsi rouler à vive allure.
 Ce qui nous amène au dernier ravitaillement de Meldert.
 > Le cadre est grandiose au sein de l'établissement d'enseignement du Sint-Janscollege.
+
 Il n'y a plus qu'à regagner le sud de Louvain en roulant sans dénivelé.
 <div class="gallery-box">
   <div class="gallery">

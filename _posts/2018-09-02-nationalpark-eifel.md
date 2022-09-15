@@ -10,6 +10,7 @@ J'ai prévu trois jours pour traverser ce vieux massif montagneux jusqu'en Allem
 A part un risque d'averses orageuses, la météo devrait m'être favorable.
 Préparatifs opérationnels puisque je reviens de la tournée récente des cathédrales.
 > Le Victoire a tout juste " refroidi " et c'est un baroudeur toujours partant !
+
 Contrairement à l'Oise et à l'Aisne, important dénivelé au programme si je le respecte.
 C'est le but recherché avec toujours un suivi touristique ...
 
@@ -58,11 +59,13 @@ Il n'y a plus qu'à suivre la Vesdre jusqu'à Verviers, en passant par Pepinster
 C'est ainsi que je vois surgir l'imposant barrage du lac de la Gileppe.
 Après une bonne ascension pour le contourner, je peux profiter de sa tour panoramique sous tous ses aspects.
 > Sauf le restaurant pas encore ouvert !
+
 Je vais ensuite rouler sur le barrage pour compléter les photos, avec un ciel qui se dégage.
 Hélas, pas le temps de faire le tour du lac complètement ...
 
 Le lac d'Eupen m'attend, avant de me rapprocher de l'Allemagne.
 > Je vais aussi retrouver les difficultés dans ma deuxième langue scolaire !
+
 On ne rencontre personne, à part quelques " hgnistes " ,en traversant ensuite une vaste zone naturelle protégée.
 
 <div class="gallery-box">
@@ -87,18 +90,21 @@ On ne rencontre personne, à part quelques " hgnistes " ,en traversant ensuite u
 Je suis étonné de pouvoir déjà traverser la frontière, avant de plonger sur Montjoie ou Monschau.
 C'est vraiment une petite bourgade à ne pas manquer, typique de la région, un peu à l'alsacienne !
 > D'ailleurs la foule ne s'y trompe pas et trouble ma solitude de cycliste rencontrée
+
 jusque là.   
 Je vais pouvoir goûter avec le fameux pain allemand, surtout qu'à partir de 18 h tout ferme dans ce pays.
 Pas besoin de montre car les touristes que je suis, se sont volatilisés !
 
 Problème d'itinéraire car je dois traverser la forêt sur un chemin sinueux de vttistes.
 > Victoire n'y résisterait pas et je préfère l'épargner !
+
 Par chance une route abrupte la longe sans trop me détourner ...
 Surtout que je n'aurais pas voulu manquer le troisième lac.
 Lac en trois branches comme une pieuvre !
 Certainement le plus géographiquement impressionnant et idéal pour passer ma première nuit ...
 Cerise sur le gâteau, un chemin roulant gravillonné longe ses berges.
 > Et pour compléter mon bonheur, un semblant de confort m'attend au détour d'un virage.
+
 C'est un restaurant touristique complètement déserté, comme hanté !
 Il y a quand même un peu d'éclairage permettant de m'installer tranquillement.
 Seuls quelques cris d'animaux viennent déranger la nuit.
@@ -121,6 +127,7 @@ Seuls quelques cris d'animaux viennent déranger la nuit.
 
 Pour ce deuxième jour, le ciel est complètement dégagé comme prévu.
 > Sans pouvoir m'échauffer, il faut remonter de ce lac sur une forte pente en guise de
+
 petit dejeuner.   
 Le soleil se lève sur Schleiden, avant de retrouver un considérable parc d'éoliennes sur un plateau.
 
@@ -156,6 +163,7 @@ C'est la retenue d'eau d'Oleftalstrasse, la plus sauvage,que le soleil matinal i
 
 Après ces soucis, le relief s'adoucit jusqu'à la frontière avec la Belgique.
 > On se noie pleinement dans l'immense forêt de sapins.
+
 Sorti d'Allemagne, changement de direction vers l'Est et le circuit automobile de Spa-Francorchamps.
 
 <div class="gallery-box">
@@ -171,6 +179,7 @@ Sorti d'Allemagne, changement de direction vers l'Est et le circuit automobile d
 </div>
 
 > C'est au tour du cinquième si vous avez suivi !
+
 Petit lac de Butgenbach que je peux suivre sur un sentier pas large mais roulant.
 
 <div class="gallery-box">
@@ -200,6 +209,7 @@ Pour mieux l'admirer, je le traverse deux fois avant de franchir son barrage.
 
 En début d'après-midi, goûter de hamburgers au MacDo de Malmedy.
 > Il y en a si peu au sein de ces conifères et il faut bien reconstitué le potentiel de protéines !
+
 Le soleil est rayonnant sur les magnifiques édifices de cette localité importante.
 
 <div class="gallery-box">
@@ -215,14 +225,17 @@ Le soleil est rayonnant sur les magnifiques édifices de cette localité importa
 </div>
 
 > J'approche enfin du but de ce deuxième jour, le circuit de Formule 1.
+
 Il était proche de ma dernière incursion dans les Ardennes, mais il avait fallu penser à revenir à la maison.
 Cette fois-ci, j'ai bien pris soin de l'intégrer à la fin du parcours.
 De ce fait j'espérais l'approcher avant le grand prix de Belgique prévu le week-end.
 > Peine perdue, tout est bouclé depuis au moins une semaine !
+
 Jamais deux sans trois pour la prochaine fois ...
 Me connaissant avec mon caractère de Moulin, il faut quand même tenter de déjouer la surveillance grâce au vélo !
 Je me faufile sur tous les différents parkings interdits à la circulation, pour malheureusement aboutir inévitablement sur les nombreux vigiles ...
 > Finalement j'échoue sur l'entrée principale pour quelques photos souvenirs.
+
 Je ne me prive pas non plus pour un ravitaillement en eau dans le luxueux hôtel du circuit, en espérant croiser quelques pilotes pas encore arrivés.
 Un peu déçu par cette désillusion due au calendrier, je vais me réconforter avec les retrouvailles de la cascade de Coo.
 
@@ -242,6 +255,7 @@ Un peu déçu par cette désillusion due au calendrier, je vais me réconforter 
 Après une longue descente impressionnante et interminable, me voilà à Stavelot.
 Il n'y a plus qu'à suivre l'Amblève qui va finir par se jeter en cascade à Coo, après avoir traversé la commune de Trois-Ponts.
 > Contrairement à la dernière fois, j'y arrive juste avant le coucher de soleil pour la voir rayonner !
+
 Ce site très touristique est forcément plus animé qu'au printemps.
 Impossible d'y dormir comme la dernière fois ...
 Je vais trouver plus de calme en continuant à rouler dans la vallée.
@@ -266,6 +280,7 @@ Je vais trouver plus de calme en continuant à rouler dans la vallée.
 La troisième journée devait être orageuse mais la nuit étoilée a laissé place à un ciel azur.
 > C'est l'occasion de respecter l'itinéraire avec une boucle passant par le joyau du massif, 
 > les Ardennes bleues !
+
 Il suffit de quitter l'Emblève à Remouchamps, pour la retrouver plus tard dans la journée.
 Après avoir fait l'effort de me lever aux aurores, j'assiste incrédule à la dissipation des bancs de brume par le soleil levant.
 
@@ -302,6 +317,7 @@ C'est aussi une petite ville incontournable des Ardennes ...
 
 Menu chargé sur le plateau : un fort, un sanctuaire et un centre de pèlerinage.
 > Ce dernier est parfait pour une pause toilettes et un ravitaillement en eau sacrée
+
 bien sûr.
 C'était l'heure de la messe comme dans la cathédrale de Reims.
 
@@ -338,6 +354,7 @@ Je fais aussi la connaissance de Stefan Steiner, un pêcheur à la fois cycliste
 En croisant des cyclistes au bas d'une forte côte, ils m'indiquent que le détour vaut la peine pour éviter la route principale.
 De toutes les façons, eux n'ont pas le choix puisqu'ils habitent à mi-pente !
 > C'est quand même de la 3 ème catégorie ...
+
 L'ascension laisse place à un beau panorama sur le plateau.
 La descente jusqu'à Comblain-au-Pont est vertigineuse.
 
@@ -356,6 +373,7 @@ La descente jusqu'à Comblain-au-Pont est vertigineuse.
 Nouvelle bonne surprise avec la découverte du Ravel que les cyclistes avaient aussi évoqué.
 Pas évident de le dénicher mais le jeu en vaut la chandelle !
 > En effet, c'est miraculeusement une piste cyclable qui va me ramener directement jusqu'à Liège "Sans passer par la case départ"
+
 Il longe le canal de l'Ourthe qui vient de recueillir les eaux de l'Emblève.
 C'est un tracé familial riche en découvertes, m'épargnant la circulation de mon itinéraire d'origine.
 
@@ -392,6 +410,7 @@ La Vesdre vient se jeter dans l'Ourthe qui va retrouver la Meuse.
 L'avance que je possédais s'est réduite en tourisme mais comme le temps ne menace plus, j'en profite jusqu'à l'obscurité ...
 
 > Tant pis pour les fameuses bières de la Place du Marché en plein centre ville !
+
 Surtout que les ponts et autres passerelles, ainsi que les édifices ne manquent pas.
 Je préfère savourer le succulent pain noix-noisettes que je transporte depuis le matin à Theux.
 Aussi bon que la baguette !

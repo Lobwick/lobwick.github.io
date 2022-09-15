@@ -61,6 +61,7 @@ N’ayant pas été doublé lors de cette transition, je décide de maintenir ma
 
 ![13 ° place en 1:12:00](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4792.jpg)
 > Je termine donc ce duathlon de Phoenix Park à la 13e place sur 223 personnes en 1:12:00.
+
 Très bonne expérience que j’ai hâte de renouveler une fois rentré en France au Chtriman de Gravelines.
 Il faudra tout de même que je travaille les transitions car j’y ai perdu de précieuses minutes.
 Merci à toute l'équipe de Belpark Tri pour l'organisation de ce superbe duathlon à Phoenix Park.

@@ -31,6 +31,7 @@ Il n’y a plus qu’à suivre l’itinéraire tracé avec précision (sauf sur 
 Un premier ravitaillement imprévu, mais digne des meilleures cyclos. Il s’agit de faire uniquement le plein d’eau. Mais une brave hollandaise m’offre un café crème sucré avec spéculos. Normal, son fils est passionné de cyclisme.
 Je repars en pleine forme après avoir accompli à peu près la moitié de l’aller. La température se réchauffe sans dépasser les 20 degrés avec toujours très peu d’air.
 > Me voilà à Eindhoven en 24h, en tout début d’après-midi.
+
 Un peu de retard par rapport à l’objectif fixé de 25 km/h en raison des quelques pauses incontournables qui nous rappellent que nous ne sommes pas des machines. C’est une grosse ville moderne qui a peu d’intérêt si ce n’est pour le ballon rond avec le « psv Eindhoven ». Mieux vaut Rotterdam et Amsterdam.
 <div class="gallery-box">
   <div class="gallery">
@@ -43,6 +44,7 @@ Un peu de retard par rapport à l’objectif fixé de 25 km/h en raison des quel
 
 ## Le retour vers Lille
 > C’était trop beau !
+
 Panne de GPS et plus de cartographie pour le retour. Après avoir atteint Eindhoven en 24h celui-çi rend l'âme. Achat d’une carte routière et de la traditionnelle boussole qui n’avaient pas été prévues. C’est ce qui arrive quand on fait trop confiance au progrès. Jamais deux sans trois.
 
 Pas de panique, car j’ai déjà traversé la France ainsi. Je sais ce qui m’attend même si c’est moins pratique. Heureusement, le vent m’est favorable. Il faut emprunter des routes un peu plus roulantes hélas !

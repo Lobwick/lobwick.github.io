@@ -26,6 +26,7 @@ Après cet échauffement en famille, la deuxième semaine est plus tonique.
 Connaissant déjà le grand Luberon autour du Mourre Nègre son point culminant, il me reste à explorer les chemins du petit Luberon.
 
 > Je ne vais pas être déçu car il se révèle plus sportif que prévu sur son versant sud !
+
 Le principal étant de faire attention aux chasseurs de gros gibiers ...
 <div class="gallery-box">
   <div class="gallery">
@@ -41,6 +42,7 @@ Le principal étant de faire attention aux chasseurs de gros gibiers ...
 En parcourant la Sainte-Baume lors de précédentes vacances, j'avais distingué au loin le circuit automobile du Castellet ou Paul Ricard, où se dispute à nouveau le Grand Prix de France de formule un.
 L'objectif est donc de l'atteindre en empruntant des pistes forestières réservés aux pompiers à partir d'Aubagne.
 > Malgré quelques passages fort rocailleux, mon itinéraire est plutôt roulant avec vues sur la Grande Bleue ou la Sainte-Baume.
+
 Le circuit, très calme à cette époque, est atteint en milieu de journée et il faut songer à regagner la ville de Pagnol.
 <div class="gallery-box">
   <div class="gallery">
@@ -105,6 +107,7 @@ Le reste de ces vacances se poursuit sur route avec de nouveaux itinéraires.
 J'ai prévu de retourner à Marseille grâce à des routes touristiques, en partant directement de l'Olivette.
 
 > Le vieux port, avec son marché aux poissons, est resplendissant sous le soleil méditerranéen !
+
 Petite ascension pas anodine jusqu'à la Basilique Notre-Dame-de-la-Garde ou Bonne Mère pour admirer la vue panoramique sur Marseille et sa baie.
 Passage par Aubagne, avant de traverser le massif de la Sainte-Baume grâce au Col de l'Espigoulier.
 Je n'ai plus qu'à m'orienter vers la Sainte-Victoire pour retrouver la maison.
@@ -124,6 +127,7 @@ C'est pourquoi je vais rouler vers l'est jusqu'à Draguignan.
 Pour gagner du temps, la voiture me transporte jusqu'au village d'Esparron.
 Les routes du Var sont vraiment tranquilles avec des paysages variés.
 > Elles me permettent au passage de traverser Tourtour, un des plus beaux villages de France !
+
 Sur le retour, ceux de Cotignac ou encore de Barjols, connu pour ses nombreuses fontaines,  pourraient aussi bien en faire partie.
 <div class="gallery-box">
   <div class="gallery">
@@ -144,6 +148,7 @@ Au niveau de La Palud-sur-Verdon je bifurque pour la Route des Crêtes.
 Celle-ci est remarquable, non seulement par son sens unique de circulation, mais surtout en raison de ses innombrables belvédères surplombant le Verdon.
 
 > Cerise sur le gâteau, elle m'est " réservée " car les véhicules ne peuvent la parcourir à cause d'éboulements !
+
 C'est ainsi que je peux admirer le ballet des vautours fauves dans un silence de cathédrale, presque en percevant leurs battements d'ailes.
 En milieu de journée, j'atteins l'extrémité des gorges et il est temps de revenir par la rive gauche moins spectaculaire et déjà à l'ombre
 Parvenu à Aiguines, je n'ai plus qu'à faire le tour du lac pour retrouver le Scenic, laissé à Sainte-Croix-du-Verdon.

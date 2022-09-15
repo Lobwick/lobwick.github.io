@@ -79,6 +79,7 @@ La traversée de la Beauce s’effectue sous une chaleur accablante proche des 4
 ## Jour 3
 Heureusement, les collines du Perche vont nous apporter un peu de fraîcheur relative.
 > Mais avec plus de dénivelés forcément.
+
 Nous croisons d’ailleurs l’itinéraire du Paris-Brest.
 <div class="gallery-box">
   <div class="gallery">

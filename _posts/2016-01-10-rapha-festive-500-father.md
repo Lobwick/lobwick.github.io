@@ -5,8 +5,10 @@ date:   2016-01-10 11:21:53 +0100
 image: /assets/images/rapha-festive-500-father/rapha-festive-500-father_1063.jpg
 ---
 > Que faire entre les fêtes ? Participer au Rapha Festive 500 !
+
 500 étant le nombre de kilomètres à effectuer entre Noël et le Nouvel An.
 > Il suffit d'en parcourir 100 par jour.
+
 Pas de temps à perdre, surtout que les conditions climatiques s'annoncent propices.
 De plus, c'est l'occasion de rouler avec l'ancien vélo Gitane " Victoire " reconverti en fixie intermédiaire.
 C'était celui de mon père que j'avais ramené aux dernières vacances.
@@ -47,4 +49,5 @@ Et un deuxième jour, le mercredi, avec un parcours en trèfle, toujours à prox
 
 Itinéraire totalisant presque 150 km.
 > Au bilan, challenge largement atteint avec 555 km au compteur.
+
 Bonne idée ce défi puisqu'il a permis d'éliminer les calories accumulées ces jours de fête !

@@ -32,6 +32,7 @@ En quelques coups de pédales, nous parvenons à Bray-Dunes.
 Le briefing est prévu pour 18 h afin de suivre les dernières recommandations.
 Il faut surtout s’équiper du tracker qui va permettre de nous suivre en temps réel.
 > Le rendez-vous est donc pris pour le lendemain, dimanche 6 août à 6 h 24, au chant du coq.
+
 Il s’agit de la troisième et dernière vague de départ des 90 participants.
 <div class="gallery-box">
   <div class="gallery">
@@ -209,6 +210,7 @@ Il faut dire que les villes traversées sont rares, ce qui fait la beauté du pa
 Je suis soulagé de compléter l’énergie solaire et je vais pouvoir longer tranquillement la Marne, plus longue rivière française.
 Peu à peu le relief augmente après avoir suivi les chemins de halage et j’atteins la surprise des organisateurs.
 > C’est un single track intéressant, après celui rencontré dans la montagne de Reims.
+
 Pour les non-initiés, il s’agit d’un passage étroit de la largeur d’un vélo, souvent sinueux et rapide.
 Au niveau d’un passage technique, les organisateurs me surprennent avec leur appareil photo, surtout quand on ne s’y attend vraiment pas ; c’est sympa de leur part et je remercie le photographe officiel.
 Ce single track nous redescend directement à Vitry-le-François, reconstruite par devinez qui... François 1 er
@@ -222,6 +224,7 @@ Ce single track nous redescend directement à Vitry-le-François, reconstruite p
 
 Après la Marne, je me rapproche de l’Aube et de ses nombreux lacs et étangs.
 > À Brienne-le-Château,  je retrouve un autre Philippe ( Trochon ) dit Phiphoo, qui a été ralenti par de gros soucis sur son vélo, avec une roue libre à changer.
+
 Juste avant cela, un hôtelier a la bonne idée de me confectionner un cornet royal de trois boules au chocolat alors que je venais juste de me rafraîchir avec un coca.
 Mais cela veut dire que j’ai bien roulé, car il fait partie des « costauds » ayant déjà participé à la première édition de la French Divide.
 <div class="gallery-box">
@@ -235,6 +238,7 @@ Mais cela veut dire que j’ai bien roulé, car il fait partie des « costauds �
 Je suis même tout « honoré » quand il me propose de continuer ensemble, afin notamment de profiter de son éclairage nocturne.
 Juste le temps de laisser passer un gros orage qui nous permet de nous rassasier, nous ne tardons pas à rouler.
 > En effet il faut se dépêcher de traverser la forêt d’Orient, car elle est interdite la nuit !
+
 Le rythme soutenu nous conduit à Bar-sur-Seine.
 <div class="gallery-box">
   <div class="gallery">
@@ -281,13 +285,16 @@ Il n’y a pas que de la vigne puisque nous avons la surprise de découvrir un c
 En route, nous avons aussi rejoint Duncan, un autre « costaud » de l’édition 2016 et solide grimpeur.
 Ce trio reconstitué file à vive allure vers Avallon.
 > Peut-être un peu trop pour moi, car je ressens une douleur au niveau du talon d’Achille droit ! 
+
 Une petite brasserie de village nous prépare des pâtes inespérées, accompagnées d’une sauce bolognaise maison.
 Merci encore à son propriétaire et à son chef de nous avoir permis de déjeuner correctement depuis quelques jours.,
 Malheureusement, je vais devoir abandonner mes compagnons de route en passant par Avallon et une pharmacie.
 Le verdict d’une tendinite du talon d’Achille me démoralise, mais je vais essayer de continuer, grâce aux anti-inflammatoires.
 > Même si ce n’est pas prudent, je veux découvrir la suite du parcours à mon rythme !
+
 Surtout que le Morvan, véritable poumon vert de Bourgogne, s’annonce comme un obstacle très vallonné et humide.
 > Essayons de rejoindre quand même Quarré-les-Tombes où se situe le check point 1 !
+
 Les averses orageuses n’arrangent rien, mais semblent soulager cette tendinite avec la fraîcheur.
 Heureusement, car les côtes sont interminables !
 Si bien que je suis tout étonné d’atteindre ce petit village perché sur une hauteur.
@@ -302,6 +309,7 @@ Si bien que je suis tout étonné d’atteindre ce petit village perché sur une
 </div>
 
 >  Pour terminer cette journée intense en émotions, il ne nous reste plus qu’à nous rendre jusqu’à un camping au bord du lac de Saint-Agnan.
+
 Mais cette approche dans l’obscurité tombante est interminable dans cette forêt sombre et humide, alors que la fatigue se fait sentir et que ma tendinite me fait souffrir de plus en plus, surtout quand il faut pousser en marchant.
 Nous sommes enfin accueillis par le propriétaire belge qui nous propose gentiment une des pièces de sa demeure pour le coût d’une nuit de camping.
 > Occasion de se doucher depuis quelques jours et de dormir un peu plus au chaud, sans se réveiller dans l’humidité !
@@ -341,6 +349,7 @@ Autun marque en quelque sorte la fin du Morvan et ce sera pour moi l’occasion 
 </div>
 
 > Content d’avoir franchi ce massif avec ma tendinite, je roule à nouveau seul en direction de Moulins.
+
 Je revois aussi Daniele qui a connu des ennuis de dérailleur, mais dépanné par Phiphoo capable de tout réparer sur un vélo.
 <div class="gallery-box">
   <div class="gallery">
@@ -351,12 +360,14 @@ Je revois aussi Daniele qui a connu des ennuis de dérailleur, mais dépanné pa
 </div>
 
 > Les miens vont d’ailleurs commencer en ce qui concerne le vélo !
+
 Tout commence par une grossière erreur de parcours d’une bonne dizaine de kilomètres, à force de vouloir rouler dans l’obscurité.
 Puis, au lieu de m’arrêter pour la nuit, je m’aventure dans un bois, pas très long, mais fatidique pour le vélo.
 La chaîne vient se coincer dans les rayons de la roue arrière, entraînant la rupture d’un de ceux-ci.
 Bien entendu, n’ayant pas suivi les conseils de Lionel, j’ai oublié d’en transporter.
 Sorti de la forêt, j’arrive au ralenti à Bourbon-Lancy vers deux heures du matin.
 > Comme un miracle surgit de la nuit, je découvre un magasin de cycles de la marque BMC assez spécialisée.
+
 En attendant son ouverture, je me réfugie au rez-de-chaussée du bâtiment, où se trouve un cabinet de kinésithérapeutes, pour une nuit encore plus courte que les précédentes.
 
 ## Sixième jour
@@ -503,12 +514,14 @@ Il ne reste plus qu’à se laisser descendre à grande vitesse jusqu’à La Bo
 Après m’être restauré et surtout réchauffé, après une descente interminable, avec un kebab, je me lance dans l’ascension de la forêt de cette ville thermale.
 Mauvaise idée encore une fois, car j’y vois de moins en moins et les ornières causées par les engins forestiers sont de plus en plus profondes et détrempées.
 > La plupart du temps il faut même pousser en cherchant son chemin, ce qui est d’autant plus pénible pour le talon d’Achille.
+
 De toutes les façons, je ne peux pas dormir dans ces conditions !
 C’est à la sortie de la forêt que je vais pouvoir me réfugier dans une scierie, vers une heure du matin.
 Quel bonheur de se laisser bercer dans la sciure, au milieu des lames tranchantes démesurées, dignes d’un film d’horreur !
 
 ## Huitième jour
 > Occasion de faire la grasse matinée puisque c’est dimanche !
+
 Mais il reste encore un bon tiers du parcours et surtout les Pyrénées.
 <div class="gallery-box">
   <div class="gallery">
@@ -654,6 +667,7 @@ Un Léonberger, venu des Midlands en Angleterre, aimerait bien aussi y goûter p
 </div>
 
 > Cependant il faut remonter en selle, après cette longue parenthèse touristique.
+
 Après Floirac, je me dirige vers Rocamadour au sein des Causses du Quercy.
 <div class="gallery-box">
   <div class="gallery">
@@ -682,6 +696,7 @@ Pas le temps de faire du tourisme à Lascaux, car un single track assez techniqu
 </div>
 
 > Les chemins caillouteux ne font ensuite que monter et redescendre, sur des pentes comprises entre 10 et 15 % alors qu’il fait presque 40 °
+
 Le soleil décline sur l’horizon du Lot, mais je veux absolument arriver à Cahors avant la nuit, car c’est le deuxième check point.
 <div class="gallery-box">
   <div class="gallery">
@@ -693,6 +708,7 @@ Le soleil décline sur l’horizon du Lot, mais je veux absolument arriver à Ca
 Plus de caillasse, mais toujours le même profil interminable.
 Pour ternir un peu la journée, j’apprends grâce à Maxence, que mon tracker de suivi n’émet plus depuis le matin.
 > Grosse inquiétude chez les parents forcément, puisque qu’ils me suivent à la trace depuis le départ grâce au site.
+
 Cela correspond au changement de piles que je n’ai pas surveillé, même si ce n’est apparemment pas la cause directe.
 Heureusement tout a été rétabli après Cahors. Merci à Samuel et Lionel de l’organisation qui ont su gérer ce problème.
 <div class="gallery-box">
@@ -835,6 +851,7 @@ C’est finalement à l’abri d’un porche d’église que je vais me reposer 
 
 ## Onzième jour
 > Le relief des Pyrénées commence à se faire sentir, avec surtout une brume locale d’altitude très humide.
+
 Sur notre passage après Lombez, un agriculteur barbu et lui-même vététiste, nous suit assidûment en étant connecté sur le site du tracker ; de précédents participants l’ont informé du passage de la French Divide.
 <div class="gallery-box">
   <div class="gallery">
@@ -930,6 +947,7 @@ Je décide donc de redescendre jusqu’au bord du lac de Payolle, pour y passer 
 
 ## Douzième jour
 > La journée grandiose de ce parcours, accompagnée d’un temps resplendissant.
+
 Mais elle commence mal avec une grossière erreur de parcours qui m’amène directement dans un torrent.
 Il faut reprendre la montée du Tourmalet, après avoir heurté un sanglier.
 <div class="gallery-box">
@@ -1053,6 +1071,7 @@ Pour me remettre de mes émotions, deux cyclistes grands randonneurs que je reme
 Lourdes est aussi chaude que Cahors, et pour ne rien arranger, elle est noire de monde avec les rassemblements de l’Assomption, sans oublier les gens du voyage qui ont envahi les abords de la ville.
 Pas évident d’affronter tout ceci quand on a déjà dominé le Tourmalet dans la journée.
 > Mais après quelques sandwichs, je vais retrouver un peu de sérénité en me rapprochant de la grotte.
+
 Heureusement que le gardien accepte de surveiller mon vélo, le temps de quelques photos souvenirs qui me rappellent agréablement d’anciennes vacances en famille.
 <div class="gallery-box">
   <div class="gallery">
@@ -1182,6 +1201,7 @@ Au moment de repartir arrive un cycliste incroyable qui se reconnaîtra.
 C’est un pâtissier qui vient de Saint-Malo en suivant la Côte Atlantique, pour enchaîner avec le Camino vers Compostelle.
 Il remonte ensuite jusqu’au Puy-en-Velay puis redescend vers Rome, avant de retourner en Bretagne.
 > Je suis admiratif devant ces milliers de kilomètres parcourus.
+
 Renaud de la French Divide me rejoint à son tour, alors que nous avions mangé ensemble au restaurant la veille du départ.
 Il ne me reste plus qu’à atteindre Larribar pour y passer la nuit dans un abri municipal.
 <div class="gallery-box">
@@ -1195,6 +1215,7 @@ Il ne me reste plus qu’à atteindre Larribar pour y passer la nuit dans un abr
 ## Arrivée
 Dernière étape, courte, mais pas de tout repos, avec les derniers problèmes matériels.
 > Cela commence en pleine nuit avec une crevaison lente à l’avant, pourtant avec du pneu tubeless.
+
 Impossible de continuer dans ces conditions et comme je suis confortablement installé dans l’herbe, je me résous à mettre une chambre à air.
 ![](/assets/images/french-divide-2/french-divide-2_6155.jpg)
 
@@ -1219,6 +1240,7 @@ Il s’agit de Mr Simon qui me propose carrément le café, alors qu’il s’em
 
 C’est ainsi que nous nous retrouvons à bavarder tranquillement de la French Divide, du cyclisme et de sujets divers.
 > Je me souviens encore de sa gelée de fruits rouges et des figues de son jardin, pour compléter ce petit déjeuner pyrénéen.
+
 Merci à lui de m’avoir remotivé après la crevaison matinale en me redonnant des forces.
 Après Le Vieux, je m’apprête à traverser Saint-Jean-Pied-de-Port, et comme il n’est pas encore 11 h 30, je ne suis pas forcément obligé de marcher.
 <div class="gallery-box">

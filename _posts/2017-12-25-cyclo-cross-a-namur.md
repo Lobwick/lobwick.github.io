@@ -8,6 +8,7 @@ image: /assets/images/cyclo-cross-a-namur/cyclo-cross-a-namur_6470.jpg
 Félix se passionne de plus en plus pour cette discipline qui se rapproche du VTT.
 Nous avons déjà assisté à une manche de cette coupe du monde sur la côte Belge, à Coxyde fin octobre.
 >     C’est ce pays, avec les Pays-Bas, qui domine le classement mondial.
+
 Cette nouvelle étape reste en Belgique, autour de la citadelle de Namur.
 Nous nous y étions déjà rendus à l’occasion d’une étape du tour de France sur route en 2015.
 

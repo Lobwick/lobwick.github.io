@@ -52,6 +52,7 @@ Il me faut encore traverser la capitale pour atteindre le village expo de Paris-
 </div>
 
 > Le retrait du dossard de Paris-Versailles effectué, je n’ai plus qu’à me diriger vers le Val de Marne.
+
 En effet je suis attendu par Pascale, la marraine d’Isa, et Claude à Varennes-Jarcy.
 Ils ont gentiment accepté de m’héberger pour la nuit.
 
@@ -72,6 +73,7 @@ Grâce au RER me voilà au pied de la Tour Eiffel.
 </div>
 
 > Le départ des 25 000 participants s’effectue par vagues de 350 toutes les min.
+
 Je me glisse dans la dernière pour être tranquille.
 
 <div class="gallery-box">
@@ -85,6 +87,7 @@ Je me glisse dans la dernière pour être tranquille.
 Début de parcours le long de la Seine où je rattrape progressivement les vagues précédentes.
 Il faut commencer à se faufiler, mais la côte des Gardes va ralentir tout le monde.
 > Longue de 2 km avec une pente moyenne de 6 %, la chaleur se fait sentir en milieu de journée.
+
 Après la traversée de la forêt, la récompense du château de Versailles apparaît devant nous.
 
 <div class="gallery-box">
@@ -122,6 +125,7 @@ La suite me le fera regretter.
 Le soleil est toujours resplendissant, mais le vent de nord-est ne va pas me faciliter la remontée.
 > Heureusement je ne me ressens pas trop de la course du matin.
 >  J’admire le coucher de soleil sur la région parisienne et il ne me reste plus qu’à rouler toute la nuit.
+
 Le vent de nord-est encore bien présent m’oblige à me couvrir davantage.
 J’ai bien du mal à me réchauffer même en ayant mis tout ce qui est dans le sac à dos.
 Ma hantise est d’arriver en retard à l’école.

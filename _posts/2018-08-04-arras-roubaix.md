@@ -9,6 +9,7 @@ Mais cette fois-ci par nos propres moyens et non en passant par Amaury Sports Or
 On va donc se mesurer aux pavés, sur l'étape qui avait conduit les coureurs professionnels entre Arras et Roubaix.
 D'ailleurs celle-ci avait précédé celle de montagne pour le peloton, avec la première journée de repos intercalée.
 > C'est l'occasion de retrouver certains secteurs pavés empruntés à [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %}) que nous disputons chaque année.
+
 Tour de France oblige, ceux-ci seront réduits du tiers pour ne pas trop déstabiliser le peloton, avec certains cyclistes vraiment allergiques à ces gros blocs nordistes.
 <div class="gallery-box">
   <div class="gallery">
@@ -22,6 +23,7 @@ Tour de France oblige, ceux-ci seront réduits du tiers pour ne pas trop déstab
 </div>
 Par conséquent, c'est l'étape 9 du tour qui nous attend et que les pros avaient accompli le dimanche 14 juillet.
 > Elle est prévue dans le cadre de Lille on Wheels et Félix l'a organisée en partenariat avec le Rapha Cycling Club.
+
 Il va donc falloir se déplacer jusqu'à Arras en voiture afin de débuter cette étape.
 C'est au niveau de la citadelle que nous rejoignons Emile car le peloton s'était élancé de celle-ci en direction de Roubaix.
 <div class="gallery-box">
@@ -45,6 +47,7 @@ Puis nous remontons en direction du nord.
 Les deux premiers secteurs pavés interviennent avant la forêt de Marchiennes.
 Après la mauvaise expérience du dernier [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %}) d'avril 2018 tenté avec le bon vieux Gitane Victoire, j'ai préféré l'option vtt avec mon  [Epic]({% post_url 2016-04-13-en-piste-pour-paris-roubaix-2016 %}) tout suspendu.
 > Du coup, les pavés semblent inexistants !
+
 Ce n'est pas le cas de Félix dont le support gps et gopro n'a pas résisté aux terribles secousses à grande vitesse.
 Cependant, ce n'est qu'un détail en comparaison de ce que nous réserve la suite de l'étape ...
 <div class="gallery-box">
@@ -64,6 +67,7 @@ Juste un peu plus loin, alors que je me trouve au niveau de Félix pour le filme
 On roule sur une portion mixte, avec des pavés au centre, bordés de chaque côté par une bande bitumée.
 Au moment de changer de direction, sa roue avant glisse sur une mini bordure.
 > La chute est inévitable en direct sur la vidéo, me déstabilisant à mon tour sur Félix !
+
 Le pire est à craindre car il semble se plaindre de son épaule et je redoute une fracture de la clavicule.
 Mais c'est finalement son coude qui en sang.
 Dégâts matériels se limitant aux tenues cyclistes.
@@ -88,6 +92,7 @@ Je suis contraint de passer du tubeless à la chambre à air car il n'y a plus a
 Quant à Félix, suite à une première crevaison réparée, il doit à nouveau faire face à une perte de pression.
 Entre deux, on a le plaisir de retrouver Simon qui vient prendre part aux secousses dominicales !
 > En raison de tous ces soucis matériels et physiques, il faut se résoudre à écourter l'étape au niveau de Cysoing.
+
 D'autant plus que l'orage menace.
 C'est ainsi qu'on se retrouve chez Félix juste au  moment du départ de la dernière étape des coureurs du tour de France, qui les conduits jusqu'à Paris.
 Nous verrons peut-être Roubaix lors d'une nouvelle tentative ...

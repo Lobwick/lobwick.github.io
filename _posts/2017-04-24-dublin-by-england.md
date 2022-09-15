@@ -5,6 +5,7 @@ date:   2017-04-24 14:51:08 +0100
 image: /assets/images/dublin-by-england/dublin-by-england_4593.jpg
 ---
 > Le printemps est l’occasion de voyager à nouveau.
+
 C’est cet hiver que j’ai pensé rejoindre Félix à Dublin ; l’occasion ne se  représentera pas et le temps s’annonce propice.
 
 L’objectif est d’atteindre l’Irlande le plus rapidement possible pour profiter de quelques jours de vacances avec lui ; je ferai quand même un peu de tourisme et quelques photos pour cet article.
@@ -72,6 +73,7 @@ Une bouffée de chaleur m’accueille à Douvres, après être sorti le dernier 
 Après le souci de chaussure, je suis ennuyé par la sacoche de cintre qui appuie sur le câble du frein avant,  entraînant un frottement.
 
 > Cela ne m’empêche pas de prendre la direction de Londres, avec encore une heure d’avance en raison du décalage horaire.
+
 Plus j’approche de Canterbury et plus j’apprécie ma tenue d’été en cours d’après-midi. Le paysage ressemble étrangement à celui des collines de l’Artois.
 Le souci de la sacoche est pénible, car la qualité du revêtement des routes anglaises est vraiment exécrable, même sur les principaux axes ; il va falloir s’y faire en se concentrant sur la circulation.
 > Mieux vaut mettre pied à terre dans les rues piétonnes de Canterbury qui sont noires de touristes.
@@ -95,6 +97,7 @@ Le but est de se rapprocher de la cathédrale, mais je suis désabusé de ne pou
 Cette première journée vers Dublin s’achève, mais j’ai le temps de profiter de la capitale.
 Alors que le soleil s’incline sur l’horizon, je m’aperçois sur le GPS que je suis en train de manquer Greenwich dans la banlieue londonienne.
 > Un petit détour est par conséquent impératif pour franchir ce méridien.
+
 Encore faut-il le trouver ? Mais en essayant de demander à des Anglais, des Français qui viennent d’y passer, m’indiquent la direction.
 <div class="gallery-box">
   <div class="gallery">
@@ -136,6 +139,7 @@ Fin de la visite à Buckingham Palace où je m’alimente en céréales, en atte
 </div>
 </div>
 > Après cette longue journée, je ne me vois pas continuer à rouler pour sortir de Londres.
+
 Le parc voisin de Buckingham va m’héberger pour cette première nuit au sein d’un bosquet d’arbres et d’arbustes, tout en profitant d’un peu de lumière urbaine pour m’installer. À peine endormi, un renard et non un chien vient me pincer les orteils ! Il finira par me laisser tranquille.
 <div class="gallery-box">
   <div class="gallery">
@@ -158,18 +162,22 @@ Le parc voisin de Buckingham va m’héberger pour cette première nuit au sein 
 
 ## Retour
 >   La fin des vacances approche et il va falloir songer à revenir en France ! 
+
 Le retour est prévu dans la nuit de mercredi à jeudi.
 Je vais reprendre un Superferry de StenaLine à 2 h 40, pour finir ma nuit à bord et commencer à rouler aux aurores, une fois arrivé à Holyhead. C’est ainsi que Félix et moi arrivons au port avec une heure d’avance.
 >   Hélas, je me suis trompé d’horaire et le ferry doit partir à 2 h 15 !
+
 Impossible donc d’embarquer sur celui-ci, mais l’employé me propose de réserver tout de suite ma place pour le premier de la journée à 8 h 20.
 Désabusé par ce changement de programme qui va me contraindre à retarder mon retour de six heures, nous retournons chez Félix pour finir notre nuit.
 Après ce faux départ dont je me serais bien passé, nous revoilà à la compagnie StenaLine au lever du jour ; surtout que le ferry suivant part en milieu d’après-midi.
 >    J’ai de la marge, mais n’abusons quand même pas !
+
 Je patiente avec les autres piétons, pensant ensuite monter à bord en pédalant, comme cela a été le cas à l’aller.
 Encore une désillusion, car mon cher Victoire doit être chargé avec les autres bagages de passagers dans une camionnette ; en attendant de s’installer dans un bus pour accéder au ferry.
 La traversée peut ensuite commencer. Je me remets de ces dernières émotions en essayant d’accumuler encore un peu de sommeil, dont je vais avoir grandement besoin une fois au Pays de Galles ! Pas évident avec des groupes de jeunes anglais excités par leur voyage.
 À l’arrivée à Holyhead, même procédure pour le débarquement avant de récupérer le vélo.
 >  Ce n’est que vers midi que je peux enfin débuter à traverser le Pays de Galles, en tentant d’oublier ces fâcheuses péripéties.
+
 Le point positif est que pas une goutte de pluie n’est annoncée pour les prochains jours, avec du vent d’ouest plutôt favorable.
 Je ne pense donc qu’à pédaler en maintenant une allure régulière d’endurance ; c’est pourquoi les photos de ce retour sont inexistantes.
 Plus de soucis de freinage puisque de nouveaux étriers m’ont été offerts par Félix, qui les a d’ailleurs installés. J’en ai aussi profité pour puiser dans son stock de pneus pour en installer de plus larges ; surtout plus confortables pour affronter le mauvais revêtement anglais, équivalent parfois à nos routes communales !
@@ -184,6 +192,7 @@ Avec de la marge, le week-end me permet de réaliser ce que je viens d’accompl
 
 ### Pays de Galles
 > Ce troisième jour va contraster avec les précédents en traversant ce morceau de Grande-Bretagne.
+
 Tout d’abord, changement de tenue avec jambières et brassières en raison des températures divisées par deux et d’un petit vent de nord-ouest désagréable ; ensuite le paysage montagneux s’annonce grandiose.
 Une route historique se présente à moi pour franchir le Pays de Galles ; elle fut construite au début du XIXe siècle à l’époque des calèches.
 <div class="gallery-box">
@@ -239,6 +248,7 @@ Une fois à Bangor, un magnifique pont suspendu me permet de passer sur une peti
 </div>
 
 > Les derniers kilomètres ou plutôt miles sont interminables avec le stress de l’horaire.
+
 Au niveau du terminal, les bureaux de Irish Ferries sont closed, mais par chance il y a l’autre compagnie, StenaLine ; j’ai même une petite heure d’avance !
 <div class="gallery-box">
   <div class="gallery">

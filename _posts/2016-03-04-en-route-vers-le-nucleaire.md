@@ -6,6 +6,7 @@ image: /assets/images/en-route-vers-le-nucleaire/en-route-vers-le-nucleaire_3574
 ---
 Quelle direction prendre avec un important vent de Nord-Est ?
 > Mieux vaut l’avoir de travers à l’aller comme au retour.
+
 Je privilégie donc la direction de la Manche.
 
 <center><iframe src="https://www.strava.com/activities/504877775/embed/734ae923519f19fe71ec6aa9fc975fabe6382e4b" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
@@ -16,6 +17,7 @@ Occasion également pour moi de rendre hommage à mon dernier oncle, Josué de N
 Ce dernier roulait encore quelques semaines auparavant sur son bon vieux vélo à l’âge de 93 ans.
 Tenue d’hiver adéquate pour affronter ce vent glacial, j’enfourche le Fixie auquel je prends goût.
 > Surtout que le parcours est relativement plat dans la plaine du Nord, à condition d’éviter les Monts.
+
 Je vais quand même frôler le Mont Cassel et sa terrible montée en pavés.
 Après ce léger vallonnement à peine perceptible avec le monovitesse, je me laisse descendre vers la côte.
 ![](/assets/images/en-route-vers-le-nucleaire/en-route-vers-le-nucleaire_1627.jpg)
@@ -38,6 +40,7 @@ Je file d’abord jusqu’à l’extrémité de l’imposante digue qui protège
 En raison du vent, il n’y a même pas un pêcheur.
 Par contre, le trafic des navires est important.
 > Ensuite, je vais m’approcher au plus près de cette centrale qui tourne à plein régime en période hivernale.
+
 Il suffit d’écouter les trois énormes lignes électriques de 400 kV pour s’en rendre compte.
 Pas de tours de refroidissement, car il se fait grâce à la mer (à confirmer par les spécialistes).
 
@@ -63,6 +66,7 @@ Un magnifique beffroi domine sa grand-place et la mairie.
 </div>
 
 > L’air marin m’attirant, je prolonge vers Grand-Fort-Philippe en longeant le canal.
+
 Je me souviens d’ailleurs d’un ancien voyage scolaire de fin d’année accompli avec des cm2.
 C’est l’ancien bâtiment des sauveteurs en mer qui me le rappelle.
 

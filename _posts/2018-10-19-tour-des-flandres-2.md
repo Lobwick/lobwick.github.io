@@ -9,6 +9,7 @@ C'est aussi en quelque sorte le souvenir du début d'année avec le [Ronde von V
 Après le [Raid du Roc d'Opale]({% post_url 2018-09-26-raid-roc-dopale %}) très humide, l'été indien est de retour sur les Flandres.
 Nous nous inscrivons donc au dernier moment pour ce Ronde von Vlaanderen tout terrain.
 > Le plus long parcours de 80 km est intense en difficultés, avec 14 ascensions !
+
 Il reprend toutes les fameuses côtes des Monts ( berg ) du Tour des Flandres sur route, entrecoupées de secteurs boisés vtt/gravel.
 Félix décide donc de s'y attaquer avec son Specialized Crux.
 Quant à moi, je reste classique avec mon VTT Epic.
@@ -25,6 +26,7 @@ Quant à moi, je reste classique avec mon VTT Epic.
 Le début de l'itinéraire est situé à proximité du Mont de l'Enclus, pas trop distant de Lille.
 Il faut d'abord laisser s'élancer les acharnés qui ont opté pour le départ de masse chronométré à 8 h.
 > Surtout que le champion olympique Greg Van Avermaet fait partie de ceux-ci.
+
 Il clôture ainsi sa saison tranquillement, en découvrant autrement les monuments du Tour des Flandres.
 <div class="gallery-box">
   <div class="gallery">
@@ -55,6 +57,7 @@ Plus loin, le Knokteberg ( 1260m à 7% avec un max de 13% ) et la version Off-Ro
 
 ![Ce n'est pas le printemps !](/assets/images/tour-des-flandres-2/tour-des-flandres-2_9788.jpg)
 > Le premier ravitaillement de Ronse permet de reprendre des forces ...
+
 Une petite boucle nous fait franchir le Sherpenberg ( 1200m à 8,4% avec un max de 20% )
 Au niveau d'une bifurcation avec le parcours de 50 km, Félix me propose de continuer en solo le 80 car il n'est pas en vtt.
 <div class="gallery-box">
@@ -71,6 +74,7 @@ Au niveau d'une bifurcation avec le parcours de 50 km, Félix me propose de cont
 Ma première surprise est un single track très technique où je ne suis pas à l'aise par manque d'entraînement.
 Ensuite le rythme des bergs reprend avec le Kanarieberg et le Berg Ten Houte.
 > Voulant gagner du temps pour retrouver Félix, je ne m'arrête pas au deuxième ravito.
+
 Les deux monts suivants sont le Taaienberg ( 890m à 6,1% avec un max de 16% ) et l'Eikenberg ( 1148m à 6,2% avec un max de 10% ).
 <div class="gallery-box">
   <div class="gallery">
@@ -85,6 +89,7 @@ Les deux monts suivants sont le Taaienberg ( 890m à 6,1% avec un max de 16% ) e
 </div>
 Avant le troisième et dernier ravito, il y a le Koppenberg.
 > Proche de l'arrivée et en pleine forme, je me passe aussi de ce ravitaillement !
+
 Il reste pourtant le Paterberg ( 360m à 12,9% avec un max de 20,3% ) et le célèbre Oude Kwaremont ( vieux Kwaremont ).
 <div class="gallery-box">
   <div class="gallery">

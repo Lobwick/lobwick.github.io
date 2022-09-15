@@ -35,6 +35,7 @@ Ce fut donc le cas lors de vacances aux sports d’hiver. Pour éviter tout souc
 Cette stratégie réussit pour la première Étoile. Mais ce ne fut pas le cas pour la deuxième que je tentais de passer à l’ESF des Ménuires. En effet, après avoir effectué une remontée dans le télécabine avec le moniteur et mes parents, celui-ci leur demanda pourquoi procédait-on ainsi.
 Mon père lui expliqua qu'ils ne souhaitaient pas que je gêne un cours collectif mais la réponse du moniteur fut vraiment déconcertante :
 > « Quand on a un fils avec une telle maladie, on reste chez soi ! »
+
 Le cours se termina donc sur ce grave malentendu. L’ESF fit la sourde oreille lorsqu’on lui parla de la réaction de ce moniteur auquel il faudra expliquer que le sport ne fait que du bien à un diabétique !
 ![](/assets/images/jeunesse-et-diabete/jeunesse-et-diabete_3811.jpg)
 ## Team Novonordisk

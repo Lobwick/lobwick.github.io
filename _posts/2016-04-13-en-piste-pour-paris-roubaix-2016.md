@@ -7,6 +7,7 @@ image: /assets/images/en-piste-pour-paris-roubaix-2016/en-piste-pour-paris-rouba
 Une semaine après le marathon de Paris, se présente le Paris Roubaix Challenge.
 Cela va faire du bien de pédaler, après avoir couru autant de kilomètres.
 > Surtout que cette année, contrairement à l'année dernière, on a pu se reposer entre deux.
+
 Ces deux événements peuvent ainsi mieux se savourer.
 
 ## Veille de course
@@ -21,6 +22,7 @@ Félix, étant en stage chez Décathlon Pro, à Villeneuve d'Ascq, se fait un pl
 
 Il va pouvoir se plonger dans l'ambiance des deux vélodromes de Roubaix, l'ancien en plein air et le couvert, plus récent.
 > C'est comme sur le Tour de France, c'est un monde à part.
+
 Mais contrairement au tour, on peut y participer le lendemain ( sauf l'étape du tour ouverte aux amateurs )
 Félix en a plein les yeux et ne peut s'empêcher de faire quelques achats chez Rapha, la célèbre marque cycliste.
 <div class="gallery-box">
@@ -38,6 +40,7 @@ Samedi, cela ne plaisante plus, avec 170 km qui nous attendent, dont une cinquan
 Le départ, pour les amateurs, se fait de Busigny; alors que les pros partent de Compiègne, en passant par St Quentin.
 Il est prévu de s'y rendre en train, mais comme nous le manquons de cinq minutes, il ne reste plus que la voiture.
 > Nous prenons finalement le départ vers huit heures.
+
 Point positif, le vent favorable devrait nous accompagner jusqu'à Roubaix, si la pluie ne nous rattrape pas.
 <div class="gallery-box">
   <div class="gallery">
@@ -48,6 +51,7 @@ Point positif, le vent favorable devrait nous accompagner jusqu'à Roubaix, si l
 </div>
 L'intérêt de partir de Busigny est que l'on aborde tout de suite le premier des vingt-sept secteurs pavés, celui de Troisvilles.
 > Bonne nouvelle, ces pavés sont secs pour l'instant, avec un peu de terre au milieu par endroits.
+
 Il vaut mieux car félix roule avec son vélo de piste.
 On l'a simplement équipé de pneus spéciaux pour pavés anticrevaison.
 Quant au père, il privilégie le confort, avec son vtt tout suspendu.
@@ -56,6 +60,7 @@ Le premier ravitaillement, en sucres rapides et lents, ainsi qu'en salé, est ap
 
 ## Trouée d'Arenberg
 > Nous ne tardons pas à nous approcher de la fameuse Trouée ou Tranchée de Wallers-Arenberg.
+
 Comme la température s'est bien réchauffée, elle se présente bien.
 <div class="gallery-box">
   <div class="gallery">
@@ -73,6 +78,7 @@ Une fois l'énervement passé, pas le choix, il faut la franchir à nouveau; mai
 Effectivement, le fléchage nous indique ensuite la bonne direction; contre-temps dont nous nous serions passés.
 D'autres noms célèbres apparaissent comme Pont Gibus en hommage à Gilbert Duclos-Lassalle.
 > Le compte à rebours de tous ces secteurs pavés se fait sentir, chacun mesurant entre un et trois kilomètres.
+
 Moment d'inattention et me voilà à terre, sans gravité, après avoir bloqué la roue avant dans une flaque de boue.
 Enfin celui du Carrefour de l'Arbre, très renommé, et surtout proche de l'arrivée.
 <div class="gallery-box">
@@ -87,6 +93,7 @@ Plus que quelques kilomètres avant Roubaix et c'est presque un sprint final.
 
 ## Roubaix
 > Il ne faut pas manquer l'entrée sur l'ancien vélodrome en plein air.
+
 Heureusement, il y a le dernier secteur pavés, avec ceux de tous les vainqueurs, qu'on n'a pas le temps de lire.
 <div class="gallery-box">
   <div class="gallery">
@@ -122,6 +129,7 @@ Après le franchissement de la ligne d'arrivée, tous les coureurs ont droit à 
 ## Journée des pros
 Dimanche, place aux professionnels, alors que les amateurs sont devant leur écran ou au bord des pavés.
 > C'est le grand beau temps habituel du nord, qui a bien séché les pavés.
+
 La matinée commence pour moi dans le ter, pour aller récupérer la voiture à Busigny.
 Il était prévu d'y retourner à vélo, sans passer sur les pavés; mais la chute de la veille a laissé des traces.
 La voiture est garée à proximité de la gare et je reprends la route, direction Lille.
@@ -129,11 +137,13 @@ Félix étant seul, nous allons suivre les pros sur petit écran, jusqu'à la Tr
 
 ## Carrefour de l'Arbre
 > Pour prendre l'air, nous nous rendons au célèbre Carrefour de l'Arbre, où ils sont attendus à partir de seize heures.
+
 Pas évident d'y accéder avec les schtroumfs à moto, mais le gps parvient à les éviter.
 Grosse affluence, surtout de la part de nos voisins Belges, bien représentés par leurs champions.
 Les premiers coups de sifflets retentissent, annonçant la mini caravane publicitaire.
 Tout juste le temps de préparer les divers appareils pour immortaliser l'événement, que de la poussière approche, survolée par l'hélicoptère.
 > Il vaut mieux être prêt car ils roulent presque aussi vite que sur route et il n'est pas évident de les reconnaître.
+
 Ces équilibristes du pavé nous frôlent, profitant des quelques bandes de terre, ainsi que les voitures de leur directeur sportif.
 
 <div class="gallery-box">
@@ -201,6 +211,7 @@ Mais nous réussissons à nous faufiler dans les tribunes officielles du vélodr
 
 Par chance, Tom Boonen vient juste d'y accéder, afin d'être interviewé.
 > C'est l'occasion d'une séance photos avec autographe à la clé.
+
 Cette journée se termine au milieu des poids lourds imposants de chaque équipe cycliste, où les mécaniciens bichonnent les bicyclettes haut de gamme.
 
 <div class="gallery-box">

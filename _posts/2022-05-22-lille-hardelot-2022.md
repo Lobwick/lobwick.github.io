@@ -24,6 +24,7 @@ Ensuite les grands boulevards lillois permettent de fluidifier les cyclotouriste
 Quelques passants matinaux, comme ce sera le cas tout au long du parcours, nous encouragent déjà.
 
 > Il faut dire qu’il n’est que 7 h du matin, pour ne pas arriver trop tard à Hardelot !
+
 A la sortie de Lille, nous prenons la direction du littoral.
 Le début de l’itinéraire est très roulant pour permettre d’échauffer les gambettes fraîches du matin.
 Il va nous conduire à travers les Weppes jusqu’au premier ravitaillement de Merville.
@@ -39,6 +40,7 @@ Il va nous conduire à travers les Weppes jusqu’au premier ravitaillement de M
 </div>
 
 > N’ayant effectué qu’une quarantaine de kilomètres, on décide de ne s’arrêter qu’au prochain.
+
 Après l’échauffement le rythme s’accélère et il faut rester vigilant car les allures de tous ces cyclistes sont très variées en fonction du niveau.
 Arrivés à Saint-Omer, nous constatons avec stupéfaction qu’une majorité de coureurs ont eu la même idée que nous.
 Ce second ravito est noir de monde et il ne reste plus que des oranges et des bananes pas mûres !
@@ -83,11 +85,13 @@ Parmi les nouveautés de cette édition, nous nous rapprochons de Boulogne.
 </div>
 
 > La vue de la Manche fait du bien au moral !
+
 Avant d’atteindre Hardelot, les organisateurs ont prévu un dernier ravito à La Capelle-lès-Boulogne.
 Il faut surtout penser à se réhydrater même s’il n’a pas fait chaud, pour éviter les crampes.
 Les quelques dizaines de kilomètres à parcourir sont vraiment dépaysants en mode gravel sur du chemin gravilloné.
 
 > Quelques crevaisons sont inévitables mais épargnent notre peloton !
+
 On est d’ailleurs agréablement surpris de découvrir le panneau « Hardelot » à la sortie de la forêt.
 Le final dans les rues de cette station balnéaire est forcément en pente favorable pour retrouver le niveau de la mer.
 
@@ -112,6 +116,7 @@ En ce début d’après-midi, du réconfort nous est apporté avec un petit pain
 La voiture que j’avais laissée la veille, avant de faire le retour à vélo, est heureusement toujours au même endroit et je n’ai pas oublié les clefs !
 
 > Mais avant de charger les vélos, une brasserie va compléter notre réconfort.
+
 Il ne restera plus qu’à affronter les bouchons du retour vers la métropole lilloise !
 Ce cru 2022 fut une merveilleuse réussite à tous points de vue…
 

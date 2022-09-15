@@ -9,6 +9,7 @@ Il s'agit toujours de gravel sur les chemins des Hauts de France.
 Ce brevet est organisé par le club Lys VTT, basé à Erquinghem-Lys près d'Armentières, et regroupe une cinquantaine de cyclistes.
 C'est d'ailleurs depuis cette ville que le parcours commence, pour y revenir une fois bouclé.
 > Il est quand même prévu 450 km pour 5000 m de dénivelé, avec uniquement de la route pour les liaisons.
+
 Habitant à proximité, il suffit de s'y rendre directement à vélo, depuis Lille pour Félix et depuis la maison pour moi; ce qui est appréciable.
 
 ## Briefing
@@ -121,6 +122,7 @@ Retour en France avec le Monts des Cats et le fromage ou la bière des moines de
 </div>
 
 > C'est justement à son niveau que l'aventure a failli se terminer pour Félix.
+
 En effet, sa nouvelle sacoche de cintre, achetée la veille, frotte sur le cadre du vélo sans pouvoir la maintenir.
 Décision est prise de transférer son contenu dans ma sacoche de selle que je n'avais pas remplie au maximum.
 Reste à dissimuler sa sacoche parmi les arbres de la forêt, sans oublier de la repérer, afin de revenir la récupérer par la suite...
@@ -146,6 +148,7 @@ Le dernier Mont concerne la ville de Cassel où la pause déjeuner s'impose.
 </div>
 </div>
 > C'est également le cas d'une majorité d'entre nous qui a repéré la même boulangerie.
+
 Nous nous installons au soleil sur les marches de l'hôtel de ville avec nos sandwichs.
 Ludo en fait autant et c'est l'occasion pour faire connaissance, avant de reprendre l'aventure avec lui un peu plus loin.
 <div class="gallery-box">

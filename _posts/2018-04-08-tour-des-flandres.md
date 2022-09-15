@@ -9,6 +9,7 @@ Les classiques flandriennes continuent mais avec une interruption dans l'Etixx C
 Après la bonne préparation des premières, dont Gand-Wevelgem, c'est le grand rendez-vous !
 La classique qu'il ne faut pas manquer, comme Milan-San Remo dans un autre style.
 > Le Tour des Flandres est l'épreuve reine des flandriennes qui réunit toute la Belgique.
+
 Un million de passionnés se déplacent pour assister au Ronde Van Vlaanderen.
 Ce public vit cette classique au plus proche des coureurs, comme sur aucune autre !
 Ils sont des dizaines de milliers pour assister à son départ depuis Anvers.
@@ -29,6 +30,7 @@ Etant hors du calendrier du Etixx Classics Tour, nous nous sommes inscrits au de
 Il ne restait plus que des participations en hors-catégorie !
 Heureusement, Félix a pu l'obtenir par l'intermédiaire de la Team Novo Nordisk.
 > C'est donc une première pour nous.
+
 Mais en cette veille de 1 er avril, ils ont bien cru à un poisson.
 Impossible de trouver l'accueil VIP de ces participations hors-catégories !
 Il se trouvait tout naturellement juste au niveau de la ligne d'arrivée officielle à Oudenaarde.
@@ -68,6 +70,7 @@ Embouteillages inévitables qui vont se dissiper progressivement en fonction des
 Le nôtre débute avec la côte très abrupte du Wolvenberg, asphaltée mais dont le pourcentage maximal atteint 17%, alors que les muscles sont tout juste chauds.
 Puis les secteurs pavés du Ruitersstraat et du Paddestraat, avec le Molenberg intercalé, nous amènent jusqu'au premier ravitaillement, proche de Zottegem au nord-est de notre départ.
 > Dans le Molenberg, certains mettent pied à terre au passage des 15%, en raison de la bousculade et de l'humidité boueuse de ces pavés exigeants.
+
 Avant d'atteindre les routes étroites et escarpées du Leberg en direction du sud, ce sont les pavés ondoyants du Haaghoek qui nous font souffrir.
 Au niveau de Brakel, il faut monter la Tenbossestraat.
 <div class="gallery-box">
@@ -88,6 +91,7 @@ Pourtant il faut le franchir pour rejoindre son sommet.
 Le chemin, car on ne peut plus parler de route, se met à sinuer à presque 20% sur des pavés déformés ...
 Miraculeusement, il est sec, même sous les arbres.
 > La vue de la petite chapelle est une véritable délivrance !
+
 Tout le monde reprend sa respiration, avant un ravito mérité juste en contre-bas.
 <div class="gallery-box">
   <div class="gallery">
@@ -103,6 +107,7 @@ Il faut maintenant repartir vers Oudenaarde en longeant les collines.
 Sauf qu'il va falloir les franchir à un moment ou un autre, avec le kilomètre du Valkenberg à presque 10%.
 Puis, après une longue route plus large, c'est au tour de l'Eikenberg, un peu moins rigoureux.
 > Nous revoilà à Oudenaarde, mais uniquement pour un ravitaillement !
+
 Le tracé reprend la direction du sud-est, avec cinq côtes au programme, sans oublier le secteur pavé de Mariaborrestraat à parcourir sur 2 km.
 <div class="gallery-box">
   <div class="gallery">
@@ -119,6 +124,7 @@ Avant de pouvoir vaincre les 500 m du Koppenberg, il faut faire la queue !
 Les organisateurs sont obligés de nous laisser le monter que par vagues de quelques dizaines de cyclistes.
 Comme sur l'autoroute au moment des vacances scolaires ...
 > Sinon, ce serait l'hécatombe au moment du passage à 22% sur ses pavés boueux !
+
 Même ainsi, beaucoup perdent de l'adhérence, condamnant les suivants à arrêter de pédaler.
 Pourtant, il est bien indiqué que les "tortues" doivent rester à droite, pour laisser filer les "lièvres" à gauche.
 Idem pour la file de véhicules lents sur autoroute ...
@@ -138,6 +144,7 @@ Cette sensation ne prend une telle ampleur qu'au Tour des Flandres !
 Tout juste le temp de récupérer, avant de se faire secouer par les 2 km de mauvais pavés de Mariaborrestraat.
 S'enchaînent ensuite presque comme les cinq doigts de la main, le Steenbeekdries, le Taaienberg, le Kaperij et le kanarieberg.
 > Redescente vers Ronse ou Renaix, pour le dernier ravito.
+
 Nous ne nous éternisons pas car des averses menacent sur le relief, après une journée qui s'est considérablement réchauffée.
 Surtout qu'un trio de monts nous attend avec le Kruisberg, le Hotond et le Karnemelkbeek.
 <div class="gallery-box">
@@ -153,6 +160,7 @@ Surtout qu'un trio de monts nous attend avec le Kruisberg, le Hotond et le Karne
 
 Reste le bouquet final de cette mythique classique !
 > Il s'agit de l'enchaînement du Vieux Kwaremont avec le Paterberg.
+
 Le premier est vraiment pénible en raison de ses 2 km de pavés irréguliers avec un passage à plus de 10%.
 Ce n'est pas pour rien que sa bière se mérite ...
 
@@ -182,6 +190,7 @@ Quelques kilomètres pour le sprint final, à presque 40km/h, afin de franchir l
 Le moment le plus appréciable de la journée est de retrouver la zone VIP en bordure de cette ligne.
 Après avoir récupéré notre médaille, place à la Pasta Party ...
 > Elle est à l'image du petit-déjeuner !
+
 Différentes sortes de pâtes, accompagnées de sauces variées et des meilleurs fromages italiens, sans oublier les salades.
 Même le Saint-Emilion est prévu, à consommer avec modération car il y a le retour.
 <div class="gallery-box">
@@ -195,6 +204,7 @@ Même le Saint-Emilion est prévu, à consommer avec modération car il y a le r
 
 A la fin de cette journée, nous avons le sentiment d'avoir vécu l'équivalent de l'étape du tour de France, de juillet 2017 entre Briançon et le Col d'Izoard.
 > Il y a de la souffrance, qu'il faut combattre au moral, et une ambiance particulière ...
+
 La semaine prochaine, encore des pavés !
 
 Mais ceux du [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %})...

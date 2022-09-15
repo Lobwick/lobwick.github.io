@@ -9,6 +9,7 @@ Nouveau défi de cette année, participer aux dix classiques Etixx flandriennes 
 Surtout que nous précédons ou suivons les coureurs des équipes professionnelles sur les mêmes parcours.
 
 > Une bonne dose de pavés, souvent inclinés à plusieurs dizaines de degrés, nous attend.
+
 Tout va dépendre des conditions climatiques ...
 
 Justement, la première Flandrienne s'annonce hivernale !
@@ -55,6 +56,7 @@ C'est aussi à partir de cet instant qu'un des deux porte-bidons de Félix comme
 Bien sûr, ni l'un ni l'autre n'avons pensé au multi-outils ...
 Heureusement qu'un peu plus loin, une charmante Belge nous dépanne, après avoir fouillé dans les outils de son mari.
 > Il valait mieux car le premier kilomètre pavé du Mariaborrestraat va secouer les machines !
+
 Les pentes de l'Eikenberg et du Wolvenberg nous séparent du secteur suivant du Ruitersstraat.
 On reprend des forces au niveau de Zwalm pour nous permettre de continuer dans de bonnes conditions.
 

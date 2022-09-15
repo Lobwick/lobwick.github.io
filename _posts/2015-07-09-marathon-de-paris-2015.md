@@ -12,6 +12,7 @@ Eh oui ! C'est ce qui arrive quand on ne fait pas attention aux inscriptions.
 Changement radical de temps avec même de la chaleur.
 Les pompiers avaient sorti leurs lances à incendie pour nous réhydrater.
 > Ambiance impressionnante pour un premier marathon en famille.
+
 Nous avions d'ailleurs plus ou moins reconnu le parcours en participant au [semi-marathon](% post_url 2015-07-09-marathon-de-paris-2015 %)) quelques semaines auparavant.
 Une fois positionnés dans notre sas, il n'y a plus qu'à suivre le rythme.
 <div class="gallery-box">

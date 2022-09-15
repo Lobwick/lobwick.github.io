@@ -6,12 +6,14 @@ image: /assets/images/paques-en-irlande/paques-en-irlande_4869.jpg
 ---
 Après avoir [traversé l’Angleterre]({% post_url 2017-04-24-dublin-by-england %}), il faut garder la forme. Il y a certes un peu de ménage chez Félix, mais cela ne suffit pas.
 > Je compte bien profiter de ce valeureux vélo Victoire qui m’a conduit jusqu’à Dublin.
+
 Le temps est toujours aussi clément pour ces vacances de Pâques. De plus, certaines sorties n’ont pas été concrétisées à la [Toussaint]({% post_url 2016-10-31-les-moulins-en-terre-celtique %}).
 
 ## Howth
 Cette presqu’île aux portes de Dublin est vraiment dépaysante. Isa et moi l’avions un peu explorée lors des [dernières vacances]({% post_url 2016-10-31-les-moulins-en-terre-celtique %}) en Irlande.
 Je me doutais bien que Félix avait une idée en tête quand je l’ai vu monter des pneus de cyclo-cross sur son vélo Roubaix.
 > Pourtant j’étais loin d’imaginer ce qui m’attendait.
+
 Heureusement de mon côté, le Victoire a rajeuni avec de nouveaux étriers de freins. Les pneus, trop fins pour  les mauvaises routes anglo-irlandaises, ont aussi été changés pour être plus larges.
 Profitant d’un bel après-midi ensoleillé, nous voilà partis en direction de Howth à vive allure. On  peut y accéder rapidement grâce à une belle piste cyclable longeant la côte.
 >  Mais d’un seul coup, nous bifurquons vers la mer pour nous engager sur la surprise de Félix qui est un sentier côtier !

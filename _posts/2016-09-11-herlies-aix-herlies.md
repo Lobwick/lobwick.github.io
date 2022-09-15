@@ -7,13 +7,16 @@ image: /assets/images/herlies-aix-herlies/herlies-aix-herlies_2850.jpg
 ## Aller
 Deux ans après ma première traversée de la France, je suis à nouveau tenté par cette aventure.
 > Mais cette fois-ci avec un itinéraire plus direct en évitant un maximum de dénivelé.
+
 Je veux surtout profiter d'un maximum de jours de vacances à Aix.
 Le vélo aussi n'est plus le même car je délaisse mon vtt de compétition pour le bon vieux Gitane Victoire de papa.
 Plus d'imposantes sacoches sur porte-bagage arrière mais uniquement des sacoches en version bikepacking.
 ![A fond la sécurité !](/assets/images/herlies-aix-herlies/herlies-aix-herlies_2833.jpg)
 > Je privilégie la légèreté pour être plus rapidement rendu dans le midi.
+
 Ce début août s'annonçant sec mais chaud, je décide de prendre la route le lundi 1 er août aux aurores.
 > Je pourrai ainsi profiter de journées plus longues pour accumuler les kilomètres.
+
 Le parcours jusqu'à Paris est celui emprunté pour participer à Paris-Versailles à l'automne 2015 ( voir article )
 Il s'agit de longer l'autoroute du nord où toute la circulation est concentrée.
 Avant de traverser Paris par l'est, j'équipe la sacoche de selle d'un gilet fluo par précaution.
@@ -32,6 +35,7 @@ Après une petite toilette au gant et au bidon d'eau, il n'y a plus qu'à s'enfi
 
 ## Deuxième jour
 > Réveil avant le lever du soleil pour pouvoir rouler aux premières lueurs.
+
 Deuxième jour qui doit me conduire jusqu'à Lyon en passant par Beaune.
 L'itinéraire est assez proche de l'autoroute mais sur des départementales très roulantes.
 Je me rends compte que la Bourgogne est vallonnée avant d'atteindre le point culminant de cette traversée.
@@ -52,6 +56,7 @@ Occasion de retrouver une foule considérable de cyclistes émerveillés par les
 </div>
 
 > Cette pause tombe bien car la température approche les 35 degrés en plein après-midi.
+
 Deuxième étape se terminant à Lyon où la nuit reste chaude le long des quais.
 
 ## Troisième jour
@@ -73,6 +78,7 @@ Je ne peux m'empêcher de faire étape à Montélimar pour reprendre des forces 
 Mais la fin de ce troisième jour s'annonce un peu plus pénible à cause de la chaleur provençale.
 Les crampes menacent et l'ascension des dernières côtes se fait au ralenti.
 > J'atteins mon but en retrouvant l'Olivette et les parents vers 20h30.
+
 Cette traversée d'un millier de kilomètres fut plus rapide qu'en 2014 grâce à une meilleure expérience et un itinéraire plus rapide.
 
 <center><iframe src="https://www.strava.com/activities/664319958/embed/7f3db817b3c7ed4d5422cf4631b0ffd79b069ca6" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
@@ -93,6 +99,7 @@ A partir de Lyon je rejoins Mâcon en essayant de longer la Saône.
 Pas évident car elle est plutôt sauvage entre ces deux villes.
 Mais à partir de Mâcon je commence la Voie Bleue pour la quitter à Chalon-sur-Saône.
 > C'est le début de mes ennuis alors que le rythme est soutenu jusqu'à présent.
+
 Les quelques portions caillouteuses ont raison de mes pneus trop fins pour ce terrain.
 Après avoir épuisé toutes mes chambres à air de rechange, j'entame le stock de rustines.
 Que de temps perdu et les kilomètres qui ne défilent plus comme j'en ai l'habitude.
@@ -102,6 +109,7 @@ C'est à ce niveau que commence la Voie des Vignes jusqu'à Beaune en passant pa
 Pour regagner le canal de Bourgogne, j'évite le col de Bessey-en-Chaume mais la route s'élève quand même jusqu'à presque 600 m.
 Me voilà quand même dans la magnifique vallée de l'Ouche.
 > C'est à ce niveau que je retrouve le Canal de Bourgogne qui commence à Dijon.
+
 Je vais pouvoir passer une nuit paisible sur les bords de celui-ci au niveau de Montbard.
 
 <center><iframe src="https://www.strava.com/activities/678551238/embed/316bcabd9b83b114b9791cedff9ca1c7ef41e8cf" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>

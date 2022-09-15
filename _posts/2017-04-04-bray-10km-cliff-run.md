@@ -106,4 +106,5 @@ Le départ est donné! Le premier kilomètre est à parcourir sur la plage, dans
 Nous traversons ensuite le petit port de Greystones, pour enfin atteindre les sentiers à partir du 3 ° kilomètre.
 
 > Les flaques d’eau commencent à se faire ressentir dans les chaussures.
+
 J’abandonne l’idée d’arriver sec sur la ligne d’arrivée, bien que la pluie ait cessé. Une zone dégagée sur le côté me permet de  m’arrêter afin de retirer le K-Way trop chaud. J'enlève aussi la GoPro fixée sur le torse qui m’empêche de respirer convenablement.

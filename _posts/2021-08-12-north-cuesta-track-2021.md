@@ -7,6 +7,7 @@ image: /assets/images/north-cuesta-track-2021/north-cuesta-track-2021_13718.jpg
 Ayant pris goût l’année dernière à cette mini aventure en gravel dans la région, nous enfourchons à nouveau nos vélos cette année.
 Par contre, Benoît Gombert et les organisateurs l’ont allongé d’une centaine de kilomètres afin de se rendre jusqu’à la mer. Il y a maintenant 550 km, essentiellement de chemins, qui cumulent presque 8000 m de dénivelé !
 > Autre nouveauté, nous tournerons dans le sens inverse, à savoir dans le sens anti-horaire…
+
 La période reste inchangée puisque nous sommes toujours mi-juillet.
 Mais la météo s’annonce bien plus capricieuse, avec des sentiers déjà détrempés par un été plus humide que l’année dernière.
 Une chose est sure, nous ne souffrirons pas de la chaleur !
@@ -39,6 +40,7 @@ C’est par petits groupes que les aventuriers s’élancent à partir de 5h en 
 Pour notre peloton constitué de Ludo, Guillaume, Félix et moi, il faut être prêt pour 5h24 précises.
 Le ciel est bien dégagé mais cela ne va pas durer !
 > Direction le Mont Cassel avec très rapidement les premiers soucis.
+
 Félix connaît des problèmes d’étanchéité d’un pneu tubeless qui sont résolus après quelques manipulations délicates.
 Notre équipe atteint finalement ce Mont au moment de la collation matinale, dans la boulangerie où nous avons nos habitudes.
 Mieux vaut en profiter car la traversée du marais de Clairmarais, proche de Saint-Omer au niveau d’Arques, est dépourvue de tout commerce !
@@ -88,6 +90,7 @@ Nouvelle crevaison de Félix, puis ce sera au tour de Guillaume !
 Il va falloir songer à réfléchir où passer une bonne nuit après toutes ces péripéties et l’humidité ambiante.
 Une solution est trouvée alors que le groupe file à nouveau vers l’est, tout droit vers la Manche.
 > Un camping nous attend à Equirre, avec des assiettes poulet frites ou hamburgers.
+
 Après s’être douchés et rassasiés, chacun installe sa tente ultralight ou son bivy pour la nuit.
 Heureusement la pluie a cessé en début de soirée !
 
@@ -124,6 +127,7 @@ Nous décidons donc de prendre un peu d’avance sur le parcours, pour les retro
 Il en sera autrement car avec les nouvelles précipitations annoncées, Félix et Guillaume préfèrent se détourner vers le Crotoy.
 En effet, Isa et ses parents s’y reposent quelques jours en location.
 > Sans oublier que le genou de Félix est à peine rétabli, après son accident avec une voiture, au cours du mois de mai.
+
 La première journée en gravel boueux de presque 200 km et ses 2000 m de dénivelé a été très éprouvante malgré son courage !
 
 <div class="gallery-box">
@@ -163,34 +167,41 @@ Ayant poursuivi l’itinéraire avec Pascal et Ludo pour traverser la forêt d�
 Il préfère ne plus nous retarder avec Pascal !
 Avant de retrouver Wissant sur la Côte, la boucle du Nord-Pas-de-Calais passe par Desvres, connue pour sa porcelaine.
 > Je roule maintenant en solitaire car Pascal n’avait pas prévu de profiter de tout le parcours.
+
 Au passage de Samer, d’ailleurs sur le passage de Lille-Hardelot et connue pour ses fraises, il faudrait manger  mais trop d’attente à chaque fois. Mieux vaut m’alléger en pâtes de fruits alourdissant la sacoche de selle.
 
 Mon objectif de terminer la deuxième journée en bord de mer est atteint.
 > Mais il reste encore au moins 200 km avec surtout 3000 m de dénivelé !
+
 Avant de continuer à rouler de nuit pour me rapprocher de Calais, je fais le plein de sandwichs confectionnés dans la seule friterie ouverte et stockés dans les sacoches pour les savourer avant d’éventuellement dormir.
 Je mangerai plus tard car la pluie va revenir, en me contentant de deux gaufres à la cassonade et d’une bonne bouteille de San Pellegrino bien fraîche !
 Ma solution d’éclairage est convenable, sans prendre de risque tout en restant sur mes gardes.
 > La vue nocturne panoramique sur Calais est féérique !
+
 Les chemins sont roulants avec du valonnement, ce qui explique le dénivelé.
 Sentant la fatigue vers 1h du matin, je me résous à dormir quelques heures dans une grange, sous de la paille pour ne pas perdre de temps.
 De toutes les façons, il m’est impossible de terminer sans me reposer à un moment ou un autre…
 
 Pas besoin de réveil car l’orage me rappelle à l’ordre !
 > Ce troisième jour promet d’être pénible à tous points de vue.
+
 Les averses obligent à constamment adapter sa tenue.
 Il est trop tôt au moment de passer par Licques, dont la spécialité est la volaille, pour le petit déjeuner tant espéré.
 > Heureusement que les sandwichs étaient copieux !
+
 Mais dès la première supérette ouverte, j’engloutis un coca accompagné d’un sachet de céréales qui me nourrira jusqu’à l’arrivée si tout se passe bien…
 
 Je reconnais la suite et la fin du parcours car il ressemble à celui de l’année dernière en sens inverse avec quelques détours.
 Il y a à nouveau la forêt de Clairmarais à traverser, avec la pluie qui s’invite franchement alors que les averses n’étaient pas sérieuses jusqu’à présent.
 > Le pire est le terrain qui se dégrade de minutes en minutes, étant déjà très détrempé !
+
 Benoît nous a encore réservé une surprise avec un détour en Belgique, après le nouveau passage du Mont Cassel et le dernier checkpoint que je n’ai pas remarqué à la fin d’une ascension de presque 20 % !
 Le retour par les Monts n’est pas non plus de tout repos, surtout quand on est bon à être essoré et que le vélo chargé d’argile humide, n’avance même plus en le poussant.
 
 Je me mets à stresser car il est impératif de boucler le circuit avant la nuit, tout en sachant que Benoît doit s’impatienter !
 Les conditions sont tellement pénibles qu’il faut passer son temps à regraisser la chaîne et que l’écran tactile du gps "perd la boule"  à cause de la pluie.
 > Les derniers kilomètres interminables en mode zombie doivent s’accomplir à l’éclairage.
+
 L’apparition de Benoît au niveau du terminus me semble irréel !
 Il m’informe d’ailleurs que je suis le quatrième finisher, alors qu’il en attend encore le cinquième et dernier.
 > Les autres dizaines de participants ont fini par renoncer…

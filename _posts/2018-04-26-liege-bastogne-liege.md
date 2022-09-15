@@ -7,6 +7,7 @@ image: /assets/images/liege-bastogne-liege/liege-bastogne-liege_7742.jpg
 ---
 La saison des classiques printanières se termine par sa " Doyenne ".
 > Créée à la fin du 19 ème siècle, c'est la plus ancienne course cycliste encore disputée.
+
 C'est aussi l'une des plus exigeantes et des plus prestigieuses, comme le [Tour des Flandres]({% post_url 2018-04-08-tour-des-flandres %}) ou [Paris-Roubaix]({% post_url 2015-07-09-paris-roubaix-2015 %}) !
 Nous nous retrouvons donc en région Wallonne, dans le massif des Ardennes, pas loin du Luxembourg.
 
@@ -40,6 +41,7 @@ A cette époque de l'année, la fraîcheur matinale est appréciable, avant que 
 Nous commençons par longer la Meuse, avant de la quitter pour s'engouffrer dans la vallée de l'Ourthe.
 La route s'élève alors progressivement car ce sont de profondes vallées.
 > C'est ainsi que je réalise que Félix n'a pas la forme de la [Flèche Brabançonne]({% post_url 2018-04-23-brabantse-pijl %}) !
+
 Il n'a pas réussi à récupérer de ses hypos nocturnes ...
 
 <div class="gallery-box">
@@ -59,6 +61,7 @@ C'est à ce niveau que les différents parcours se croisent.
 Nous prenons la direction de Bastogne, plein sud.
 Il faut grimper à nouveau, progressivement mais sans interruption ...
 > Mais quand ce n'est pas la forme, les jambes ne sont pas au rendez-vous !
+
 Après une tentative de prise de glucides, la meilleure résolution est de faire demi-tour.
 On va donc raccourcir notre itinéraire ...
 
@@ -92,6 +95,7 @@ Du haut de celle-ci, il n'y a plus qu'à se laisser rouler jusqu'à Sereing pour
 C'est le secteur industriel de Liège, avec le stade de football du Standard de Liège.
 Cela me rappelle mon tour de Belgique, en passant par Anvers et jusqu'à Maastricht.
 > Nous sommes presque arrivés, mais reste la Côte de Saint-Nicolas ...
+
 A nouveau une ascension mythique chronométrée !
 Elle est identique à la précédente.
 

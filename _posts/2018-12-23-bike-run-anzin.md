@@ -7,11 +7,13 @@ image: /assets/images/bike-run-anzin/bike-run-anzin_9939.jpg
 Le flyer proposé au dernier Run and Bike d'Armentières était tentant.
 Surtout qu'il s'agit cette fois-ci d'une épreuve nocturne !
 > C'est une première pour nous.
+
 Le seul inconvénient est qu'il faut se rendre à Valenciennes un vendredi soir.
 Pas évident de s'extraire de l'agglomération lilloise en fin de semaine !
 Félix finissant à 18h30, on a donc tout juste le temps d'arriver pour le départ vers 20h.
 Heureusement qu'il y a d'autres courses plus courtes avant la notre.
 > Par chance c'est pratiquement la seule journée sèche de la semaine !
+
 Cette fois-ci je nous ai inscrits sur leur site pour gagner du temps.
 <div class="gallery-box">
   <div class="gallery">
@@ -24,6 +26,7 @@ Cette fois-ci je nous ai inscrits sur leur site pour gagner du temps.
 L'équipe TwoMoulins porte le numéro 88 et il fait 8 degrés.
 Ce n'est plus l'hiver mais à nouveau l'automne.
 > Préparatifs différents avec l'obligation d'y voir presque comme en plein jour !
+
 Le vtt de Félix bénéficie du dernier éclairage surpuissant de Specialized.
 Quant à nous, on est équipé de l'éclairage ventral et dorsal de Décathlon très pratique et suffisant.
 Après un court briefing, les cyclistes se mettent en place en amont du parcours alors que les joggeurs vont s'élancer.
@@ -40,15 +43,18 @@ Hélas, ce qui devait arriver se produisit pour notre première expérience by n
 </div>
 </div>
 > Avec la centaine d'équipes au départ, je ne l'ai pas vu passer à toute vitesse.
+
 Ce n'est qu'après avoir vu défiler presque tous les concurrents, que je me décide à les remonter un à un.
 J'espère ainsi rejoindre Félix pour lui laisser le vélo.
 Cela m'a rappelé notre premier run and bike à Zuytpeene, où j'avais couru en dépassant le vélo laissé par Félix, avant de faire demi-tour.
 > Mais nous finirons par être au point !
+
 Toujours est-il que c'est une longue remontée qui nous attend ...
 Pas évident car le parcours est plus technique qu'à Armentières.
 Ce qui a son charme d'ailleurs.
 C'est à la lueur de nos éclairages que nous dépassons les premiers attardés moins rapides.
 > Mais il faut jouer un peu des coudes car certains passages sont sinueux.
+
 Les crampons sont aussi de rigueur car le terrain est gras.
 On finit par prendre notre rythme en se relayant régulièrement alors que les équipes sont maintenant plus espacées.
 <div class="gallery-box">
@@ -63,6 +69,7 @@ Le retard du départ est presque comblé mais il ne sera pas évident de retrouv
 D'autant plus que nous parcourons la dernière des trois boucles du circuit.
 Félix termine en courant comme il avait commencé, alors que je l'accompagne à vélo.
 > Ayant tout donné pour remonter dans le classement, il s'écroule juste après l'arrivée, victime d'une légère hypoglycémie !
+
 Heureusement tout le monde vient à son secours en lui proposant même du vin chaud.
 <div class="gallery-box">
   <div class="gallery">

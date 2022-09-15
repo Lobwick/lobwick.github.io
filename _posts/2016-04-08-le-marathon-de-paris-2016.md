@@ -6,6 +6,7 @@ image: /assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1737.j
 ---
 ## Week-end Marathon de Paris
 > Après le [semi]({% post_url 2016-03-06-semi-marathon-de-paris-2016 %}) du mois de mars, on reprend les mêmes, mais on double la distance avec le Marathon de Paris!
+
 C'est donc un beau week-end parisien qui nous attend.
 Impossible d'échapper au retrait des dossards, la veille de la course.
 L'expérience Airbnb du mois de mars ayant été satisfaisante, nous la renouvelons.
@@ -15,6 +16,7 @@ Nous allons passer la nuit à Arcueil, tout proche du RER.
 Le parcours du marathonien commence donc au salon du running.
 Il faut se rendre au parc des expositions situé Porte de Versailles.
 > C'est là que nos dossards, parmi les 50 000, nous attendent.
+
 J'en profite pour récupérer une lampe Schneider Electric, gagnée par tirage au sort lors de la préparation du Marathon de Paris.
 Elle pourra toujours servir en randonnée vélo.
 <div class="gallery-box">
@@ -28,6 +30,7 @@ Elle pourra toujours servir en randonnée vélo.
 ## Shopping parisien
 Comme en [Mars]({% post_url 2016-03-06-semi-marathon-de-paris-2016 %}), nous profitons des boutiques de la capitale.
 > Cette fois-ci, c'est pour se plonger dans le monde du triathlon.
+
 Un petit crachin nous incite à regagner Arcueil.
 Pas la peine de se fatiguer davantage, afin de se préserver pour le lendemain.
 Le traditionnel plat de tagliatelles est savouré pour faire le plein de sucres lents.
@@ -35,6 +38,7 @@ Le traditionnel plat de tagliatelles est savouré pour faire le plein de sucres 
 ## Le grand jour
 Au petit matin, l'ambiance humide a disparu et le soleil fait son apparition.
 > Direction Place de l'Etoile grâce aux différents rer.
+
 Le ciel, au dessus de l'Arc de Triomphe, annonce une chaude journée.
 <div class="gallery-box">
   <div class="gallery">
@@ -46,6 +50,7 @@ Le ciel, au dessus de l'Arc de Triomphe, annonce une chaude journée.
 </div>
 Pas de temps pour le tourisme, afin de rejoindre notre sas de départ.
 > Les Champs-Elysées sont noirs de monde, sous un ciel tout bleu.
+
 Nous visons les 3h45, tout comme une partie de l'équipe Décathlon Pro.
 Félix est actuellement en stage chez eux et c'est l'occasion de courir avec d'autres sportifs.
 Place à l'habituel échauffement, pour mettre de l'ambiance et nous faire patienter.
@@ -68,6 +73,7 @@ D'ailleurs, une partie du parcours reprend celui du semi du mois de mars.
 Ensuite, il faut longer la Seine, avec la chaleur qui se fait sentir.
 Heureusement, les sapeurs-pompiers de Paris ont déployé leurs lances pour nous rafraîchir.
 > Je suis toujours étonné par les nombreux encouragements de la foule de spectateurs anonymes.
+
 L'ambiance musicale des divers groupes nous donne le rythme en nous faisant oublier les nombreux kilomètres.
 Nous voici donc au bois de Boulogne, le long des installations de Roland Garros.
 C'est bon signe car les kilomètres défilent moins rapidement et les quelques malaises apparaissent autour de nous.
@@ -90,6 +96,7 @@ Le rythme trop rapide du départ, nous fait terminer en un peu plus de 4h, cinq 
 ![Quelques heures après le premier ...](/assets/images/le-marathon-de-paris-2016/le-marathon-de-paris-2016_1734.jpg)
 
 > Mais, une fois la fatigue passée, place à la satisfaction d'être allés plus vite que l'année dernière.
+
 Retour au point de départ avec les traditionnelles photos de médailles devant d'autres victoires, celles de Napoléon.
 Le marathon de Paris sera suivi d'une semaine de récupération afin d'effectuer [Paris-Roubaix]({% post_url 2016-04-13-en-piste-pour-paris-roubaix-2016 %}) dans les meilleures conditions.
 <div class="gallery-box">

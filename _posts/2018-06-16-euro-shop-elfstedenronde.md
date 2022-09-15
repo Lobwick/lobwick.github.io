@@ -9,6 +9,7 @@ Après une longue interruption de deux mois depuis la Flèche Brabançonne, nous
 circuit.
 Il y a aussi eu les participations à [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %}) et [Liège-Bastogne-Liège]({% post_url 2018-04-26-liege-bastogne-liege %}) qui ont remplacé deux étapes de ces Flandriennes, débutées fin février avec l'[Omloop Van Vlaanderen]({% post_url 2018-03-03-omloop-van-vlaanderen %}).
 > Cela fait du bien de retrouver ces classiques Etixx ...
+
 Fini les tenues hivernales, et place à l'été en cette mi-juin !
 
 <div class="gallery-box">
@@ -35,6 +36,7 @@ Après une longue absence, l'Euro Shop Elfstedenronde a fait son retour au calen
 Départ de la périphérie de Bruges parmi les premiers vers 7h30.
 Toujours l'efficacité du Scan and Ride !
 > Un peu plus d'une dizaine de degrés avec un ciel gris mais sans vent : idéal pour pédaler.
+
 Quelques groupes commencent à se former et nous en suivons un pour nous échauffer.
 Le sud de Bruges est assez boisé en abritant des villas somptueuses.
 <div class="gallery-box">
@@ -49,6 +51,7 @@ Le sud de Bruges est assez boisé en abritant des villas somptueuses.
 Direction Ichtegem vers le sud-ouest pour un peu plus de relief.
 Mais à la sortie des nombreux bois traversés, le vent se montre plus sensible.
 > Nous décidons donc de suivre le peloton d'une dizaine de cyclistes.
+
 Cela permet d'atteindre le premier ravitaillement, toujours parfait avec Etixx.
 <div class="gallery-box">
   <div class="gallery">
@@ -62,6 +65,7 @@ Cela permet d'atteindre le premier ravitaillement, toujours parfait avec Etixx.
 
 En remontant vers le nord, le parcours se rapproche d'Ostende.
 > Nous ne roulons plus qu'à deux car les groupes ont levé le pied.
+
 Ils ne sont d'ailleurs plus utiles car le vent de sud-ouest nous pousse vers la Mer du Nord.
 Le deuxième ravito est prévu à mi-distance.
 
@@ -91,6 +95,7 @@ Par contre le retour dans Bruges est vraiment dépaysant avec un tracé relative
 Nous revoilà sur notre lieu de départ, proche du Boudewijn Seapark.
 
 > Pas grand monde car nous sommes en avance.
+
 Cela nous laisse le temps de récupérer le maillot Etixx qui est offert à partir de cinq participations à ces flandriennes.
 Les deux dernières prévues en fin d'été seront peut-être l'occasion de compléter la tenue avec le cuissard assorti, récompensant les participants à huit cyclos de cet Etixx Classics Tour ...
 

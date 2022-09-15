@@ -7,6 +7,7 @@ image: /assets/images/gand-wevelgem/gand-wevelgem_7184.jpg
 ---
 Comme un air de printemps pour ce nouveau week-end flandrien ...
 > Il serait temps à la veille du changement d'heure.
+
 On se retrouve à Wevelgem, non loin de la frontière, entre Halluin et Courtrai.
 C'est encore un samedi car les équipes professionnelles roulent le lendemain en partant de Gand.
 Départ encore plus matinal, vers 7h, car nous sommes inscrits pour le parcours de 215 km !
@@ -22,6 +23,7 @@ Surtout qu'il offre par tirage au sort un lot VIP pour cette célèbre course, p
 </div>
 Après le traditionnel "Scan and Ride" , direction la ville fortifiée d'Ypres.
 > Nous y pénétrons par la porte de Menin.
+
 Elle fut construite par les Anglais en 1927 pour se souvenir de leurs plus de 50 000 morts de la première guerre mondiale.
 <div class="gallery-box">
   <div class="gallery">
@@ -49,6 +51,7 @@ L'allure s'accélère en bifurquant vers le nord, pour prendre la direction de l
 Il faut rouler presque jusqu'à La Panne, proche de Bray-Dunes, mais de l'autre côté de la frontière.
 C'est un petit vent de sud-est, avec la disparition du relief, qui augmente cette vitesse.
 > Hélas, il faut faire demi-tour avant d'embarquer sur un ferry pour l'Angleterre !
+
 Le parcours longe pratiquement la frontière jusqu'au deuxième ravitaillement de Stavele.
 On essaie de s'abriter derrière son prédécesseur car le vent est devenu notre ennemi commun !
 A force de la longer, nous traversons la frontière pour se retrouver à Godewaersvelde.
@@ -86,6 +89,7 @@ Il n'y a plus qu'à se laisser descendre pour se présenter à la base du Mont N
 </div>
 
 > Il est suivi du Mont Blanc, eh oui ! On a le nôtre ...
+
 C'est l'occasion d'apercevoir la villa Marguerite Yourcenar.
 On se rapproche de Bailleul, avant d'enchaîner le Ravensberg et le Speelberg, à nouveau en Belgique.
 C'est presque fini mais on reprend des forces au ravitaillement de Dranouter, avant le Baneberg.
@@ -105,6 +109,7 @@ C'est presque fini mais on reprend des forces au ravitaillement de Dranouter, av
 </div>
 
 > Uniquement un demi kilomètre, mais sur 12% avec 23 au maximum, tout en pavés ...
+
 Certains mettent pied à terre pour reprendre leur souffle.
 Encore un peu de colline avant les fameux Plugstreets !
 ![passage à 23%](/assets/images/gand-wevelgem/gand-wevelgem_7219.jpg)
@@ -161,6 +166,7 @@ Une Kwaremont nous désaltère, avant de profiter du podium installé pour diman
 
 Difficile de réaliser que nous venons d'avaler plus de 200 km à presque 30 km/h de moyenne !
 > Il n'y a plus de limites car Félix, plutôt sprinteur, est de plus en plus endurant !
+
 La distance sera moins longue pour le célèbre Tour des Flandres de la semaine prochaine ...
 <div class="gallery-box">
   <div class="gallery">

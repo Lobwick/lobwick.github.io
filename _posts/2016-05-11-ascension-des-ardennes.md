@@ -7,6 +7,7 @@ image: /assets/images/ascension-des-ardennes/ascension-des-ardennes_2123.jpg
 ## Pont de l'Ascension des Ardennes
 Voilà le retour des beaux jours et l'Education Nationale qui nous permet de faire le pont de l'Ascension des Ardennes.
 > Avec ces quelques jours de magnifique temps estival annoncé, tout est réuni pour partir à l'aventure de l'Ascension des Ardennes
+
 En cette veille d'Ascension, un petit vent d'Est souffle en provenance de la fraîcheur des Ardennes.
 Idéal pour partir dans cette direction, juste après la matinée d'école.
 De plus je retrouve un parcours, prévu l'année dernière à la même époque, mais que le mauvais temps avait annulé.
@@ -17,6 +18,7 @@ Prenant toujours de plus en plus de plaisir à rouler avec l'ancien Gitane Victo
 Il s'agit d'un ensemble de sacoches qui s'adapte au vélo en divers emplacements de celui-ci.
 Cela permet de remplacer les traditionnelles sacoches moins performantes sur le plan sportif.
 > De toutes les façons, il n'est prévu qu'une nuit, même si le tracé avait été calculé pour trois jours.
+
 L'itinéraire longe de l'Ascension des Ardennes la frontière franco-belge avec pour but d'atteindre différents lacs de ces Ardennes belges et françaises.
 <div class="gallery-box">
   <div class="gallery">
@@ -45,6 +47,7 @@ Jamais je n'aurais pensé y repasser à vélo et encore moins y bivouaquer.
 
 La tenue d'été est de circonstance car la température grimpe vite, même avec ce petit vent continental qui s'affronte facilement.
 > Alors que le soleil baisse, le lac de la Plate Taille est atteint pour y passer la nuit.
+
 Je ne suis pas à mi-parcours mais il est inutile de poursuivre de nuit, sans admirer ce paysage de plus en plus beau.
 <div class="gallery-box">
   <div class="gallery">
@@ -92,6 +95,7 @@ En effet le thermomètre du gps indique 0°C au réveil, après une nuit étoil�
 C'est d'ailleurs peut-être la raison de son anomalie de tracé entre ces différents lacs.
 ## Direction Charleville
 > Levé aux aurores car il reste plus que la moitié de la cyclo.
+
 Après avoir hésité à raccourcir celle-ci, je décide quand même de poursuivre jusqu'au lac suivant situé proche de Charleville-Mézières.
 Il faut d'abord profiter de la boucle de la route des Lacs au soleil levant.
 
@@ -155,10 +159,12 @@ Je découvre le petit camping initialement prévu pour la deuxième nuit dont je
 
 De toutes les façons je préfère le camping sauvage, comme vous avez déjà pu deviner.
 > Il vaut mieux contempler la plage de sable fin où on aimerait revenir en été.
+
 Je ne suis pas prêt de partir car un groupe de cyclistes d'Arras vient discuter bicyclette.
 On se retrouvera peut-être sur Lille-Hardelot prévu fin mai.
 Il serait temps pourtant car il est presque midi.
 > Difficile de quitter un endroit aussi paradisiaque, sachant la route qui vous attend.
+
 Mieux vaut reprendre des forces sur le sable, avec un sandwich acheté le matin dans un Carrefour market ouvert.
 
 <div class="gallery-box">
@@ -233,6 +239,7 @@ Je ne résiste pas à l'appel d'une glace italienne triple au chocolat, pour mes
 Un peu plus loin je suis ralenti par la traversée d'un vide-grenier.
 Ce qui me donne l'occasion de liquider un coca en une gorgée et d'engloutir une part de crumble aux noisettes.
 > Toutes les occasions de se ravitailler sont excusables en ce jour férié où tout est fermé.
+
 En quittant cette brocante, je suis tenté de changer de monture pour un magnifique roadster blanc, mais je ne sais où mettre le vélo.
 
 <div class="gallery-box">

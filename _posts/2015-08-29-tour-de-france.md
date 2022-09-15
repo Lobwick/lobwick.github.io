@@ -56,6 +56,7 @@ C’est l’occasion de retrouver leurs deux filles : Séverine ainsi qu’Auré
 Après m’être installé dans le très confortable studio aménagé par François à force de patience, passons au festin de grillades.
 > Il faut dire que ce cher cousin est un pro dans ce domaine, sans oublier sa ratatouille maison.
 >  La succulente tarte aux prunes confectionnée par Annie termine merveilleusement ce repas pour faire le plein de calories.
+
 Après avoir passé une partie de la nuit à résoudre la crevaison lente de la veille, je suis en pleine forme pour reprendre la route.
 Mais à peine après avoir quitté Royan, voilà que le câble du dérailleur arrière casse en pleine montée de Mescher.
 Étant encore pratiquement en agglomération, je trouve facilement une location de vélos qui me dépanne assez rapidement.
@@ -109,6 +110,7 @@ Au petit matin de ce vendredi 7 août le vignoble bordelais est splendide.
 ## Saint-Emilion
 Et je décide donc de faire un détour plus au sud vers Saint-Emilion, même si je suis censé atteindre Seilhac dans la nuit.
 > Surtout qu’il fait aussi partie des cents plus beaux villages de France.
+
 Quelle bonne décision, car une dégustation est organisée dans la vieille rue piétonne principale.
 Difficile de consommer avec modération même pour reprendre le vélo.
 <div class="gallery-box">
@@ -192,6 +194,7 @@ Cette rivière est idéale pour faire sa toilette en nocturne.
 </div>
 
 > Au petit matin du mardi 11 août, je découvre encore l’un des cents plus beaux villages de France.
+
 Sainte-Eulalie-d’Olt est resplendissant au lever de soleil et je vous recommande sa petite boulangerie.
 L’imposant boulanger n’est pas forcément d’humeur matinale, mais j’ai encore le souvenir de son pain.
 <div class="gallery-box">
@@ -282,6 +285,7 @@ Je n’ai plus qu’à passer la nuit sous un chapiteau installé pour une petit
 
 ## La Haute-Loire
 > En ce jeudi 13 août, il n’y a plus qu’à se laisser descendre le long de la Loire.
+
 Mais le mauvais temps arrive du sud en me poussant toujours à travers l’Ardèche.
 En voulant accélérer le rythme, je chute au niveau de Solignac en Haute-Loire.
 Il n’y a plus qu’à se réfugier sous un arrêt de bus en attendant de se rendre à la pharmacie.
@@ -320,6 +324,7 @@ Surtout que la pluie fait son retour pour la nuit et que j’ai mes blessures à
 Le vendredi 14 août commence difficilement avec les séquelles de la chute.
 Des brumes enveloppent la Loire, signe de beau temps.
 > Le relief est encore bien présent dès que la route s’écarte de la vallée.
+
 Roanne est proche, mais je préfère passer la nuit dans un cimetière accueillant.
 D’autant plus qu’une petite chapelle abandonnée m’offre son hospitalité.
 <div class="gallery-box">
@@ -335,6 +340,7 @@ D’autant plus qu’une petite chapelle abandonnée m’offre son hospitalité.
 
 ## La Loire
 > Jour férié du 15 août très tranquille sur les routes.
+
 Enfin du plat entre Roanne et Nevers avec pas grand monde aux alentours le long du canal parallèle à la Loire.
 La stèle Jean Moulin est juste sur mon passage.
 <div class="gallery-box">
@@ -388,6 +394,7 @@ Mais j’admire le magnifique pont-canal de Briare avant de traverser le Loiret 
 ## Région parisienne
 À la fin du lundi 17 août, je suis presque dans la forêt de Fontainebleau, mais je dors dans un jardin public à Nemours.
 > Ce mardi 18 août, anniversaire de ma petite femme, est la journée parisienne de mon tour.
+
 Bon petit déjeuner en face du château de Fontainebleau et brochette de poulet sur le marché.
 De quoi tenir jusqu’à Varennes-Jarcy dans l’Essonne, mais sans Pascale, la marraine d’Isa, en vacances dans le Massif Central avec Claude.
 Je profite aussi de l’itinéraire pour remonter dans le temps et à mon mois de classe en tant que gendarme auxiliaire à Melun.
@@ -422,6 +429,7 @@ Rien de tel qu’une dernière nuit en pleine forêt à l’écoute des animaux 
 </div>
 
 > Ma dernière journée commence par le recueillement dans la clairière de l’armistice de Rethondes.
+
 D’autant plus que je suis seul et que le ciel est gris.
 <div class="gallery-box">
   <div class="gallery">
@@ -451,6 +459,7 @@ Surtout que les derniers kilomètres sont les plus longs comme en voiture.
 
 ## Retour à la maison
 > L’apparition du panneau « Herlies » me semble irréelle.
+
 Pourtant, Mercredi 19 août à minuit, je suis bien en face de la maison.
 Le fessier va pouvoir se reposer après une douche dont je rêvais.
 <div class="gallery-box">
@@ -462,5 +471,6 @@ Le fessier va pouvoir se reposer après une douche dont je rêvais.
 </div>
 Ce n’était pas le Tour professionnel.
 > Mais en moins de 3 semaines avec 3 journées de repos, mon bon vieux vélo chargé de ses sacoches a roulé 2500 km en gravissant 20 000 m de dénivelé.
+
 Je crois d’ailleurs qu’il a plus souffert que son cycliste et qu’une bonne révision s’impose.
 Prochaine étape, l’Europe (Portugal, Danemark...) pour découvrir de nouveaux horizons variés en paysages et en températures...

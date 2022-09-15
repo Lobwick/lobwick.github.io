@@ -7,6 +7,7 @@ image: /assets/images/saint-omer-gravel/saint-omer-gravel_12238.jpg
 Pour une fois que le Nord-Pas-de-Calais est à l'honneur, autant en profiter à domicile...
 En effet, Rémi Quinquin, adepte du gravel le long des chemins, a prévu de nous faire visiter la région à travers champs.
 > Cela coïncide idéalement avec le nouveau vélo spécial gravel de Félix.
+
 Son précédent s'est retrouvé immobilisé à cause de son dernier accident, uniquement matériel, avec un motard livreur trop pressé !
 ![Diverge Expert ](/assets/images/saint-omer-gravel/saint-omer-gravel_12259.jpg)
 A partir de Lille, quatre étapes sont au programme pour rejoindre la Côte et revenir par l'Avesnois.
@@ -48,6 +49,7 @@ A sa sortie, nous découvrons quelques étangs nombreux dans les environs, avant
 </div>
 </div>
 > L'arrivée dans la belle ville de Saint-Omer correspond impeccablement à la pause méridienne.
+
 Les friteries ne manquent pas par ici et justement celle du canal est déserte.
 <div class="gallery-box">
   <div class="gallery">
@@ -77,6 +79,7 @@ La matinée ayant été rapide, nous engloutissons sandwich et kebab, avant une 
 </div>
 
 > Elle fut l'occasion de la réflexion sur l'intérêt de continuer !
+
 En effet, à part deux forêts traversées, l'itinéraire est pour l'instant majoritairement bitumé et ne facilite pas le roulement de l'Epic avec ses gros pneus VTT. A ceci s'ajoute le vent qui nous aurait été défavorable pendant deux jours afin de rejoindre la foret de Saint Amand.
 ![Ancien ascenseur à péniches](/assets/images/saint-omer-gravel/saint-omer-gravel_12221.jpg)
 Décision est prise de faire demi-tour plutôt que de continuer ainsi.
@@ -89,6 +92,7 @@ C'est grâce au canal d'Aire et ses chemins de halage, que le retour vers l'aggl
 </div>
 </div>
 > Bonne initiative car on évite l'inconvénient du vent de travers, et surtout la circulation routière !
+
 Hélas, pas les crevaisons, ne prenant pas trop d'ampleur car Félix est équipé en pneu tubeless sans chambre à air.
 <div class="gallery-box">
   <div class="gallery">

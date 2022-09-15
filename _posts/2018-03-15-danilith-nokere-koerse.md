@@ -9,6 +9,7 @@ Le défi continue avec cette deuxième cyclo Flandrienne, la Danilith Nokere Koe
 Cette fois-ci, elle débute à Nokere, près de Courtrai, pour s'y terminer.
 Plusieurs boucles traçant un trèfle à partir de celle-ci, vont nous faire franchir quelques secteurs pavés, sans oublier de petites côtes.
 > Cependant les conditions climatiques sont radicalement différentes de la première.
+
 Une dizaine de degrés en plus, mais un déluge nous attend dès le départ.
 Nous le prenons en compagnie de Guillaume, un collègue Belge de Félix.
 De plus, la distance est plus longue, dépassant les 150 km !
@@ -28,6 +29,7 @@ Nous prenons la direction du sud en découvrant une route parfois inondée.
 Il a plu toute la nuit et d'immenses mares se sont formées.
 
 > Mais il faut les franchir en prenant de la vitesse, afin de ne plus pédaler au beau milieu.
+
 Hélas, pour certaines plus longues, cela ne suffit pas ...
 Le pédalage est inévitable, entraînant le remplissage des chaussures !
 <div class="gallery-box">
@@ -44,6 +46,7 @@ Un peu plus loin, les pavés de la Herlegemstraat vont permettre d'évacuer le s
 En remontant vers le nord, nous atteignons le ravitaillement principal dans la petite ville de Deinze bien sympathique.
 
 > La bonne nouvelle est le retour du soleil, comme annoncé par la météo.
+
 Rien ne manque dans les ravitaillements de ces Etixx Classics, avec même les toilettes de la mairie ...
 <div class="gallery-box">
   <div class="gallery">
@@ -60,6 +63,7 @@ Direction l'est vers la Machelgemstraat : pente inclinée à 5 % sur presque deu
 Puis le second ravitaillement au niveau de Rozebeke, avant de repartir vers Deinze.
 
 > C'est l'occasion de faire huiler la transmission de nos vélos qui ont été largement rincés.
+
 Finies les immenses mares d'eau car notre étoile est entré en action.
 Nous revoilà au premier ravito, avant d'entamer la troisième et dernière boucle de cette cyclo.
 <div class="gallery-box">
@@ -76,6 +80,7 @@ Avant le dernier ravitaillement de Bevoorrading Wakken, il y a la côte du Poelb
 Puis nous longeons à nouveau cette rivière, avec Eole pour nous pousser.
 
 > Nokere, lieu de départ et destination finale, se rapproche de plus en plus.
+
 Encore le long secteur pavé du Huisepontweg, avant de se présenter face à la dernière difficulté de la journée.
 Le Nokereberg est le sprint d'ascension final pavé, pour franchir la ligne d'arrivée comme les pros.
 <div class="gallery-box">
@@ -89,6 +94,7 @@ Le Nokereberg est le sprint d'ascension final pavé, pour franchir la ligne d'ar
 La plaque de cadre est à enlever, avant de se diriger vers le site de restauration.
 
 > C'est l'occasion des dernières photos ensoleillées, tout en se réhydratant avec une blonde Belge bien fraîche.
+
 N'oublions pas le traditionnel tee-shirt souvenir de ces cyclos flandriennes.
 Rendez-vous proche pour la Dwars Door Vlaanderen la semaine prochaine mais il faudra pensez à bien nettoyer les vélos entre-temps !
 <div class="gallery-box">

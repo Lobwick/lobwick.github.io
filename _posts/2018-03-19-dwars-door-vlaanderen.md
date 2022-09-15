@@ -10,6 +10,7 @@ La série Etixx Classics Tour se poursuit un samedi cette fois-ci.
 Une semaine après le déluge et la douceur, nous nous retrouvons en Sibérie ...
 
 > Température moyenne de -5 degrés avec quelques flocons !
+
 Mais il y a plus de 150 km à parcourir avec un beau programme.
 Toujours ces petites côtes flandriennes parfois pavées.
 Lieu de départ au nord de Courtrai, à Waregem, après avoir roulé avec le chauffage au max dans la voiture.
@@ -27,6 +28,7 @@ Le seul souci est de retirer les gants pour fixer notre plaque de cadre.
 </div>
 La sortie de cette ville s'effectue comme des bolides pour tenter de nous réchauffer, au point de s'essouffler.
 > L'air dont nous avons besoin est glacial !
+
 Seul point positif pour l'instant : le vent de nord-est qui nous pousse vers les premières difficultés.
 Il faut d'abord traverser l'Escaut après Avelgem.
 Le relief qu'on devinait au loin, va vraiment permettre de monter en température.
@@ -44,6 +46,7 @@ Pas de pavés au menu, mais des pourcentages allant jusqu'à 18 %, pour une long
 En prenant la direction du soleil levant vers le Mont de l'Enclus, le vent continental se rappelle à nous.
 Mais la beauté de ce paysage vallonné atténue notre souffrance.
 > On se croirait presque dans les Vosges avec cette ambiance hivernale !
+
 Après l'ascension du Kluisberg, la côte de Trieu ou Knokteberg augmente notre dénivelé global.
 Son début est relativement plat mais elle se corse au fil des mètres, jusqu'à atteindre 13 %
 <div class="gallery-box">
@@ -67,6 +70,7 @@ Nous y repasserons dans quinze jours ...
 </div>
 Avant de retraverser l'Escaut, nous profitons du ravitaillement de Berchem pour regagner quelques degrés avec le thé énergisant Etixx.
 > Pas suffisamment chaud, car la décision commune avec Félix de basculer sur le parcours   de 75 km est prise, avant de perdre nos extrémités de doigts ...
+
 Direction le nord pour affronter le secteur pavés de Varent sur une distance de 2 km.
 <div class="gallery-box">
   <div class="gallery">
@@ -104,6 +108,7 @@ Tant pis pour le tee-shirt souvenir car il nous reste la plaque de cadre.
 </div>
 
 > C'est le moment d'apprécier les sièges chauffants du C8.
+
 Je ne manque pas non plus de faire le plein de gasoil, moins taxé qu'en France.
 Espérons que pour Gand-Wevelgem de samedi prochain les conditions climatiques changent ...
 

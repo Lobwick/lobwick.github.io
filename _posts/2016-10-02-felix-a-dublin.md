@@ -13,11 +13,13 @@ C'est sa quatrième année d'études à Epitech en partenariat avec le Griffith 
 Le ferry à partir de Cherbourg est réservé depuis début juillet.
 Le logement est aussi loué car Félix et son colocataire Adrien l'ont trouvé lors d'un aller-retour en avion fin Juillet.
 > Reste à transporter ses quelques affaires sans oublier ses inséparables vélos.
+
 Le mieux est de chargé le C8 au maximum avec les vélos sur un porte-vélos d'attelage.
 Je commence donc en allant le chercher à Comines où son propriétaire me le remet après quelques soucis de réglage.
 Zilok est un site remarquable de location entre particuliers.
 Heureusement Félix a fait le tri de ce qu'il compte déménager et tout est prêt dans sa chambre.
 > Le chargement est accompli en une journée ainsi que la fixation des vélos.
+
 Je ne me rappelle pas avoir vu le C8 autant chargé !
 
 <div class="gallery-box">
@@ -31,6 +33,7 @@ Je ne me rappelle pas avoir vu le C8 autant chargé !
 Il faut être à Cherbourg le mardi 23 août pour 17h30 car le départ est prévu à 18h30.
 Au passage par Amiens, la place libre sur le porte-vélos est complétée par le vélo d'Adrien.
 > Nous roulons vers la fraîcheur car quelques jours de canicule sont prévus sur la France.
+
 Le passage sur le pont de Normandie est une première familiale et sans aucun souffle de vent qui est toujours à redouter.
 
 <div class="gallery-box">
@@ -147,6 +150,7 @@ Elle se situe au premier étage d'une maison partagée en trois logements, à pr
 </div>
 
 > Félix et Adrien devraient y être bien à l'aise pour cette année scolaire.
+
 Le C8 va enfin pouvoir être soulagé.
 Ce logement est en partie meublé mais l'immense Ikea de Dublin va permettre de compléter la chambre de Félix.
 Les jours suivants ne sont que montage de meubles et installation.
@@ -154,6 +158,7 @@ D'ailleurs les températures d'une vingtaine de degrés sont appréciables en co
 Le plus gros souci fut la demande de la ligne téléphonique pour Internet.
 Pas évident l'anglais avec l'accent irlandais sans aucun effort de leur part.
 > En revanche l'eau est gratuite à Dublin, peut-être en tombe-t-il trop ?!?
+
 Après ces quelques jours de labeur, Isa et moi profitons du centre ville de Dublin avec un temps toujours aussi magnifique.
 
 <div class="gallery-box">
@@ -222,6 +227,7 @@ Conditions de navigation identiques alors que j'aurais aimé un peu plus de houl
 
 La présence des routiers irlandais ne passe pas inaperçue car ils s'installent au seul bar du bateau pour ne le quitter qu'à sa fermeture vers minuit.
 > Pas évident d'alterner la Guinness, le whisky irlandais et le passage aux toilettes.
+
 Mais au moins cela anime la traversée plutôt monotone.
 
 <div class="gallery-box">

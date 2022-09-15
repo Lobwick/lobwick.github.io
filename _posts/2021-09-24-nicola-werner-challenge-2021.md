@@ -6,9 +6,11 @@ image: /assets/images/nicola-werner-challenge-2021/nicola-werner-challenge-2021_
 ---
 Après la découverte de ce challenge l’année dernière, Félix et moi participons à sa 6 ème édition.
 > Il est toujours destiné à réunir des dons afin de soutenir la lutte contre les HPV.
+
 C’est ce qui a causé le décès de Nicola Werner, dont le mari Moritz est à l’origine de ce challenge.
 Pour nous, il se déroule à Paris, mais il est aussi international.
 > Chaque participant choisit de soutenir une personne de sa famille luttant contre un cancer.
+
 Hélas pour nous, il s’agit toujours de Raymonde, mamie de Félix et qui continue à avoir le courage de résister à son cancer des os !
 
 <div class="gallery-box">
@@ -66,6 +68,7 @@ Avant d’enfourcher à nouveau nos deux roues, Moritz fait un discours pour nou
 
 Mais il reste la moitié de l’itinéraire, c’est-à-dire une cinquantaine de kilomètres, pour retourner à Paris.
 > Autant dire que la digestion va être pénible !
+
 Heureusement le parcours est plus roulant qu’à l’aller.
 Ce qui nous permet de faire une pause pour respecter une minute de silence en la mémoire de Nicola.
 Puis nous croisons par moments les pelotons roulant exclusivement sur route.
@@ -82,6 +85,7 @@ Le retour est presque parallèle à l’aller avant de traverser la forêt de Me
 </div>
 
 > Ce qui permet de profiter de la vue panoramique sur la capitale qui est dégagée de toute pollution !
+
 Il n’y a plus qu’à perdre de l’altitude à grande vitesse, car les organisateurs nous attendent au niveau d’un terrain de sport couvert à proximité du Bois de Boulogne.
 De la bière bien fraîche d’un brasseur local est prévue, accompagnée d’un succulent biscuit fabriqué par le boulanger pâtissier Poilâne.
 

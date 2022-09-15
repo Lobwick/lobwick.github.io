@@ -45,6 +45,7 @@ C'est l'occasion aussi de profiter des Carrières de Lumières qui présentent C
 
 Ce diaporama musical projeté sur les anciens murs de ces carrières est toujours aussi impressionnant.
 > Les oeuvres de Chagall se prêtent admirablement à cette mise en scène.
+
 Après avoir rafraîchi nos corps sous terre, nous rejoignons les Baux à proximité en marchant.
 
 <div class="gallery-box">
@@ -68,10 +69,12 @@ Il s'agit aussi d'anciennes carrières remplies par la Durance qui coule dans la
 Au mois de juillet, mon beau-frère Emmanuel et son fils Aurélien ont essayé avec succès le ski nautique tracté par un téléski.
 Cette activité étant de plus en plus répandue, je rêvais de m'y mettre pour retrouver les sensations de glisse du kitesurf.
 > Pas si simple, mais après deux tentatives, le troisième essai me permet de tourner sans interruption en boucle.
+
 La vitesse correspond à celle d'un bateau à moteur et il vaut mieux anticiper les virages.
 La grosse différence avec le kite est l'absence de harnais que les bras doivent remplacer.
 Même s'ils sont tétanisés, on évite de tomber car il faut revenir en marchant et refaire la queue au téléski.
 > Au bout d'un moment la tentation de faire des sauts sur les tremplins se fait sentir.
+
 Mais après avoir demandé conseils, on me recommande une planche de wakeboard et non de kitesurf.
 En effet les pieds sont ainsi maintenus dans de véritables chaussons à lacets pour éviter les entorses en retombant.
 Je me réserve donc pour l'année prochaine car les bras ont déjà une heure de traction et quelques kilomètres.
@@ -215,6 +218,7 @@ Le passage sur une piste à travers la forêt et des roches rouges nous amène d
 </div>
 
 > Une deuxième ascension du Mont est tentante mais il faut que je m'économise pour la remontée dans le Nord le surlendemain.
+
 Ce qui n'empêche pas quelques photos souvenirs sans oublier divers achats cyclistes.
 
 <div class="gallery-box">
@@ -260,6 +264,7 @@ Il n'y a plus qu'à rejoindre Mazan en suivant le retour de la veille.
 Cette centaine de kilomètres touristiques à un rythme familial nous a fait le plus grand bien alors qu'elle n'était pas prévue.
 > Comme dirait papa, cela change du plateau de Puyricard et correspond à une bonne préparation de la Loire à vélo.
 >  Quant à moi, je me suis rendu compte qu'il n'y a pas que l'exploit sportif qui compte dans le cyclisme.
+
 Il ne reste plus qu'à envisager le tour complet du Mont Ventoux, avec peut-être l'assistance d'un vélo électrique ...
 
 Désormais on attend le retour de Félix d'Inde afin de l'installer à [Dublin]({% post_url 2016-10-02-felix-a-dublin %})</a> pour une année d'études en échange Erasmus.

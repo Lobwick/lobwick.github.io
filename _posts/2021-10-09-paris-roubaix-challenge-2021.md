@@ -5,16 +5,19 @@ date:   2021-10-09 08:59:03 +0100
 image: /assets/images/paris-roubaix-challenge-2021/paris-roubaix-challenge-2021_14127.jpg 
 ---
 > Enfin le retour des pavés après deux ans et demie d’absence !
+
 En effet notre dernière participation remonte à avril 2019, avant la trêve Covid.
 Annulé au printemps de cette année, ce challenge est finalement reporté en ce début octobre.
 Il en est d’ailleurs de même pour les pros qui s’élanceront le lendemain.
 La nouveauté cette année est le premier Paris-Roubaix féminin qui se déroule ce 3 octobre, comme notre challenge.
 > Il ne va pas falloir traîner sur les pavés, sous peine de se voir rattraper par ces demoiselles professionnelles !
+
 Par contre, octobre signifie conditions automnales, surtout ce week-end.
 
 Pour le plus long parcours amateurs, c’est-à-dire le 145 km, une boucle à partir de Roubaix nous attend.
 C’est presque le tracé féminin qui part de Denain, avec une trentaine de kilomètres de secteurs pavés.
 > Car les professionnels hommes s’élancent toujours de Compiègne, avec 260 km dont une soixantaine de pavés.
+
 Pour cette reprise de Paris-Roubaix, Félix et moi roulons avec le peloton Lille on Wheels qui part de la Citadelle Vauban tous les dimanches matins pour sa sortie hebdomadaire.
 
 
@@ -31,6 +34,7 @@ Départ prévu vers 8h, après avoir bien entendu récupéré notre plaque de ca
 
 Un peu comme sur un marathon, les cyclistes s’élancent par vagues de quelques dizaines successives afin de profiter de l’arrêt de la circulation.
 > An niveau météo, pas question non plus de s’éterniser en chemin car une dépression est prévue dans l’après-midi .
+
 Le début de l’itinéraire est assez monotone car dépourvu de pavés, jusqu’à atteindre la célèbre trouée d’Arenberg située dans la forêt de Raismes.
 
 <div class="gallery-box">
@@ -65,6 +69,7 @@ Le défilé des dix-huit secteurs restants va pouvoir commencer !
 Parmi les plus difficiles, il faut franchir ceux de Mons-en-Pévèle ou du Carrefour de l’Arbre.
 En effet ils sont classés de une à cinq étoiles en fonction de leur longueur et de la mauvaise qualité du pavé.
 > Conséquence inévitable, c’est le début des crevaisons pour notre peloton et je vais même casser un rayon sur ma roue avant !
+
 Les organisateurs ayant tout prévu, on peut profiter de zones de dépannage au passage de chaque ravito.
 
 <div class="gallery-box">

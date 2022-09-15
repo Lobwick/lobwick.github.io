@@ -24,7 +24,9 @@ Cette demi-heure de repos fut fatidique avec l’accumulation d’acide lactique
 Le double marathon étant atteint à mi-épreuve, le défi suivant consistait à atteindre les 100 km
 Hélas, impossible de remettre la machine en route et il fallut se résoudre à continuer en marchant plus ou moins rapidement.
 Ce sont surtout les encouragements des membres du RunCrew59 qui m’ont incité à ne pas renoncer.
+
 > Encore merci pour ce réconfort si précieux !
+
 Péniblement, mais sûrement, la distance des 100 km fut atteinte au bout de 22 h.
 Impossible d’effectuer un pas de plus au risque de se blesser gravement malgré les efforts des indispensables ostéopathes.
 C’est ainsi qu’on se retrouve dans une Joëlette motorisée par toute l’équipe du pour un tour d’honneur très émouvant.

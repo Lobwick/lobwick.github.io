@@ -5,6 +5,7 @@ date:   2017-05-14 21:16:48 +0100
 image: /assets/images/amsterdam/amsterdam_5075.jpg
 ---
 > Quand un week-end de trois jours se présente, c’est l’occasion de s’évader.
+
 Pour commémorer la fin de la Deuxième Guerre mondiale, je vais m’aventurer au Benelux.
 C’est la destination idéale, car un flux de nord repousse une zone perturbée sur notre pays.
 Certes, il faudra affronter ce vent de face, mais il me poussera pour revenir.
@@ -18,6 +19,7 @@ Mon objectif est donc d’atteindre Amsterdam, pour ensuite revenir par Anvers e
 Pour profiter pleinement de ce week-end prolongé, je saisis l’opportunité de le commencer vendredi soir.
 Avec les journées d’école plus courtes, il est encore possible de rouler quelques heures sans éclairage.
 > En prévision de ce début de cyclo, je stocke le maximum de sucres lents au moment du déjeuner.
+
 Pour cela, rien de tel que le Flunch avec un steak haché xl et surtout des macaronis à volonté.
 À peine revenu de l’école, j’enfourche le vélo, car il a été préparé la veille.
 Vous finissez par le connaître, toujours chargé de la même façon.
@@ -81,6 +83,7 @@ Les innombrables travaux sont source de déviation, heureusement étudiée pour 
 C’est alors que le GPS me réserve une surprise, en m’indiquant de franchir la Schelde (l’Escaut) qui traverse Anvers.
 
 > Mystère, car il n’y a apparemment aucun moyen de franchir cette rivière !
+
 C’est en essayant de traduire les explications d’une guide anglo-saxonne que je réalise la situation.
 Il n’y a jamais eu de pont, car l’ancien ferry a fini par être remplacé par un tunnel.
 <div class="gallery-box">
@@ -108,6 +111,7 @@ Ces villes étant relativement voisines à bicyclette, elle est atteinte en mili
 </div>
 
 > Si bien que je ne résiste pas à quelques Léonidas bien mérités !
+
 La fin est plus monotone en longeant le canal de la Deûle, qui passe par Courtrai puis Lille.
 Mais je sais que la maison sera retrouvée dans les délais, même rattrapé par la grisaille.
 
@@ -115,6 +119,7 @@ Mais je sais que la maison sera retrouvée dans les délais, même rattrapé par
 Il n’est que dimanche et comme prévu, je m’approche de la capitale.
 Matinée fraîche et couverte comme la veille, en espérant retrouver notre astre dans Amsterdam.
 > Peine perdue, car, paraît-il, il ne s’y montre pas souvent.
+
 Je vais essayer de l’attendre dans un Burger King.
 Cela me changera des céréales, en m’offrant la possibilité de me refaire une beauté dans leurs toilettes impeccables.
 Me voilà tout beau pour parcourir le labyrinthe de canaux qui quadrillent Amsterdam.
@@ -126,6 +131,7 @@ Me voilà tout beau pour parcourir le labyrinthe de canaux qui quadrillent Amste
 </div>
 </div>
 > Heureusement que le GPS n’est pas défaillant, sous peine de finir à l’eau !
+
 Hélas, toujours pas de soleil pour me réchauffer et éclaircir les photographies que je tente quand même, car je ne suis pas prêt d’y revenir.
 <div class="gallery-box">
   <div class="gallery">
@@ -143,11 +149,13 @@ Je patiente dans une petite boutique de souvenirs, où je me laisse tenter avec 
 </div>
 </div>
 > Il va quand même falloir songer à reprendre la direction du sud, car ce dimanche est bien avancé.
+
 Celle-ci se devine aisément en se laissant pousser par le vent alors qu’il a fallu l’affronter depuis presque 48 h
 
 ## Retour
 D’ailleurs ce changement radical de cap s’accompagne d’une bouffée de chaleur.
 > Le plus agréable reste les quelques kilomètres/heure supplémentaire par rapport à l’aller.
+
 C’est ce que j’avais prévu, tout en me rassurant sur l’horaire de retour à la maison.
 <div class="gallery-box">
   <div class="gallery">
@@ -167,6 +175,7 @@ Itinéraire différent, mais passage obligé par Rotterdam, pour refranchir à n
 </div>
 La frontière avec la Belgique se traverse sans la deviner, tout en se rapprochant d’Anvers.
 > C’est à son niveau qu’une forêt très accueillante va m’héberger pour la dernière et ma plus confortable nuitée.
+
 Toujours pas une goutte de pluie à l’horizon, comme prévu par la météo !
 <div class="gallery-box">
   <div class="gallery">
@@ -209,6 +218,7 @@ Contre la modique somme de quatre euros, je débarque à Flessingue pour continu
 Moins d’inquiétude pour la circulation, car c’est le début du réseau de pistes cyclables du plat pays.
 
 > Ce sont de véritables « autoroutes » pour deux roues avec un revêtement irréprochable, contrairement aux pénibles plaques bétonnées belges.
+
 Mais vous avez intérêt de les emprunter, car c’est une réelle religion chez eux.
 Comme souvent avec le vent du nord, le soleil apparaît en fin de matinée ; c’est le moment de retirer jambières et brassières.
 <div class="gallery-box">
@@ -220,6 +230,7 @@ Comme souvent avec le vent du nord, le soleil apparaît en fin de matinée ; c�
 </div>
 </div>
 > Heureusement, car le paysage est à couper le souffle avec ces longues plages interminables des côtes de la Mer du Nord.
+
 Plus de ferries, mais une succession d’usines marémotrices servant de ponts pour bondir de presqu’île en presqu’île.
 <div class="gallery-box">
   <div class="gallery">
@@ -235,6 +246,7 @@ Tout ceci rythmé par de gigantesques éoliennes, complétant l’énergie renou
 ## Rotterdam
 Rotterdam se rapproche dans l’après-midi de cette journée printanière.
 > On a l’impression d’être submergé par l’eau et ses nombreux canaux.
+
 Par contre, à part quelques arbres, aucun obstacle pour s’opposer au vent qui remplace l’absence de dénivelé.
 <div class="gallery-box">
   <div class="gallery">
@@ -247,6 +259,7 @@ Par contre, à part quelques arbres, aucun obstacle pour s’opposer au vent qui
 
 Même si les deux importantes villes des Pays-Bas sont relativement proches, il vaut mieux visiter la capitale le lendemain.
 > J’ai encore deux jours avant le retour, en étant parti vendredi.
+
 De plus, la ville moderne de Rotterdam est mise en valeur au soleil couchant et il y règne une atmosphère festive.
 <div class="gallery-box">
   <div class="gallery">

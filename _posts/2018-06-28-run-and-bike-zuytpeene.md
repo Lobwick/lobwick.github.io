@@ -8,6 +8,7 @@ image: /assets/images/run-and-bike-zuytpeene/run-and-bike-zuytpeene_8180.jpg
 Etant cyclistes et coureurs, il fallait se mettre au Bike&Run.
 L'occasion se présente sur une petite distance, idéale pour découvrir cette activité.
 > Nous nous retrouvons donc à Zuytpeene, proche de Cassel et son célèbre Mont.
+
 C'est d'ailleurs le Cassel Vtt Club qui organise cette épreuve, tout comme le Cassel Trophy.
 <div class="gallery-box">
   <div class="gallery">
@@ -19,6 +20,7 @@ C'est d'ailleurs le Cassel Vtt Club qui organise cette épreuve, tout comme le C
 Retrait des dossards et de la plaque de cadre entre 14 et 15h30, pour un départ dans la foulée.
 Les organisateurs sont tout juste installés car nous sommes les premiers, bien que venant de loin.
 >    L'équipe 641 des Twomoulins peut donc se préparer, avant de se reposer un peu.
+
 Enfin, plus ou moins, car c'est la ducasse au village, avec les manèges qui tournent déjà !
 <div class="gallery-box">
   <div class="gallery">
@@ -47,6 +49,7 @@ Surtout que ce sprint trop rapide m'a coupé les jambes !
 Il pose donc son vélo un peu plus loin, avant que je l'enfourche afin de récupérer.
 
 > C'est ainsi que nous trouvons notre rythme ...
+
 Jusqu'au moment où je suis stupéfait d'apercevoir Félix, courant quelques centaines de mètres en avant, alors que je ne suis pas en train de pédaler.
 Comble de précipitation, je n'ai pas vu le vélo posé sur le talus, en courant !
 Demi-tour en remontant les autres concurrents ahuris.
@@ -74,6 +77,7 @@ Il en faut car l'autre boucle est moins plate, avec de nombreux passages à trav
 Le vent de nord est sensible mais nous l'alternons de face et dans le dos.
 Il a le mérite de rafraichir surtout les coureurs.
 > Nous rattrapons notre retard, en remontant les équipes, dont certaines se disputent !
+
 Ces confrontations directes augmentent notre motivation.
 Mais, après tous ces efforts, voilà à nouveau le village pour nous acclamer chaleureusement.
 > Ce premier Run & Bike des Two Moulins se finira à la 10° place !
