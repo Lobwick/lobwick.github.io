@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: À Propos
 permalink: /about/
 image: '/assets/images/contact/head.jpg'
 ---
