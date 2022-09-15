@@ -185,7 +185,7 @@ C'est l'occasion d'un copieux goûter bien mérité stocké dans celle-ci, avant
 <img src="/assets/images/tour-du-vexin/tour-du-vexin_10855.jpg" title="Finish !" alt="DSC00304" >
 </div>
 </div>
-<iframe src="https://www.strava.com/activities/2612662786/embed/0c60d9fc7c0bf7d6ce4279daec6a5505b1ffea43" width="590" height="405" frameborder="0" scrolling="no"></iframe>
+<center><iframe src="https://www.strava.com/activities/2612662786/embed/0c60d9fc7c0bf7d6ce4279daec6a5505b1ffea43" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
 <div class="gallery-box">
   <div class="gallery">

@@ -41,65 +41,6 @@ Peu de temps après, nous voyons passer un troupeau de daims dérangés par les 
 </div>
 </div>
 
-![Sortie de transition 2](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4774.jpg)
-
-## Troisième partie : Course à pied
-Le deuxième circuit de course à pied est de 2,5 km; une seule des boucles effectuées précédemment que je connais.
-N’ayant pas été doublé lors de cette transition, je décide de maintenir ma position en dépassant seulement quelques retardataires de la vague précédente. Je fais surtout attention de ne pas me faire rattraper par des coureurs de la vague 3.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4775.jpg" title="A la sortie de la transition" alt="Duathlon Phoenix Park" >
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4777.jpg" title="" alt="Duathlon Phoenix Park" >
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4778.jpg" title="A l'arrivée" alt="Duathlon Phoenix Park" >
-</div>
-</div>
-
-> Je finis donc cette dernière partie de course à pied en 10:25 min à une allure de 4:39/km.
-
-<center><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1140269082/embed/7d344e8a6c86ea04e9a699bec28f5e53bf95f101'></iframe></center>
-
-![13 ° place en 1:12:00](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4792.jpg)
-> Je termine donc ce duathlon de Phoenix Park à la 13e place sur 223 personnes en 1:12:00.
-
-Très bonne expérience que j’ai hâte de renouveler une fois rentré en France au Chtriman de Gravelines.
-Il faudra tout de même que je travaille les transitions car j’y ai perdu de précieuses minutes.
-Merci à toute l'équipe de Belpark Tri pour l'organisation de ce superbe duathlon à Phoenix Park.
-
-<center><iframe title="Belpark tri" src="https://connect.garmin.com/modern/activity/embed/1691731979" width="465" height="598" frameborder="0" data-mce-fragment="1"></iframe></center>
-
-
-![Sortie de la transition 1](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4785.jpg)
-
-## Deuxième partie : Vélo
-Une fois sur le vélo, les sensations reviennent dans les jambes et je commence à accélérer afin de regagner des places sur mes prédécesseurs.
-La grande ligne droite permet d’effectuer des sprints lors des 5 tours de 4 km que nous devons effectuer.
-Malheureusement celle-ci se finit par une zone de " no overtaking " ; ce qui ne me permet pas d'accélérer comme je le souhaite.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4770.jpg" title="" alt="Duathlon Phoenix Park" >
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4790.jpg" title="En plein sprint" alt="Duathlon Phoenix Park" >
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4799.jpg" title="" alt="Duathlon Phoenix Park" >
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4801.jpg" title="Remontée de vague" alt="Duathlon Phoenix Park" >
-</div>
-</div>
-
-Je finis la deuxième partie en 36 min avec une vitesse de 32,1 km/h ; en ayant regagné la 13e place du classement.
-
-<center><iframe src="https://www.strava.com/activities/1140269091/embed/11c18c59e4fae9007257c289ec68fac73c7a71db" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-
-## Transition 2 : Vélo -&gt; Course à pied
-Cette fois-ci, je prends mes précautions. Après être descendu de vélo, je retire mes chaussures et les porte à la main, tout en courant pieds-nus pour reposer plus rapidement le vélo.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4773.jpg" title="Sortie de transition 2" alt="Duathlon Phoenix Park" >
-<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4793.jpg" title="Transition mieux préparée que la précédente" alt="Duathlon Phoenix Park" >
-</div>
-</div>
-
-Je dépose mon vélo et récupère la gourde d’eau quasiment vide si nécessaire.
 
 ![Départ en tête](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4766.jpg)
 
@@ -130,7 +71,7 @@ La première partie de course à pied : 4:21/km en 21,44 min.
 
 <center><iframe src="https://www.strava.com/activities/1140269084/embed/d8c1aa8abe0a143be96a8627cb40fd78bc32fb8c" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 
-## Transition 1 : Course à pied -&gt; Vélo
+## Transition 1 : Course à pied ~ Vélo
 En entrant dans la zone de transitions, je me dirige rapidement vers mon vélo; de la place a été faite autour de lui car la première vague est déjà à vélo.
 J’enfile mon casque et mes lunettes avant de mettre mes chaussures. Je n’ai malheureusement pas de languettes à l’arrière de celles-ci afin de les accrocher aux pédales et de courir à côté du vélo pieds nus.
 
@@ -144,4 +85,65 @@ J’enfile mon casque et mes lunettes avant de mettre mes chaussures. Je n’ai 
 </div>
 
 En sortant du parc de transitions, nous devons effectuer 300 m en courant à côté du vélo; la course avec les cales automatiques n’arrange pas le problème de la périostite.
+
+
+![Sortie de la transition 1](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4785.jpg)
+
+## Deuxième partie : Vélo
+Une fois sur le vélo, les sensations reviennent dans les jambes et je commence à accélérer afin de regagner des places sur mes prédécesseurs.
+La grande ligne droite permet d’effectuer des sprints lors des 5 tours de 4 km que nous devons effectuer.
+Malheureusement celle-ci se finit par une zone de " no overtaking " ; ce qui ne me permet pas d'accélérer comme je le souhaite.
+
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4770.jpg" title="" alt="Duathlon Phoenix Park" >
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4790.jpg" title="En plein sprint" alt="Duathlon Phoenix Park" >
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4799.jpg" title="" alt="Duathlon Phoenix Park" >
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4801.jpg" title="Remontée de vague" alt="Duathlon Phoenix Park" >
+</div>
+</div>
+
+Je finis la deuxième partie en 36 min avec une vitesse de 32,1 km/h ; en ayant regagné la 13e place du classement.
+
+<center><iframe src="https://www.strava.com/activities/1140269091/embed/11c18c59e4fae9007257c289ec68fac73c7a71db" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
+
+## Transition 2 : Vélo ~ Course à pied
+Cette fois-ci, je prends mes précautions. Après être descendu de vélo, je retire mes chaussures et les porte à la main, tout en courant pieds-nus pour reposer plus rapidement le vélo.
+
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4773.jpg" title="Sortie de transition 2" alt="Duathlon Phoenix Park" >
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4793.jpg" title="Transition mieux préparée que la précédente" alt="Duathlon Phoenix Park" >
+</div>
+</div>
+
+Je dépose mon vélo et récupère la gourde d’eau quasiment vide si nécessaire.
+
+
+![Sortie de transition 2](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4774.jpg)
+
+## Troisième partie : Course à pied
+Le deuxième circuit de course à pied est de 2,5 km; une seule des boucles effectuées précédemment que je connais.
+N’ayant pas été doublé lors de cette transition, je décide de maintenir ma position en dépassant seulement quelques retardataires de la vague précédente. Je fais surtout attention de ne pas me faire rattraper par des coureurs de la vague 3.
+
+<div class="gallery-box">
+  <div class="gallery">
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4775.jpg" title="A la sortie de la transition" alt="Duathlon Phoenix Park" >
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4777.jpg" title="" alt="Duathlon Phoenix Park" >
+<img src="/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4778.jpg" title="A l'arrivée" alt="Duathlon Phoenix Park" >
+</div>
+</div>
+
+> Je finis donc cette dernière partie de course à pied en 10:25 min à une allure de 4:39/km.
+
+<center><iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1140269082/embed/7d344e8a6c86ea04e9a699bec28f5e53bf95f101'></iframe></center>
+
+![13 ° place en 1:12:00](/assets/images/duathlon-phoenix-park/duathlon-phoenix-park_4792.jpg)
+> Je termine donc ce duathlon de Phoenix Park à la 13e place sur 223 personnes en 1:12:00.
+
+Très bonne expérience que j’ai hâte de renouveler une fois rentré en France au Chtriman de Gravelines.
+Il faudra tout de même que je travaille les transitions car j’y ai perdu de précieuses minutes.
+Merci à toute l'équipe de Belpark Tri pour l'organisation de ce superbe duathlon à Phoenix Park.
+
+<center><iframe title="Belpark tri" src="https://connect.garmin.com/modern/activity/embed/1691731979" width="465" height="598" frameborder="0" data-mce-fragment="1"></iframe></center>
 

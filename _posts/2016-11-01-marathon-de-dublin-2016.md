@@ -132,10 +132,6 @@ Malgré le fait qu'il fut difficile à gérer, c'est un temps auquel je ne m'att
 <center><iframe src="https://www.strava.com/activities/1140513203/embed/86ebdd61f22402c010cd7309b70e326d69f755b4" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 Je rejoins Adrien, mon colocataire, qui a eu la gentillesse de venir me chercher à vélo afin de faciliter mon retour vers l'appartement. C'est avec plaisir que je lui emprunte son vélo après quelques étirements.
 
-<iframe src="https://www.strava.com/activities/761077773/embed/17ff0b9759b5972b99e6daa1a0c19ee780686a06" width="590" height="405" frameborder="0" scrolling="no"></iframe>
 
 ![](/assets/images/marathon-de-dublin-2016/marathon-de-dublin-2016_3187.jpg)
 C'est désormais une semaine du repos qui m'attend, avant un voyage en Suisse. L'occasion d'acheter une nouvelle paire de chaussures, car les Hoka utilisées suite à ma fracture du bassin, ont dépassé leur kilométrage de protection.
-
-![](/assets/images/marathon-de-dublin-2016/marathon-de-dublin-2016_3187.jpg)
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/761077773/embed/17ff0b9759b5972b99e6daa1a0c19ee780686a06'></iframe>  <iframe  frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/761077773/embed/17ff0b9759b5972b99e6daa1a0c19ee780686a06'></iframe>

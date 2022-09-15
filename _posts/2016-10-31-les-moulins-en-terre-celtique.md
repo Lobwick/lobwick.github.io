@@ -136,138 +136,10 @@ Même si la journée est vraiment automnale, cette cascade est photographiée et
 </div>
 </div>
 
-## Arrivée en Irlande
-> Cela fait deux mois que nous avons laissé Félix à Dublin et il nous manque déjà.
-
-Heureusement les vacances de la Toussaint sont l'occasion de le retrouver au pays de la harpe.
-Plus de ferry cette fois-ci, mais nous allons le rejoindre en avion.
-Les billets Ryanair sont réservés depuis pratiquement la rentrée.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3045.jpg" title="" alt="img_6942" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3046.jpg" title="" alt="img_6946" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3047.jpg" title="" alt="img_6949" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3048.jpg" title="" alt="img_6955" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3049.jpg" title="" alt="img_6970" >
-</div>
-</div>
-Il est prévu de passer une semaine sur l'ile celtique afin d'en profiter pleinement.
-Dès le début des vacances, les beaux-parents nous conduisent au tristement célèbre aéroport de Zaventem.
-Une grosse valise en soute chacun nous accompagne, pour compléter ce qui avait été oublié en août.
-
-> Pas évident de passer tous les contrôles, qui sont quand même rassurants, en plus des nombreux militaires vigilants.
-
-Le vol, comme la traversée en ferry, est trop calme sans aucune turbulence.
-Nous voilà à Dublin en début de soirée, et Félix nous fait l'agréable surprise de nous accueillir à vélo.
-
-
-Comme il n'a pas de charrette accrochée à celui-ci, nous privilégions une navette pour le centre-ville.
-Notre journée se termine ensuite par un bon kilomètre en marchant, avant d'atteindre son logement.
-Nous y retrouvons Adrien, son colocataire, également étudiant d'Epitech.
-
-## La presqu'île de Howth
-Le lendemain, direction l'office du tourisme où ils ne font aucun effort en français, avec une seule brochure francophone à nous fournir.
-Ils nous conseillent quand même de profiter de la belle journée printanière pour admirer la presqu'île de Howth.
-Munis de note carte de transports urbains illimités pour 24h, le DART ( train urbain à ne pas confondre avec Darty ) nous y conduit directement.
-
-> A sa descente, le dépaysement est complet, avec le petit port pour nous accueillir.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3226.jpg" title="" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3227.jpg" title="Ireland's Eye derrière nous" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3228.jpg" title="" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3229.jpg" title="" alt="Terre Celtique" >
-</div>
-</div>
-
-Il faut ensuite choisir parmi plusieurs parcours dont le plus long fait le tour de cette avancée sur la mer.
-Nous nous contenterons du plus court pour pouvoir visiter la capitale dans l'après-midi.
-Celui-ci nous conduit jusqu'au petit village de Howth pour admirer son église et le panorama.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3230.jpg" title="" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3231.jpg" title="Halloween irlandais" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3232.jpg" title="St Mary's Abbey" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3233.jpg" title="" alt="Terre Celtique" >
-</div>
-</div>
-
-![](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3065.jpg)
-
-## Il ne nous reste plus qu'à redescendre jusqu'à son château, à proximité du golf, avant de remonter dans le DART.
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3235.jpg" title="... et son château de Howth" alt="terreceltique-2" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3236.jpg" title="le golf" alt="terreceltique-3" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3237.jpg" title="if vénérable" alt="terreceltique-4" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3238.jpg" title="la châtelaine ..." alt="terreceltique" >
-</div>
-</div>
-
-
-
-<center><iframe src="https://www.strava.com/activities/752065725/embed/92fdfe02c53ba9f42c3b91c48eb2ae2cb2215706" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-Le ciel se voilant en deuxième partie de journée, nous serons mieux dans Dublin.
-
-## Tourisme en centre-ville
-> Le quartier du parlement irlandais  ( Leinster House ) est suffisant pour l'après-midi.
-
-Il est en effet entouré de la National Gallery, du Natural History Museum, de la National Library et du National Museum.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3080.jpg" title="Trinity College" alt="img_6582" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3239.jpg" title="National Gallery" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3240.jpg" title="Trinity College" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3241.jpg" title="" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3243.jpg" title="National Library" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3244.jpg" title="National Library" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3245.jpg" title="National Museum" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3246.jpg" title="National Gallery" alt="Terre Celtique" >
-</div>
-</div>
-Nous terminerons par la plus grande université de la capitale, le Trinity College.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3247.jpg" title="reste de vikings" alt="terreceltique-2" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3249.jpg" title="" alt="terreceltique-4" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3250.jpg" title="" alt="terreceltique-5" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3251.jpg" title="" alt="terreceltique-6" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3252.jpg" title="" alt="terreceltique" >
-</div>
-</div>
-Les trois grands secteurs piétonniers de Grafton, de Henry Street et de Temple Bar ayant été parcourus lors de notre seule journée de tourisme en août.
-
-## Cyclo entre Père et Fils de la Powerscourt Waterfall
-Félix n'ayant pas cours dimanche, il est prévu de se rendre jusqu'à "Powerscourt Waterfall".
-Cette cascade chute de 121 mètres et se mérite à vélo.
-J'essaie pour la première fois le nouveau vélo de rando de Félix, le Landscape de chez Finna, qui se comporte très bien.
-En effet, dès la sortie de Dublin, le relief de la montagne irlandaise fait mal aux jambes ( comme quand Jorge quitte Cascais )
-Nous sommes confrontés à des ascensions répétitives autour des 10 % . La cascade se mérite !
-Mieux vaut se méfier dans les descentes humides recouvertes de feuilles, car quelques petits crachins accompagnés de vent nous menacent.
-
-> Mais, à mi-parcours, la récompense se présente à nous, au fond d'une vallée elfique digne du "Seigneur des Anneaux"
-
-Même si la journée est vraiment automnale, cette cascade est photographiée et filmée sous tous les angles.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_2873.jpg" title="Powerscourt Waterfall" alt="Shot with DXO ONE Camera" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_2874.jpg" title="" alt="Powerscourt Waterfall" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_2889.jpg" title="" alt="img_0091" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_2891.jpg" title="" alt="img_0098" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3090.jpg" title="" alt="img_6616" >
-</div>
-</div>
-
-
 ![](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_2875.jpg)
 
-## Un maxi café et un grand chocolat brûlants vont nous réchauffer, avant de regagner la côte, pour nous épargner du dénivelé car les muscles sont bien refroidis.
+> Un maxi café et un grand chocolat brûlants vont nous réchauffer, avant de regagner la côte, pour nous épargner du dénivelé car les muscles sont bien refroidis.
+
 Félix m'avait promis d'y retourner et sa mission est accomplie car c'est le meilleur moment de ce séjour, même si le temps ne nous a pas épargnés.
 <center><iframe src="https://www.strava.com/activities/753573915/embed/e30e63c2c519783a8c0bc3a7138d46756795308d" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 
@@ -378,7 +250,7 @@ Destination populaire pour les vacances, depuis l'époque victorienne, c'est une
 
 ![](/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3131.jpg)
 
-## Pause gourmande avec la cueillette d'arbouses, plutôt méditerranéennes, témoignant de la douceur du bord de mer.
+> Pause gourmande avec la cueillette d'arbouses, plutôt méditerranéennes, témoignant de la douceur du bord de mer.
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3133.jpg" title="arbousiers irlandais" alt="img_6838" >
@@ -440,56 +312,6 @@ Comme il est bien connu que la chaleur se fait sentir en montant, il est temps d
 Tout est prévu et compris dans le billet d'entrée, en arrivant dans le bar panoramique, au sommet de la tour.
 
 > A consommer avec modération bien entendu, pour savourer le coup d'oeil à 360 degrés sur Dublin et les environs.
-
-## Retour sur le continent
-Le réseau de transports urbains n'ayant plus de secret pour nous, on regagne l'aéroport en ce dernier jour.
-Nous sommes bien moins chargés qu'à l'aller en terre celtique et arrivons largement en avance.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3050.jpg" title="aéroport de Dublin" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3302.jpg" title="soleil couchant anglais" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3303.jpg" title="aéroport de Zaventem" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3304.jpg" title="" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3305.jpg" title="" alt="Terre Celtique" >
-</div>
-</div>
-
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_2875.jpg" title="" alt="Powerscourt Waterfall" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3301.jpg" title="presqu'île de Howth" alt="Terre Celtique" >
-</div>
-</div>
-
-Un maxi café et un grand chocolat brûlants vont nous réchauffer, avant de regagner la côte, pour nous épargner du dénivelé car les muscles sont bien refroidis.
-Félix m'avait promis d'y retourner et sa mission est accomplie car c'est le meilleur moment de ce séjour, même si le temps ne nous a pas épargnés.
-
-<center><iframe src="https://www.strava.com/activities/753573915/embed/e30e63c2c519783a8c0bc3a7138d46756795308d" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
-
-## Le Phoenix Park à vélo
-Le lendemain matin, nous enfourchons à nouveau nos bicyclettes car Félix a un cours annulé.
-Il me propose cette fois-ci son circuit préféré de Dublin.
-
-> C'est un parcours urbain mais vallonné qui s'effectue à pleine vitesse.
-
-Ce tour commence par la découverte du Phoenix Park, l'un des plus grands parcs européens, où réside leur président.
-
-<div class="gallery-box">
-  <div class="gallery">
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3092.jpg" title="River Liffey" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3263.jpg" title="Phoenix Park" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3264.jpg" title="Samuel Beckett Bridge ..." alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3266.jpg" title="... en harpe" alt="Terre Celtique" >
-<img src="/assets/images/les-moulins-en-terre-celtique/les-moulins-en-terre-celtique_3267.jpg" title="" alt="Terre Celtique" >
-</div>
-</div>
-
-On redescend ensuite vers le port en longeant la "River Liffey"
-Puis on retourne chez lui en longeant le Grand Canal.
-
-<center><iframe src="https://www.strava.com/activities/754467927/embed/f341019a376b989b654626f82cdea80ac88cedc3" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
 
 ## Retour sur le continent
 Le réseau de transports urbains n'ayant plus de secret pour nous, on regagne l'aéroport en ce dernier jour.

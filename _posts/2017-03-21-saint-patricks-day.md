@@ -31,8 +31,6 @@ Ce dernier me permet de varier les plaisirs en attendant mes camarades de course
 </div>
 </div>
 
-<center><iframe src="https://www.strava.com/activities/888650565/embed/9bdf16e21dbd17eedc1e8148ecc9894ec73a0feb" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
-<center><iframe src="https://www.strava.com/activities/906119528/embed/1c7a7d05e074c33018d355ca02fad275c119fa67" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/saint-patricks-day/saint-patricks-day_4389.jpg" title="" alt="IMG_1895" >
@@ -143,5 +141,3 @@ Le début de cette course me permit d’envisager un bon temps lors du 5K organi
 <img src="/assets/images/saint-patricks-day/saint-patricks-day_4388.jpg" title="Les précieuses médailles" alt="Saint Patrick" >
 </div>
 </div>
-
-<center><iframe src="https://www.strava.com/activities/895874768/embed/8d223387ce529fcd18704bb3643af73e3485aefb" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
