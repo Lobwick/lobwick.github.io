@@ -19,20 +19,18 @@ Cet évènement étant gratuit, les organisateurs poussent l'ensemble des partic
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/nwc_2020/nwc_2020_12802.jpg" title="POur Raymonde" alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12803.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12833.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12898.jpg" title="KM0" alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12899.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12900.jpg" title="C'est parti" alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12907.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12914.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12915.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12916.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12917.jpg" title="Champs-Elysées et Arc-de-Triomphe" alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12918.jpg"  alt="Nicolas Werner Challenge 2020" >
-		<img src="/assets/images/nwc_2020/nwc_2020_12918.jpg"  alt="Nicolas Werner Challenge 2020" >
-	  </div>
+<img src="/assets/images/nwc_2020/nwc_2020_12803.jpg" title="" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12833.jpg" title="" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12898.jpg" title="KMo" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12899.jpg" title="" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12900.jpg" title="C'est parti !" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12907.jpg" title="" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12914.jpg" title="" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12915.jpg" title="" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12916.jpg" title="" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12917.jpg" title="Champs-Elysées et Arc-de-Triomphe" alt="Nicola Werner Challenge" >
+<img src="/assets/images/nwc_2020/nwc_2020_12918.jpg" title="" alt="Nicola Werner Challenge" >
+</div>
 </div>
 
 Le samedi 12 septembre, tous les participants ont rendez-vous devant le magasin de cycles le KM0, à proximité de l’Arc de Triomphe.
