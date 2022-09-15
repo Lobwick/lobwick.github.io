@@ -109,5 +109,6 @@ Nous verrons peut-être Roubaix lors d'une nouvelle tentative ...
 
 <center><iframe src="https://www.youtube.com/embed/KW-wHaAfWa4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></center>
 
-<center><iframe src="https://www.strava.com/activities/1735624397/embed/95e35822dae714e9e8aa3004144bfc6edd92ad7b" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe>de</center>
-8524
+<center><iframe src="https://www.strava.com/activities/1735624397/embed/95e35822dae714e9e8aa3004144bfc6edd92ad7b" width="590" height="405" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></center>
+
+![... acrobatie !](/assets/images/arras-roubaix/arras-roubaix_8524.jpg)
