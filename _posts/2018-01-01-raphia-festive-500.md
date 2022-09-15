@@ -57,7 +57,7 @@ Presque deux tiers du Festive accomplis, en étant épargnés par le temps, mêm
 
 ## DAY03 ~ 500
 
->     Pour franchir le cap de ce mi Festive, retour du traditionnel « itinéraire 500 »
+>     Pour franchir le cap de ce mi Festive, retour du traditionnel «itinéraire 500»
 Pas évident de le tracer avec nos quelques routes rurales pas toujours praticables.
 L’avantage est de changer souvent de direction par rapport au vent.
 Cela permet également d’explorer les Weppes en accumulant les kilomètres.
