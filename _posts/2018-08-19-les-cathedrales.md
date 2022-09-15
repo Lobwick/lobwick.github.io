@@ -63,11 +63,12 @@ Ensuite je ne manque pas de redécouvrir le mémorial de Rethondes, marquant la 
 <img src="/assets/images/les-cathedrales/les-cathedrales_8927.jpg" title="" alt="Les Cathédrales" >
 </div>
 </div>
+
 C'est l'Aisne, affluent de l'Oise, qui va me conduire jusqu'à Soissons.
 > L'avantage des cathédrales est de les repérer de loin !
 
 En revanche, cela se complique pour les photographier complètement, en raison des constructions plus récentes qui les encerclent.
-Je suis d'abord intrigué par l'Abbaye St-Martin avec son caractère fantôme, qui se situe à proximité de la cathédrale.
+Je suis d'abord intrigué par l'Abbaye St-Martin avec son caractère fantôme, qui se situe à proximité de la cathédrale.
 Avant de quitter Soissons, je passe par l'office du tourisme où je suis très bien accueilli, pour me réhydrater.
 <div class="gallery-box">
   <div class="gallery">
