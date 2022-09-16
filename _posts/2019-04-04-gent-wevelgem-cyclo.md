@@ -83,7 +83,7 @@ C'est aussi un site important de la première guerre mondiale.
   <div class="gallery">
 <img src="/assets/images/gent-wevelgem-cyclo/gent-wevelgem-cyclo_10139.jpg" title="... en pavés !" alt="Gent-Wevelgem 2019" >
 <img src="/assets/images/gent-wevelgem-cyclo/gent-wevelgem-cyclo_10140.jpg" title="Ses 20 % ..." alt="Gent-Wevelgem 2019" >
-<img src="/assets/images/gent-wevelgem-cyclo/gent-wevelgem-cyclo_10141.jpg" title=""L'Ange" : monument aux soldats français" alt="Gent-Wevelgem 2019" >
+<img src="/assets/images/gent-wevelgem-cyclo/gent-wevelgem-cyclo_10141.jpg" title="L Ange : monument aux soldats français" alt="Gent-Wevelgem 2019" >
 <img src="/assets/images/gent-wevelgem-cyclo/gent-wevelgem-cyclo_10142.jpg" title="Mont Kemmel" alt="Gent-Wevelgem 2019" >
 <img src="/assets/images/gent-wevelgem-cyclo/gent-wevelgem-cyclo_10144.jpg" title="" alt="Gent-Wevelgem 2019" >
 </div>

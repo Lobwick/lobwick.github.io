@@ -5,7 +5,7 @@ date:   2018-05-18 10:07:43 +0100
 author: Philippe
 image: /assets/images/cascade-de-coo/cascade-de-coo_7861.jpg
 ---
-Après avoir participé à [Liège-Bastogne-Liège]({% post_url 2018-04-26-liege-bastogne-liege %}) fin avril, j'ai été conquis par cette région.
+Après avoir participé à [Liège-Bastogne-Liège](% post_url 2018-04-26-liege-bastogne-liege %) fin avril, j'ai été conquis par cette région.
 > J'avais hâte de retourner dans les Ardennes Wallonnes.
 
 Mais cette fois-ci, en m'y rendant à vélo , après avoir traversé la Belgique d'Ouest en Est.
@@ -13,6 +13,7 @@ Il suffisait d'attendre la bonne occasion ...
 Elle se présente enfin avec la semaine des jours fériés de début mai, accompagnée d'une météo estivale !
 D'ailleurs, le 8 mai n'est pas férié en Belgique.
 J'ai décidé de rouler light, pour changer du bikepacking ...
+
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/cascade-de-coo/cascade-de-coo_7824.jpg" title="" alt="Cascade de Coo" >
@@ -41,7 +42,7 @@ Le retour s'effectuera en repassant par le tracé aller.
 
 Presque pas un souffle d'air prévu et un itinéraire plutôt plat jusqu'à Namur.
 Elle marque l'entrée dans les Ardennes, avec un relief plus prononcé.
-Cela me rappelle l'épreuve de la coupe du monde [UCI de cyclo-cross à Namur]({% post_url 2017-12-25-cyclo-cross-a-namur %}).
+Cela me rappelle l'épreuve de la coupe du monde [UCI de cyclo-cross à Namur](% post_url 2017-12-25-cyclo-cross-a-namur %).
 > Je vais enfin profiter du paysage, mais aussi subir le dénivelé !
 
 Il reste encore un tiers du parcours avant de découvrir la cascade.
@@ -58,7 +59,7 @@ La température a diminué de quelques degrés en pénétrant dans les Ardennes.
 </div>
 
 Le panneau " Trois-Ponts " m'indique que je suis presque arrivé.
-Après un passage par son lac,  je découvre le petit village de Coo.
+Après un passage par son lac, je découvre le petit village de Coo.
 Pas de temps à perdre pour les photos car le jour diminue.
 > La cascade est juste sous le pont qui franchit l'Ambiève.
 
@@ -88,16 +89,19 @@ Pourtant spécialisée pour accueillir des cyclistes, elle n'est ouverte que les
 Je vais donc passer la nuit sous une structure gonflable d'enfants ne fonctionnant pas.
 Elle me permet de m'isoler de la fraîcheur des nuits ardennaises, quelle que soit la saison !
 Le vélo, lui aussi recouvert, me tient compagnie.
-Cela me rappelle la [French Divide]({% post_url 2017-08-03-french-divide-2 %})...
+Cela me rappelle la [French Divide](% post_url 2017-08-03-french-divide-2 %)...
+
+![Le doux bruit de l'eau](/assets/images/cascade-de-coo/cascade-de-coo_7907.jpg)
+
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/cascade-de-coo/cascade-de-coo_7872.jpg" title="Durbuy" alt="Cascade de Coo" >
 <img src="/assets/images/cascade-de-coo/cascade-de-coo_7874.jpg" title="L'Ourthe" alt="Cascade de Coo" >
 <img src="/assets/images/cascade-de-coo/cascade-de-coo_7875.jpg" title="Château de Durbuy" alt="Cascade de Coo" >
 <img src="/assets/images/cascade-de-coo/cascade-de-coo_7876.jpg" title="Jardin de topiaires" alt="Cascade de Coo" >
-<img src="/assets/images/cascade-de-coo/cascade-de-coo_7907.jpg" title="Le doux bruit de l'eau" alt="Cascade de Coo" >
 </div>
 </div>
+
 Nuit de courte durée dans ces conditions, avec uniquement quelques degrés au réveil !
 Heureusement que les photos ont été prises au coucher de soleil, car il se lève tout juste.
 Je ne vais pas tarder à me réchauffer, en retrouvant les pentes de la veille.
@@ -135,6 +139,7 @@ Alors que le soleil disparaît à l'horizon, me revoilà à la maison.
 <img src="/assets/images/cascade-de-coo/cascade-de-coo_7906.jpg" title="Un air de French Divide" alt="Cascade de Coo" >
 </div>
 </div>
+
 Excursion en Wallonie réussie en deux jours, mais avec quelques heures supplémentaires j'aurais pu poursuivre jusqu'à Spa-Francorchamps.
 > Il faudra y retourner au moment du grand prix de Belgique de Formule 1 !
 

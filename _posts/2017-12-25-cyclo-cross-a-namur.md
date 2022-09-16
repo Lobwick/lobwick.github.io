@@ -100,7 +100,7 @@ Tous ne tardent pas à être couverts de boue, au point de faire laver leur vél
 <div class="gallery-box">
   <div class="gallery">
 <img src="/assets/images/cyclo-cross-a-namur/cyclo-cross-a-namur_6446.jpg" title="Pas de pause pour le reporter ..." alt="Cyclo-cross Namur" >
-<img src="/assets/images/cyclo-cross-a-namur/cyclo-cross-a-namur_6455.jpg" title="Relais " Eléphant Bleu "" alt="Cyclo-cross Namur" >
+<img src="/assets/images/cyclo-cross-a-namur/cyclo-cross-a-namur_6455.jpg" title="Relais  Eléphant Bleu"  alt="Cyclo-cross Namur" >
 <img src="/assets/images/cyclo-cross-a-namur/cyclo-cross-a-namur_6464.jpg" title="Saut d'obstacles !" alt="Cyclo-cross Namur" >
 <img src="/assets/images/cyclo-cross-a-namur/cyclo-cross-a-namur_6484.jpg" title="Wout Van Aert" alt="Cyclo-cross Namur" >
 </div>

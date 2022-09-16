@@ -5,7 +5,6 @@ date:   2018-02-20 22:10:57 +0100
 author: Félix
 image: /assets/images/emile-le-parisien/emile-le-parisien_6710.jpg
 ---
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1437375761/embed'></iframe>
 J’ai rencontré Émile il y a maintenant cinq ans lors d’une Pasta Party organisée par la <a href="https://www.runnosphere.org/">Runnosphère</a>.
 À l’époque, je courais bien plus que maintenant et lui oublie beaucoup plus sur son blog, Run In Lille (plus que pas est assez simple). Il est vrai que nous n’avons jamais couru ensemble, je pense. Mais nous avons commencé à faire de plus en plus de vélo et à parler photographie.
 Plus tard nous avons lancé <a href="https://www.strava.com/clubs/123845">Lille On Wheels</a> qui permet à des cyclistes de rouler ensemble dans le nord et de découvrir des itinéraires gratuitement. En dehors de Lille On Wheels, on a participé à un grand nombre d’événements dont les 6 Heures du Pas-de — Calais, Lille-Hardelot ou Paris-Roubaix amateurs...
@@ -55,6 +54,8 @@ Après avoir essayé en vain d’aller manger en ville, faute de place de parkin
 <img src="/assets/images/emile-le-parisien/emile-le-parisien_6710.jpg" title="Souvenir d'une de nos balades photos" alt="" >
 </div>
 </div>
+
+<center><div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='1437375761'></div><script src='https://strava-embeds.com/embed.js'></script></center>
 
 ### Émile et son amour du dénivelé
 Pour profiter pleinement de ce week-end lillois, il nous accompagne naturellement pour le Lille On Wheels du dimanche matin, en tant que co-créateur avec Félix.

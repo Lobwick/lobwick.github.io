@@ -5,7 +5,7 @@ date:   2018-04-23 19:59:03 +0100
 author: Philippe
 image: /assets/images/brabantse-pijl/brabantse-pijl_7610.jpg
 ---
-Après la rudesse des pavés du [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %})</a>, retour au Etixx Classics Tour.
+Après la rudesse des pavés du [Paris-Roubaix]({% post_url 2018-04-14-paris-roubaix %}), retour au Etixx Classics Tour.
 La Flèche brabançonne marque depuis des années la fin du printemps flamand; avec des éléments des classiques ardennaises et flandriennes.
 > Cette cyclo est donc l'occasion de visiter la Druivenstreek, une magnifique région viticole au sud de Louvain, à l'est de Bruxelles.
 

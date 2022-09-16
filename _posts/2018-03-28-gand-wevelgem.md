@@ -102,7 +102,7 @@ C'est presque fini mais on reprend des forces au ravitaillement de Dranouter, av
 <img src="/assets/images/gand-wevelgem/gand-wevelgem_7180.jpg" title="Au pied du Kemmelberg" alt="GOPR0375" >
 <img src="/assets/images/gand-wevelgem/gand-wevelgem_7216.jpg" title="Fin de la douleur" alt="sportograf-115033626" >
 <img src="/assets/images/gand-wevelgem/gand-wevelgem_7217.jpg" title="Presque au sommet !" alt="sportograf-115051086" >
-<img src="/assets/images/gand-wevelgem/gand-wevelgem_7218.jpg" title=""L"ange" au sommet" alt="sportograf-115053811" >
+<img src="/assets/images/gand-wevelgem/gand-wevelgem_7218.jpg" title="L'ange au sommet" alt="sportograf-115053811" >
 <img src="/assets/images/gand-wevelgem/gand-wevelgem_7219.jpg" title="passage à 23%" alt="Gand ~ Wevelgem" >
 <img src="/assets/images/gand-wevelgem/gand-wevelgem_7220.jpg" title="ascension naturelle !" alt="sportograf-115026166" >
 </div>

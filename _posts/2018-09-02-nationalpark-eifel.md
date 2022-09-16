@@ -89,9 +89,8 @@ On ne rencontre personne, à part quelques " hgnistes " ,en traversant ensuite u
 
 Je suis étonné de pouvoir déjà traverser la frontière, avant de plonger sur Montjoie ou Monschau.
 C'est vraiment une petite bourgade à ne pas manquer, typique de la région, un peu à l'alsacienne !
-> D'ailleurs la foule ne s'y trompe pas et trouble ma solitude de cycliste rencontrée
+> D'ailleurs la foule ne s'y trompe pas et trouble ma solitude de cycliste rencontrée jusque là.   
 
-jusque là.   
 Je vais pouvoir goûter avec le fameux pain allemand, surtout qu'à partir de 18 h tout ferme dans ce pays.
 Pas besoin de montre car les touristes que je suis, se sont volatilisés !
 
@@ -435,4 +434,4 @@ A la nuit tombante je retrouve la voiture qui m'attend ...
 Il est prévu de suivre les côtes de la Manche avec les plages du débarquement, mais mes élèves risquent de s'impatienter !
 Dire que certains prennent une année sabbatique pour faire le tour du monde ...
 
-<iframe src="https://www.strava.com/activities/1793742903/embed/a5b93e70900cc1225f815677e7fbd9b44d53d687" width="590" height="405" frameborder="0" scrolling="no"></iframe>
+<center><iframe src="https://www.strava.com/activities/1793742903/embed/a5b93e70900cc1225f815677e7fbd9b44d53d687" width="590" height="405" frameborder="0" scrolling="no"></iframe></center>

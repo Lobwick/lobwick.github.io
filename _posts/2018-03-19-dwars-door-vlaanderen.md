@@ -51,7 +51,7 @@ Après l'ascension du Kluisberg, la côte de Trieu ou Knokteberg augmente notre 
 Son début est relativement plat mais elle se corse au fil des mètres, jusqu'à atteindre 13 %
 <div class="gallery-box">
   <div class="gallery">
-<img src="/assets/images/dwars-door-vlaanderen/dwars-door-vlaanderen_6938.jpg" title=""Poids lourds flamands" distancés" alt="Dwars Door Vlaanderen" >
+<img src="/assets/images/dwars-door-vlaanderen/dwars-door-vlaanderen_6938.jpg" title="Poids lourds flamands distancés" alt="Dwars Door Vlaanderen" >
 <img src="/assets/images/dwars-door-vlaanderen/dwars-door-vlaanderen_6939.jpg" title="Plus de 10 %" alt="Dwars Door Vlaanderen" >
 <img src="/assets/images/dwars-door-vlaanderen/dwars-door-vlaanderen_6943.jpg" title="Relativement plat ..." alt="Dwars Door Vlaanderen" >
 <img src="/assets/images/dwars-door-vlaanderen/dwars-door-vlaanderen_6947.jpg" title="Côte de Trieu" alt="Dwars Door Vlaanderen" >
