@@ -2,7 +2,7 @@
 layout: post
 title:  "Lille ~ Hardelot 2022"
 date:   2022-05-22 15:12:21 +0100
-image: /assets/images/lille-hardelot-2022/lille-hardelot-2022_12.jpg
+image: /assets/images/lille-hardelot-2022/lille-hardelot-2022_12.jpeg
 ---
 
 Après deux ans d’absence pour les raisons que vous connaissez, notre chère cyclo chti est de retour !
