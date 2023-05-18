@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Aix en Famille"
-date:   2022-04-22 15:12:21 +0100
-image: /assets/images/paris-roubaix-2015/header.jpeg
+date:   2023-04-22 15:12:21 +0100
+image: /assets/images/aix-en-famille/header.jpeg
 author: Philippe
 ---
 
@@ -54,12 +54,12 @@ Elle commence dans la forêt avec une pente moyenne de 10 % durant quelques kilo
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/aix-en-famille/Église.jpeg" >
-    <img src="/assets/images/aix-en-famille/Début1.jpeg" >
-    <img src="/assets/images/aix-en-famille/Début2 3.jpeg" >
-    <img src="/assets/images/aix-en-famille/Début3.jpeg" >
-    <img src="/assets/images/aix-en-famille/Début4.jpeg" >
-    <img src="/assets/images/aix-en-famille/Début5.jpeg" >
+    <img src="/assets/images/aix-en-famille/eglise.jpeg" >
+    <img src="/assets/images/aix-en-famille/debut1.jpeg" >
+    <img src="/assets/images/aix-en-famille/debut2_3.jpeg" >
+    <img src="/assets/images/aix-en-famille/debut3.jpeg" >
+    <img src="/assets/images/aix-en-famille/debut4.jpeg" >
+    <img src="/assets/images/aix-en-famille/debut5.jpeg" >
     <img src="/assets/images/aix-en-famille/Borne.jpeg" >
     <img src="/assets/images/aix-en-famille/Chalet1.jpeg" >
     <img src="/assets/images/aix-en-famille/Chalet2 2.jpeg" >
@@ -114,7 +114,6 @@ Avant de charger la voiture, on profite du réconfort mérité de « Pista » 
     <img src="/assets/images/aix-en-famille/Nesque6.jpeg" >
     <img src="/assets/images/aix-en-famille/Nesque7.jpeg" >
     <img src="/assets/images/aix-en-famille/Nesque8.jpeg" >
-    <img src="/assets/images/aix-en-famille/Nesque9.jpeg" >
   </div>
 </div>
 
