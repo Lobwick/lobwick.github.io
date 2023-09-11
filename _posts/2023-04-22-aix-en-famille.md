@@ -23,11 +23,10 @@ Il n’y a plus qu’à s‘installer dans «l’Oliter» construite à côté d
 
 <div class="gallery-box">
   <div class="gallery">
-  	<img src="/assets/images/aix-en-famille/Oliter1.jpeg" >
-  	<img src="/assets/images/aix-en-famille/Oliter2.jpeg" >
+    <img src="/assets/images/aix-en-famille/Oliter1.jpeg">
+    <img src="/assets/images/aix-en-famille/Oliter2.jpeg">
   </div>
 </div>
-
 Pour bien commencer ces congés provençaux, un peu de tourisme dans les rues aixoises sera relaxant.
 Après le passage de la place de l’hôtel de ville, nous nous laissons descendre jusqu’à la fontaine de la Rotonde.
 La tentation des glaces «Amorino» est trop grande pour résister !
