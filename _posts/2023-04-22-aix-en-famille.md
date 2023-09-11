@@ -154,6 +154,7 @@ Puis visite du quartier du Panier qui est à proximité.
 
 <div class="gallery-box">
   <div class="gallery">
+    <img src="/assets/images/aix-en-famille/nwc.jpeg" >
     <img src="/assets/images/aix-en-famille/Panier1.jpeg" >
     <img src="/assets/images/aix-en-famille/Panier2.jpeg" >
     <img src="/assets/images/aix-en-famille/Panier6 2.jpeg" >
