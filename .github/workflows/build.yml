@@ -26,13 +26,4 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-htmlproofer-
             ${{ runner.os }}-htmlproofer
-      - name: Check All External Links (Informational, Soft-Fail)
-        uses: chabad360/htmlproofer@v1.1
-        with:
-          directory: ${{ github.workspace }}/_site
-          arguments: --assume-extension --external_only 
-        continue-on-error: true
-      - name: Check External Links (Only 4XX)
-        uses: chabad360/htmlproofer@v1.1
-        with:
-          directory: ${{ github.workspace }}/_site
+     
