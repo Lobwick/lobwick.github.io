@@ -27,4 +27,4 @@ content:
         type: string
 media:
   input: assets/images
-  output: assets/images
+  output: /assets/images
