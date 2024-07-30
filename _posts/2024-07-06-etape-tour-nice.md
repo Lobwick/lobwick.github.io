@@ -2,7 +2,7 @@
 layout: post
 title:  "Etape du Tour 2024"
 date:   2024-07-06 15:12:21 +0100
-image: /assets/images/aix-en-famille/header.jpeg
+image: /assets/images/etape-tour-nice/couverture.JPG
 author: Philippe
 ---
 
