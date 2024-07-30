@@ -4,7 +4,7 @@ content:
     path: _posts
     type: collection
     view:
-      fields: [ title, published, date ]
+      fields: [ title, published, date, author ]
     fields:
       - name: published
         label: Published
@@ -22,6 +22,9 @@ content:
       - name: cover
         label: Cover Image
         type: image
+      - name: author
+        label: Author
+        type: string
 media:
   input: assets/images
   output: assets/images
