@@ -9,7 +9,7 @@ content:
       - name: published
         label: Published
         type: boolean
-        default: true
+        default: false
       - name: date
         label: Date
         type: date
