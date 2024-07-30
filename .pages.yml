@@ -1,0 +1,8 @@
+content:
+  - name: posts
+    label: Article
+    path: _posts
+    type: collection
+media:
+  input: assets/images
+  output: assets/images
