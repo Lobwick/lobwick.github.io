@@ -16,11 +16,11 @@ La première épreuve consiste à se stationner car nous sommes loin d’être l
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/2024-08-24-houffa-gravel/départ1.jpeg">
-    <img src="/assets/images/2024-08-24-houffa-gravel/départ2.jpeg">
-    <img src="/assets/images/2024-08-24-houffa-gravel/départ3.jpeg">
-    <img src="/assets/images/2024-08-24-houffa-gravel/départ4.jpeg">
-    <img src="/assets/images/2024-08-24-houffa-gravel/départ5.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/depart1.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/depart2.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/depart3.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/depart4.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/depart5.jpeg">
   </div>
 </div>
 
@@ -70,9 +70,9 @@ Bonne surprise car Houffalize est vraiment à proximité et on aperçoit même l
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/images/2024-08-24-houffa-gravel/arrivée1.jpeg">
-    <img src="/assets/images/2024-08-24-houffa-gravel/arrivée2.jpeg">
-    <img src="/assets/images/2024-08-24-houffa-gravel/arrivée3.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/arrivee1.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/arrivee2.jpeg">
+    <img src="/assets/images/2024-08-24-houffa-gravel/arrivee3.jpeg">
   </div>
 </div>
 
