@@ -2,7 +2,7 @@
 layout: post
 title:  "Houffa Gravel Fondo 2024"
 date:   2024-08-24 15:12:21 +0100
-image: /assets/images/2024-08-24-houffa-gravel/intre.jpeg
+image: /assets/images/2024-08-24-houffa-gravel/intro.jpeg
 author: Philippe
 ---
 
