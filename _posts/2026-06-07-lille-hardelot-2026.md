@@ -2,7 +2,7 @@
 layout: post
 title: "Lille Hardelot 2026"
 date: 2026-04-11 15:12:21 +0100
-image: /assets/images/paris-roubaix-2026/PR26_sect7.jpeg
+image: /assets/images/lille-hardelot-2026/LH26final6.jpeg
 author: Philippe
 ---
 
