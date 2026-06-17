@@ -140,6 +140,7 @@ C’est le milieu de l’après-midi et après avoir reçu notre médaille de fi
     <img src="/assets/images/lille-hardelot-2026/LH26arrivee2.jpeg">
     <img src="/assets/images/lille-hardelot-2026/LH26arrivee3.jpeg">
     <img src="/assets/images/lille-hardelot-2026/LH26arrivee4.jpeg">
+    <img src="/assets/images/lille-hardelot-2026/LH26arrivee5.jpeg">
   </div>
 </div>
 
